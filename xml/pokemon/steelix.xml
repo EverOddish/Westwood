@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Steelix</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>208</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>92</height>
+    <weight>4000</weight>
+</pokemon>

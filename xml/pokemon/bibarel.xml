@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Bibarel</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>400</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>10</height>
+    <weight>315</weight>
+</pokemon>

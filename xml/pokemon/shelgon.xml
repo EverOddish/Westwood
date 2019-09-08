@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Shelgon</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>372</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>11</height>
+    <weight>1105</weight>
+</pokemon>

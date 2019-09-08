@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Caterpie</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>10</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>3</height>
+    <weight>29</weight>
+</pokemon>

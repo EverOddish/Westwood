@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Manaphy</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>490</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>3</height>
+    <weight>14</weight>
+</pokemon>

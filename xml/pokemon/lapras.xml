@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Lapras</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>131</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>25</height>
+    <weight>2200</weight>
+</pokemon>

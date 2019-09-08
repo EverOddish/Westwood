@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Magikarp</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>129</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>9</height>
+    <weight>100</weight>
+</pokemon>

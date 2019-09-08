@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Chansey</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>113</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>11</height>
+    <weight>346</weight>
+</pokemon>

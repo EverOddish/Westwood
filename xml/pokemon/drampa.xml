@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon>
+    <name>Drampa</name>
+    <pokedex_numbers>
+        <pokedex_number>
+            <name>National</name>
+            <number>780</number>
+        </pokedex_number>
+    </pokedex_numbers>
+    <height>30</height>
+    <weight>1850</weight>
+</pokemon>
