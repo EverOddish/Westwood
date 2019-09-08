@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Snatch</name>
+    <generation>3</generation>
+    <type>Dark</type>
+    <base_power>0</base_power>
+    <power_points>10</power_points>
+    <accuracy>100</accuracy>
+    <priority>4</priority>
+    <damage_category>Status</damage_category>
+</move>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Absorb</name>
+    <generation>1</generation>
+    <type>Grass</type>
+    <base_power>20</base_power>
+    <power_points>25</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect>Heals half the damage inflicted</effect>
+</move>

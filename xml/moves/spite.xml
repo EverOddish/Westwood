@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Spite</name>
+    <generation>2</generation>
+    <type>Ghost</type>
+    <base_power>0</base_power>
+    <power_points>10</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Status</damage_category>
+</move>

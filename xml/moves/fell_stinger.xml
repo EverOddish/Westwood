@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Fell Stinger</name>
+    <generation>6</generation>
+    <type>Bug</type>
+    <base_power>50</base_power>
+    <power_points>25</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+</move>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Charge Beam</name>
+    <generation>4</generation>
+    <type>Electric</type>
+    <base_power>50</base_power>
+    <power_points>10</power_points>
+    <accuracy>90</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect></effect>
+    <effect_chance>70</effect_chance>
+</move>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Hex</name>
+    <generation>5</generation>
+    <type>Ghost</type>
+    <base_power>65</base_power>
+    <power_points>10</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+</move>

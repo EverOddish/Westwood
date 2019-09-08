@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Double Team</name>
+    <generation>1</generation>
+    <type>Normal</type>
+    <base_power>0</base_power>
+    <power_points>15</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Status</damage_category>
+</move>

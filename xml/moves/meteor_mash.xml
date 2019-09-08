@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Meteor Mash</name>
+    <generation>3</generation>
+    <type>Steel</type>
+    <base_power>90</base_power>
+    <power_points>10</power_points>
+    <accuracy>90</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect></effect>
+    <effect_chance>20</effect_chance>
+</move>

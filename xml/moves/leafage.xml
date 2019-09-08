@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Leafage</name>
+    <generation>7</generation>
+    <type>Grass</type>
+    <base_power>40</base_power>
+    <power_points>40</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect>Inflicts regular damage</effect>
+</move>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Rolling Kick</name>
+    <generation>1</generation>
+    <type>Fighting</type>
+    <base_power>60</base_power>
+    <power_points>15</power_points>
+    <accuracy>85</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect></effect>
+    <effect_chance>30</effect_chance>
+</move>

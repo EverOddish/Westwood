@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Tri Attack</name>
+    <generation>1</generation>
+    <type>Normal</type>
+    <base_power>80</base_power>
+    <power_points>10</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect></effect>
+    <effect_chance>20</effect_chance>
+</move>

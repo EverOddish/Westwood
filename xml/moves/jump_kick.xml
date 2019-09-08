@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Jump Kick</name>
+    <generation>1</generation>
+    <type>Fighting</type>
+    <base_power>100</base_power>
+    <power_points>10</power_points>
+    <accuracy>95</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+</move>

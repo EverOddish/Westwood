@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Vacuum Wave</name>
+    <generation>4</generation>
+    <type>Fighting</type>
+    <base_power>40</base_power>
+    <power_points>30</power_points>
+    <accuracy>100</accuracy>
+    <priority>1</priority>
+    <damage_category>Special</damage_category>
+</move>

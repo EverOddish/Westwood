@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Aqua Tail</name>
+    <generation>4</generation>
+    <type>Water</type>
+    <base_power>90</base_power>
+    <power_points>10</power_points>
+    <accuracy>90</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect>Inflicts regular damage</effect>
+</move>

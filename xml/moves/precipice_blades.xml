@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Precipice Blades</name>
+    <generation>6</generation>
+    <type>Ground</type>
+    <base_power>120</base_power>
+    <power_points>10</power_points>
+    <accuracy>85</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect>Inflicts regular damage</effect>
+</move>

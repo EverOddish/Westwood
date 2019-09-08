@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Whirlpool</name>
+    <generation>2</generation>
+    <type>Water</type>
+    <base_power>35</base_power>
+    <power_points>15</power_points>
+    <accuracy>85</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect></effect>
+    <effect_chance>100</effect_chance>
+</move>

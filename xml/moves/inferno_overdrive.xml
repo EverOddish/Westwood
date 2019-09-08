@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Inferno Overdrive  Physical</name>
+    <generation>7</generation>
+    <type>Fire</type>
+    <base_power>0</base_power>
+    <power_points>1</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect>Inflicts regular damage</effect>
+</move>

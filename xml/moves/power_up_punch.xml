@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Power Up Punch</name>
+    <generation>6</generation>
+    <type>Fighting</type>
+    <base_power>40</base_power>
+    <power_points>20</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect></effect>
+    <effect_chance>100</effect_chance>
+</move>

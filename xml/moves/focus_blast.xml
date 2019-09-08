@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Focus Blast</name>
+    <generation>4</generation>
+    <type>Fighting</type>
+    <base_power>120</base_power>
+    <power_points>5</power_points>
+    <accuracy>70</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect></effect>
+    <effect_chance>10</effect_chance>
+</move>

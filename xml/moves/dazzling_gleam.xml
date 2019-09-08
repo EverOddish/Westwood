@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Dazzling Gleam</name>
+    <generation>6</generation>
+    <type>Fairy</type>
+    <base_power>80</base_power>
+    <power_points>10</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect>Inflicts regular damage</effect>
+</move>

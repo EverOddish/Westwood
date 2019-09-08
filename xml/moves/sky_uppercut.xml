@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Sky Uppercut</name>
+    <generation>3</generation>
+    <type>Fighting</type>
+    <base_power>85</base_power>
+    <power_points>15</power_points>
+    <accuracy>90</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+</move>

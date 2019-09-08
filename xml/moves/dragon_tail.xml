@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Dragon Tail</name>
+    <generation>5</generation>
+    <type>Dragon</type>
+    <base_power>60</base_power>
+    <power_points>10</power_points>
+    <accuracy>90</accuracy>
+    <priority>-6</priority>
+    <damage_category>Physical</damage_category>
+</move>

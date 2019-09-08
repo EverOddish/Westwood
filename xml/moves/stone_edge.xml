@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Stone Edge</name>
+    <generation>4</generation>
+    <type>Rock</type>
+    <base_power>100</base_power>
+    <power_points>5</power_points>
+    <accuracy>80</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect>Chance of critical hit</effect>
+</move>

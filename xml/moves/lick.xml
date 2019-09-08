@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Lick</name>
+    <generation>1</generation>
+    <type>Ghost</type>
+    <base_power>30</base_power>
+    <power_points>30</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect>Inflicts paralysis</effect>
+    <effect_chance>30</effect_chance>
+</move>

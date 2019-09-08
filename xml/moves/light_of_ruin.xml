@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Light Of Ruin</name>
+    <generation>6</generation>
+    <type>Fairy</type>
+    <base_power>140</base_power>
+    <power_points>5</power_points>
+    <accuracy>90</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+</move>

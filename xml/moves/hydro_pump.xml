@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Hydro Pump</name>
+    <generation>1</generation>
+    <type>Water</type>
+    <base_power>110</base_power>
+    <power_points>5</power_points>
+    <accuracy>80</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect>Inflicts regular damage</effect>
+</move>

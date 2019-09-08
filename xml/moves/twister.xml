@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Twister</name>
+    <generation>2</generation>
+    <type>Dragon</type>
+    <base_power>40</base_power>
+    <power_points>20</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect></effect>
+    <effect_chance>20</effect_chance>
+</move>

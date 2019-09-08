@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Aqua Ring</name>
+    <generation>4</generation>
+    <type>Water</type>
+    <base_power>0</base_power>
+    <power_points>20</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Status</damage_category>
+</move>

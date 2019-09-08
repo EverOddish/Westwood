@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Diamond Storm</name>
+    <generation>6</generation>
+    <type>Rock</type>
+    <base_power>100</base_power>
+    <power_points>5</power_points>
+    <accuracy>95</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect></effect>
+    <effect_chance>50</effect_chance>
+</move>

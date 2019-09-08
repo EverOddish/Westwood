@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Hyper Beam</name>
+    <generation>1</generation>
+    <type>Normal</type>
+    <base_power>150</base_power>
+    <power_points>5</power_points>
+    <accuracy>90</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+</move>

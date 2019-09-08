@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Luster Purge</name>
+    <generation>3</generation>
+    <type>Psychic</type>
+    <base_power>70</base_power>
+    <power_points>5</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect></effect>
+    <effect_chance>50</effect_chance>
+</move>

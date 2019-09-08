@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="move">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="generation" type="xs:positiveInteger"/>
+                <xs:element name="type" type="xs:string"/>
+                <xs:element name="base_power" type="xs:integer"/>
+                <xs:element name="power_points" type="xs:positiveInteger"/>
+                <xs:element name="accuracy" type="xs:integer"/>
+                <xs:element name="priority" type="xs:integer"/>
+                <xs:element name="damage_category" type="xs:string"/>
+                <xs:element name="effect" type="xs:string" minOccurs="0"/>
+                <xs:element name="effect_chance" type="xs:integer" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

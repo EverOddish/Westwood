@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Poison Powder</name>
+    <generation>1</generation>
+    <type>Poison</type>
+    <base_power>0</base_power>
+    <power_points>35</power_points>
+    <accuracy>75</accuracy>
+    <priority>0</priority>
+    <damage_category>Status</damage_category>
+</move>

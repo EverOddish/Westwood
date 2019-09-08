@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Thunder Shock</name>
+    <generation>1</generation>
+    <type>Electric</type>
+    <base_power>40</base_power>
+    <power_points>30</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect>Inflicts paralysis</effect>
+    <effect_chance>10</effect_chance>
+</move>

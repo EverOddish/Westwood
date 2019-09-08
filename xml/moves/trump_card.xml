@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Trump Card</name>
+    <generation>4</generation>
+    <type>Normal</type>
+    <base_power>0</base_power>
+    <power_points>5</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+</move>

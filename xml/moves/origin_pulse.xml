@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Origin Pulse</name>
+    <generation>6</generation>
+    <type>Water</type>
+    <base_power>110</base_power>
+    <power_points>10</power_points>
+    <accuracy>85</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect>Inflicts regular damage</effect>
+</move>

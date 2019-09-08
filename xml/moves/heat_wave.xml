@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Heat Wave</name>
+    <generation>3</generation>
+    <type>Fire</type>
+    <base_power>95</base_power>
+    <power_points>10</power_points>
+    <accuracy>90</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect>Inflicts burn</effect>
+    <effect_chance>10</effect_chance>
+</move>

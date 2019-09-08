@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Dragon Breath</name>
+    <generation>2</generation>
+    <type>Dragon</type>
+    <base_power>60</base_power>
+    <power_points>20</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Special</damage_category>
+    <effect>Inflicts paralysis</effect>
+    <effect_chance>30</effect_chance>
+</move>

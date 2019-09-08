@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Wake Up Slap</name>
+    <generation>4</generation>
+    <type>Fighting</type>
+    <base_power>70</base_power>
+    <power_points>10</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+</move>

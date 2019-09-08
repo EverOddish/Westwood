@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Thief</name>
+    <generation>2</generation>
+    <type>Dark</type>
+    <base_power>60</base_power>
+    <power_points>25</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+</move>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Shadow Force</name>
+    <generation>4</generation>
+    <type>Ghost</type>
+    <base_power>120</base_power>
+    <power_points>5</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+</move>

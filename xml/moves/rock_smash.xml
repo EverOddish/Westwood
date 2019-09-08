@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Rock Smash</name>
+    <generation>2</generation>
+    <type>Fighting</type>
+    <base_power>40</base_power>
+    <power_points>15</power_points>
+    <accuracy>100</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect></effect>
+    <effect_chance>50</effect_chance>
+</move>

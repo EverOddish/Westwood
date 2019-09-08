@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<move>
+    <name>Tail Slap</name>
+    <generation>5</generation>
+    <type>Normal</type>
+    <base_power>25</base_power>
+    <power_points>10</power_points>
+    <accuracy>85</accuracy>
+    <priority>0</priority>
+    <damage_category>Physical</damage_category>
+    <effect>Chance of multiple hits</effect>
+</move>
