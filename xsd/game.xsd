@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:include schemaLocation="region.xsd"/>
+
+    <xs:element name="game">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="generation" type="xs:positiveInteger"/>
+                <xs:element name="release_date" type="xs:date"/>
+                <xs:element name="system" type="xs:string"/>
+                <xs:element name="region" type="pokemonRegion"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

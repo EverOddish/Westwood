@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:simpleType name="pokemonRegion">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Kanto"/>
+            <xs:enumeration value="Johto"/>
+            <xs:enumeration value="Hoenn"/>
+            <xs:enumeration value="Sinnoh"/>
+            <xs:enumeration value="Unova"/>
+            <xs:enumeration value="Kalos"/>
+            <xs:enumeration value="Alola"/>
+            <xs:enumeration value="Galar"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>
