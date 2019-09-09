@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:simpleType name="learnMethod">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Level-up"/>
+            <xs:enumeration value="TM"/>
+            <xs:enumeration value="HM"/>
+            <xs:enumeration value="Move Tutor"/>
+            <xs:enumeration value="Egg"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<types>
+    <type>Normal</type>
+    <type>Fighting</type>
+    <type>Flying</type>
+    <type>Poison</type>
+    <type>Ground</type>
+    <type>Rock</type>
+    <type>Bug</type>
+    <type>Ghost</type>
+    <type>Steel</type>
+    <type>Fire</type>
+    <type>Water</type>
+    <type>Grass</type>
+    <type>Electric</type>
+    <type>Psychic</type>
+    <type>Ice</type>
+    <type>Dragon</type>
+    <type>Dark</type>
+    <type>Fairy</type>
+    <type>None</type>
+</types>

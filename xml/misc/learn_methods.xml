@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<learn_methods>
+    <learn_method>Level-up</learn_method>
+    <learn_method>TM</learn_method>
+    <learn_method>HM</learn_method>
+    <learn_method>Move Tutor</learn_method>
+    <learn_method>Egg</learn_method>
+</learn_methods>

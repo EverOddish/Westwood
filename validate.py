@@ -30,6 +30,15 @@ for filename in os.listdir(os.path.join('xml', 'games')):
     target = os.path.join('xml', 'games', filename)
     run_xmllint(schema, target)
 
+# Misc
+schema = os.path.join('xsd', 'types.xsd')
+target = os.path.join('xml', 'misc', 'types.xml')
+run_xmllint(schema, target)
+
+schema = os.path.join('xsd', 'learn_methods.xsd')
+target = os.path.join('xml', 'misc', 'learn_methods.xml')
+run_xmllint(schema, target)
+
 if len(invalid_files) > 0:
     raise SystemExit("Invalid data!")
 else:
