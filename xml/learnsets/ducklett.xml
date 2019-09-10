@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Ducklett</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Defog</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Wing Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Aerial Ace</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Aqua Ring</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Tailwind</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Hurricane</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Defog</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Wing Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Aerial Ace</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Aqua Ring</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Tailwind</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Hurricane</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Defog</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Wing Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Aerial Ace</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Aqua Ring</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Tailwind</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Hurricane</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Defog</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Wing Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Aerial Ace</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Aqua Ring</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Tailwind</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Hurricane</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Defog</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Wing Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Aerial Ace</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Aqua Ring</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Tailwind</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Hurricane</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Defog</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Wing Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Aerial Ace</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Aqua Ring</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Tailwind</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Hurricane</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

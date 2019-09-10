@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Absol</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Detect</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psycho Cut</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Me First</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Palossand</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Tomb</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Bulldoze</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Shadow Ball</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Shore Up</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Tomb</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Bulldoze</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Shadow Ball</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Shore Up</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Dedenne</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Parabolic Charge</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Nuzzle</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Volt Switch</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Snore</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Entrainment</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Parabolic Charge</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Nuzzle</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Volt Switch</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Snore</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Entrainment</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Parabolic Charge</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Nuzzle</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Volt Switch</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Snore</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Entrainment</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Parabolic Charge</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Nuzzle</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Volt Switch</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Snore</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Entrainment</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

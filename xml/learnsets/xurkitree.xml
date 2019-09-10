@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Xurkitree</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Wrap</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Glow</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Thunder Punch</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Eerie Impulse</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Signal Beam</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Thunderbolt</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Electric Terrain</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Power Whip</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>73</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Wrap</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Glow</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Thunder Punch</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Eerie Impulse</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Signal Beam</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Thunderbolt</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Electric Terrain</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Power Whip</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>73</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

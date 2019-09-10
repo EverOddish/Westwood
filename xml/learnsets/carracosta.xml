@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Carracosta</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bide</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Ancient Power</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Brine</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Shell Smash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>51</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bide</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Ancient Power</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Brine</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Shell Smash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>51</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bide</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Ancient Power</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Brine</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Shell Smash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>51</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bide</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Ancient Power</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Brine</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Shell Smash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>51</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bide</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Ancient Power</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Brine</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Shell Smash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>51</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bide</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Ancient Power</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Brine</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Shell Smash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>51</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

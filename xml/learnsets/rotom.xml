@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Rotom</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Hex</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Hex</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Hex</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Hex</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Hex</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confuse Ray</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Substitute</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Hex</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

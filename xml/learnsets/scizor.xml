@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Scizor</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Gold</game>
+                <game>Pokemon Silver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Crystal</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bullet Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Razor Wind</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>X Scissor</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Night Slash</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Double Hit</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Thundurus-Incarnate</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>79</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>85</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>79</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>85</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thrash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>79</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>85</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thrash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>79</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>85</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thrash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>79</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thrash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Uproar</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Thunder</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>79</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

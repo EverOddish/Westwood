@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Comfey</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vine Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flower Shield</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Draining Kiss</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Magical Leaf</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Wrap</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Sweet Kiss</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Petal Blizzard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Grass Knot</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Floral Healing</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aromatherapy</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Grassy Terrain</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vine Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flower Shield</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Draining Kiss</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Magical Leaf</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Wrap</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Sweet Kiss</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Petal Blizzard</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Grass Knot</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Floral Healing</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Aromatherapy</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Grassy Terrain</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

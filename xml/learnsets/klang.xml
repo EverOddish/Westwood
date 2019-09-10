@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Klang</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vice Grip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Bind</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Lock On</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vice Grip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Bind</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Lock On</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vice Grip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Bind</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Lock On</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vice Grip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Bind</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Lock On</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vice Grip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Bind</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Lock On</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Vice Grip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Gear Grind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Bind</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Charge Beam</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>52</level>
+                </move>
+                <move>
+                    <name>Lock On</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Zap Cannon</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

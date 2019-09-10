@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Bounsweet</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Splash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Play Nice</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Magical Leaf</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Teeter Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flail</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Aromatic Mist</name>
+                    <level>33</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Splash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Play Nice</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Magical Leaf</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Teeter Dance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flail</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Aromatic Mist</name>
+                    <level>33</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

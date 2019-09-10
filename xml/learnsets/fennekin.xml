@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Fennekin</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Howl</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Lucky Chant</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Light Screen</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Flamethrower</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Will O Wisp</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Fire Blast</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Howl</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Lucky Chant</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Light Screen</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Flamethrower</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Will O Wisp</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Fire Blast</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Howl</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Lucky Chant</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Light Screen</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Flamethrower</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Will O Wisp</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Fire Blast</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Howl</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Lucky Chant</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Light Screen</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Flamethrower</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Will O Wisp</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Fire Blast</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

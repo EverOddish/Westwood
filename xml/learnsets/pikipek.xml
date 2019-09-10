@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Pikipek</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Echoed Voice</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Rock Smash</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Supersonic</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Pluck</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fury Attack</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Drill Peck</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Bullet Seed</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>37</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Echoed Voice</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Rock Smash</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Supersonic</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Pluck</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Roost</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fury Attack</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Drill Peck</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Bullet Seed</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>37</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

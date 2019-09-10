@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Primeape</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Red</game>
+                <game>Pokemon Blue</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Yellow</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Gold</game>
+                <game>Pokemon Silver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Crystal</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>62</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>59</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>59</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>59</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>63</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Rage</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Stomping Tantrum</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Outrage</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Rage</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Low Kick</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Karate Chop</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Cross Chop</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Assurance</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Stomping Tantrum</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Outrage</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Final Gambit</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

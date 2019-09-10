@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Cacnea</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Energy Ball</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Energy Ball</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Poison Sting</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Payback</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Spikes</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Energy Ball</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Destiny Bond</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

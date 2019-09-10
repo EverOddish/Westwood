@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Maractus</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Acupressure</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Acupressure</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Acupressure</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Petal Blizzard</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spiky Shield</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Acupressure</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Petal Blizzard</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spiky Shield</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Acupressure</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Petal Blizzard</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spiky Shield</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Pin Missile</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Cotton Spore</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Needle Arm</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Acupressure</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Petal Dance</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Petal Blizzard</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Cotton Guard</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>57</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

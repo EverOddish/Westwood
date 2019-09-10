@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Monferno</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Acrobatics</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Acrobatics</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Acrobatics</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Acrobatics</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Acrobatics</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leer</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mach Punch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ember</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Flame Wheel</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Torment</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Close Combat</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Fire Spin</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Acrobatics</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Slack Off</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

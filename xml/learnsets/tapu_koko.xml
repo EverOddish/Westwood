@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Tapu-Koko</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mean Look</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Power Swap</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Electric Terrain</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Mirror Move</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Natures Madness</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>58</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Thunder Shock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>False Swipe</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mean Look</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Power Swap</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Electric Terrain</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Screech</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Mirror Move</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Natures Madness</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Electro Ball</name>
+                    <level>58</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

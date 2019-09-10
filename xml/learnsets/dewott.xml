@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Dewott</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Shell</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Encore</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Retaliate</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Shell</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Encore</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Retaliate</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Shell</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Encore</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Retaliate</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Shell</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Encore</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Retaliate</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Shell</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Encore</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Retaliate</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Focus Energy</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Razor Shell</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Revenge</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Encore</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Retaliate</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Blastoise</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Red</game>
+                <game>Pokemon Blue</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Yellow</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Gold</game>
+                <game>Pokemon Silver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Crystal</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Water Gun</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Protect</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Water Pulse</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Aqua Tail</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Rain Dance</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Hydro Pump</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

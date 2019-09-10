@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Rowlet</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leafage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Peck</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Foresight</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pluck</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Fury Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Leaf Blade</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leafage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Peck</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Foresight</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pluck</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Fury Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Leaf Blade</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

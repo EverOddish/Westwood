@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Surskit</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>43</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>43</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>43</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>43</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>43</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Sticky Web</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Sticky Web</name>
+                    <level>38</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Sticky Web</name>
+                    <level>38</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Bubble Beam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Mist</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Aqua Jet</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Baton Pass</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Sticky Web</name>
+                    <level>38</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

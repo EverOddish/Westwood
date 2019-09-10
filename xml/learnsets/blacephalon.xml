@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Blacephalon</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Ember</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Magic Coat</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Stored Power</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Flame Burst</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Night Shade</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Light Screen</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Calm Mind</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Fire Blast</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Shadow Ball</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Trick</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Mind Blown</name>
+                    <level>59</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

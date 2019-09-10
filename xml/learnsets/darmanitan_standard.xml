@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Darmanitan-Standard</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fire Fang</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Facade</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fire Punch</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Work Up</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Superpower</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Overheat</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fire Fang</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Facade</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fire Punch</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Work Up</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Superpower</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Overheat</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fire Fang</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Facade</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fire Punch</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Work Up</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Superpower</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Overheat</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fire Fang</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Facade</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fire Punch</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Work Up</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Superpower</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Overheat</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fire Fang</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Facade</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fire Punch</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Work Up</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Superpower</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Overheat</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rollout</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Incinerate</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Rage</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Fire Fang</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Swagger</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Facade</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Fire Punch</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Work Up</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Superpower</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Overheat</name>
+                    <level>54</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

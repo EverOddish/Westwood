@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Turtwig</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Withdraw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Curse</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Bite</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Crunch</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>45</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

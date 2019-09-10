@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Lunatone</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>56</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>34</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>56</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>64</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Moonblast</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Moonblast</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Moonblast</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rock Throw</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Moonblast</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Rock Polish</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Psywave</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>21</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>49</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

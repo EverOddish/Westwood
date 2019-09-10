@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Arceus</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Seismic Toss</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Natural Gift</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Punishment</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Earth Power</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Hyper Voice</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Extreme Speed</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Recover</name>
+                    <level>70</level>
+                </move>
+                <move>
+                    <name>Hyper Beam</name>
+                    <level>80</level>
+                </move>
+                <move>
+                    <name>Perish Song</name>
+                    <level>90</level>
+                </move>
+                <move>
+                    <name>Judgment</name>
+                    <level>100</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

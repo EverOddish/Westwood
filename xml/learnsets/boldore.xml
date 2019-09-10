@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Boldore</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Rock Blast</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Stealth Rock</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>55</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Rock Blast</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Stealth Rock</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>55</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Rock Blast</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Stealth Rock</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>55</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Rock Blast</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Stealth Rock</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>55</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Power Gem</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Rock Blast</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Stealth Rock</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>55</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Power Gem</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Power Gem</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Rock Blast</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Stealth Rock</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Stone Edge</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Explosion</name>
+                    <level>55</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

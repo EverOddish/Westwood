@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Jirachi</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wish</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Swift</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Refresh</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Lucky Chant</name>
+                    <level>30</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Gravity</name>
+                    <level>45</level>
+                </move>
+                <move>
+                    <name>Healing Wish</name>
+                    <level>50</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Cosmic Power</name>
+                    <level>60</level>
+                </move>
+                <move>
+                    <name>Last Resort</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Doom Desire</name>
+                    <level>70</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

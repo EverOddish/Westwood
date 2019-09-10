@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Linoone</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>59</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>59</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>59</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Bestow</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Bestow</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Headbutt</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rototiller</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Bestow</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>65</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rototiller</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Bestow</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rototiller</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Bestow</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Switcheroo</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rototiller</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Play Rough</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Sand Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Headbutt</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Odor Sleuth</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Covet</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Bestow</name>
+                    <level>27</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>35</level>
+                </move>
+                <move>
+                    <name>Rest</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Belly Drum</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fling</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

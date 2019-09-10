@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Oranguru</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Quash</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Stored Power</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psych Up</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Instruct</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Foul Play</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Calm Mind</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Trick Room</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Confusion</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>After You</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Taunt</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Quash</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Stored Power</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Psych Up</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Zen Headbutt</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Instruct</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Foul Play</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Calm Mind</name>
+                    <level>39</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Trick Room</name>
+                    <level>50</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

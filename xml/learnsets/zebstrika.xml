@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Zebstrika</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Stomp</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Stomp</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Stomp</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>58</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Stomp</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>58</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Stomp</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>58</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Tail Whip</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Charge</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Shock Wave</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Thunder Wave</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Flame Charge</name>
+                    <level>18</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Spark</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Stomp</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Discharge</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Agility</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Wild Charge</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Thrash</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Ion Deluge</name>
+                    <level>58</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

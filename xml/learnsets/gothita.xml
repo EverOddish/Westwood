@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Gothita</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Pound</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Tickle</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Fake Tears</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Double Slap</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flatter</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Telekinesis</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Pound</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Tickle</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Fake Tears</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Double Slap</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flatter</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Telekinesis</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Pound</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Tickle</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Play Nice</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fake Tears</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Double Slap</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flatter</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Telekinesis</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Pound</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Tickle</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Play Nice</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fake Tears</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Double Slap</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flatter</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Telekinesis</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Pound</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Tickle</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Play Nice</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fake Tears</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Double Slap</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flatter</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Telekinesis</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Pound</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Confusion</name>
+                    <level>3</level>
+                </move>
+                <move>
+                    <name>Tickle</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Play Nice</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fake Tears</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Double Slap</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Psyshock</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Flatter</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Future Sight</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Heal Block</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Psychic</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Telekinesis</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Charm</name>
+                    <level>46</level>
+                </move>
+                <move>
+                    <name>Magic Room</name>
+                    <level>48</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

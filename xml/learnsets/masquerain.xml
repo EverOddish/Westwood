@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Masquerain</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>53</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>61</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>54</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>61</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>68</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Air Cutter</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Air Cutter</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bubble</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>6</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Water Sport</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Gust</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Scary Face</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Air Cutter</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Stun Spore</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Silver Wind</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Bug Buzz</name>
+                    <level>42</level>
+                </move>
+                <move>
+                    <name>Whirlwind</name>
+                    <level>48</level>
+                </move>
+                <move>
+                    <name>Quiver Dance</name>
+                    <level>52</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

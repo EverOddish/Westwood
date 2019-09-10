@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Decidueye</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Spirit Shackle</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>U Turn</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spirit Shackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leafage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Peck</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Foresight</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Pluck</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Fury Attack</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Leaf Blade</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Spirit Shackle</name>
+                    <level>0</level>
+                </move>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Peck</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>U Turn</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Shadow Sneak</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leaf Storm</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Phantom Force</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Spirit Shackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leafage</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Growl</name>
+                    <level>4</level>
+                </move>
+                <move>
+                    <name>Peck</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Astonish</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>16</level>
+                </move>
+                <move>
+                    <name>Foresight</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Pluck</name>
+                    <level>24</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Fury Attack</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Sucker Punch</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Leaf Blade</name>
+                    <level>44</level>
+                </move>
+                <move>
+                    <name>Feather Dance</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Brave Bird</name>
+                    <level>55</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>60</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

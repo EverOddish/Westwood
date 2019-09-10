@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Magearna</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sonic Boom</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Defense Curl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Crafty Shield</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Up</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Lucky Chant</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Aurora Beam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Mind Reader</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Fleur Cannon</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Pain Split</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Synchronoise</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Aura Sphere</name>
+                    <level>81</level>
+                </move>
+                <move>
+                    <name>Heart Swap</name>
+                    <level>89</level>
+                </move>
+                <move>
+                    <name>Trump Card</name>
+                    <level>97</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Sonic Boom</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Psybeam</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Defense Curl</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Helping Hand</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Shift Gear</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Crafty Shield</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Gear Up</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Lucky Chant</name>
+                    <level>9</level>
+                </move>
+                <move>
+                    <name>Aurora Beam</name>
+                    <level>17</level>
+                </move>
+                <move>
+                    <name>Mirror Shot</name>
+                    <level>25</level>
+                </move>
+                <move>
+                    <name>Mind Reader</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Fleur Cannon</name>
+                    <level>49</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Pain Split</name>
+                    <level>65</level>
+                </move>
+                <move>
+                    <name>Synchronoise</name>
+                    <level>73</level>
+                </move>
+                <move>
+                    <name>Aura Sphere</name>
+                    <level>81</level>
+                </move>
+                <move>
+                    <name>Heart Swap</name>
+                    <level>89</level>
+                </move>
+                <move>
+                    <name>Trump Card</name>
+                    <level>97</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

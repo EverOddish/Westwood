@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Darkrai</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Night Shade</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Pursuit</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Embargo</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Disable</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ominous Wind</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Quick Attack</name>
+                    <level>11</level>
+                </move>
+                <move>
+                    <name>Hypnosis</name>
+                    <level>20</level>
+                </move>
+                <move>
+                    <name>Feint Attack</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Nightmare</name>
+                    <level>38</level>
+                </move>
+                <move>
+                    <name>Double Team</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Haze</name>
+                    <level>57</level>
+                </move>
+                <move>
+                    <name>Dark Void</name>
+                    <level>66</level>
+                </move>
+                <move>
+                    <name>Nasty Plot</name>
+                    <level>75</level>
+                </move>
+                <move>
+                    <name>Dream Eater</name>
+                    <level>84</level>
+                </move>
+                <move>
+                    <name>Dark Pulse</name>
+                    <level>93</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

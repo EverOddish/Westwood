@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Fomantis</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leafage</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Leaf Blade</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Fury Cutter</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Leafage</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Razor Leaf</name>
+                    <level>10</level>
+                </move>
+                <move>
+                    <name>Growth</name>
+                    <level>14</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Leaf Blade</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Synthesis</name>
+                    <level>28</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>32</level>
+                </move>
+                <move>
+                    <name>Sweet Scent</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Solar Beam</name>
+                    <level>41</level>
+                </move>
+                <move>
+                    <name>Sunny Day</name>
+                    <level>46</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

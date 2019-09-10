@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Drilbur</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Dig</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Hone Claws</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Earthquake</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Drill Run</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fissure</name>
+                    <level>47</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Dig</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Hone Claws</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Earthquake</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Drill Run</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fissure</name>
+                    <level>47</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Dig</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Hone Claws</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Earthquake</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Drill Run</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fissure</name>
+                    <level>47</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Dig</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Hone Claws</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Earthquake</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Drill Run</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fissure</name>
+                    <level>47</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Dig</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Hone Claws</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Earthquake</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Drill Run</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fissure</name>
+                    <level>47</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Scratch</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Mud Sport</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Rapid Spin</name>
+                    <level>5</level>
+                </move>
+                <move>
+                    <name>Mud Slap</name>
+                    <level>8</level>
+                </move>
+                <move>
+                    <name>Fury Swipes</name>
+                    <level>12</level>
+                </move>
+                <move>
+                    <name>Metal Claw</name>
+                    <level>15</level>
+                </move>
+                <move>
+                    <name>Dig</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Hone Claws</name>
+                    <level>22</level>
+                </move>
+                <move>
+                    <name>Slash</name>
+                    <level>26</level>
+                </move>
+                <move>
+                    <name>Rock Slide</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Earthquake</name>
+                    <level>33</level>
+                </move>
+                <move>
+                    <name>Swords Dance</name>
+                    <level>36</level>
+                </move>
+                <move>
+                    <name>Sandstorm</name>
+                    <level>40</level>
+                </move>
+                <move>
+                    <name>Drill Run</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Fissure</name>
+                    <level>47</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>

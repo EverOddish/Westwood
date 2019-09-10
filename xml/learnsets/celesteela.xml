@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_learnsets>
+    <name>Celesteela</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Seed Bomb</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Heavy Slam</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>73</level>
+                </move>
+            </moves>
+        </learnset>
+        <learnset>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>
+                    <name>Tackle</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Absorb</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Harden</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Ingrain</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Air Slash</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Wide Guard</name>
+                    <level>1</level>
+                </move>
+                <move>
+                    <name>Smack Down</name>
+                    <level>7</level>
+                </move>
+                <move>
+                    <name>Mega Drain</name>
+                    <level>13</level>
+                </move>
+                <move>
+                    <name>Leech Seed</name>
+                    <level>19</level>
+                </move>
+                <move>
+                    <name>Metal Sound</name>
+                    <level>23</level>
+                </move>
+                <move>
+                    <name>Iron Head</name>
+                    <level>29</level>
+                </move>
+                <move>
+                    <name>Giga Drain</name>
+                    <level>31</level>
+                </move>
+                <move>
+                    <name>Flash Cannon</name>
+                    <level>37</level>
+                </move>
+                <move>
+                    <name>Autotomize</name>
+                    <level>43</level>
+                </move>
+                <move>
+                    <name>Seed Bomb</name>
+                    <level>47</level>
+                </move>
+                <move>
+                    <name>Skull Bash</name>
+                    <level>53</level>
+                </move>
+                <move>
+                    <name>Iron Defense</name>
+                    <level>59</level>
+                </move>
+                <move>
+                    <name>Heavy Slam</name>
+                    <level>67</level>
+                </move>
+                <move>
+                    <name>Double Edge</name>
+                    <level>73</level>
+                </move>
+            </moves>
+        </learnset>
+    </learnsets>
+</pokemon_learnsets>
