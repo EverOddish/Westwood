@@ -743,18 +743,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Screech</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Double Team</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Fury Cutter</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Scratch</name>
                     <level>1</level>
                 </move>
@@ -830,18 +818,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Screech</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Double Team</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Fury Cutter</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Scratch</name>
                     <level>1</level>

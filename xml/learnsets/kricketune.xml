@@ -432,10 +432,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Fury Cutter</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Growl</name>
                     <level>1</level>
                 </move>
@@ -503,10 +499,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Fury Cutter</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Growl</name>
                     <level>1</level>

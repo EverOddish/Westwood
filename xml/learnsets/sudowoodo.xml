@@ -767,10 +767,6 @@
             <moves>
                 <move>
                     <name>Slam</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Slam</name>
                     <level>1</level>
                 </move>
                 <move>
@@ -861,10 +857,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Slam</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Slam</name>
                     <level>1</level>

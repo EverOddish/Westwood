@@ -703,10 +703,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Hammer Arm</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Take Down</name>
                     <level>1</level>
                 </move>
@@ -774,10 +770,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Hammer Arm</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Take Down</name>
                     <level>1</level>

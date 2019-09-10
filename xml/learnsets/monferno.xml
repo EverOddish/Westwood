@@ -472,10 +472,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Mach Punch</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Scratch</name>
                     <level>1</level>
                 </move>
@@ -543,10 +539,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Mach Punch</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Scratch</name>
                     <level>1</level>

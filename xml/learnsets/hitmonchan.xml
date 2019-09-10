@@ -902,10 +902,6 @@
             <moves>
                 <move>
                     <name>Comet Punch</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Comet Punch</name>
                     <level>1</level>
                 </move>
                 <move>
@@ -1008,10 +1004,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Comet Punch</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Comet Punch</name>
                     <level>1</level>

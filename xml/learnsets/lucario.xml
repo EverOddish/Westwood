@@ -584,10 +584,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Aura Sphere</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Quick Attack</name>
                     <level>1</level>
                 </move>
@@ -675,10 +671,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Aura Sphere</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Quick Attack</name>
                     <level>1</level>

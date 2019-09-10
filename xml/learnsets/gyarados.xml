@@ -661,10 +661,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Bite</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Thrash</name>
                     <level>1</level>
                 </move>
@@ -728,10 +724,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Bite</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Thrash</name>
                     <level>1</level>

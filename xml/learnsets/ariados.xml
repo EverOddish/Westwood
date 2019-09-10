@@ -859,10 +859,6 @@
             <moves>
                 <move>
                     <name>Swords Dance</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Swords Dance</name>
                     <level>1</level>
                 </move>
                 <move>
@@ -965,10 +961,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Swords Dance</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Swords Dance</name>
                     <level>1</level>

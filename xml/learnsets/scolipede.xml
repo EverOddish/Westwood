@@ -345,10 +345,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Baton Pass</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Poison Sting</name>
                     <level>1</level>
                 </move>
@@ -440,10 +436,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Baton Pass</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Poison Sting</name>
                     <level>1</level>

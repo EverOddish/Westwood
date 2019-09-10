@@ -30,6 +30,11 @@ for filename in os.listdir(os.path.join('xml', 'games')):
     target = os.path.join('xml', 'games', filename)
     run_xmllint(schema, target)
 
+schema = os.path.join('xsd', 'learnset.xsd')
+for filename in os.listdir(os.path.join('xml', 'learnsets')):
+    target = os.path.join('xml', 'learnsets', filename)
+    run_xmllint(schema, target)
+
 # Misc
 schema = os.path.join('xsd', 'types.xsd')
 target = os.path.join('xml', 'misc', 'types.xml')

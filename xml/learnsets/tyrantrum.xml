@@ -177,10 +177,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Rock Slide</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Stomp</name>
                     <level>1</level>
                 </move>
@@ -272,10 +268,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Rock Slide</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Stomp</name>
                     <level>1</level>

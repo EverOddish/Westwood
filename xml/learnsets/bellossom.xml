@@ -422,10 +422,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Magical Leaf</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Mega Drain</name>
                     <level>1</level>
                 </move>
@@ -477,10 +473,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Magical Leaf</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Mega Drain</name>
                     <level>1</level>

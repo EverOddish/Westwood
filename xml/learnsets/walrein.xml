@@ -699,10 +699,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Ice Fang</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Growl</name>
                     <level>1</level>
                 </move>
@@ -782,10 +778,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Ice Fang</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Growl</name>
                     <level>1</level>

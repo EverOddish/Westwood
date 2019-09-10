@@ -877,10 +877,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Strength</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Karate Chop</name>
                     <level>1</level>
                 </move>
@@ -972,10 +968,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Strength</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Karate Chop</name>
                     <level>1</level>

@@ -281,10 +281,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Crunch</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Headbutt</name>
                     <level>1</level>
                 </move>
@@ -352,10 +348,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Crunch</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Headbutt</name>
                     <level>1</level>

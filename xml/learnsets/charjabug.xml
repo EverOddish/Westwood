@@ -9,10 +9,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Charge</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Vice Grip</name>
                     <level>1</level>
                 </move>
@@ -84,10 +80,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Charge</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Vice Grip</name>
                     <level>1</level>

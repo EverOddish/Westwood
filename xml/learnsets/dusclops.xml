@@ -843,10 +843,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Shadow Punch</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Fire Punch</name>
                     <level>1</level>
                 </move>
@@ -950,10 +946,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Shadow Punch</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Fire Punch</name>
                     <level>1</level>

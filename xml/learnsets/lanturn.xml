@@ -854,18 +854,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Stockpile</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Spit Up</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Swallow</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Supersonic</name>
                     <level>1</level>
                 </move>
@@ -961,18 +949,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Stockpile</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Spit Up</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Swallow</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Supersonic</name>
                     <level>1</level>

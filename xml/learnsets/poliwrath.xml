@@ -477,10 +477,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Submission</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Double Slap</name>
                     <level>1</level>
                 </move>
@@ -520,10 +516,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Submission</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Double Slap</name>
                     <level>1</level>

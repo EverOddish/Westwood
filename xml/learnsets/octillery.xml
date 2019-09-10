@@ -786,10 +786,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Octazooka</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Water Gun</name>
                     <level>1</level>
                 </move>
@@ -873,10 +869,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Octazooka</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Water Gun</name>
                     <level>1</level>

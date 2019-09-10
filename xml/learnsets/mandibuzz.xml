@@ -377,10 +377,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Bone Rush</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Gust</name>
                     <level>1</level>
                 </move>
@@ -476,10 +472,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Bone Rush</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Gust</name>
                     <level>1</level>

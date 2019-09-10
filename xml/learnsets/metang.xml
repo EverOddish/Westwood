@@ -639,14 +639,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Confusion</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Metal Claw</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Take Down</name>
                     <level>1</level>
                 </move>
@@ -710,14 +702,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Confusion</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Metal Claw</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Take Down</name>
                     <level>1</level>

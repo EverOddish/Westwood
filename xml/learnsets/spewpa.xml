@@ -41,10 +41,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Protect</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Harden</name>
                     <level>1</level>
                 </move>
@@ -60,10 +56,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Protect</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Harden</name>
                     <level>1</level>

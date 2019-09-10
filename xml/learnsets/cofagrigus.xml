@@ -329,10 +329,6 @@
             </games>
             <moves>
                 <move>
-                    <name>Scary Face</name>
-                    <level>0</level>
-                </move>
-                <move>
                     <name>Disable</name>
                     <level>1</level>
                 </move>
@@ -412,10 +408,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Scary Face</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Disable</name>
                     <level>1</level>

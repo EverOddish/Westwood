@@ -494,10 +494,6 @@
             <moves>
                 <move>
                     <name>Stomp</name>
-                    <level>0</level>
-                </move>
-                <move>
-                    <name>Stomp</name>
                     <level>1</level>
                 </move>
                 <move>
@@ -540,10 +536,6 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <moves>
-                <move>
-                    <name>Stomp</name>
-                    <level>0</level>
-                </move>
                 <move>
                     <name>Stomp</name>
                     <level>1</level>
