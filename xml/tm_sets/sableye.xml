@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Sableye</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Snatch</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Shock Wave</move>
+                <move>Water Pulse</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Snatch</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Shock Wave</move>
+                <move>Water Pulse</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Snatch</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Shock Wave</move>
+                <move>Water Pulse</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Snatch</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Shock Wave</move>
+                <move>Water Pulse</move>
+                <move>Natural Gift</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Captivate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Snatch</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Shock Wave</move>
+                <move>Water Pulse</move>
+                <move>Natural Gift</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Captivate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Snatch</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Shock Wave</move>
+                <move>Water Pulse</move>
+                <move>Natural Gift</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Captivate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Telekinesis</move>
+                <move>Low Sweep</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+                <move>Retaliate</move>
+                <move>Snarl</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Telekinesis</move>
+                <move>Low Sweep</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+                <move>Retaliate</move>
+                <move>Snarl</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Low Sweep</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+                <move>Retaliate</move>
+                <move>Snarl</move>
+                <move>Confide</move>
+                <move>Dazzling Gleam</move>
+                <move>Power Up Punch</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Flash</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Rock Smash</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Low Sweep</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+                <move>Quash</move>
+                <move>Retaliate</move>
+                <move>Snarl</move>
+                <move>Confide</move>
+                <move>Dazzling Gleam</move>
+                <move>Power Up Punch</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Low Sweep</move>
+                <move>Round</move>
+                <move>Quash</move>
+                <move>Snarl</move>
+                <move>Confide</move>
+                <move>Dazzling Gleam</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Dream Eater</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Psych Up</move>
+                <move>Shadow Ball</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Payback</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Low Sweep</move>
+                <move>Round</move>
+                <move>Quash</move>
+                <move>Snarl</move>
+                <move>Confide</move>
+                <move>Dazzling Gleam</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

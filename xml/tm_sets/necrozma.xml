@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Necrozma</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Hyper Beam</move>
+                <move>Solar Beam</move>
+                <move>Thunder Wave</move>
+                <move>Earthquake</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Light Screen</move>
+                <move>Reflect</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Gyro Ball</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Rock Polish</move>
+                <move>Dark Pulse</move>
+                <move>X Scissor</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Flash Cannon</move>
+                <move>Trick Room</move>
+                <move>Stone Edge</move>
+                <move>Charge Beam</move>
+                <move>Psyshock</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Confide</move>
+                <move>Smart Strike</move>
+                <move>Brutal Swing</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Hyper Beam</move>
+                <move>Solar Beam</move>
+                <move>Thunder Wave</move>
+                <move>Earthquake</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Light Screen</move>
+                <move>Reflect</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Calm Mind</move>
+                <move>Gyro Ball</move>
+                <move>Embargo</move>
+                <move>Fling</move>
+                <move>Rock Polish</move>
+                <move>Dark Pulse</move>
+                <move>X Scissor</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Flash Cannon</move>
+                <move>Trick Room</move>
+                <move>Stone Edge</move>
+                <move>Charge Beam</move>
+                <move>Psyshock</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Confide</move>
+                <move>Smart Strike</move>
+                <move>Brutal Swing</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

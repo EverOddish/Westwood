@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Sandygast</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Earthquake</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Sandstorm</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Shadow Ball</move>
+                <move>Facade</move>
+                <move>Rock Tomb</move>
+                <move>Rock Polish</move>
+                <move>Energy Ball</move>
+                <move>Stone Edge</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Confide</move>
+                <move>Infestation</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Earthquake</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Sandstorm</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Shadow Ball</move>
+                <move>Facade</move>
+                <move>Rock Tomb</move>
+                <move>Rock Polish</move>
+                <move>Energy Ball</move>
+                <move>Stone Edge</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Confide</move>
+                <move>Infestation</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

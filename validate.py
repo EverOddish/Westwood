@@ -35,6 +35,11 @@ for filename in os.listdir(os.path.join('xml', 'learnsets')):
     target = os.path.join('xml', 'learnsets', filename)
     run_xmllint(schema, target)
 
+schema = os.path.join('xsd', 'tm_set.xsd')
+for filename in os.listdir(os.path.join('xml', 'tm_sets')):
+    target = os.path.join('xml', 'tm_sets', filename)
+    run_xmllint(schema, target)
+
 # Misc
 schema = os.path.join('xsd', 'types.xsd')
 target = os.path.join('xml', 'misc', 'types.xml')

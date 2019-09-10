@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Torracat</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Roar</move>
+                <move>Flamethrower</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Leech Life</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Sunny Day</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Overheat</move>
+                <move>Bulk Up</move>
+                <move>U Turn</move>
+                <move>Shadow Claw</move>
+                <move>Flame Charge</move>
+                <move>Round</move>
+                <move>Acrobatics</move>
+                <move>Work Up</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Roar</move>
+                <move>Flamethrower</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Leech Life</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Sunny Day</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Overheat</move>
+                <move>Bulk Up</move>
+                <move>U Turn</move>
+                <move>Shadow Claw</move>
+                <move>Flame Charge</move>
+                <move>Round</move>
+                <move>Acrobatics</move>
+                <move>Work Up</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

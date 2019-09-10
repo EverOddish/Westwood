@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Naganadel</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Fly</move>
+                <move>Flamethrower</move>
+                <move>Hyper Beam</move>
+                <move>Thunderbolt</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Leech Life</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Sludge Bomb</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Facade</move>
+                <move>Aerial Ace</move>
+                <move>Dragon Claw</move>
+                <move>U Turn</move>
+                <move>Poison Jab</move>
+                <move>Dark Pulse</move>
+                <move>X Scissor</move>
+                <move>Shadow Claw</move>
+                <move>Venoshock</move>
+                <move>Sludge Wave</move>
+                <move>Round</move>
+                <move>Echoed Voice</move>
+                <move>Sky Drop</move>
+                <move>Acrobatics</move>
+                <move>Dragon Tail</move>
+                <move>Snarl</move>
+                <move>Confide</move>
+                <move>Smart Strike</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Heatmor</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Flamethrower</move>
+                <move>Solar Beam</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Rock Smash</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Fling</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Flamethrower</move>
+                <move>Solar Beam</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Rock Smash</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Fling</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Flamethrower</move>
+                <move>Solar Beam</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Rock Smash</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Fling</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+                <move>Confide</move>
+                <move>Power Up Punch</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Flamethrower</move>
+                <move>Solar Beam</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Rock Smash</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Fling</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Incinerate</move>
+                <move>Confide</move>
+                <move>Power Up Punch</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Flamethrower</move>
+                <move>Solar Beam</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Overheat</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Fling</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Round</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Flamethrower</move>
+                <move>Solar Beam</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Fire Blast</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Sunny Day</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Overheat</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Fling</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Shadow Claw</move>
+                <move>Round</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

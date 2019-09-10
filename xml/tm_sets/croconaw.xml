@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Croconaw</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Gold</game>
+                <game>Pokemon Silver</game>
+            </games>
+            <moves>
+                <move>Ice Punch</move>
+                <move>Cut</move>
+                <move>Headbutt</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Snore</move>
+                <move>Curse</move>
+                <move>Protect</move>
+                <move>Mud Slap</move>
+                <move>Icy Wind</move>
+                <move>Detect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Fury Cutter</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Dynamic Punch</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Whirlpool</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Crystal</game>
+            </games>
+            <moves>
+                <move>Ice Punch</move>
+                <move>Cut</move>
+                <move>Headbutt</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Snore</move>
+                <move>Curse</move>
+                <move>Protect</move>
+                <move>Mud Slap</move>
+                <move>Icy Wind</move>
+                <move>Detect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Fury Cutter</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Dynamic Punch</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Whirlpool</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ruby</game>
+                <game>Pokemon Sapphire</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Protect</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Dive</move>
+                <move>Aerial Ace</move>
+                <move>Water Pulse</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Emerald</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Protect</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Dive</move>
+                <move>Aerial Ace</move>
+                <move>Water Pulse</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon FireRed</game>
+                <game>Pokemon LeafGreen</game>
+            </games>
+            <moves>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Protect</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Dive</move>
+                <move>Aerial Ace</move>
+                <move>Water Pulse</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Diamond</game>
+                <game>Pokemon Pearl</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Water Pulse</move>
+                <move>Natural Gift</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Captivate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Platinum</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Water Pulse</move>
+                <move>Natural Gift</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Captivate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon HeartGold</game>
+                <game>Pokemon SoulSilver</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Endure</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Iron Tail</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Whirlpool</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Focus Punch</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Water Pulse</move>
+                <move>Natural Gift</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Captivate</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Dive</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Dragon Claw</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Scald</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Dive</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Dragon Claw</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Scald</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Dragon Claw</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Scald</move>
+                <move>Confide</move>
+                <move>Power Up Punch</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Strength</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Rock Smash</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Dive</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Dragon Claw</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Hone Claws</move>
+                <move>Round</move>
+                <move>Scald</move>
+                <move>Confide</move>
+                <move>Power Up Punch</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Dragon Claw</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Round</move>
+                <move>Scald</move>
+                <move>Work Up</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Roar</move>
+                <move>Surf</move>
+                <move>Ice Beam</move>
+                <move>Blizzard</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Waterfall</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Hail</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Rock Tomb</move>
+                <move>Aerial Ace</move>
+                <move>Dragon Claw</move>
+                <move>Fling</move>
+                <move>Shadow Claw</move>
+                <move>Round</move>
+                <move>Scald</move>
+                <move>Work Up</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

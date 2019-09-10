@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Karrablast</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>False Swipe</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Facade</move>
+                <move>Aerial Ace</move>
+                <move>Poison Jab</move>
+                <move>X Scissor</move>
+                <move>Energy Ball</move>
+                <move>Round</move>
+                <move>Struggle Bug</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>False Swipe</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Facade</move>
+                <move>Aerial Ace</move>
+                <move>Poison Jab</move>
+                <move>X Scissor</move>
+                <move>Energy Ball</move>
+                <move>Round</move>
+                <move>Struggle Bug</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>False Swipe</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Facade</move>
+                <move>Aerial Ace</move>
+                <move>Poison Jab</move>
+                <move>X Scissor</move>
+                <move>Energy Ball</move>
+                <move>Round</move>
+                <move>Struggle Bug</move>
+                <move>Confide</move>
+                <move>Infestation</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Cut</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>False Swipe</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Facade</move>
+                <move>Secret Power</move>
+                <move>Aerial Ace</move>
+                <move>Poison Jab</move>
+                <move>X Scissor</move>
+                <move>Energy Ball</move>
+                <move>Round</move>
+                <move>Struggle Bug</move>
+                <move>Confide</move>
+                <move>Infestation</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>False Swipe</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Facade</move>
+                <move>Aerial Ace</move>
+                <move>Poison Jab</move>
+                <move>X Scissor</move>
+                <move>Energy Ball</move>
+                <move>Round</move>
+                <move>Confide</move>
+                <move>Infestation</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Swords Dance</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>False Swipe</move>
+                <move>Swagger</move>
+                <move>Attract</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Rain Dance</move>
+                <move>Facade</move>
+                <move>Aerial Ace</move>
+                <move>Poison Jab</move>
+                <move>X Scissor</move>
+                <move>Energy Ball</move>
+                <move>Round</move>
+                <move>Confide</move>
+                <move>Infestation</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

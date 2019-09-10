@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Blacephalon</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Flamethrower</move>
+                <move>Hyper Beam</move>
+                <move>Toxic</move>
+                <move>Psychic</move>
+                <move>Double Team</move>
+                <move>Light Screen</move>
+                <move>Fire Blast</move>
+                <move>Explosion</move>
+                <move>Rest</move>
+                <move>Substitute</move>
+                <move>Thief</move>
+                <move>Protect</move>
+                <move>Swagger</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Hidden Power</move>
+                <move>Sunny Day</move>
+                <move>Shadow Ball</move>
+                <move>Torment</move>
+                <move>Will O Wisp</move>
+                <move>Facade</move>
+                <move>Taunt</move>
+                <move>Overheat</move>
+                <move>Calm Mind</move>
+                <move>Payback</move>
+                <move>Fling</move>
+                <move>Dark Pulse</move>
+                <move>Shadow Claw</move>
+                <move>Psyshock</move>
+                <move>Smack Down</move>
+                <move>Flame Charge</move>
+                <move>Round</move>
+                <move>Quash</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

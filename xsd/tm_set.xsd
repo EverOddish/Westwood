@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:include schemaLocation="enumerations/type.xsd"/>
+
+    <xs:element name="pokemon_tm_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="tm_sets">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element ref="tm_set" minOccurs="0" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="tm_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="games">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="moves">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="move" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<pokemon_tm_sets>
+    <name>Zygarde</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+            </games>
+            <moves>
+                <move>Hyper Beam</move>
+                <move>Strength</move>
+                <move>Earthquake</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Sandstorm</move>
+                <move>Swagger</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Safeguard</move>
+                <move>Hidden Power</move>
+                <move>Sunny Day</move>
+                <move>Rock Smash</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Stone Edge</move>
+                <move>Grass Knot</move>
+                <move>Sludge Wave</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Dragon Tail</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+            </games>
+            <moves>
+                <move>Hyper Beam</move>
+                <move>Strength</move>
+                <move>Earthquake</move>
+                <move>Dig</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Sandstorm</move>
+                <move>Swagger</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Safeguard</move>
+                <move>Hidden Power</move>
+                <move>Sunny Day</move>
+                <move>Rock Smash</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Secret Power</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Stone Edge</move>
+                <move>Grass Knot</move>
+                <move>Sludge Wave</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Dragon Tail</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+            </games>
+            <moves>
+                <move>Hyper Beam</move>
+                <move>Earthquake</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Sandstorm</move>
+                <move>Swagger</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Safeguard</move>
+                <move>Hidden Power</move>
+                <move>Sunny Day</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Stone Edge</move>
+                <move>Grass Knot</move>
+                <move>Sludge Wave</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Dragon Tail</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <moves>
+                <move>Hyper Beam</move>
+                <move>Earthquake</move>
+                <move>Toxic</move>
+                <move>Double Team</move>
+                <move>Rest</move>
+                <move>Rock Slide</move>
+                <move>Substitute</move>
+                <move>Protect</move>
+                <move>Sandstorm</move>
+                <move>Swagger</move>
+                <move>Sleep Talk</move>
+                <move>Return</move>
+                <move>Frustration</move>
+                <move>Safeguard</move>
+                <move>Hidden Power</move>
+                <move>Sunny Day</move>
+                <move>Facade</move>
+                <move>Brick Break</move>
+                <move>Focus Blast</move>
+                <move>Giga Impact</move>
+                <move>Stone Edge</move>
+                <move>Grass Knot</move>
+                <move>Sludge Wave</move>
+                <move>Round</move>
+                <move>Bulldoze</move>
+                <move>Dragon Tail</move>
+                <move>Confide</move>
+            </moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>
