@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Battle Bond</name>
+    <games>
+        <game>Pokemon Sun</game>
+        <game>Pokemon Moon</game>
+        <game>Pokemon Ultra Sun</game>
+        <game>Pokemon Ultra Moon</game>
+    </games>
+    <description>Transforms this Pokémon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.</description>
+</ability>

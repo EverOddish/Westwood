@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Steelworker</name>
+    <games>
+        <game>Pokemon Sun</game>
+        <game>Pokemon Moon</game>
+        <game>Pokemon Ultra Sun</game>
+        <game>Pokemon Ultra Moon</game>
+    </games>
+    <description>This Pokémon's Steel moves have 1.5× power.</description>
+</ability>

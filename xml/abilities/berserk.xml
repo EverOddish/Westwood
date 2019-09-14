@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Berserk</name>
+    <games>
+        <game>Pokemon Sun</game>
+        <game>Pokemon Moon</game>
+        <game>Pokemon Ultra Sun</game>
+        <game>Pokemon Ultra Moon</game>
+    </games>
+    <description>Raises this Pokémon's Special Attack by one stage every time its HP drops below half.</description>
+</ability>

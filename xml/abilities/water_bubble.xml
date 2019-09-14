@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Water Bubble</name>
+    <games>
+        <game>Pokemon Sun</game>
+        <game>Pokemon Moon</game>
+        <game>Pokemon Ultra Sun</game>
+        <game>Pokemon Ultra Moon</game>
+    </games>
+    <description>"Halves damage from Fire moves</description>
+</ability>

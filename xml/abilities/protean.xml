@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Protean</name>
+    <games>
+        <game>Pokemon X</game>
+        <game>Pokemon Y</game>
+        <game>Pokemon Omega Ruby</game>
+        <game>Pokemon Alpha Sapphire</game>
+        <game>Pokemon Sun</game>
+        <game>Pokemon Moon</game>
+        <game>Pokemon Ultra Sun</game>
+        <game>Pokemon Ultra Moon</game>
+    </games>
+    <description>Changes the bearer's type to match each move it uses.</description>
+</ability>

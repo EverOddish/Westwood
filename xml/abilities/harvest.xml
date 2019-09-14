@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Harvest</name>
+    <games>
+        <game>Pokemon Black</game>
+        <game>Pokemon White</game>
+        <game>Pokemon Black 2</game>
+        <game>Pokemon White 2</game>
+        <game>Pokemon X</game>
+        <game>Pokemon Y</game>
+        <game>Pokemon Omega Ruby</game>
+        <game>Pokemon Alpha Sapphire</game>
+        <game>Pokemon Sun</game>
+        <game>Pokemon Moon</game>
+        <game>Pokemon Ultra Sun</game>
+        <game>Pokemon Ultra Moon</game>
+    </games>
+    <description>Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.</description>
+</ability>
