@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
+    <xs:include schemaLocation="enumerations/pokemon_name.xsd"/>
+
     <xs:element name="pokemon">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="name" type="xs:string"/>
+                <xs:element name="name" type="pokemonName"/>
                 <xs:element name="pokedex_numbers">
                     <xs:complexType>
                         <xs:sequence>
