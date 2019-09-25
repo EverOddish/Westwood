@@ -15,37 +15,43 @@ def run_xmllint(schema, target):
         invalid_files.append(target)
         print('Failed to validate: ' + target)
 
+print('Processing Pokemon XML...')
 schema = os.path.join('xsd', 'pokemon.xsd')
 for filename in os.listdir(os.path.join('xml', 'pokemon')):
     target = os.path.join('xml', 'pokemon', filename)
     run_xmllint(schema, target)
 
+print('Processing Move XML...')
 schema = os.path.join('xsd', 'move.xsd')
 for filename in os.listdir(os.path.join('xml', 'moves')):
     target = os.path.join('xml', 'moves', filename)
     run_xmllint(schema, target)
 
+print('Processing Game XML...')
 schema = os.path.join('xsd', 'game.xsd')
 for filename in os.listdir(os.path.join('xml', 'games')):
     target = os.path.join('xml', 'games', filename)
     run_xmllint(schema, target)
 
+print('Processing Learnset XML...')
 schema = os.path.join('xsd', 'learnset.xsd')
 for filename in os.listdir(os.path.join('xml', 'learnsets')):
     target = os.path.join('xml', 'learnsets', filename)
     run_xmllint(schema, target)
 
+print('Processing TM Set XML...')
 schema = os.path.join('xsd', 'tm_set.xsd')
 for filename in os.listdir(os.path.join('xml', 'tm_sets')):
     target = os.path.join('xml', 'tm_sets', filename)
     run_xmllint(schema, target)
 
+print('Processing Ability XML...')
 schema = os.path.join('xsd', 'ability.xsd')
 for filename in os.listdir(os.path.join('xml', 'abilities')):
     target = os.path.join('xml', 'abilities', filename)
     run_xmllint(schema, target)
 
-# Misc
+print('Processing miscellaneous XML...')
 schema = os.path.join('xsd', 'types.xsd')
 target = os.path.join('xml', 'misc', 'types.xml')
 run_xmllint(schema, target)

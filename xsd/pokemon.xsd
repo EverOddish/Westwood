@@ -7,13 +7,7 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="name" type="pokemonName"/>
-                <xs:element name="pokedex_numbers">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element ref="pokedex_number" minOccurs="1"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
+                <xs:element ref="pokedex_numbers"/>
                 <xs:element name="height" type="xs:positiveInteger"/>
                 <xs:element name="weight" type="xs:positiveInteger"/>
             </xs:sequence>
@@ -25,6 +19,14 @@
             <xs:sequence>
                 <xs:element name="name" type="xs:string"/>
                 <xs:element name="number" type="xs:positiveInteger"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="pokedex_numbers">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="pokedex_number" minOccurs="1"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
