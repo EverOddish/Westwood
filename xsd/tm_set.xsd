@@ -3,17 +3,18 @@
 
     <xs:include schemaLocation="enumerations/type.xsd"/>
 
-    <xs:element name="pokemon_tm_sets">
+    <xs:element name="tmset_move">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="name" type="xs:string"/>
-                <xs:element name="tm_sets">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element ref="tm_set" minOccurs="0" maxOccurs="unbounded"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="tmset_moves">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="tmset_move" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -21,20 +22,33 @@
     <xs:element name="tm_set">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="games">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-                <xs:element name="moves">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="move" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
+                <xs:element ref="games"/>
+                <xs:element ref="tmset_moves"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="tm_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="tm_set" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="pokemon_tm_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element ref="tm_sets"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="games">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

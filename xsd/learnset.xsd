@@ -3,17 +3,44 @@
 
     <xs:include schemaLocation="enumerations/type.xsd"/>
 
+    <xs:element name="learnsets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="learnset" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
     <xs:element name="pokemon_learnsets">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="name" type="xs:string"/>
-                <xs:element name="learnsets">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element ref="learnset" minOccurs="1" maxOccurs="unbounded"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
+                <xs:element ref="learnsets"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="games">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="learnset_move">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="level" type="xs:positiveInteger"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="learnset_moves">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="learnset_move" minOccurs="1" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -21,27 +48,8 @@
     <xs:element name="learnset">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="games">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-                <xs:element name="moves">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="move" minOccurs="1" maxOccurs="unbounded">
-                                <xs:complexType>
-                                    <xs:sequence>
-                                        <xs:element name="name" type="xs:string"/>
-                                        <xs:element name="level" type="xs:positiveInteger"/>
-                                    </xs:sequence>
-                                </xs:complexType>
-                            </xs:element>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
+                <xs:element ref="games"/>
+                <xs:element ref="learnset_moves"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
