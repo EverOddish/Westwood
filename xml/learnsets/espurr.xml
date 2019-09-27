@@ -7,176 +7,176 @@
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Covet</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confusion</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psybeam</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disarming Voice</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psyshock</name>
                     <level>25</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Covet</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confusion</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psybeam</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disarming Voice</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psyshock</name>
                     <level>25</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Covet</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confusion</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psybeam</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disarming Voice</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psyshock</name>
                     <level>25</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Covet</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confusion</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psybeam</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disarming Voice</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psyshock</name>
                     <level>25</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

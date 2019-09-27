@@ -7,32 +7,32 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Sand Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Struggle Bug</name>
                     <level>1</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Sand Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Struggle Bug</name>
                     <level>1</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

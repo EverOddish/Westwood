@@ -7,480 +7,480 @@
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Gun</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Pulse</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aerial Ace</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feather Dance</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Air Slash</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Roost</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rain Dance</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tailwind</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hurricane</name>
                     <level>55</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Gun</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Pulse</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aerial Ace</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feather Dance</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Air Slash</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Roost</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rain Dance</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tailwind</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hurricane</name>
                     <level>55</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Gun</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Pulse</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aerial Ace</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feather Dance</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Air Slash</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Roost</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rain Dance</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tailwind</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hurricane</name>
                     <level>55</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Gun</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Pulse</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aerial Ace</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feather Dance</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Air Slash</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Roost</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rain Dance</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tailwind</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hurricane</name>
                     <level>55</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Gun</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Pulse</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aerial Ace</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feather Dance</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Air Slash</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Roost</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rain Dance</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tailwind</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hurricane</name>
                     <level>55</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Gun</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defog</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wing Attack</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Pulse</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aerial Ace</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feather Dance</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Air Slash</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Roost</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rain Dance</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tailwind</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hurricane</name>
                     <level>55</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

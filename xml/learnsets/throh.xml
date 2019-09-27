@@ -7,416 +7,416 @@
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Seismic Toss</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vital Throw</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Revenge</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Storm Throw</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Body Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Circle Throw</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wide Guard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>53</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Seismic Toss</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vital Throw</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Revenge</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Storm Throw</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Body Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Circle Throw</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wide Guard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>53</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Seismic Toss</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vital Throw</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Revenge</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Storm Throw</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Body Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Circle Throw</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wide Guard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Seismic Toss</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vital Throw</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Revenge</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Storm Throw</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Body Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Circle Throw</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wide Guard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mat Block</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Seismic Toss</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vital Throw</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Revenge</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Storm Throw</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Body Slam</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Circle Throw</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wide Guard</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mat Block</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Seismic Toss</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vital Throw</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Revenge</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Storm Throw</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Body Slam</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Circle Throw</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wide Guard</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

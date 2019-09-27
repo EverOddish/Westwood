@@ -7,563 +7,563 @@
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>51</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>51</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sweet Scent</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ingrain</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spit Up</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

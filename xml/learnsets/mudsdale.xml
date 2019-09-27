@@ -7,152 +7,152 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Mud Slap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Kick</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>High Horsepower</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Iron Defense</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heavy Slam</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Counter</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Earthquake</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Kick</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Mud Slap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Sport</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Kick</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>High Horsepower</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Iron Defense</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heavy Slam</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Counter</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Earthquake</name>
                     <level>47</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Kick</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

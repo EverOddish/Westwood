@@ -7,184 +7,184 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Fire Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ice Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thunder Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Counter</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Pursuit</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Assurance</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Drain Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Laser Focus</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Force Palm</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rolling Kick</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Copycat</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Punch</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Role Play</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Jump Kick</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psych Up</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spectral Thief</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Close Combat</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sucker Punch</name>
                     <level>56</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endeavor</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Fire Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Ice Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thunder Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Counter</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Pursuit</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Assurance</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Drain Punch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Laser Focus</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Force Palm</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rolling Kick</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Copycat</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Punch</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Role Play</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Jump Kick</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Psych Up</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spectral Thief</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Close Combat</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sucker Punch</name>
                     <level>56</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endeavor</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

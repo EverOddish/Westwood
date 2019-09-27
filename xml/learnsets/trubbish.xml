@@ -7,448 +7,448 @@
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Poison Gas</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Recycle</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic Spikes</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Acid Spray</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge Bomb</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Clear Smog</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Amnesia</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gunk Shot</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Explosion</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Poison Gas</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Recycle</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic Spikes</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Acid Spray</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge Bomb</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Clear Smog</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Amnesia</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gunk Shot</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Explosion</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Poison Gas</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Recycle</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic Spikes</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Acid Spray</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge Bomb</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Clear Smog</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Amnesia</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Belch</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gunk Shot</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Explosion</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Poison Gas</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Recycle</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic Spikes</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Acid Spray</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge Bomb</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Clear Smog</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Amnesia</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Belch</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gunk Shot</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Explosion</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Poison Gas</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Recycle</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic Spikes</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Acid Spray</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge Bomb</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Clear Smog</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Amnesia</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Belch</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gunk Shot</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Explosion</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Poison Gas</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Recycle</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic Spikes</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Acid Spray</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stockpile</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swallow</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sludge Bomb</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Clear Smog</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Toxic</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Amnesia</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Belch</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gunk Shot</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Explosion</name>
                     <level>47</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

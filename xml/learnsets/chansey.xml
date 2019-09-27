@@ -7,1016 +7,1016 @@
                 <game>Pokemon Red</game>
                 <game>Pokemon Blue</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>54</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Yellow</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>30</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>54</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Crystal</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Emerald</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>46</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>46</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>46</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heal Pulse</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>54</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heal Pulse</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>54</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heal Pulse</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>54</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heal Pulse</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>54</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heal Pulse</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>54</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Pound</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tail Whip</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Soft Boiled</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Minimize</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sing</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Heal Pulse</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Egg Bomb</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Light Screen</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Healing Wish</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>65</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

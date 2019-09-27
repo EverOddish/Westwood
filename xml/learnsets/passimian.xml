@@ -7,136 +7,136 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rock Smash</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Beat Up</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Scary Face</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Close Combat</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Impact</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rock Smash</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Focus Energy</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Beat Up</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Scary Face</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bestow</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulk Up</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fling</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Close Combat</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Reversal</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Impact</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

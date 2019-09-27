@@ -7,580 +7,580 @@
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brine</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swagger</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icicle Crash</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rest</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Blizzard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hail</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>59</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>66</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Jet</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brine</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swagger</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icicle Crash</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rest</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Blizzard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hail</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>59</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>66</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Jet</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Play Nice</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brine</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swagger</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icicle Crash</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rest</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Blizzard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hail</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>59</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>66</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Jet</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Play Nice</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brine</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swagger</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icicle Crash</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rest</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Blizzard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hail</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>59</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>66</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Jet</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icicle Crash</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Play Nice</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brine</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swagger</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rest</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Blizzard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hail</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>59</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>66</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Jet</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icicle Crash</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Powder Snow</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Icy Wind</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Play Nice</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brine</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Endure</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Swagger</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rest</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Blizzard</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hail</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>59</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Sheer Cold</name>
                     <level>66</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

@@ -7,360 +7,360 @@
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Swords Dance</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Agility</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Slap</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Shot</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Kick</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Odor Sleuth</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Dig</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bounce</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Super Fang</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Facade</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Earthquake</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Swords Dance</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Agility</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Slap</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Shot</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Kick</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Odor Sleuth</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Dig</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bounce</name>
                     <level>42</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Super Fang</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Facade</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Earthquake</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Swords Dance</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Agility</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Slap</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Shot</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Kick</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Odor Sleuth</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Dig</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bounce</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Super Fang</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Facade</name>
                     <level>54</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Earthquake</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Swords Dance</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Agility</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bulldoze</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rototiller</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Slap</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Slap</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mud Shot</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Kick</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Odor Sleuth</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Dig</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bounce</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Super Fang</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Facade</name>
                     <level>54</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Earthquake</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

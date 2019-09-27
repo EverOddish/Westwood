@@ -7,160 +7,160 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Thunder Shock</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Withdraw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>False Swipe</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Swap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Electric Terrain</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spark</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shock Wave</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Charge</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wild Charge</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mirror Move</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Natures Madness</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Discharge</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Agility</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Electro Ball</name>
                     <level>58</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Thunder Shock</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Withdraw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>False Swipe</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Swap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brave Bird</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Electric Terrain</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spark</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shock Wave</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Charge</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wild Charge</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mirror Move</name>
                     <level>38</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Natures Madness</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Discharge</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Agility</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Electro Ball</name>
                     <level>58</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

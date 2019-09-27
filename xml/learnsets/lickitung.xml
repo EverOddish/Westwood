@@ -7,892 +7,892 @@
                 <game>Pokemon Red</game>
                 <game>Pokemon Blue</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>39</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Yellow</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>39</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>43</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Crystal</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>43</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>51</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Emerald</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>51</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>51</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>53</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>53</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>53</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Chip Away</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Chip Away</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Chip Away</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Chip Away</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Chip Away</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Lick</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Supersonic</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Defense Curl</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Stomp</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Disable</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Rollout</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Chip Away</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Me First</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Refresh</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>49</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Whip</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

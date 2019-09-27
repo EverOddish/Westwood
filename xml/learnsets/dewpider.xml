@@ -7,128 +7,128 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bubble</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Infestation</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spider Web</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Bite</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Life</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lunge</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mirror Coat</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Liquidation</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Entrainment</name>
                     <level>48</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Bubble</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Infestation</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Spider Web</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Bite</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bite</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Aqua Ring</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Life</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Crunch</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lunge</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mirror Coat</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Liquidation</name>
                     <level>45</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Entrainment</name>
                     <level>48</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

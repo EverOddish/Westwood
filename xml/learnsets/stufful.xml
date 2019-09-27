@@ -7,120 +7,120 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Baby Doll Eyes</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brutal Swing</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Payback</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Pain Split</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bide</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Baby Doll Eyes</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Brutal Swing</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flail</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Payback</name>
                     <level>23</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Take Down</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hammer Arm</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thrash</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Pain Split</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Double Edge</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Superpower</name>
                     <level>50</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

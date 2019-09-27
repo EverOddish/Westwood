@@ -7,480 +7,480 @@
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Seed</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Drain</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Blade</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Coil</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Drain</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gastro Acid</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Storm</name>
                     <level>52</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Seed</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Drain</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Blade</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Coil</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Drain</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gastro Acid</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Storm</name>
                     <level>52</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Seed</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Drain</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Blade</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Coil</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Drain</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gastro Acid</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Storm</name>
                     <level>52</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Seed</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Drain</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Blade</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Coil</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Drain</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gastro Acid</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Storm</name>
                     <level>52</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Seed</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Drain</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Blade</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Coil</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Drain</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gastro Acid</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Storm</name>
                     <level>52</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tackle</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Vine Whip</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wrap</name>
                     <level>10</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growth</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Tornado</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leech Seed</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mega Drain</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slam</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Blade</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Coil</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Giga Drain</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Wring Out</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Gastro Acid</name>
                     <level>48</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leaf Storm</name>
                     <level>52</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

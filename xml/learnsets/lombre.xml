@@ -7,630 +7,630 @@
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thief</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>49</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Emerald</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thief</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>49</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Thief</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>49</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>27</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>35</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>43</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>44</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>44</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Growl</name>
                     <level>3</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Absorb</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>12</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Water Sport</name>
                     <level>20</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bubble Beam</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Nature Power</name>
                     <level>28</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Uproar</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hydro Pump</name>
                     <level>44</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

@@ -7,942 +7,942 @@
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Emerald</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>5</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>13</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>17</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>37</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>45</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>57</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foul Play</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foul Play</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>8</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>15</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>25</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>32</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>43</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>46</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foul Play</name>
                     <level>50</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>53</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>57</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>60</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foul Play</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quash</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>46</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foul Play</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quash</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>46</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Scratch</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Leer</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foresight</name>
                     <level>4</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Night Shade</name>
                     <level>6</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Astonish</name>
                     <level>9</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Swipes</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Detect</name>
                     <level>14</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Sneak</name>
                     <level>16</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Feint Attack</name>
                     <level>19</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fake Out</name>
                     <level>21</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Punishment</name>
                     <level>24</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Knock Off</name>
                     <level>26</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Claw</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Confuse Ray</name>
                     <level>31</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zen Headbutt</name>
                     <level>34</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Power Gem</name>
                     <level>36</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Shadow Ball</name>
                     <level>39</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Foul Play</name>
                     <level>41</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Quash</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Mean Look</name>
                     <level>46</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>

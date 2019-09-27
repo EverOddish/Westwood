@@ -7,520 +7,520 @@
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Claw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Rise</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Techno Blast</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Cutter</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lock On</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flame Charge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Bomb</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Sound</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Signal Beam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tri Attack</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>X Scissor</name>
                     <level>51</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Buzz</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Simple Beam</name>
                     <level>62</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zap Cannon</name>
                     <level>66</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hyper Beam</name>
                     <level>73</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Self Destruct</name>
                     <level>77</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Claw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Rise</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Techno Blast</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Cutter</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lock On</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flame Charge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Bomb</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Sound</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Signal Beam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tri Attack</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>X Scissor</name>
                     <level>51</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Buzz</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Simple Beam</name>
                     <level>62</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zap Cannon</name>
                     <level>66</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hyper Beam</name>
                     <level>73</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Self Destruct</name>
                     <level>77</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Claw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Rise</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Techno Blast</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fell Stinger</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Cutter</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lock On</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flame Charge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Bomb</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Sound</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Signal Beam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tri Attack</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>X Scissor</name>
                     <level>51</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Buzz</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Simple Beam</name>
                     <level>62</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zap Cannon</name>
                     <level>66</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hyper Beam</name>
                     <level>73</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Self Destruct</name>
                     <level>77</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Claw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Rise</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Techno Blast</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fell Stinger</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Cutter</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lock On</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flame Charge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Bomb</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Sound</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Signal Beam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tri Attack</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>X Scissor</name>
                     <level>51</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Buzz</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Simple Beam</name>
                     <level>62</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zap Cannon</name>
                     <level>66</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hyper Beam</name>
                     <level>73</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Self Destruct</name>
                     <level>77</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Claw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Rise</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Techno Blast</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fell Stinger</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Cutter</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lock On</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flame Charge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Bomb</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Sound</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Signal Beam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tri Attack</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>X Scissor</name>
                     <level>51</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Buzz</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Simple Beam</name>
                     <level>62</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zap Cannon</name>
                     <level>66</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hyper Beam</name>
                     <level>73</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Self Destruct</name>
                     <level>77</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
         <learnset>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>
+            <learnset_moves>
+                <learnset_move>
                     <name>Quick Attack</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Screech</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Claw</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Rise</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Techno Blast</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fell Stinger</name>
                     <level>1</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Fury Cutter</name>
                     <level>7</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Lock On</name>
                     <level>11</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Flame Charge</name>
                     <level>18</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Magnet Bomb</name>
                     <level>22</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Slash</name>
                     <level>29</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Metal Sound</name>
                     <level>33</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Signal Beam</name>
                     <level>40</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Tri Attack</name>
                     <level>44</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>X Scissor</name>
                     <level>51</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Bug Buzz</name>
                     <level>55</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Simple Beam</name>
                     <level>62</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Zap Cannon</name>
                     <level>66</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Hyper Beam</name>
                     <level>73</level>
-                </move>
-                <move>
+                </learnset_move>
+                <learnset_move>
                     <name>Self Destruct</name>
                     <level>77</level>
-                </move>
-            </moves>
+                </learnset_move>
+            </learnset_moves>
         </learnset>
     </learnsets>
 </pokemon_learnsets>
