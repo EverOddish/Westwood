@@ -12,6 +12,20 @@ Westwood contains Python scripts to verify the correctness of all XML data, and 
 
 Westwood data can be converted to any data format, if support is added. To start with, Westwood will only support conversion to Django models, which can then be populated with Django data migrations. If other formats are required (such as JSON or CSV), support can be added at a later date. Westwood is intended to be easily extensible and adaptable.
 
+Python 3 is required. To install all Python requirements:
+
+    pip install -r requirements.txt
+
+To validate the XML data, run the following command:
+
+    python3 validate.py
+
+To auto-generate Django models inside the django-westwood app, run the following command:
+
+    python3 convert_to_django.py
+
+This will read every XSD file and generate Python classes that describe each model. Then, a database will be generated using the models, and populated from the XML data by running a Django data migration.
+
 ## Contributing
 
 If you notice any errors in the data or would like to contribute, there are several ways you can help:
