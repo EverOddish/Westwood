@@ -7,41 +7,41 @@
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Thunderbolt</move>
-                <move>Thunder Wave</move>
-                <move>Thunder</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Protect</move>
-                <move>False Swipe</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Aerial Ace</move>
-                <move>Bulk Up</move>
-                <move>Calm Mind</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Giga Impact</move>
-                <move>Grass Knot</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Echoed Voice</move>
-                <move>Acrobatics</move>
-                <move>Volt Switch</move>
-                <move>Work Up</move>
-                <move>Wild Charge</move>
-                <move>Snarl</move>
-                <move>Confide</move>
-                <move>Brutal Swing</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Echoed Voice</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

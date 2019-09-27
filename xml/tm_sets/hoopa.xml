@@ -7,200 +7,200 @@
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>Hyper Beam</move>
-                <move>Thunderbolt</move>
-                <move>Thunder Wave</move>
-                <move>Toxic</move>
-                <move>Psychic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Dream Eater</move>
-                <move>Flash</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Safeguard</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Psych Up</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Calm Mind</move>
-                <move>Embargo</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Energy Ball</move>
-                <move>Giga Impact</move>
-                <move>Trick Room</move>
-                <move>Grass Knot</move>
-                <move>Charge Beam</move>
-                <move>Psyshock</move>
-                <move>Round</move>
-                <move>Quash</move>
-                <move>Confide</move>
-                <move>Power Up Punch</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Dream Eater</tmset_move>
+                <tmset_move>Flash</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Charge Beam</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Quash</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Power Up Punch</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>Hyper Beam</move>
-                <move>Thunderbolt</move>
-                <move>Thunder Wave</move>
-                <move>Toxic</move>
-                <move>Psychic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Dream Eater</move>
-                <move>Flash</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Safeguard</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Psych Up</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Calm Mind</move>
-                <move>Embargo</move>
-                <move>Fling</move>
-                <move>Dark Pulse</move>
-                <move>Focus Blast</move>
-                <move>Energy Ball</move>
-                <move>Giga Impact</move>
-                <move>Trick Room</move>
-                <move>Grass Knot</move>
-                <move>Charge Beam</move>
-                <move>Psyshock</move>
-                <move>Round</move>
-                <move>Quash</move>
-                <move>Confide</move>
-                <move>Power Up Punch</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Dream Eater</tmset_move>
+                <tmset_move>Flash</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Charge Beam</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Quash</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Power Up Punch</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Hyper Beam</move>
-                <move>Thunderbolt</move>
-                <move>Thunder Wave</move>
-                <move>Toxic</move>
-                <move>Psychic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Dream Eater</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Safeguard</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Psych Up</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Calm Mind</move>
-                <move>Embargo</move>
-                <move>Fling</move>
-                <move>Dark Pulse</move>
-                <move>Focus Blast</move>
-                <move>Energy Ball</move>
-                <move>Giga Impact</move>
-                <move>Trick Room</move>
-                <move>Grass Knot</move>
-                <move>Charge Beam</move>
-                <move>Psyshock</move>
-                <move>Round</move>
-                <move>Quash</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Dream Eater</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Charge Beam</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Quash</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Hyper Beam</move>
-                <move>Thunderbolt</move>
-                <move>Thunder Wave</move>
-                <move>Toxic</move>
-                <move>Psychic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Dream Eater</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Safeguard</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Psych Up</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Calm Mind</move>
-                <move>Embargo</move>
-                <move>Fling</move>
-                <move>Dark Pulse</move>
-                <move>Focus Blast</move>
-                <move>Energy Ball</move>
-                <move>Giga Impact</move>
-                <move>Trick Room</move>
-                <move>Grass Knot</move>
-                <move>Charge Beam</move>
-                <move>Psyshock</move>
-                <move>Round</move>
-                <move>Quash</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Dream Eater</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Charge Beam</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Quash</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

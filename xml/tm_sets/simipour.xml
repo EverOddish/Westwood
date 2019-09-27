@@ -7,286 +7,286 @@
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>Cut</move>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Hyper Beam</move>
-                <move>Dig</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Waterfall</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Rock Smash</move>
-                <move>Hail</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Dive</move>
-                <move>Rock Tomb</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Grass Knot</move>
-                <move>Hone Claws</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Acrobatics</move>
-                <move>Work Up</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>Cut</move>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Hyper Beam</move>
-                <move>Dig</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Waterfall</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Rock Smash</move>
-                <move>Hail</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Dive</move>
-                <move>Rock Tomb</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Grass Knot</move>
-                <move>Hone Claws</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Acrobatics</move>
-                <move>Work Up</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>Cut</move>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Hyper Beam</move>
-                <move>Dig</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Waterfall</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Rock Smash</move>
-                <move>Hail</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Rock Tomb</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Grass Knot</move>
-                <move>Hone Claws</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Acrobatics</move>
-                <move>Confide</move>
-                <move>Power Up Punch</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Power Up Punch</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>Cut</move>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Hyper Beam</move>
-                <move>Dig</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Waterfall</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Rock Smash</move>
-                <move>Hail</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Dive</move>
-                <move>Rock Tomb</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Grass Knot</move>
-                <move>Hone Claws</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Acrobatics</move>
-                <move>Confide</move>
-                <move>Power Up Punch</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Power Up Punch</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Waterfall</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Hail</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Rock Tomb</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Grass Knot</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Acrobatics</move>
-                <move>Work Up</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Waterfall</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Hail</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Brick Break</move>
-                <move>Rock Tomb</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Focus Blast</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Grass Knot</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Acrobatics</move>
-                <move>Work Up</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

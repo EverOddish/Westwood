@@ -7,86 +7,86 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Rock Tomb</move>
-                <move>Dragon Claw</move>
-                <move>Gyro Ball</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Poison Jab</move>
-                <move>Dark Pulse</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Stone Edge</move>
-                <move>Smack Down</move>
-                <move>Sludge Wave</move>
-                <move>Round</move>
-                <move>Bulldoze</move>
-                <move>Dragon Tail</move>
-                <move>Snarl</move>
-                <move>Brutal Swing</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Dragon Tail</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Rock Tomb</move>
-                <move>Dragon Claw</move>
-                <move>Gyro Ball</move>
-                <move>Payback</move>
-                <move>Fling</move>
-                <move>Poison Jab</move>
-                <move>Dark Pulse</move>
-                <move>Giga Impact</move>
-                <move>Shadow Claw</move>
-                <move>Stone Edge</move>
-                <move>Smack Down</move>
-                <move>Sludge Wave</move>
-                <move>Round</move>
-                <move>Bulldoze</move>
-                <move>Dragon Tail</move>
-                <move>Snarl</move>
-                <move>Brutal Swing</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Dragon Tail</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

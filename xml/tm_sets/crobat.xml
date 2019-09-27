@@ -7,523 +7,523 @@
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Swift</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Snore</move>
-                <move>Curse</move>
-                <move>Protect</move>
-                <move>Detect</move>
-                <move>Giga Drain</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Sunny Day</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Curse</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Detect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Crystal</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Swift</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Snore</move>
-                <move>Curse</move>
-                <move>Protect</move>
-                <move>Detect</move>
-                <move>Giga Drain</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Sunny Day</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Curse</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Detect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Giga Drain</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Snatch</move>
-                <move>Secret Power</move>
-                <move>Aerial Ace</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Snatch</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Emerald</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Giga Drain</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Snatch</move>
-                <move>Secret Power</move>
-                <move>Aerial Ace</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Snatch</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Giga Drain</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Snatch</move>
-                <move>Secret Power</move>
-                <move>Aerial Ace</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Snatch</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Giga Drain</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Snatch</move>
-                <move>Secret Power</move>
-                <move>Aerial Ace</move>
-                <move>Roost</move>
-                <move>Natural Gift</move>
-                <move>Pluck</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>Dark Pulse</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Defog</move>
-                <move>Captivate</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Snatch</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Pluck</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Defog</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Giga Drain</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Snatch</move>
-                <move>Secret Power</move>
-                <move>Aerial Ace</move>
-                <move>Roost</move>
-                <move>Natural Gift</move>
-                <move>Pluck</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>Dark Pulse</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Defog</move>
-                <move>Captivate</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Snatch</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Pluck</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Defog</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Giga Drain</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Snatch</move>
-                <move>Secret Power</move>
-                <move>Aerial Ace</move>
-                <move>Roost</move>
-                <move>Natural Gift</move>
-                <move>Pluck</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>Dark Pulse</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Captivate</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Snatch</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Pluck</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Aerial Ace</move>
-                <move>Pluck</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Acrobatics</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Pluck</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Aerial Ace</move>
-                <move>Pluck</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Acrobatics</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Pluck</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Aerial Ace</move>
-                <move>Roost</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>Dark Pulse</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Acrobatics</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Aerial Ace</move>
-                <move>Roost</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>Dark Pulse</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Acrobatics</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Leech Life</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Aerial Ace</move>
-                <move>Roost</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>Dark Pulse</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Acrobatics</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Hyper Beam</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Leech Life</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sludge Bomb</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Shadow Ball</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Aerial Ace</move>
-                <move>Roost</move>
-                <move>U Turn</move>
-                <move>Payback</move>
-                <move>Dark Pulse</move>
-                <move>X Scissor</move>
-                <move>Giga Impact</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Acrobatics</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>U Turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

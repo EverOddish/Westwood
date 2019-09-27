@@ -7,82 +7,82 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Ice Beam</move>
-                <move>Hyper Beam</move>
-                <move>Solar Beam</move>
-                <move>Thunderbolt</move>
-                <move>Thunder Wave</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Explosion</move>
-                <move>Substitute</move>
-                <move>Protect</move>
-                <move>False Swipe</move>
-                <move>Swagger</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Shadow Ball</move>
-                <move>Brick Break</move>
-                <move>Calm Mind</move>
-                <move>Gyro Ball</move>
-                <move>Embargo</move>
-                <move>Focus Blast</move>
-                <move>Energy Ball</move>
-                <move>Giga Impact</move>
-                <move>Flash Cannon</move>
-                <move>Trick Room</move>
-                <move>Grass Knot</move>
-                <move>Charge Beam</move>
-                <move>Round</move>
-                <move>Echoed Voice</move>
-                <move>Volt Switch</move>
-                <move>Confide</move>
-                <move>Dazzling Gleam</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Explosion</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Charge Beam</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Echoed Voice</tmset_move>
+                <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Ice Beam</move>
-                <move>Hyper Beam</move>
-                <move>Solar Beam</move>
-                <move>Thunderbolt</move>
-                <move>Thunder Wave</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Explosion</move>
-                <move>Substitute</move>
-                <move>Protect</move>
-                <move>False Swipe</move>
-                <move>Swagger</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Shadow Ball</move>
-                <move>Brick Break</move>
-                <move>Calm Mind</move>
-                <move>Gyro Ball</move>
-                <move>Embargo</move>
-                <move>Focus Blast</move>
-                <move>Energy Ball</move>
-                <move>Giga Impact</move>
-                <move>Flash Cannon</move>
-                <move>Trick Room</move>
-                <move>Grass Knot</move>
-                <move>Charge Beam</move>
-                <move>Round</move>
-                <move>Echoed Voice</move>
-                <move>Volt Switch</move>
-                <move>Confide</move>
-                <move>Dazzling Gleam</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Explosion</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Charge Beam</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Echoed Voice</tmset_move>
+                <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

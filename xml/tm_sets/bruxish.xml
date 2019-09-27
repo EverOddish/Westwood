@@ -7,92 +7,92 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Swords Dance</move>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Toxic</move>
-                <move>Psychic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Waterfall</move>
-                <move>Dream Eater</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Safeguard</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Aerial Ace</move>
-                <move>Bulk Up</move>
-                <move>Calm Mind</move>
-                <move>Payback</move>
-                <move>Embargo</move>
-                <move>Fling</move>
-                <move>Giga Impact</move>
-                <move>Trick Room</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Frost Breath</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Dream Eater</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Frost Breath</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Swords Dance</move>
-                <move>Surf</move>
-                <move>Ice Beam</move>
-                <move>Blizzard</move>
-                <move>Toxic</move>
-                <move>Psychic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Waterfall</move>
-                <move>Dream Eater</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Safeguard</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Aerial Ace</move>
-                <move>Bulk Up</move>
-                <move>Calm Mind</move>
-                <move>Payback</move>
-                <move>Embargo</move>
-                <move>Fling</move>
-                <move>Giga Impact</move>
-                <move>Trick Room</move>
-                <move>Venoshock</move>
-                <move>Round</move>
-                <move>Scald</move>
-                <move>Frost Breath</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Dream Eater</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Embargo</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Frost Breath</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

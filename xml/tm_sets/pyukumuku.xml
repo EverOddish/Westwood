@@ -7,50 +7,50 @@
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Safeguard</move>
-                <move>Rain Dance</move>
-                <move>Psych Up</move>
-                <move>Hail</move>
-                <move>Taunt</move>
-                <move>Quash</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Quash</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Light Screen</move>
-                <move>Reflect</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Safeguard</move>
-                <move>Rain Dance</move>
-                <move>Psych Up</move>
-                <move>Hail</move>
-                <move>Taunt</move>
-                <move>Quash</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Quash</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

@@ -7,677 +7,677 @@
                 <game>Pokemon Red</game>
                 <game>Pokemon Blue</game>
             </games>
-            <moves>
-                <move>Razor Wind</move>
-                <move>Whirlwind</move>
-                <move>Fly</move>
-                <move>Take Down</move>
-                <move>Double Edge</move>
-                <move>Hyper Beam</move>
-                <move>Dragon Rage</move>
-                <move>Toxic</move>
-                <move>Rage</move>
-                <move>Mimic</move>
-                <move>Double Team</move>
-                <move>Reflect</move>
-                <move>Bide</move>
-                <move>Fire Blast</move>
-                <move>Swift</move>
-                <move>Sky Attack</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Razor Wind</tmset_move>
+                <tmset_move>Whirlwind</tmset_move>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Take Down</tmset_move>
+                <tmset_move>Double Edge</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Dragon Rage</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Rage</tmset_move>
+                <tmset_move>Mimic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Bide</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Sky Attack</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Yellow</game>
             </games>
-            <moves>
-                <move>Razor Wind</move>
-                <move>Whirlwind</move>
-                <move>Fly</move>
-                <move>Take Down</move>
-                <move>Double Edge</move>
-                <move>Hyper Beam</move>
-                <move>Dragon Rage</move>
-                <move>Toxic</move>
-                <move>Rage</move>
-                <move>Mimic</move>
-                <move>Double Team</move>
-                <move>Reflect</move>
-                <move>Bide</move>
-                <move>Fire Blast</move>
-                <move>Swift</move>
-                <move>Sky Attack</move>
-                <move>Rest</move>
-                <move>Substitute</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Razor Wind</tmset_move>
+                <tmset_move>Whirlwind</tmset_move>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Take Down</tmset_move>
+                <tmset_move>Double Edge</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Dragon Rage</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Rage</tmset_move>
+                <tmset_move>Mimic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Bide</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Sky Attack</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Headbutt</move>
-                <move>Roar</move>
-                <move>Hyper Beam</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Swift</move>
-                <move>Rest</move>
-                <move>Snore</move>
-                <move>Curse</move>
-                <move>Protect</move>
-                <move>Detect</move>
-                <move>Sandstorm</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Dragon Breath</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Rock Smash</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Headbutt</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Curse</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Detect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Dragon Breath</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Crystal</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Headbutt</move>
-                <move>Roar</move>
-                <move>Hyper Beam</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Swift</move>
-                <move>Rest</move>
-                <move>Snore</move>
-                <move>Curse</move>
-                <move>Protect</move>
-                <move>Detect</move>
-                <move>Sandstorm</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Dragon Breath</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Rock Smash</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Headbutt</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Curse</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Detect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Dragon Breath</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Emerald</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Roost</move>
-                <move>Natural Gift</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Dragon Pulse</move>
-                <move>Giga Impact</move>
-                <move>Defog</move>
-                <move>Stone Edge</move>
-                <move>Captivate</move>
-                <move>Stealth Rock</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Defog</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Roost</move>
-                <move>Natural Gift</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Dragon Pulse</move>
-                <move>Giga Impact</move>
-                <move>Defog</move>
-                <move>Stone Edge</move>
-                <move>Captivate</move>
-                <move>Stealth Rock</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Defog</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Iron Tail</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Roost</move>
-                <move>Natural Gift</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Dragon Pulse</move>
-                <move>Giga Impact</move>
-                <move>Stone Edge</move>
-                <move>Captivate</move>
-                <move>Stealth Rock</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Giga Impact</move>
-                <move>Stone Edge</move>
-                <move>Hone Claws</move>
-                <move>Smack Down</move>
-                <move>Round</move>
-                <move>Sky Drop</move>
-                <move>Incinerate</move>
-                <move>Bulldoze</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Incinerate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Giga Impact</move>
-                <move>Stone Edge</move>
-                <move>Hone Claws</move>
-                <move>Smack Down</move>
-                <move>Round</move>
-                <move>Sky Drop</move>
-                <move>Incinerate</move>
-                <move>Bulldoze</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Incinerate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Roost</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Giga Impact</move>
-                <move>Stone Edge</move>
-                <move>Hone Claws</move>
-                <move>Smack Down</move>
-                <move>Round</move>
-                <move>Sky Drop</move>
-                <move>Incinerate</move>
-                <move>Bulldoze</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Incinerate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Secret Power</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Roost</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Giga Impact</move>
-                <move>Stone Edge</move>
-                <move>Hone Claws</move>
-                <move>Smack Down</move>
-                <move>Round</move>
-                <move>Sky Drop</move>
-                <move>Incinerate</move>
-                <move>Bulldoze</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Incinerate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Roost</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Giga Impact</move>
-                <move>Stone Edge</move>
-                <move>Smack Down</move>
-                <move>Round</move>
-                <move>Sky Drop</move>
-                <move>Bulldoze</move>
-                <move>Confide</move>
-                <move>Brutal Swing</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Fly</move>
-                <move>Roar</move>
-                <move>Flamethrower</move>
-                <move>Hyper Beam</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Fire Blast</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Sandstorm</move>
-                <move>Swagger</move>
-                <move>Steel Wing</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Torment</move>
-                <move>Facade</move>
-                <move>Taunt</move>
-                <move>Rock Tomb</move>
-                <move>Aerial Ace</move>
-                <move>Dragon Claw</move>
-                <move>Roost</move>
-                <move>Payback</move>
-                <move>Rock Polish</move>
-                <move>Giga Impact</move>
-                <move>Stone Edge</move>
-                <move>Smack Down</move>
-                <move>Round</move>
-                <move>Sky Drop</move>
-                <move>Bulldoze</move>
-                <move>Confide</move>
-                <move>Brutal Swing</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

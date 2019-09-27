@@ -7,431 +7,431 @@
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
             </games>
-            <moves>
-                <move>Headbutt</move>
-                <move>Strength</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Swift</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Snore</move>
-                <move>Curse</move>
-                <move>Protect</move>
-                <move>Mud Slap</move>
-                <move>Detect</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Headbutt</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Curse</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Mud Slap</tmset_move>
+                <tmset_move>Detect</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Crystal</game>
             </games>
-            <moves>
-                <move>Headbutt</move>
-                <move>Strength</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Swift</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Snore</move>
-                <move>Curse</move>
-                <move>Protect</move>
-                <move>Mud Slap</move>
-                <move>Detect</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Headbutt</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Curse</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Mud Slap</tmset_move>
+                <tmset_move>Detect</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Bulk Up</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Emerald</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Bulk Up</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Bulk Up</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Bulk Up</move>
-                <move>Natural Gift</move>
-                <move>Captivate</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Platinum</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Bulk Up</move>
-                <move>Natural Gift</move>
-                <move>Captivate</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Endure</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Bulk Up</move>
-                <move>Natural Gift</move>
-                <move>Captivate</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Natural Gift</tmset_move>
+                <tmset_move>Captivate</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Bulk Up</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Retaliate</move>
-                <move>Bulldoze</move>
-                <move>Work Up</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Bulk Up</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Retaliate</move>
-                <move>Bulldoze</move>
-                <move>Work Up</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Bulk Up</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Retaliate</move>
-                <move>Bulldoze</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
-            <moves>
-                <move>Strength</move>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Rock Smash</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Secret Power</move>
-                <move>Bulk Up</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Retaliate</move>
-                <move>Bulldoze</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Secret Power</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
             </games>
-            <moves>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Bulk Up</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Bulldoze</move>
-                <move>Work Up</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
-            <moves>
-                <move>Earthquake</move>
-                <move>Toxic</move>
-                <move>Double Team</move>
-                <move>Rest</move>
-                <move>Rock Slide</move>
-                <move>Substitute</move>
-                <move>Thief</move>
-                <move>Protect</move>
-                <move>Swagger</move>
-                <move>Attract</move>
-                <move>Sleep Talk</move>
-                <move>Return</move>
-                <move>Frustration</move>
-                <move>Hidden Power</move>
-                <move>Rain Dance</move>
-                <move>Sunny Day</move>
-                <move>Facade</move>
-                <move>Brick Break</move>
-                <move>Bulk Up</move>
-                <move>Low Sweep</move>
-                <move>Round</move>
-                <move>Bulldoze</move>
-                <move>Work Up</move>
-                <move>Confide</move>
-            </moves>
+            <tmset_moves>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Confide</tmset_move>
+            </tmset_moves>
         </tm_set>
     </tm_sets>
 </pokemon_tm_sets>
