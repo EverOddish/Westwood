@@ -9,7 +9,7 @@ def name_to_camel_case(name):
 
 def check_field_name(name):
     if 'type' == name:
-        return 'type_'
+        return 'type_1'
     return name
 
 django_models_path = os.path.join('django-westwood', 'westwood', 'models.py')
@@ -22,6 +22,10 @@ with open(django_models_path, 'w') as models_file:
 
     models = {}
 
+    enum_list = [os.path.join('xsd', 'enumerations', 'type.xsd'),
+                 os.path.join('xsd', 'enumerations', 'learn_method.xsd'),
+                 ]
+
     # Schemas must be processed in a particular order
     schema_list = [os.path.join('xsd', 'game.xsd'),
                    os.path.join('xsd', 'types.xsd'),
@@ -33,9 +37,20 @@ with open(django_models_path, 'w') as models_file:
                    os.path.join('xsd', 'tm_set.xsd'),
                    ]
 
-    enum_list = [os.path.join('xsd', 'enumerations', 'type.xsd'),
-                 os.path.join('xsd', 'enumerations', 'learn_method.xsd'),
-                 ]
+    for enum_file in enum_list:
+        try:
+            root = etree.parse(enum_file)
+            print('\nProcessing ' + enum_file + '\n')
+
+            for element in root.iter(NS_PREFIX + 'simpleType'):
+                class_name = element.get('name')
+                if class_name:
+                    class_name = class_name[0].upper() + class_name[1:]
+                    class_name = class_name.replace('Pokemon', '')
+                    models[class_name] = '    value = models.CharField(max_length=50)    # Enumeration\n'
+
+        except etree.XMLSyntaxError:
+            print('INVALID: ' + enum_file)
 
     for schema_file in schema_list:
         try:
@@ -112,21 +127,6 @@ with open(django_models_path, 'w') as models_file:
 
         except etree.XMLSyntaxError:
             print('INVALID: ' + schema_file)
-
-    for enum_file in enum_list:
-        try:
-            root = etree.parse(enum_file)
-            print('\nProcessing ' + enum_file + '\n')
-
-            for element in root.iter(NS_PREFIX + 'simpleType'):
-                class_name = element.get('name')
-                if class_name:
-                    class_name = class_name[0].upper() + class_name[1:]
-                    class_name = class_name.replace('Pokemon', '')
-                    models[class_name] = '    value = models.CharField(max_length=50)    # Enumeration\n'
-
-        except etree.XMLSyntaxError:
-            print('INVALID: ' + enum_file)
 
     print('\nModels:\n')
 

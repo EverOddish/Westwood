@@ -1,5 +1,11 @@
 from django.db import models
 
+class Type(models.Model):
+    value = models.CharField(max_length=50)    # Enumeration
+
+class LearnMethod(models.Model):
+    value = models.CharField(max_length=50)    # Enumeration
+
 class Game(models.Model):
     name = models.CharField(max_length=500)
     generation = models.IntegerField(default=0)
@@ -12,6 +18,10 @@ class TypesListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(Type, on_delete=models.CASCADE)
 
+class PokedexNumber(models.Model):
+    name = models.CharField(max_length=500)
+    number = models.IntegerField(default=0)
+
 class PokedexNumbersListElement(models.Model):
     list_id = models.IntegerField()
     sequence_number = models.IntegerField()
@@ -23,46 +33,30 @@ class Pokemon(models.Model):
     height = models.IntegerField(default=0)
     weight = models.IntegerField(default=0)
 
-class PokedexNumber(models.Model):
-    name = models.CharField(max_length=500)
-    number = models.IntegerField(default=0)
-
 class Move(models.Model):
     name = models.CharField(max_length=500)
     generation = models.IntegerField(default=0)
-    type_ = models.CharField(max_length=500)
+    type_1 = models.CharField(max_length=500)
     base_power = models.CharField(max_length=500)
     power_points = models.IntegerField(default=0)
     accuracy = models.CharField(max_length=500)
     priority = models.CharField(max_length=500)
     damage_category = models.CharField(max_length=500)
 
-class AbilityListElement(models.Model):
-    list_id = models.IntegerField()
-    sequence_number = models.IntegerField()
-    element = models.ForeignKey(Ability, on_delete=models.CASCADE)
-    name = models.CharField(max_length=500)
-    games = models.CharField(max_length=500)
-    description = models.CharField(max_length=500)
-
 class GamesListElement(models.Model):
     list_id = models.IntegerField()
     sequence_number = models.IntegerField()
     element = models.ForeignKey(Game, on_delete=models.CASCADE)
 
+class Ability(models.Model):
+    name = models.CharField(max_length=500)
+    games = models.IntegerField()    # Games list_id
+    description = models.CharField(max_length=500)
+
 class LearnMethodsListElement(models.Model):
     list_id = models.IntegerField()
     sequence_number = models.IntegerField()
     element = models.ForeignKey(LearnMethod, on_delete=models.CASCADE)
-
-class LearnsetsListElement(models.Model):
-    list_id = models.IntegerField()
-    sequence_number = models.IntegerField()
-    element = models.ForeignKey(Learnset, on_delete=models.CASCADE)
-
-class PokemonLearnsets(models.Model):
-    name = models.CharField(max_length=500)
-    learnsets = models.IntegerField()    # Learnsets list_id
 
 class LearnsetMove(models.Model):
     name = models.CharField(max_length=500)
@@ -76,6 +70,15 @@ class LearnsetMovesListElement(models.Model):
 class Learnset(models.Model):
     games = models.IntegerField()    # Games list_id
     learnset_moves = models.IntegerField()    # LearnsetMoves list_id
+
+class LearnsetsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(Learnset, on_delete=models.CASCADE)
+
+class PokemonLearnsets(models.Model):
+    name = models.CharField(max_length=500)
+    learnsets = models.IntegerField()    # Learnsets list_id
 
 class TmsetMove(models.Model):
     name = models.CharField(max_length=500)
@@ -97,10 +100,4 @@ class TmSetsListElement(models.Model):
 class PokemonTmSets(models.Model):
     name = models.CharField(max_length=500)
     tm_sets = models.IntegerField()    # TmSets list_id
-
-class Type(models.Model):
-    value = models.CharField(max_length=50)    # Enumeration
-
-class LearnMethod(models.Model):
-    value = models.CharField(max_length=50)    # Enumeration
 

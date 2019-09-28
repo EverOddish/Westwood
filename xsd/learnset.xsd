@@ -3,23 +3,6 @@
 
     <xs:include schemaLocation="enumerations/type.xsd"/>
 
-    <xs:element name="learnsets">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element ref="learnset" minOccurs="1" maxOccurs="unbounded"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-
-    <xs:element name="pokemon_learnsets">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="name" type="xs:string"/>
-                <xs:element ref="learnsets"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-
     <xs:element name="games">
         <xs:complexType>
             <xs:sequence>
@@ -50,6 +33,23 @@
             <xs:sequence>
                 <xs:element ref="games"/>
                 <xs:element ref="learnset_moves"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="learnsets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="learnset" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="pokemon_learnsets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element ref="learnsets"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
