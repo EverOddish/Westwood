@@ -98,3 +98,9 @@ class PokemonTmSets(models.Model):
     name = models.CharField(max_length=500)
     tm_sets = models.IntegerField()    # TmSets list_id
 
+class Type(models.Model):
+    value = models.CharField(max_length=50)    # Enumeration
+
+class LearnMethod(models.Model):
+    value = models.CharField(max_length=50)    # Enumeration
+
