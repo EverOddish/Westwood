@@ -1,24 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_tm_sets>
-    <name>Aegislash-Shield</name>
+    <name>Basculin</name>
     <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+            </tmset_moves>
+        </tm_set>
         <tm_set>
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
             </games>
             <tmset_moves>
-                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Cut</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
                 <tmset_move>Rest</tmset_move>
-                <tmset_move>Rock Slide</tmset_move>
                 <tmset_move>Substitute</tmset_move>
                 <tmset_move>Protect</tmset_move>
-                <tmset_move>False Swipe</tmset_move>
                 <tmset_move>Swagger</tmset_move>
                 <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
@@ -26,18 +82,11 @@
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
                 <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
-                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Hail</tmset_move>
                 <tmset_move>Facade</tmset_move>
-                <tmset_move>Brick Break</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Gyro Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Taunt</tmset_move>
                 <tmset_move>Round</tmset_move>
-                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Scald</tmset_move>
                 <tmset_move>Confide</tmset_move>
             </tmset_moves>
         </tm_set>
@@ -47,17 +96,15 @@
                 <game>Pokemon Alpha Sapphire</game>
             </games>
             <tmset_moves>
-                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Cut</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
                 <tmset_move>Rest</tmset_move>
-                <tmset_move>Rock Slide</tmset_move>
                 <tmset_move>Substitute</tmset_move>
                 <tmset_move>Protect</tmset_move>
-                <tmset_move>False Swipe</tmset_move>
                 <tmset_move>Swagger</tmset_move>
                 <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
@@ -65,19 +112,13 @@
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
                 <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
-                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Hail</tmset_move>
                 <tmset_move>Facade</tmset_move>
-                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Taunt</tmset_move>
                 <tmset_move>Secret Power</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Gyro Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Dive</tmset_move>
                 <tmset_move>Round</tmset_move>
-                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Scald</tmset_move>
                 <tmset_move>Confide</tmset_move>
             </tmset_moves>
         </tm_set>
@@ -87,16 +128,14 @@
                 <game>Pokemon Moon</game>
             </games>
             <tmset_moves>
-                <tmset_move>Swords Dance</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
                 <tmset_move>Rest</tmset_move>
-                <tmset_move>Rock Slide</tmset_move>
                 <tmset_move>Substitute</tmset_move>
                 <tmset_move>Protect</tmset_move>
-                <tmset_move>False Swipe</tmset_move>
                 <tmset_move>Swagger</tmset_move>
                 <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
@@ -104,18 +143,12 @@
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
                 <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Hail</tmset_move>
                 <tmset_move>Facade</tmset_move>
-                <tmset_move>Brick Break</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Gyro Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Taunt</tmset_move>
                 <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
                 <tmset_move>Confide</tmset_move>
-                <tmset_move>Brutal Swing</tmset_move>
             </tmset_moves>
         </tm_set>
         <tm_set>
@@ -124,16 +157,14 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <tmset_moves>
-                <tmset_move>Swords Dance</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
                 <tmset_move>Rest</tmset_move>
-                <tmset_move>Rock Slide</tmset_move>
                 <tmset_move>Substitute</tmset_move>
                 <tmset_move>Protect</tmset_move>
-                <tmset_move>False Swipe</tmset_move>
                 <tmset_move>Swagger</tmset_move>
                 <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
@@ -141,18 +172,12 @@
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
                 <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Hail</tmset_move>
                 <tmset_move>Facade</tmset_move>
-                <tmset_move>Brick Break</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Gyro Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Taunt</tmset_move>
                 <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
                 <tmset_move>Confide</tmset_move>
-                <tmset_move>Brutal Swing</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

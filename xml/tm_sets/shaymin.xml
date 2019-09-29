@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_tm_sets>
-    <name>Wormadam-Plant</name>
+    <name>Shaymin</name>
     <tm_sets>
         <tm_set>
             <games>
@@ -8,38 +8,32 @@
                 <game>Pokemon Pearl</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Flash</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Giga Drain</tmset_move>
                 <tmset_move>Endure</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
-                <tmset_move>Skill Swap</tmset_move>
                 <tmset_move>Secret Power</tmset_move>
                 <tmset_move>Bullet Seed</tmset_move>
                 <tmset_move>Natural Gift</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Captivate</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
             </tmset_moves>
         </tm_set>
@@ -48,38 +42,32 @@
                 <game>Pokemon Platinum</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Flash</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Giga Drain</tmset_move>
                 <tmset_move>Endure</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
-                <tmset_move>Skill Swap</tmset_move>
                 <tmset_move>Secret Power</tmset_move>
                 <tmset_move>Bullet Seed</tmset_move>
                 <tmset_move>Natural Gift</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Captivate</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
             </tmset_moves>
         </tm_set>
@@ -89,38 +77,32 @@
                 <game>Pokemon SoulSilver</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Flash</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Giga Drain</tmset_move>
                 <tmset_move>Endure</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
-                <tmset_move>Skill Swap</tmset_move>
                 <tmset_move>Secret Power</tmset_move>
                 <tmset_move>Bullet Seed</tmset_move>
                 <tmset_move>Natural Gift</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Captivate</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
             </tmset_moves>
         </tm_set>
@@ -130,34 +112,28 @@
                 <game>Pokemon White</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Flash</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
-                <tmset_move>Venoshock</tmset_move>
                 <tmset_move>Round</tmset_move>
-                <tmset_move>Struggle Bug</tmset_move>
             </tmset_moves>
         </tm_set>
         <tm_set>
@@ -166,34 +142,28 @@
                 <game>Pokemon White 2</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Flash</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
-                <tmset_move>Venoshock</tmset_move>
                 <tmset_move>Round</tmset_move>
-                <tmset_move>Struggle Bug</tmset_move>
             </tmset_moves>
         </tm_set>
         <tm_set>
@@ -202,37 +172,32 @@
                 <game>Pokemon Y</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Flash</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
+                <tmset_move>Nature Power</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
-                <tmset_move>Venoshock</tmset_move>
                 <tmset_move>Round</tmset_move>
-                <tmset_move>Struggle Bug</tmset_move>
                 <tmset_move>Confide</tmset_move>
-                <tmset_move>Infestation</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
             </tmset_moves>
         </tm_set>
         <tm_set>
@@ -241,38 +206,33 @@
                 <game>Pokemon Alpha Sapphire</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Flash</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
+                <tmset_move>Nature Power</tmset_move>
                 <tmset_move>Secret Power</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
-                <tmset_move>Venoshock</tmset_move>
                 <tmset_move>Round</tmset_move>
-                <tmset_move>Struggle Bug</tmset_move>
                 <tmset_move>Confide</tmset_move>
-                <tmset_move>Infestation</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
             </tmset_moves>
         </tm_set>
         <tm_set>
@@ -281,35 +241,31 @@
                 <game>Pokemon Moon</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
+                <tmset_move>Nature Power</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
-                <tmset_move>Venoshock</tmset_move>
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Confide</tmset_move>
-                <tmset_move>Infestation</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
             </tmset_moves>
         </tm_set>
         <tm_set>
@@ -318,35 +274,31 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
                 <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
                 <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
                 <tmset_move>Rest</tmset_move>
                 <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
                 <tmset_move>Sleep Talk</tmset_move>
                 <tmset_move>Return</tmset_move>
                 <tmset_move>Frustration</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
                 <tmset_move>Facade</tmset_move>
+                <tmset_move>Nature Power</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
-                <tmset_move>Venoshock</tmset_move>
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Confide</tmset_move>
-                <tmset_move>Infestation</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

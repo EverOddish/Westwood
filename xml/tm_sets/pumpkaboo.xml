@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_tm_sets>
-    <name>Gourgeist-Average</name>
+    <name>Pumpkaboo</name>
     <tm_sets>
         <tm_set>
             <games>
@@ -9,7 +9,6 @@
             </games>
             <tmset_moves>
                 <tmset_move>Flamethrower</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
@@ -40,9 +39,7 @@
                 <tmset_move>Nature Power</tmset_move>
                 <tmset_move>Gyro Ball</tmset_move>
                 <tmset_move>Dark Pulse</tmset_move>
-                <tmset_move>Focus Blast</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Trick Room</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
                 <tmset_move>Charge Beam</tmset_move>
@@ -59,7 +56,6 @@
             </games>
             <tmset_moves>
                 <tmset_move>Flamethrower</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
@@ -91,9 +87,7 @@
                 <tmset_move>Secret Power</tmset_move>
                 <tmset_move>Gyro Ball</tmset_move>
                 <tmset_move>Dark Pulse</tmset_move>
-                <tmset_move>Focus Blast</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Trick Room</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
                 <tmset_move>Charge Beam</tmset_move>
@@ -110,7 +104,6 @@
             </games>
             <tmset_moves>
                 <tmset_move>Flamethrower</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
@@ -139,9 +132,7 @@
                 <tmset_move>Nature Power</tmset_move>
                 <tmset_move>Gyro Ball</tmset_move>
                 <tmset_move>Dark Pulse</tmset_move>
-                <tmset_move>Focus Blast</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Trick Room</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
                 <tmset_move>Charge Beam</tmset_move>
@@ -157,7 +148,6 @@
             </games>
             <tmset_moves>
                 <tmset_move>Flamethrower</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
                 <tmset_move>Solar Beam</tmset_move>
                 <tmset_move>Toxic</tmset_move>
                 <tmset_move>Psychic</tmset_move>
@@ -186,9 +176,7 @@
                 <tmset_move>Nature Power</tmset_move>
                 <tmset_move>Gyro Ball</tmset_move>
                 <tmset_move>Dark Pulse</tmset_move>
-                <tmset_move>Focus Blast</tmset_move>
                 <tmset_move>Energy Ball</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Trick Room</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
                 <tmset_move>Charge Beam</tmset_move>
