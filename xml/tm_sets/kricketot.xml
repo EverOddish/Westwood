@@ -6,13 +6,6 @@
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Struggle Bug</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>

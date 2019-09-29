@@ -6,93 +6,7 @@
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Cut</tmset_move>
-                <tmset_move>Thunderbolt</tmset_move>
-                <tmset_move>Thunder</tmset_move>
-                <tmset_move>Dig</tmset_move>
-                <tmset_move>Toxic</tmset_move>
-                <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
-                <tmset_move>Flash</tmset_move>
-                <tmset_move>Rest</tmset_move>
-                <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
-                <tmset_move>Protect</tmset_move>
-                <tmset_move>Endure</tmset_move>
-                <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
-                <tmset_move>Sleep Talk</tmset_move>
-                <tmset_move>Return</tmset_move>
-                <tmset_move>Frustration</tmset_move>
-                <tmset_move>Iron Tail</tmset_move>
-                <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
-                <tmset_move>Torment</tmset_move>
-                <tmset_move>Facade</tmset_move>
-                <tmset_move>Taunt</tmset_move>
-                <tmset_move>Snatch</tmset_move>
-                <tmset_move>Secret Power</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Shock Wave</tmset_move>
-                <tmset_move>Water Pulse</tmset_move>
-                <tmset_move>Natural Gift</tmset_move>
-                <tmset_move>U Turn</tmset_move>
-                <tmset_move>Payback</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Captivate</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Platinum</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Cut</tmset_move>
-                <tmset_move>Thunderbolt</tmset_move>
-                <tmset_move>Thunder</tmset_move>
-                <tmset_move>Dig</tmset_move>
-                <tmset_move>Toxic</tmset_move>
-                <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
-                <tmset_move>Flash</tmset_move>
-                <tmset_move>Rest</tmset_move>
-                <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
-                <tmset_move>Protect</tmset_move>
-                <tmset_move>Endure</tmset_move>
-                <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
-                <tmset_move>Sleep Talk</tmset_move>
-                <tmset_move>Return</tmset_move>
-                <tmset_move>Frustration</tmset_move>
-                <tmset_move>Iron Tail</tmset_move>
-                <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
-                <tmset_move>Torment</tmset_move>
-                <tmset_move>Facade</tmset_move>
-                <tmset_move>Taunt</tmset_move>
-                <tmset_move>Snatch</tmset_move>
-                <tmset_move>Secret Power</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Shock Wave</tmset_move>
-                <tmset_move>Water Pulse</tmset_move>
-                <tmset_move>Natural Gift</tmset_move>
-                <tmset_move>U Turn</tmset_move>
-                <tmset_move>Payback</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Captivate</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
@@ -140,45 +54,6 @@
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Cut</tmset_move>
-                <tmset_move>Thunderbolt</tmset_move>
-                <tmset_move>Thunder</tmset_move>
-                <tmset_move>Dig</tmset_move>
-                <tmset_move>Toxic</tmset_move>
-                <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
-                <tmset_move>Flash</tmset_move>
-                <tmset_move>Rest</tmset_move>
-                <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
-                <tmset_move>Protect</tmset_move>
-                <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
-                <tmset_move>Return</tmset_move>
-                <tmset_move>Frustration</tmset_move>
-                <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
-                <tmset_move>Torment</tmset_move>
-                <tmset_move>Facade</tmset_move>
-                <tmset_move>Taunt</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>U Turn</tmset_move>
-                <tmset_move>Payback</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Hone Claws</tmset_move>
-                <tmset_move>Round</tmset_move>
-                <tmset_move>Echoed Voice</tmset_move>
-                <tmset_move>Retaliate</tmset_move>
-                <tmset_move>Work Up</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
@@ -307,42 +182,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Thunderbolt</tmset_move>
-                <tmset_move>Thunder</tmset_move>
-                <tmset_move>Toxic</tmset_move>
-                <tmset_move>Double Team</tmset_move>
-                <tmset_move>Dream Eater</tmset_move>
-                <tmset_move>Rest</tmset_move>
-                <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
-                <tmset_move>Protect</tmset_move>
-                <tmset_move>Swagger</tmset_move>
-                <tmset_move>Attract</tmset_move>
-                <tmset_move>Sleep Talk</tmset_move>
-                <tmset_move>Return</tmset_move>
-                <tmset_move>Frustration</tmset_move>
-                <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Sunny Day</tmset_move>
-                <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Shadow Ball</tmset_move>
-                <tmset_move>Torment</tmset_move>
-                <tmset_move>Facade</tmset_move>
-                <tmset_move>Taunt</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>U Turn</tmset_move>
-                <tmset_move>Payback</tmset_move>
-                <tmset_move>Shadow Claw</tmset_move>
-                <tmset_move>Round</tmset_move>
-                <tmset_move>Echoed Voice</tmset_move>
-                <tmset_move>Work Up</tmset_move>
-                <tmset_move>Confide</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

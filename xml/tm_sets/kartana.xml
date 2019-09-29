@@ -6,32 +6,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Swords Dance</tmset_move>
-                <tmset_move>Toxic</tmset_move>
-                <tmset_move>Double Team</tmset_move>
-                <tmset_move>Rest</tmset_move>
-                <tmset_move>Substitute</tmset_move>
-                <tmset_move>Protect</tmset_move>
-                <tmset_move>False Swipe</tmset_move>
-                <tmset_move>Swagger</tmset_move>
-                <tmset_move>Sleep Talk</tmset_move>
-                <tmset_move>Return</tmset_move>
-                <tmset_move>Frustration</tmset_move>
-                <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Brick Break</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Calm Mind</tmset_move>
-                <tmset_move>X Scissor</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Round</tmset_move>
-                <tmset_move>Confide</tmset_move>
-                <tmset_move>Smart Strike</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

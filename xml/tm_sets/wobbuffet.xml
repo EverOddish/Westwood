@@ -6,31 +6,10 @@
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Safeguard</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Safeguard</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Safeguard</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

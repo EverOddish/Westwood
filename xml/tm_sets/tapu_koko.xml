@@ -6,54 +6,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <tmset_moves>
-                <tmset_move>Fly</tmset_move>
-                <tmset_move>Roar</tmset_move>
-                <tmset_move>Hyper Beam</tmset_move>
-                <tmset_move>Thunderbolt</tmset_move>
-                <tmset_move>Thunder Wave</tmset_move>
-                <tmset_move>Thunder</tmset_move>
-                <tmset_move>Toxic</tmset_move>
-                <tmset_move>Double Team</tmset_move>
-                <tmset_move>Light Screen</tmset_move>
-                <tmset_move>Reflect</tmset_move>
-                <tmset_move>Substitute</tmset_move>
-                <tmset_move>Thief</tmset_move>
-                <tmset_move>Protect</tmset_move>
-                <tmset_move>False Swipe</tmset_move>
-                <tmset_move>Swagger</tmset_move>
-                <tmset_move>Steel Wing</tmset_move>
-                <tmset_move>Sleep Talk</tmset_move>
-                <tmset_move>Return</tmset_move>
-                <tmset_move>Frustration</tmset_move>
-                <tmset_move>Safeguard</tmset_move>
-                <tmset_move>Hidden Power</tmset_move>
-                <tmset_move>Rain Dance</tmset_move>
-                <tmset_move>Psych Up</tmset_move>
-                <tmset_move>Torment</tmset_move>
-                <tmset_move>Facade</tmset_move>
-                <tmset_move>Nature Power</tmset_move>
-                <tmset_move>Taunt</tmset_move>
-                <tmset_move>Aerial Ace</tmset_move>
-                <tmset_move>Calm Mind</tmset_move>
-                <tmset_move>Roost</tmset_move>
-                <tmset_move>U Turn</tmset_move>
-                <tmset_move>Giga Impact</tmset_move>
-                <tmset_move>Grass Knot</tmset_move>
-                <tmset_move>Round</tmset_move>
-                <tmset_move>Echoed Voice</tmset_move>
-                <tmset_move>Sky Drop</tmset_move>
-                <tmset_move>Acrobatics</tmset_move>
-                <tmset_move>Volt Switch</tmset_move>
-                <tmset_move>Work Up</tmset_move>
-                <tmset_move>Wild Charge</tmset_move>
-                <tmset_move>Confide</tmset_move>
-                <tmset_move>Dazzling Gleam</tmset_move>
-            </tmset_moves>
-        </tm_set>
-        <tm_set>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
