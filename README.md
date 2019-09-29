@@ -1,6 +1,8 @@
 # Westwood
 
-Westwood is an open source project that stores high-quality Pokemon game data in a human-readable format that is easy to extend and use.
+Westwood stores high-quality Pokemon game data in a human-readable format that is easy to extend and use.
+
+Westwood can be used in any Pokemon software project that requires Pokemon data. The API and final data representation are flexible because they can be defined by the client software project. Westwood does not enforce a particular API or data representation.
 
 ## Data Format
 
@@ -24,7 +26,24 @@ To auto-generate Django models inside the django-westwood app, run the following
 
     python3 convert_to_django.py
 
-This will read every XSD file and generate Python classes that describe each model. Then, a database will be generated using the models, and populated from the XML data by running a Django data migration.
+This will read every XSD file and generate Python classes that describe each model. Then, a database can be generated using the models, and populated from the XML data by running a Django data migration.
+
+Add the Westwood Django app to a Django project by copying the django-westwood/westwood directory to the project, and editing the project's settings.py file:
+
+    INSTALLED_APPS = [
+        'westwood.apps.WestwoodConfig',
+        ...
+    ]
+
+Next, copy the provided westwood_router.py file to the Django project. This will direct all Westwood models and data to a separate database. Then, edit settings.py again:
+
+    DATABASE_ROUTERS = ['SampleDjangoProject.westwood_router.WestwoodDatabaseRouter']
+
+Finally, run the migration to populate the Westwood database:
+
+    python manage.py migrate --database=westwood
+
+If all was successful, a westwood.sqlite3 file (or other database) should now exist with all Westwood data.
 
 ## Contributing
 
