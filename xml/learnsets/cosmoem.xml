@@ -6,20 +6,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Teleport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>1</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

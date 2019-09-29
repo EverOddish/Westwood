@@ -57,60 +57,6 @@
         <learnset>
             <games>
                 <game>Pokemon Platinum</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Gas</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>44</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
@@ -169,64 +115,6 @@
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Gas</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid Spray</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
@@ -289,68 +177,6 @@
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Gas</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid Spray</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belch</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
             </games>
@@ -417,80 +243,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Gas</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid Spray</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venom Drench</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belch</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>45</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

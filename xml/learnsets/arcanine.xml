@@ -6,28 +6,6 @@
             <games>
                 <game>Pokemon Red</game>
                 <game>Pokemon Blue</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Yellow</game>
             </games>
             <learnset_moves>
@@ -53,32 +31,6 @@
             <games>
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Wheel</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Crystal</game>
             </games>
             <learnset_moves>
@@ -108,59 +60,7 @@
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
@@ -191,99 +91,9 @@
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>39</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Platinum</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>39</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>39</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
@@ -318,132 +128,12 @@
             <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>34</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>34</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>34</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>34</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

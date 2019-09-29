@@ -77,32 +77,6 @@
             <games>
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>23</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Crystal</game>
             </games>
             <learnset_moves>
@@ -132,32 +106,6 @@
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>23</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Emerald</game>
             </games>
             <learnset_moves>
@@ -219,75 +167,7 @@
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Platinum</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
@@ -326,44 +206,6 @@
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
@@ -406,136 +248,10 @@
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

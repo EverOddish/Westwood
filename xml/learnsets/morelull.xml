@@ -6,68 +6,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Absorb</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flash</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Moonlight</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ingrain</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Strength Sap</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spore</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Moonblast</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spotlight</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

@@ -6,32 +6,6 @@
             <games>
                 <game>Pokemon Red</game>
                 <game>Pokemon Blue</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Clamp</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Yellow</game>
             </games>
             <learnset_moves>
@@ -88,68 +62,8 @@
         <learnset>
             <games>
                 <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>41</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>41</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Emerald</game>
             </games>
             <learnset_moves>
@@ -215,75 +129,7 @@
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>40</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Platinum</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>40</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
@@ -322,44 +168,6 @@
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icicle Crash</name>
-                    <level>52</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
@@ -402,148 +210,10 @@
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shell Smash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icicle Crash</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shell Smash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icicle Crash</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shell Smash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spike Cannon</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icicle Crash</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

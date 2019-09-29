@@ -6,68 +6,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Gas</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smog</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Burst</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nasty Plot</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venom Drench</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

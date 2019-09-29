@@ -6,48 +6,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Teeter Dance</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatic Mist</name>
-                    <level>33</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

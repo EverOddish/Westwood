@@ -6,64 +6,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stockpile</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spit Up</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swallow</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psych Up</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wood Hammer</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

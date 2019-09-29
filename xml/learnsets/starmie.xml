@@ -6,24 +6,6 @@
             <games>
                 <game>Pokemon Red</game>
                 <game>Pokemon Blue</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Yellow</game>
             </games>
             <learnset_moves>
@@ -45,32 +27,6 @@
             <games>
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>37</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Crystal</game>
             </games>
             <learnset_moves>
@@ -100,59 +56,7 @@
             <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>33</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>33</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
@@ -183,87 +87,9 @@
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>28</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Platinum</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>28</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>28</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
             </games>
@@ -386,40 +212,6 @@
             <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spotlight</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>40</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>

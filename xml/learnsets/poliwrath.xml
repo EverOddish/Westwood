@@ -6,36 +6,6 @@
             <games>
                 <game>Pokemon Red</game>
                 <game>Pokemon Blue</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>19</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Yellow</game>
             </games>
             <learnset_moves>
@@ -69,130 +39,10 @@
             <games>
                 <game>Pokemon Gold</game>
                 <game>Pokemon Silver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ruby</game>
                 <game>Pokemon Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon FireRed</game>
                 <game>Pokemon LeafGreen</game>
             </games>
@@ -227,67 +77,7 @@
             <games>
                 <game>Pokemon Diamond</game>
                 <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dynamic Punch</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Platinum</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dynamic Punch</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon HeartGold</game>
                 <game>Pokemon SoulSilver</game>
             </games>
@@ -322,40 +112,6 @@
             <games>
                 <game>Pokemon Black</game>
                 <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dynamic Punch</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Circle Throw</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Black 2</game>
                 <game>Pokemon White 2</game>
             </games>
@@ -394,124 +150,10 @@
             <games>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Circle Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dynamic Punch</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Circle Throw</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Omega Ruby</game>
                 <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Circle Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dynamic Punch</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Circle Throw</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Submission</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Circle Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dynamic Punch</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mind Reader</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Circle Throw</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
                 <game>Pokemon Ultra Sun</game>
                 <game>Pokemon Ultra Moon</game>
             </games>
