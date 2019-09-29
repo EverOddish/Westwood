@@ -65,7 +65,7 @@ def import_pokemon(apps, schema_editor):
                 number_tag = pokedex_number_tag.find('number')
 
                 pokedex_number_object = PokedexNumber(name=name_tag.text, number=number_tag.text)
-                pokedex_number_object.save()
+                pokedex_number_object.save(using=db_alias)
 
                 pokedex_numbers_list_element_object = PokedexNumbersListElement(list_id=list_id, sequence_number=sequence_number, element_id=pokedex_number_object.id)
                 pokedex_numbers_list_element_objects.append(pokedex_numbers_list_element_object)
@@ -171,6 +171,74 @@ def import_misc(apps, schema_editor):
         print('Error parsing XML file: ' + pokemon_file)
     LearnMethod.objects.using(db_alias).bulk_create(learn_method_objects)
 
+def import_learnsets(apps, schema_editor):
+    PokemonLearnsets = apps.get_model('westwood', 'PokemonLearnsets')
+    Learnset = apps.get_model('westwood', 'Learnset')
+    LearnsetsListElement = apps.get_model('westwood', 'LearnsetsListElement')
+    LearnsetMove = apps.get_model('westwood', 'LearnsetMove')
+    LearnsetMovesListElement = apps.get_model('westwood', 'LearnsetMovesListElement')
+    Game = apps.get_model('westwood', 'Game')
+    GamesListElement = apps.get_model('westwood', 'GamesListElement')
+    db_alias = schema_editor.connection.alias
+
+    learnsets_path = os.path.join(WESTWOOD_XML_PATH, 'learnsets')
+    learnset_moves_list_counter = 1
+    games_list_counter = 1
+    learnsets_list_counter = 1
+
+    for learnset_file in glob.glob(os.path.join(learnsets_path, '*.xml')):
+        print('Processing: ' + learnset_file)
+        try:
+            pokemon_learnsets_tag = etree.parse(learnset_file)
+            pokemon_name = pokemon_learnsets_tag.find('name').text
+            
+            learnsets_list_id = learnsets_list_counter
+            learnsets_list_counter += 1
+            learnsets_sequence_number = 1
+            learnsets_list_element_objects = []
+            for learnset_tag in pokemon_learnsets_tag.iter('learnset'):
+
+                learnset_moves_list_id = learnset_moves_list_counter
+                learnset_moves_list_counter += 1
+                sequence_number = 1
+                learnset_moves_list_element_objects = []
+                for learnset_move in learnset_tag.iter('learnset_move'):
+                    name_tag = learnset_move.find('name')
+                    level_tag = learnset_move.find('level')
+                    learnset_move_object = LearnsetMove(name=name_tag.text, level=level_tag.text)
+                    learnset_move_object.save(using=db_alias)
+
+                    learnset_moves_list_element_object = LearnsetMovesListElement(list_id=learnset_moves_list_id, sequence_number=sequence_number, element=learnset_move_object)
+                    learnset_moves_list_element_objects.append(learnset_moves_list_element_object)
+                    sequence_number += 1
+                LearnsetMovesListElement.objects.using(db_alias).bulk_create(learnset_moves_list_element_objects)
+
+                games_list_id = games_list_counter
+                games_list_counter += 1
+                sequence_number = 1
+                games_list_element_objects = []
+                for game in learnset_tag.iter('game'):
+                    game_object = Game.objects.using(db_alias).filter(name=game.text)[0]
+                    games_list_element_object = GamesListElement(list_id=games_list_id, sequence_number=sequence_number, element=game_object)
+                    games_list_element_objects.append(games_list_element_object)
+                    sequence_number += 1
+                GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
+
+                learnset_object = Learnset(games=games_list_id, learnset_moves=learnset_moves_list_id)
+                learnset_object.save(using=db_alias)
+
+                learnsets_list_element_object = LearnsetsListElement(list_id=learnsets_list_id, sequence_number=learnsets_sequence_number, element=learnset_object)
+                learnsets_list_element_objects.append(learnsets_list_element_object)
+                learnsets_sequence_number += 1
+
+            LearnsetsListElement.objects.using(db_alias).bulk_create(learnsets_list_element_objects)
+
+            pokemon_learnsets_object = PokemonLearnsets(name=pokemon_name, learnsets=learnsets_list_id)
+            pokemon_learnsets_object.save(using=db_alias)
+
+        except etree.XMLSyntaxError:
+            print('Error parsing XML file: ' + learnset_file)
+
 class Migration(migrations.Migration):
 
     dependencies = [
@@ -183,4 +251,5 @@ class Migration(migrations.Migration):
         migrations.RunPython(import_moves),
         migrations.RunPython(import_abilities),
         migrations.RunPython(import_misc),
+        migrations.RunPython(import_learnsets),
     ]
