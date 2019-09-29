@@ -205,8 +205,7 @@ def import_learnsets(apps, schema_editor):
                 for learnset_move in learnset_tag.iter('learnset_move'):
                     name_tag = learnset_move.find('name')
                     level_tag = learnset_move.find('level')
-                    learnset_move_object = LearnsetMove(name=name_tag.text, level=level_tag.text)
-                    learnset_move_object.save(using=db_alias)
+                    learnset_move_object, created = LearnsetMove.objects.using(db_alias).get_or_create(name=name_tag.text, level=level_tag.text)
 
                     learnset_moves_list_element_object = LearnsetMovesListElement(list_id=learnset_moves_list_id, sequence_number=sequence_number, element=learnset_move_object)
                     learnset_moves_list_element_objects.append(learnset_moves_list_element_object)
