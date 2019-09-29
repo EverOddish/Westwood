@@ -15,6 +15,7 @@ def cache_game_ids(apps, db):
     return game_ids
 
 def import_games(apps, schema_editor):
+    print('\nImporting Game data...')
     Game = apps.get_model('westwood', 'Game')
     db_alias = schema_editor.connection.alias
 
@@ -42,6 +43,7 @@ def import_games(apps, schema_editor):
     Game.objects.using(db_alias).bulk_create(game_objects)
 
 def import_pokemon(apps, schema_editor):
+    print('Importing Pokemon data...')
     Pokemon = apps.get_model('westwood', 'Pokemon')
     PokedexNumber = apps.get_model('westwood', 'PokedexNumber')
     PokedexNumbersListElement = apps.get_model('westwood', 'PokedexNumbersListElement')
@@ -84,6 +86,7 @@ def import_pokemon(apps, schema_editor):
     Pokemon.objects.using(db_alias).bulk_create(pokemon_objects)
 
 def import_moves(apps, schema_editor):
+    print('Importing Move data...')
     Move = apps.get_model('westwood', 'Move')
     db_alias = schema_editor.connection.alias
 
@@ -111,6 +114,7 @@ def import_moves(apps, schema_editor):
     Move.objects.using(db_alias).bulk_create(move_objects)
 
 def import_abilities(apps, schema_editor):
+    print('Importing Ability data...')
     Ability = apps.get_model('westwood', 'Ability')
     GamesListElement = apps.get_model('westwood', 'GamesListElement')
     db_alias = schema_editor.connection.alias
@@ -148,6 +152,7 @@ def import_abilities(apps, schema_editor):
     Ability.objects.using(db_alias).bulk_create(ability_objects)
 
 def import_misc(apps, schema_editor):
+    print('Importing Misc data...')
     Type = apps.get_model('westwood', 'Type')
     LearnMethod = apps.get_model('westwood', 'LearnMethod')
     db_alias = schema_editor.connection.alias
@@ -172,6 +177,7 @@ def import_misc(apps, schema_editor):
     LearnMethod.objects.using(db_alias).bulk_create(learn_method_objects)
 
 def import_learnsets(apps, schema_editor):
+    print('Importing Learnset data...')
     PokemonLearnsets = apps.get_model('westwood', 'PokemonLearnsets')
     Learnset = apps.get_model('westwood', 'Learnset')
     LearnsetsListElement = apps.get_model('westwood', 'LearnsetsListElement')
@@ -187,7 +193,7 @@ def import_learnsets(apps, schema_editor):
     learnsets_list_counter = 1
 
     for learnset_file in glob.glob(os.path.join(learnsets_path, '*.xml')):
-        print('Processing: ' + learnset_file)
+        #print('Processing: ' + learnset_file)
         try:
             pokemon_learnsets_tag = etree.parse(learnset_file)
             pokemon_name = pokemon_learnsets_tag.find('name').text
@@ -212,6 +218,7 @@ def import_learnsets(apps, schema_editor):
                     sequence_number += 1
                 LearnsetMovesListElement.objects.using(db_alias).bulk_create(learnset_moves_list_element_objects)
 
+                # TODO: Determine if a matching games list already exists, and reference that list instead of creating a duplicate.
                 games_list_id = games_list_counter
                 games_list_counter += 1
                 sequence_number = 1
@@ -238,6 +245,73 @@ def import_learnsets(apps, schema_editor):
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + learnset_file)
 
+def import_tmsets(apps, schema_editor):
+    print('Importing TmSet data...')
+    PokemonTmSets = apps.get_model('westwood', 'PokemonTmSets')
+    TmSet = apps.get_model('westwood', 'TmSet')
+    TmSetsListElement = apps.get_model('westwood', 'TmSetsListElement')
+    TmsetMove = apps.get_model('westwood', 'TmsetMove')
+    TmsetMovesListElement = apps.get_model('westwood', 'TmsetMovesListElement')
+    Game = apps.get_model('westwood', 'Game')
+    GamesListElement = apps.get_model('westwood', 'GamesListElement')
+    db_alias = schema_editor.connection.alias
+
+    tm_sets_path = os.path.join(WESTWOOD_XML_PATH, 'tm_sets')
+    tmset_moves_list_counter = 1
+    games_list_counter = 1
+    tm_sets_list_counter = 1
+
+    for tm_set_file in glob.glob(os.path.join(tm_sets_path, '*.xml')):
+        #print('Processing: ' + tm_set_file)
+        try:
+            pokemon_tm_sets_tag = etree.parse(tm_set_file)
+            pokemon_name = pokemon_tm_sets_tag.find('name').text
+            
+            tm_sets_list_id = tm_sets_list_counter
+            tm_sets_list_counter += 1
+            tm_sets_sequence_number = 1
+            tm_sets_list_element_objects = []
+            for tm_set_tag in pokemon_tm_sets_tag.iter('tm_set'):
+
+                tmset_moves_list_id = tmset_moves_list_counter
+                tmset_moves_list_counter += 1
+                sequence_number = 1
+                tmset_moves_list_element_objects = []
+                for tmset_move in tm_set_tag.iter('tmset_move'):
+                    tmset_move_object, created = TmsetMove.objects.using(db_alias).get_or_create(name=tmset_move.text)
+
+                    tmset_moves_list_element_object = TmsetMovesListElement(list_id=tmset_moves_list_id, sequence_number=sequence_number, element=tmset_move_object)
+                    tmset_moves_list_element_objects.append(tmset_moves_list_element_object)
+                    sequence_number += 1
+                TmsetMovesListElement.objects.using(db_alias).bulk_create(tmset_moves_list_element_objects)
+
+                # TODO: Determine if a matching games list already exists, and reference that list instead of creating a duplicate.
+                games_list_id = games_list_counter
+                games_list_counter += 1
+                sequence_number = 1
+                games_list_element_objects = []
+                for game in tm_set_tag.iter('game'):
+                    game_object = Game.objects.using(db_alias).filter(name=game.text)[0]
+                    games_list_element_object = GamesListElement(list_id=games_list_id, sequence_number=sequence_number, element=game_object)
+                    games_list_element_objects.append(games_list_element_object)
+                    sequence_number += 1
+                GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
+
+                tmset_object = TmSet(games=games_list_id, tmset_moves=tmset_moves_list_id)
+                tmset_object.save(using=db_alias)
+
+                tm_sets_list_element_object = TmSetsListElement(list_id=tm_sets_list_id, sequence_number=tm_sets_sequence_number, element=tmset_object)
+                tm_sets_list_element_objects.append(tm_sets_list_element_object)
+                tm_sets_sequence_number += 1
+
+            TmSetsListElement.objects.using(db_alias).bulk_create(tm_sets_list_element_objects)
+
+            pokemon_tm_sets_object = PokemonTmSets(name=pokemon_name, tm_sets=tm_sets_list_id)
+            pokemon_tm_sets_object.save(using=db_alias)
+
+        except etree.XMLSyntaxError:
+            print('Error parsing XML file: ' + learnset_file)
+
 class Migration(migrations.Migration):
 
     dependencies = [
@@ -251,4 +325,5 @@ class Migration(migrations.Migration):
         migrations.RunPython(import_abilities),
         migrations.RunPython(import_misc),
         migrations.RunPython(import_learnsets),
+        migrations.RunPython(import_tmsets),
     ]
