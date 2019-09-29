@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_learnsets>
-    <name>Gourgeist-Average</name>
+    <name>Meowstic</name>
     <learnsets>
         <learnset>
             <games>
@@ -11,88 +11,88 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Confuse Ray</name>
+                    <name>Scratch</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Explosion</name>
+                    <name>Leer</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick</name>
+                    <name>Mean Look</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Astonish</name>
+                    <name>Helping Hand</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Phantom Force</name>
+                    <name>Quick Guard</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Scary Face</name>
-                    <level>4</level>
+                    <name>Covet</name>
+                    <level>5</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
-                    <level>6</level>
+                    <name>Confusion</name>
+                    <level>9</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>11</level>
+                    <name>Light Screen</name>
+                    <level>13</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>16</level>
+                    <name>Psybeam</name>
+                    <level>17</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>20</level>
+                    <name>Fake Out</name>
+                    <level>19</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
-                    <level>23</level>
+                    <name>Disarming Voice</name>
+                    <level>22</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>26</level>
+                    <name>Psyshock</name>
+                    <level>25</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Shadow Sneak</name>
-                    <level>30</level>
+                    <name>Charm</name>
+                    <level>28</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>36</level>
+                    <name>Miracle Eye</name>
+                    <level>31</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
+                    <name>Reflect</name>
+                    <level>35</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Psychic</name>
                     <level>40</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Pain Split</name>
-                    <level>42</level>
+                    <name>Role Play</name>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Seed Bomb</name>
+                    <name>Imprison</name>
+                    <level>45</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Sucker Punch</name>
                     <level>48</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Phantom Force</name>
-                    <level>57</level>
+                    <name>Misty Terrain</name>
+                    <level>50</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>70</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>75</level>
+                    <name>Quick Guard</name>
+                    <level>53</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>
@@ -105,88 +105,96 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Confuse Ray</name>
+                    <name>Scratch</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Explosion</name>
+                    <name>Leer</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Scary Face</name>
+                    <name>Confusion</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick</name>
+                    <name>Mean Look</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Astonish</name>
+                    <name>Helping Hand</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Phantom Force</name>
+                    <name>Covet</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Scary Face</name>
-                    <level>4</level>
+                    <name>Quick Guard</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
-                    <level>6</level>
+                    <name>Covet</name>
+                    <level>5</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>11</level>
+                    <name>Confusion</name>
+                    <level>9</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>16</level>
+                    <name>Light Screen</name>
+                    <level>13</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>20</level>
+                    <name>Psybeam</name>
+                    <level>17</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
-                    <level>23</level>
+                    <name>Fake Out</name>
+                    <level>19</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>26</level>
+                    <name>Disarming Voice</name>
+                    <level>22</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Shadow Sneak</name>
-                    <level>30</level>
+                    <name>Psyshock</name>
+                    <level>25</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>36</level>
+                    <name>Charm</name>
+                    <level>28</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
+                    <name>Miracle Eye</name>
+                    <level>31</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Reflect</name>
+                    <level>35</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Psychic</name>
                     <level>40</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Pain Split</name>
-                    <level>42</level>
+                    <name>Role Play</name>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Seed Bomb</name>
+                    <name>Imprison</name>
+                    <level>45</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Sucker Punch</name>
                     <level>48</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Phantom Force</name>
-                    <level>57</level>
+                    <name>Misty Terrain</name>
+                    <level>50</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>70</level>
+                    <name>Quick Guard</name>
+                    <level>53</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>

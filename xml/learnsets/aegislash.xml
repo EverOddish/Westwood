@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_learnsets>
-    <name>Minior-Red-Meteor</name>
+    <name>Aegislash</name>
     <learnsets>
         <learnset>
             <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
                 <game>Pokemon Ultra Sun</game>
@@ -11,64 +15,60 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Tackle</name>
+                    <name>Swords Dance</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>3</level>
+                    <name>Slash</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Rollout</name>
-                    <level>8</level>
+                    <name>Fury Cutter</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>10</level>
+                    <name>Pursuit</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Swift</name>
-                    <level>15</level>
+                    <name>Aerial Ace</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>17</level>
+                    <name>Iron Defense</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>22</level>
+                    <name>Power Trick</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Stealth Rock</name>
-                    <level>24</level>
+                    <name>Night Slash</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Take Down</name>
-                    <level>29</level>
+                    <name>Shadow Sneak</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Iron Head</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Head Smash</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Autotomize</name>
-                    <level>31</level>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>36</level>
+                    <name>Sacred Sword</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Power Gem</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shell Smash</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>50</level>
+                    <name>Kings Shield</name>
+                    <level>1</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>

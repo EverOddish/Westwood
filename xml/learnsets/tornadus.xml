@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_learnsets>
-    <name>Basculin-Red-Striped</name>
+    <name>Tornadus</name>
     <learnsets>
         <learnset>
             <games>
@@ -11,68 +11,72 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
+                    <name>Gust</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Uproar</name>
-                    <level>4</level>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Headbutt</name>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Swagger</name>
                     <level>7</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Bite</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
                     <level>13</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Chip Away</name>
-                    <level>16</level>
+                    <name>Revenge</name>
+                    <level>19</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Take Down</name>
-                    <level>20</level>
+                    <name>Air Cutter</name>
+                    <level>25</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Extrasensory</name>
+                    <level>31</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Agility</name>
+                    <level>37</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Air Slash</name>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Crunch</name>
-                    <level>24</level>
+                    <level>49</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>28</level>
+                    <name>Tailwind</name>
+                    <level>55</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Soak</name>
-                    <level>32</level>
+                    <name>Rain Dance</name>
+                    <level>61</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Double Edge</name>
-                    <level>36</level>
+                    <name>Hurricane</name>
+                    <level>67</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Scary Face</name>
-                    <level>41</level>
+                    <name>Dark Pulse</name>
+                    <level>73</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Flail</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Final Gambit</name>
-                    <level>51</level>
+                    <name>Hammer Arm</name>
+                    <level>79</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Thrash</name>
-                    <level>56</level>
+                    <level>85</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>
@@ -85,80 +89,88 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Tackle</name>
+                    <name>Gust</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Thrash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Uproar</name>
-                    <level>4</level>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Headbutt</name>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Tailwind</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Hurricane</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Swagger</name>
                     <level>7</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Bite</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
                     <level>13</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Chip Away</name>
-                    <level>16</level>
+                    <name>Revenge</name>
+                    <level>19</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Take Down</name>
-                    <level>20</level>
+                    <name>Air Cutter</name>
+                    <level>25</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Extrasensory</name>
+                    <level>31</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Agility</name>
+                    <level>37</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Air Slash</name>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Crunch</name>
-                    <level>24</level>
+                    <level>49</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>28</level>
+                    <name>Tailwind</name>
+                    <level>55</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Soak</name>
-                    <level>32</level>
+                    <name>Rain Dance</name>
+                    <level>61</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Double Edge</name>
-                    <level>36</level>
+                    <name>Hurricane</name>
+                    <level>67</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Scary Face</name>
-                    <level>41</level>
+                    <name>Dark Pulse</name>
+                    <level>73</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Flail</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Final Gambit</name>
-                    <level>50</level>
+                    <name>Hammer Arm</name>
+                    <level>79</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Thrash</name>
-                    <level>56</level>
+                    <level>85</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>
@@ -171,76 +183,84 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Tackle</name>
+                    <name>Gust</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Tail Whip</name>
+                    <name>Thrash</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Water Gun</name>
+                    <name>Swagger</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Uproar</name>
-                    <level>3</level>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Headbutt</name>
-                    <level>5</level>
+                    <name>Astonish</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Hammer Arm</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Hurricane</name>
+                    <level>1</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Bite</name>
                     <level>7</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>9</level>
+                    <name>Revenge</name>
+                    <level>13</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Chip Away</name>
-                    <level>11</level>
+                    <name>Air Cutter</name>
+                    <level>19</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Take Down</name>
-                    <level>14</level>
+                    <name>Extrasensory</name>
+                    <level>25</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Agility</name>
+                    <level>31</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Air Slash</name>
+                    <level>37</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Crunch</name>
-                    <level>17</level>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>20</level>
+                    <name>Tailwind</name>
+                    <level>49</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Soak</name>
-                    <level>23</level>
+                    <name>Rain Dance</name>
+                    <level>55</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Double Edge</name>
-                    <level>26</level>
+                    <name>Hurricane</name>
+                    <level>61</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Scary Face</name>
-                    <level>30</level>
+                    <name>Dark Pulse</name>
+                    <level>67</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Flail</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Final Gambit</name>
-                    <level>38</level>
+                    <name>Hammer Arm</name>
+                    <level>73</level>
                 </learnset_move>
                 <learnset_move>
                     <name>Thrash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Smash</name>
-                    <level>46</level>
+                    <level>79</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>

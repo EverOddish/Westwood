@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_learnsets>
-    <name>Pumpkaboo-Average</name>
+    <name>Oricorio</name>
     <learnsets>
         <learnset>
             <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
                 <game>Pokemon Sun</game>
                 <game>Pokemon Moon</game>
                 <game>Pokemon Ultra Sun</game>
@@ -15,64 +11,68 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Confuse Ray</name>
+                    <name>Pound</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
+                    <name>Growl</name>
                     <level>4</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
+                    <name>Peck</name>
                     <level>6</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>11</level>
+                    <name>Helping Hand</name>
+                    <level>10</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Razor Leaf</name>
+                    <name>Air Cutter</name>
+                    <level>13</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Baton Pass</name>
                     <level>16</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Leech Seed</name>
+                    <name>Feather Dance</name>
                     <level>20</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
+                    <name>Double Slap</name>
                     <level>23</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Bullet Seed</name>
+                    <name>Teeter Dance</name>
                     <level>26</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Shadow Sneak</name>
+                    <name>Roost</name>
                     <level>30</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Shadow Ball</name>
+                    <name>Captivate</name>
+                    <level>33</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Air Slash</name>
                     <level>36</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Trick Or Treat</name>
+                    <name>Revelation Dance</name>
                     <level>40</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Pain Split</name>
-                    <level>42</level>
+                    <name>Mirror Move</name>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Seed Bomb</name>
-                    <level>48</level>
+                    <name>Agility</name>
+                    <level>46</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Hurricane</name>
+                    <level>50</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>

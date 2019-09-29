@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_learnsets>
-    <name>Darmanitan-Standard</name>
+    <name>Meloetta</name>
     <learnsets>
         <learnset>
             <games>
@@ -15,84 +15,64 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Tackle</name>
+                    <name>Round</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Incinerate</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Incinerate</name>
+                    <name>Quick Attack</name>
                     <level>6</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Rage</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
+                    <name>Confusion</name>
                     <level>11</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Headbutt</name>
-                    <level>14</level>
+                    <name>Sing</name>
+                    <level>16</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Swagger</name>
-                    <level>17</level>
+                    <name>Teeter Dance</name>
+                    <level>21</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Facade</name>
-                    <level>19</level>
+                    <name>Acrobatics</name>
+                    <level>26</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>22</level>
+                    <name>Psybeam</name>
+                    <level>31</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Work Up</name>
-                    <level>25</level>
+                    <name>Echoed Voice</name>
+                    <level>36</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Thrash</name>
-                    <level>27</level>
+                    <name>U Turn</name>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>30</level>
+                    <name>Wake Up Slap</name>
+                    <level>50</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>33</level>
+                    <name>Psychic</name>
+                    <level>57</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>35</level>
+                    <name>Hyper Voice</name>
+                    <level>64</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Taunt</name>
-                    <level>39</level>
+                    <name>Role Play</name>
+                    <level>71</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Superpower</name>
-                    <level>47</level>
+                    <name>Close Combat</name>
+                    <level>78</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Overheat</name>
-                    <level>54</level>
+                    <name>Perish Song</name>
+                    <level>85</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>
@@ -105,84 +85,76 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Tackle</name>
+                    <name>Sing</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Rage</name>
+                    <name>Confusion</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Rollout</name>
+                    <name>Quick Attack</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Hammer Arm</name>
+                    <name>Round</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Incinerate</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Incinerate</name>
+                    <name>Quick Attack</name>
                     <level>6</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Rage</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
+                    <name>Confusion</name>
                     <level>11</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Headbutt</name>
-                    <level>14</level>
+                    <name>Sing</name>
+                    <level>16</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Swagger</name>
-                    <level>17</level>
+                    <name>Teeter Dance</name>
+                    <level>21</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Facade</name>
-                    <level>19</level>
+                    <name>Acrobatics</name>
+                    <level>26</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>22</level>
+                    <name>Psybeam</name>
+                    <level>31</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Work Up</name>
-                    <level>25</level>
+                    <name>Echoed Voice</name>
+                    <level>36</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Thrash</name>
-                    <level>27</level>
+                    <name>U Turn</name>
+                    <level>43</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>30</level>
+                    <name>Wake Up Slap</name>
+                    <level>50</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>33</level>
+                    <name>Psychic</name>
+                    <level>57</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Taunt</name>
-                    <level>39</level>
+                    <name>Hyper Voice</name>
+                    <level>64</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Superpower</name>
-                    <level>47</level>
+                    <name>Role Play</name>
+                    <level>71</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Overheat</name>
-                    <level>54</level>
+                    <name>Close Combat</name>
+                    <level>78</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Perish Song</name>
+                    <level>85</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>

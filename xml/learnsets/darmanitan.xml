@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_learnsets>
-    <name>Meowstic-Male</name>
+    <name>Darmanitan</name>
     <learnsets>
         <learnset>
             <games>
+                <game>Pokemon Black</game>
+                <game>Pokemon White</game>
+                <game>Pokemon Black 2</game>
+                <game>Pokemon White 2</game>
                 <game>Pokemon X</game>
                 <game>Pokemon Y</game>
                 <game>Pokemon Omega Ruby</game>
@@ -11,88 +15,84 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Scratch</name>
+                    <name>Tackle</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Leer</name>
+                    <name>Rage</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Mean Look</name>
+                    <name>Rollout</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Helping Hand</name>
+                    <name>Incinerate</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>1</level>
+                    <name>Rollout</name>
+                    <level>3</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Covet</name>
-                    <level>5</level>
+                    <name>Incinerate</name>
+                    <level>6</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Confusion</name>
+                    <name>Rage</name>
                     <level>9</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Light Screen</name>
-                    <level>13</level>
+                    <name>Fire Fang</name>
+                    <level>11</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Psybeam</name>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Swagger</name>
                     <level>17</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Fake Out</name>
+                    <name>Facade</name>
                     <level>19</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Disarming Voice</name>
+                    <name>Fire Punch</name>
                     <level>22</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Psyshock</name>
+                    <name>Work Up</name>
                     <level>25</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Charm</name>
-                    <level>28</level>
+                    <name>Thrash</name>
+                    <level>27</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Miracle Eye</name>
-                    <level>31</level>
+                    <name>Belly Drum</name>
+                    <level>30</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Reflect</name>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Hammer Arm</name>
                     <level>35</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Psychic</name>
-                    <level>40</level>
+                    <name>Taunt</name>
+                    <level>39</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Role Play</name>
-                    <level>43</level>
+                    <name>Superpower</name>
+                    <level>47</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Imprison</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Misty Terrain</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>53</level>
+                    <name>Overheat</name>
+                    <level>54</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>
@@ -105,96 +105,84 @@
             </games>
             <learnset_moves>
                 <learnset_move>
-                    <name>Scratch</name>
+                    <name>Tackle</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Leer</name>
+                    <name>Rage</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Confusion</name>
+                    <name>Rollout</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Mean Look</name>
+                    <name>Hammer Arm</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Helping Hand</name>
+                    <name>Incinerate</name>
                     <level>1</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Covet</name>
-                    <level>1</level>
+                    <name>Rollout</name>
+                    <level>3</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>1</level>
+                    <name>Incinerate</name>
+                    <level>6</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Covet</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
+                    <name>Rage</name>
                     <level>9</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Light Screen</name>
-                    <level>13</level>
+                    <name>Fire Fang</name>
+                    <level>11</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Psybeam</name>
+                    <name>Headbutt</name>
+                    <level>14</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Swagger</name>
                     <level>17</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Fake Out</name>
+                    <name>Facade</name>
                     <level>19</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Disarming Voice</name>
+                    <name>Fire Punch</name>
                     <level>22</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Psyshock</name>
+                    <name>Work Up</name>
                     <level>25</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Charm</name>
-                    <level>28</level>
+                    <name>Thrash</name>
+                    <level>27</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Miracle Eye</name>
-                    <level>31</level>
+                    <name>Belly Drum</name>
+                    <level>30</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Reflect</name>
-                    <level>35</level>
+                    <name>Flare Blitz</name>
+                    <level>33</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Psychic</name>
-                    <level>40</level>
+                    <name>Taunt</name>
+                    <level>39</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Role Play</name>
-                    <level>43</level>
+                    <name>Superpower</name>
+                    <level>47</level>
                 </learnset_move>
                 <learnset_move>
-                    <name>Imprison</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Misty Terrain</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>53</level>
+                    <name>Overheat</name>
+                    <level>54</level>
                 </learnset_move>
             </learnset_moves>
         </learnset>
