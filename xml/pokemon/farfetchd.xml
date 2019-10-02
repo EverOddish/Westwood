@@ -36,6 +36,16 @@
 				<game>Pokemon Y</game>
 				<game>Pokemon Omega Ruby</game>
 				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<hp>52</hp>
+			<attack>65</attack>
+			<defense>55</defense>
+			<special_attack>58</special_attack>
+			<special_defense>62</special_defense>
+			<speed>60</speed>
+		</stat_set>
+		<stat_set>
+			<games>
 				<game>Pokemon Sun</game>
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
