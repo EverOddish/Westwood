@@ -51,6 +51,24 @@
         </xs:complexType>
     </xs:element>
 
+    <xs:element name="type_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element name="type1" type="xs:string"/>
+                <xs:element name="type2" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="type_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="type_set" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
     <xs:element name="pokemon">
         <xs:complexType>
             <xs:sequence>
@@ -59,6 +77,7 @@
                 <xs:element name="height" type="xs:positiveInteger"/>
                 <xs:element name="weight" type="xs:positiveInteger"/>
                 <xs:element ref="stat_sets"/>
+                <xs:element ref="type_sets"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
