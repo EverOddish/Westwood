@@ -46,12 +46,23 @@ class StatSetsListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(StatSet, on_delete=models.CASCADE)
 
+class TypeSet(models.Model):
+    games = models.IntegerField()    # Games list_id
+    type1 = models.CharField(max_length=500)
+    type2 = models.CharField(max_length=500, null=True)
+
+class TypeSetsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(TypeSet, on_delete=models.CASCADE)
+
 class Pokemon(models.Model):
     name = models.CharField(max_length=500)
     pokedex_numbers = models.IntegerField()    # PokedexNumbers list_id
     height = models.IntegerField(default=0)
     weight = models.IntegerField(default=0)
     stat_sets = models.IntegerField()    # StatSets list_id
+    type_sets = models.IntegerField()    # TypeSets list_id
 
 class Move(models.Model):
     name = models.CharField(max_length=500)
@@ -62,6 +73,8 @@ class Move(models.Model):
     accuracy = models.CharField(max_length=500)
     priority = models.CharField(max_length=500)
     damage_category = models.CharField(max_length=500)
+    effect = models.CharField(max_length=500, null=True)
+    effect_chance = models.CharField(max_length=500)
 
 class Ability(models.Model):
     name = models.CharField(max_length=500)

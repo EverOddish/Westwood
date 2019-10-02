@@ -88,14 +88,18 @@ with open(django_models_path, 'w') as models_file:
                                 content += '    element = models.ForeignKey(' + original_class_name + ', on_delete=models.CASCADE)\n'
 
                             # Find all the simple xs:elements to describe the model's fields
-                            child_elements = element.xpath(".//xs:element[not(@minOccurs)]", namespaces={'xs': NS})
+                            child_elements = element.xpath(".//xs:element[not(@minOccurs='1')]", namespaces={'xs': NS})
                             for field in child_elements:
                                 name = field.get('name')
                                 if name:
                                     name = check_field_name(name)
                                     content += '    ' + name + ' = models.' 
                                     if field.get('type') == 'xs:string':
-                                        content += 'CharField(max_length=500)'
+                                        minOccurs = field.get('minOccurs')
+                                        if minOccurs == '0':
+                                            content += 'CharField(max_length=500, null=True)'
+                                        else:
+                                            content += 'CharField(max_length=500)'
                                     elif field.get('type') == 'xs:positiveInteger':
                                         content += 'IntegerField(default=0)'
                                     elif field.get('type') == 'xs:date':

@@ -97,6 +97,8 @@ def import_pokemon(apps, schema_editor):
     Game = apps.get_model('westwood', 'Game')
     StatSet = apps.get_model('westwood', 'StatSet')
     StatSetsListElement = apps.get_model('westwood', 'StatSetsListElement')
+    TypeSet = apps.get_model('westwood', 'TypeSet')
+    TypeSetsListElement = apps.get_model('westwood', 'TypeSetsListElement')
     db_alias = schema_editor.connection.alias
 
     pokemon_path = os.path.join(WESTWOOD_XML_PATH, 'pokemon')
@@ -104,6 +106,7 @@ def import_pokemon(apps, schema_editor):
     pokedex_numbers_list_element_objects = []
     list_counter = 1
     stat_sets_list_counter = 1
+    type_sets_list_counter = 1
     context = {}
 
     for pokemon_file in glob.glob(os.path.join(pokemon_path, '*.xml')):
@@ -152,7 +155,30 @@ def import_pokemon(apps, schema_editor):
 
             StatSetsListElement.objects.using(db_alias).bulk_create(stat_sets_list_element_objects)
 
-            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id)
+            type_sets_list_id = type_sets_list_counter
+            type_sets_list_counter += 1
+            type_sets_sequence_number = 1
+            type_sets_list_element_objects = []
+            for type_set_tag in pokemon_tag.iter('type_set'):
+
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, type_set_tag.iter('game'))
+
+                type1 = type_set_tag.find('type1').text
+                type2 = type_set_tag.find('type2')
+                if None != type2:
+                    type2 = type2.text
+                else:
+                    type2 = ''
+                type_set_object = TypeSet(games=games_list_id, type1=type1, type2=type2)
+                type_set_object.save(using=db_alias)
+
+                type_sets_list_element_object = TypeSetsListElement(list_id=type_sets_list_id, sequence_number=type_sets_sequence_number, element=type_set_object)
+                type_sets_list_element_objects.append(type_sets_list_element_object)
+                type_sets_sequence_number += 1
+
+            TypeSetsListElement.objects.using(db_alias).bulk_create(type_sets_list_element_objects)
+
+            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id)
             pokemon_objects.append(pokemon_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)
