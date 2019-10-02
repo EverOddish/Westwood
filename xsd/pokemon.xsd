@@ -46,7 +46,7 @@
     <xs:element name="stat_sets">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="stat_set" minOccurs="1"/>
+                <xs:element ref="stat_set" minOccurs="1" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

@@ -32,6 +32,16 @@
 				<game>Pokemon White</game>
 				<game>Pokemon Black 2</game>
 				<game>Pokemon White 2</game>
+			</games>
+			<hp>95</hp>
+			<attack>70</attack>
+			<defense>73</defense>
+			<special_attack>85</special_attack>
+			<special_defense>90</special_defense>
+			<speed>60</speed>
+		</stat_set>
+		<stat_set>
+			<games>
 				<game>Pokemon X</game>
 				<game>Pokemon Y</game>
 				<game>Pokemon Omega Ruby</game>
