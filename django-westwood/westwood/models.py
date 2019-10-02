@@ -27,11 +27,31 @@ class PokedexNumbersListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(PokedexNumber, on_delete=models.CASCADE)
 
+class GamesListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(Game, on_delete=models.CASCADE)
+
+class StatSet(models.Model):
+    games = models.IntegerField()    # Games list_id
+    hp = models.IntegerField(default=0)
+    attack = models.IntegerField(default=0)
+    defense = models.IntegerField(default=0)
+    special_attack = models.IntegerField(default=0)
+    special_defense = models.IntegerField(default=0)
+    speed = models.IntegerField(default=0)
+
+class StatSetsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(StatSet, on_delete=models.CASCADE)
+
 class Pokemon(models.Model):
     name = models.CharField(max_length=500)
     pokedex_numbers = models.IntegerField()    # PokedexNumbers list_id
     height = models.IntegerField(default=0)
     weight = models.IntegerField(default=0)
+    stat_sets = models.IntegerField()    # StatSets list_id
 
 class Move(models.Model):
     name = models.CharField(max_length=500)
@@ -42,11 +62,6 @@ class Move(models.Model):
     accuracy = models.CharField(max_length=500)
     priority = models.CharField(max_length=500)
     damage_category = models.CharField(max_length=500)
-
-class GamesListElement(models.Model):
-    list_id = models.IntegerField()
-    sequence_number = models.IntegerField()
-    element = models.ForeignKey(Game, on_delete=models.CASCADE)
 
 class Ability(models.Model):
     name = models.CharField(max_length=500)
