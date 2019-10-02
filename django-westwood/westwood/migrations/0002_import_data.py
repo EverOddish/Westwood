@@ -3,6 +3,7 @@ from datetime import timezone
 import glob
 import os
 from django.db import migrations
+from django.db.models import Max
 from lxml import etree
 
 WESTWOOD_XML_PATH = os.path.join('..', 'Westwood', 'xml')
@@ -13,6 +14,52 @@ def cache_game_ids(apps, db):
     for game in Game.objects.using(db).all():
         game_ids[game.name] = game.id
     return game_ids
+
+def get_or_create_games_list(apps, db_alias, context, tags):
+    Game = apps.get_model('westwood', 'Game')
+    GamesListElement = apps.get_model('westwood', 'GamesListElement')
+
+    # Search for an existing list
+    new_games_list = []
+    for game in tags:
+        new_games_list.append(game.text)
+
+    existing_games_list_ids = context
+    if len(existing_games_list_ids.keys()) == 0:
+        # Games lists haven't been cached from the database, so query them now
+        max_list_id = 0
+        aggregation = GamesListElement.objects.aggregate(Max('list_id')).get('list_id__max')
+        if aggregation:
+            max_list_id = aggregation
+
+        for i in range(max_list_id):
+            current_list_id = i + 1
+            list_elements = GamesListElement.objects.filter(list_id=current_list_id)
+            existing_list = []
+            for elem in list_elements:
+                existing_list.append(elem.element.name)
+            existing_games_list_ids[tuple(existing_list)] = current_list_id
+    else:
+        max_list_id = len(existing_games_list_ids.keys())
+
+    for existing_games_list in existing_games_list_ids.keys():
+        if list(existing_games_list) == new_games_list:
+            existing_id = existing_games_list_ids[existing_games_list]
+            return existing_games_list_ids, existing_id
+
+    # Games list does not exist, so create it
+    games_list_id = max_list_id + 1
+    sequence_number = 1
+    games_list_element_objects = []
+    for game in new_games_list:
+        game_object = Game.objects.using(db_alias).filter(name=game)[0]
+        games_list_element_object = GamesListElement(list_id=games_list_id, sequence_number=sequence_number, element=game_object)
+        games_list_element_objects.append(games_list_element_object)
+        sequence_number += 1
+    GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
+    existing_games_list_ids[tuple(new_games_list)] = games_list_id
+
+    return existing_games_list_ids, games_list_id
 
 def import_games(apps, schema_editor):
     print('\nImporting Game data...')
@@ -48,7 +95,6 @@ def import_pokemon(apps, schema_editor):
     PokedexNumber = apps.get_model('westwood', 'PokedexNumber')
     PokedexNumbersListElement = apps.get_model('westwood', 'PokedexNumbersListElement')
     Game = apps.get_model('westwood', 'Game')
-    GamesListElement = apps.get_model('westwood', 'GamesListElement')
     StatSet = apps.get_model('westwood', 'StatSet')
     StatSetsListElement = apps.get_model('westwood', 'StatSetsListElement')
     db_alias = schema_editor.connection.alias
@@ -58,7 +104,7 @@ def import_pokemon(apps, schema_editor):
     pokedex_numbers_list_element_objects = []
     list_counter = 1
     stat_sets_list_counter = 1
-    games_list_counter = 1
+    context = {}
 
     for pokemon_file in glob.glob(os.path.join(pokemon_path, '*.xml')):
         #print('Processing: ' + pokemon_file)
@@ -89,17 +135,7 @@ def import_pokemon(apps, schema_editor):
             stat_sets_list_element_objects = []
             for stat_set_tag in pokemon_tag.iter('stat_set'):
 
-                # TODO: Determine if a matching games list already exists, and reference that list instead of creating a duplicate.
-                games_list_id = games_list_counter
-                games_list_counter += 1
-                sequence_number = 1
-                games_list_element_objects = []
-                for game in stat_set_tag.iter('game'):
-                    game_object = Game.objects.using(db_alias).filter(name=game.text)[0]
-                    games_list_element_object = GamesListElement(list_id=games_list_id, sequence_number=sequence_number, element=game_object)
-                    games_list_element_objects.append(games_list_element_object)
-                    sequence_number += 1
-                GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, stat_set_tag.iter('game'))
 
                 hp = int(stat_set_tag.find('hp').text)
                 attack = int(stat_set_tag.find('attack').text)
@@ -155,7 +191,6 @@ def import_moves(apps, schema_editor):
 def import_abilities(apps, schema_editor):
     print('Importing Ability data...')
     Ability = apps.get_model('westwood', 'Ability')
-    GamesListElement = apps.get_model('westwood', 'GamesListElement')
     db_alias = schema_editor.connection.alias
 
     ability_path = os.path.join(WESTWOOD_XML_PATH, 'abilities')
@@ -163,6 +198,7 @@ def import_abilities(apps, schema_editor):
     games_list_element_objects = []
     list_counter = 1
     game_ids = cache_game_ids(apps, db_alias)
+    context = {}
 
     for ability_file in glob.glob(os.path.join(ability_path, '*.xml')):
         #print('Processing: ' + ability_file)
@@ -171,23 +207,13 @@ def import_abilities(apps, schema_editor):
             name_tag = ability_tag.find('name')
             description_tag = ability_tag.find('description')
 
-            # TODO: Determine if a matching games list already exists, and reference that list instead of creating a duplicate.
-            list_id = list_counter
-            list_counter += 1
-            sequence_number = 1
-            for game_tag in ability_tag.iter('game'):
-                game_name = game_tag.text
-                game_id = game_ids[game_name]
-                games_list_element_object = GamesListElement(list_id=list_id, sequence_number=sequence_number, element_id=game_id)
-                games_list_element_objects.append(games_list_element_object)
-                sequence_number += 1
+            context, list_id = get_or_create_games_list(apps, db_alias, context, ability_tag.iter('game'))
 
             ability_object = Ability(name=name_tag.text, description=description_tag.text, games=list_id)
             ability_objects.append(ability_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)
 
-    GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
     Ability.objects.using(db_alias).bulk_create(ability_objects)
 
 def import_misc(apps, schema_editor):
@@ -222,14 +248,13 @@ def import_learnsets(apps, schema_editor):
     LearnsetsListElement = apps.get_model('westwood', 'LearnsetsListElement')
     LearnsetMove = apps.get_model('westwood', 'LearnsetMove')
     LearnsetMovesListElement = apps.get_model('westwood', 'LearnsetMovesListElement')
-    Game = apps.get_model('westwood', 'Game')
-    GamesListElement = apps.get_model('westwood', 'GamesListElement')
     db_alias = schema_editor.connection.alias
 
     learnsets_path = os.path.join(WESTWOOD_XML_PATH, 'learnsets')
     learnset_moves_list_counter = 1
     games_list_counter = 1
     learnsets_list_counter = 1
+    context = {}
 
     for learnset_file in glob.glob(os.path.join(learnsets_path, '*.xml')):
         #print('Processing: ' + learnset_file)
@@ -257,17 +282,7 @@ def import_learnsets(apps, schema_editor):
                     sequence_number += 1
                 LearnsetMovesListElement.objects.using(db_alias).bulk_create(learnset_moves_list_element_objects)
 
-                # TODO: Determine if a matching games list already exists, and reference that list instead of creating a duplicate.
-                games_list_id = games_list_counter
-                games_list_counter += 1
-                sequence_number = 1
-                games_list_element_objects = []
-                for game in learnset_tag.iter('game'):
-                    game_object = Game.objects.using(db_alias).filter(name=game.text)[0]
-                    games_list_element_object = GamesListElement(list_id=games_list_id, sequence_number=sequence_number, element=game_object)
-                    games_list_element_objects.append(games_list_element_object)
-                    sequence_number += 1
-                GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, learnset_tag.iter('game'))
 
                 learnset_object = Learnset(games=games_list_id, learnset_moves=learnset_moves_list_id)
                 learnset_object.save(using=db_alias)
@@ -291,14 +306,13 @@ def import_tmsets(apps, schema_editor):
     TmSetsListElement = apps.get_model('westwood', 'TmSetsListElement')
     TmsetMove = apps.get_model('westwood', 'TmsetMove')
     TmsetMovesListElement = apps.get_model('westwood', 'TmsetMovesListElement')
-    Game = apps.get_model('westwood', 'Game')
-    GamesListElement = apps.get_model('westwood', 'GamesListElement')
     db_alias = schema_editor.connection.alias
 
     tm_sets_path = os.path.join(WESTWOOD_XML_PATH, 'tm_sets')
     tmset_moves_list_counter = 1
     games_list_counter = 1
     tm_sets_list_counter = 1
+    context = {}
 
     for tm_set_file in glob.glob(os.path.join(tm_sets_path, '*.xml')):
         #print('Processing: ' + tm_set_file)
@@ -324,17 +338,7 @@ def import_tmsets(apps, schema_editor):
                     sequence_number += 1
                 TmsetMovesListElement.objects.using(db_alias).bulk_create(tmset_moves_list_element_objects)
 
-                # TODO: Determine if a matching games list already exists, and reference that list instead of creating a duplicate.
-                games_list_id = games_list_counter
-                games_list_counter += 1
-                sequence_number = 1
-                games_list_element_objects = []
-                for game in tm_set_tag.iter('game'):
-                    game_object = Game.objects.using(db_alias).filter(name=game.text)[0]
-                    games_list_element_object = GamesListElement(list_id=games_list_id, sequence_number=sequence_number, element=game_object)
-                    games_list_element_objects.append(games_list_element_object)
-                    sequence_number += 1
-                GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, tm_set_tag.iter('game'))
 
                 tmset_object = TmSet(games=games_list_id, tmset_moves=tmset_moves_list_id)
                 tmset_object.save(using=db_alias)
