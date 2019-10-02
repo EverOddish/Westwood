@@ -47,12 +47,18 @@ def import_pokemon(apps, schema_editor):
     Pokemon = apps.get_model('westwood', 'Pokemon')
     PokedexNumber = apps.get_model('westwood', 'PokedexNumber')
     PokedexNumbersListElement = apps.get_model('westwood', 'PokedexNumbersListElement')
+    Game = apps.get_model('westwood', 'Game')
+    GamesListElement = apps.get_model('westwood', 'GamesListElement')
+    StatSet = apps.get_model('westwood', 'StatSet')
+    StatSetsListElement = apps.get_model('westwood', 'StatSetsListElement')
     db_alias = schema_editor.connection.alias
 
     pokemon_path = os.path.join(WESTWOOD_XML_PATH, 'pokemon')
     pokemon_objects = []
     pokedex_numbers_list_element_objects = []
     list_counter = 1
+    stat_sets_list_counter = 1
+    games_list_counter = 1
 
     for pokemon_file in glob.glob(os.path.join(pokemon_path, '*.xml')):
         #print('Processing: ' + pokemon_file)
@@ -77,7 +83,40 @@ def import_pokemon(apps, schema_editor):
             height_tag = pokemon_tag.find('height')
             weight_tag = pokemon_tag.find('weight')
 
-            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text)
+            stat_sets_list_id = stat_sets_list_counter
+            stat_sets_list_counter += 1
+            stat_sets_sequence_number = 1
+            stat_sets_list_element_objects = []
+            for stat_set_tag in pokemon_tag.iter('stat_set'):
+
+                # TODO: Determine if a matching games list already exists, and reference that list instead of creating a duplicate.
+                games_list_id = games_list_counter
+                games_list_counter += 1
+                sequence_number = 1
+                games_list_element_objects = []
+                for game in stat_set_tag.iter('game'):
+                    game_object = Game.objects.using(db_alias).filter(name=game.text)[0]
+                    games_list_element_object = GamesListElement(list_id=games_list_id, sequence_number=sequence_number, element=game_object)
+                    games_list_element_objects.append(games_list_element_object)
+                    sequence_number += 1
+                GamesListElement.objects.using(db_alias).bulk_create(games_list_element_objects)
+
+                hp = int(stat_set_tag.find('hp').text)
+                attack = int(stat_set_tag.find('attack').text)
+                defense = int(stat_set_tag.find('defense').text)
+                special_attack = int(stat_set_tag.find('special_attack').text)
+                special_defense = int(stat_set_tag.find('special_defense').text)
+                speed = int(stat_set_tag.find('speed').text)
+                stat_set_object = StatSet(games=games_list_id, hp=hp, attack=attack, defense=defense, special_attack=special_attack, special_defense=special_defense, speed=speed)
+                stat_set_object.save(using=db_alias)
+
+                stat_sets_list_element_object = StatSetsListElement(list_id=stat_sets_list_id, sequence_number=stat_sets_sequence_number, element=stat_set_object)
+                stat_sets_list_element_objects.append(stat_sets_list_element_object)
+                stat_sets_sequence_number += 1
+
+            StatSetsListElement.objects.using(db_alias).bulk_create(stat_sets_list_element_objects)
+
+            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id)
             pokemon_objects.append(pokemon_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)
