@@ -1,12 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon>
-    <name>Haunter</name>
-    <pokedex_numbers>
-        <pokedex_number>
-            <name>National</name>
-            <number>93</number>
-        </pokedex_number>
-    </pokedex_numbers>
-    <height>16</height>
-    <weight>1</weight>
+	<name>Haunter</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>93</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>16</height>
+	<weight>1</weight>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>45</hp>
+			<attack>50</attack>
+			<defense>45</defense>
+			<special_attack>115</special_attack>
+			<special_defense>55</special_defense>
+			<speed>95</speed>
+		</stat_set>
+	</stat_sets>
 </pokemon>
