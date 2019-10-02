@@ -21,6 +21,36 @@
         </xs:complexType>
     </xs:element>
 
+    <xs:element name="games">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="stat_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element name="hp" type="xs:positiveInteger"/>
+                <xs:element name="attack" type="xs:positiveInteger"/>
+                <xs:element name="defense" type="xs:positiveInteger"/>
+                <xs:element name="special_attack" type="xs:positiveInteger"/>
+                <xs:element name="special_defense" type="xs:positiveInteger"/>
+                <xs:element name="speed" type="xs:positiveInteger"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="stat_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="stat_set" minOccurs="1"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
     <xs:element name="pokemon">
         <xs:complexType>
             <xs:sequence>
@@ -28,6 +58,7 @@
                 <xs:element ref="pokedex_numbers"/>
                 <xs:element name="height" type="xs:positiveInteger"/>
                 <xs:element name="weight" type="xs:positiveInteger"/>
+                <xs:element ref="stat_sets"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
