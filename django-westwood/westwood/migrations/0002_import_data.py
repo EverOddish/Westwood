@@ -99,6 +99,10 @@ def import_pokemon(apps, schema_editor):
     StatSetsListElement = apps.get_model('westwood', 'StatSetsListElement')
     TypeSet = apps.get_model('westwood', 'TypeSet')
     TypeSetsListElement = apps.get_model('westwood', 'TypeSetsListElement')
+    AbilityRecord = apps.get_model('westwood', 'AbilityRecord')
+    AbilityRecordsListElement = apps.get_model('westwood', 'AbilityRecordsListElement')
+    AbilitySet = apps.get_model('westwood', 'AbilitySet')
+    AbilitySetsListElement = apps.get_model('westwood', 'AbilitySetsListElement')
     db_alias = schema_editor.connection.alias
 
     pokemon_path = os.path.join(WESTWOOD_XML_PATH, 'pokemon')
@@ -107,6 +111,8 @@ def import_pokemon(apps, schema_editor):
     list_counter = 1
     stat_sets_list_counter = 1
     type_sets_list_counter = 1
+    ability_sets_list_counter = 1
+    ability_records_list_counter = 1
     context = {}
 
     for pokemon_file in glob.glob(os.path.join(pokemon_path, '*.xml')):
@@ -178,7 +184,38 @@ def import_pokemon(apps, schema_editor):
 
             TypeSetsListElement.objects.using(db_alias).bulk_create(type_sets_list_element_objects)
 
-            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id)
+            ability_sets_list_id = ability_sets_list_counter
+            ability_sets_list_counter += 1
+            ability_sets_sequence_number = 1
+            ability_sets_list_element_objects = []
+            for ability_set_tag in pokemon_tag.iter('ability_set'):
+
+                ability_records_list_id = ability_records_list_counter
+                ability_records_list_counter += 1
+                sequence_number = 1
+                ability_records_list_element_objects = []
+                for ability_record in ability_set_tag.iter('ability_record'):
+                    ability_name_tag = ability_record.find('name')
+                    hidden_tag = ability_record.find('hidden')
+                    ability_record_object, created = AbilityRecord.objects.using(db_alias).get_or_create(name=ability_name_tag.text, hidden=hidden_tag.text)
+
+                    ability_records_list_element_object = AbilityRecordsListElement(list_id=ability_records_list_id, sequence_number=sequence_number, element=ability_record_object)
+                    ability_records_list_element_objects.append(ability_records_list_element_object)
+                    sequence_number += 1
+                AbilityRecordsListElement.objects.using(db_alias).bulk_create(ability_records_list_element_objects)
+
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, ability_set_tag.iter('game'))
+
+                ability_set_object = AbilitySet(games=games_list_id, ability_records=ability_records_list_id)
+                ability_set_object.save(using=db_alias)
+
+                ability_sets_list_element_object = AbilitySetsListElement(list_id=ability_sets_list_id, sequence_number=ability_sets_sequence_number, element=ability_set_object)
+                ability_sets_list_element_objects.append(ability_sets_list_element_object)
+                ability_sets_sequence_number += 1
+
+            AbilitySetsListElement.objects.using(db_alias).bulk_create(ability_sets_list_element_objects)
+
+            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id)
             pokemon_objects.append(pokemon_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)
