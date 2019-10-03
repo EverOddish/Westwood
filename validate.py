@@ -60,6 +60,10 @@ schema = os.path.join('xsd', 'learn_methods.xsd')
 target = os.path.join('xml', 'misc', 'learn_methods.xml')
 run_xmllint(schema, target)
 
+schema = os.path.join('xsd', 'item.xsd')
+target = os.path.join('xml', 'misc', 'items.xml')
+run_xmllint(schema, target)
+
 if len(invalid_files) > 0:
     raise SystemExit("Invalid data!")
 else:

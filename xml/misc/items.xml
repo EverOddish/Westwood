@@ -1,0 +1,4773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<items>
+    <item>
+        <name>Master Ball</name>
+        <cost>34</cost>
+        <description>Catches a wild Pokémon every time.</description>
+    </item>
+    <item>
+        <name>Ultra Ball</name>
+        <cost>34</cost>
+        <description>Tries to catch a wild Pokémon.  Success rate is 2×.</description>
+    </item>
+    <item>
+        <name>Great Ball</name>
+        <cost>34</cost>
+        <description>Tries to catch a wild Pokémon.  Success rate is 1.5×.</description>
+    </item>
+    <item>
+        <name>Poke Ball</name>
+        <cost>34</cost>
+        <description>Tries to catch a wild Pokémon.</description>
+    </item>
+    <item>
+        <name>Safari Ball</name>
+        <cost>34</cost>
+        <description>Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×.</description>
+    </item>
+    <item>
+        <name>Net Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon.</description>
+    </item>
+    <item>
+        <name>Dive Ball</name>
+        <cost>33</cost>
+        <description>"Tries to catch a wild Pokémon. Success rate is 3.5× when underwater</description>
+    </item>
+    <item>
+        <name>Nest Ball</name>
+        <cost>33</cost>
+        <description>"Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon</description>
+    </item>
+    <item>
+        <name>Repeat Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon.</description>
+    </item>
+    <item>
+        <name>Timer Ball</name>
+        <cost>33</cost>
+        <description>"Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn</description>
+    </item>
+    <item>
+        <name>Luxury Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness.</description>
+    </item>
+    <item>
+        <name>Premier Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.</description>
+    </item>
+    <item>
+        <name>Dusk Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.</description>
+    </item>
+    <item>
+        <name>Heal Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed.</description>
+    </item>
+    <item>
+        <name>Quick Ball</name>
+        <cost>33</cost>
+        <description>"Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×)</description>
+    </item>
+    <item>
+        <name>Cherish Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.</description>
+    </item>
+    <item>
+        <name>Potion</name>
+        <cost>27</cost>
+        <description>Restores 20 HP.</description>
+    </item>
+    <item>
+        <name>Antidote</name>
+        <cost>30</cost>
+        <description>Cures poison.</description>
+    </item>
+    <item>
+        <name>Burn Heal</name>
+        <cost>30</cost>
+        <description>Cures a burn.</description>
+    </item>
+    <item>
+        <name>Ice Heal</name>
+        <cost>30</cost>
+        <description>Cures freezing.</description>
+    </item>
+    <item>
+        <name>Awakening</name>
+        <cost>30</cost>
+        <description>Cures sleep.</description>
+    </item>
+    <item>
+        <name>Paralyze Heal</name>
+        <cost>30</cost>
+        <description>Cures paralysis.</description>
+    </item>
+    <item>
+        <name>Full Restore</name>
+        <cost>27</cost>
+        <description>Restores HP to full and cures any status ailment and confusion.</description>
+    </item>
+    <item>
+        <name>Max Potion</name>
+        <cost>27</cost>
+        <description>Restores HP to full.</description>
+    </item>
+    <item>
+        <name>Hyper Potion</name>
+        <cost>27</cost>
+        <description>Restores 200 HP.</description>
+    </item>
+    <item>
+        <name>Super Potion</name>
+        <cost>27</cost>
+        <description>Restores 50 HP.</description>
+    </item>
+    <item>
+        <name>Full Heal</name>
+        <cost>30</cost>
+        <description>Cures any status ailment and confusion.</description>
+    </item>
+    <item>
+        <name>Revive</name>
+        <cost>29</cost>
+        <description>Revives with half HP.</description>
+    </item>
+    <item>
+        <name>Max Revive</name>
+        <cost>29</cost>
+        <description>Revives with full HP.</description>
+    </item>
+    <item>
+        <name>Fresh Water</name>
+        <cost>27</cost>
+        <description>Restores 50 HP.</description>
+    </item>
+    <item>
+        <name>Soda Pop</name>
+        <cost>27</cost>
+        <description>Restores 60 HP.</description>
+    </item>
+    <item>
+        <name>Lemonade</name>
+        <cost>27</cost>
+        <description>Restores 80 HP.</description>
+    </item>
+    <item>
+        <name>Moomoo Milk</name>
+        <cost>27</cost>
+        <description>Restores 100 HP.</description>
+    </item>
+    <item>
+        <name>Energy Powder</name>
+        <cost>27</cost>
+        <description>"Restores 50 HP</description>
+    </item>
+    <item>
+        <name>Energy Root</name>
+        <cost>27</cost>
+        <description>"Restores 200 HP</description>
+    </item>
+    <item>
+        <name>Heal Powder</name>
+        <cost>30</cost>
+        <description>"Cures any status ailment</description>
+    </item>
+    <item>
+        <name>Revival Herb</name>
+        <cost>29</cost>
+        <description>"Revives with full HP</description>
+    </item>
+    <item>
+        <name>Ether</name>
+        <cost>28</cost>
+        <description>Restores 10 PP for one move.</description>
+    </item>
+    <item>
+        <name>Max Ether</name>
+        <cost>28</cost>
+        <description>Restores PP to full for one move.</description>
+    </item>
+    <item>
+        <name>Elixir</name>
+        <cost>28</cost>
+        <description>Restores 10 PP for each move.</description>
+    </item>
+    <item>
+        <name>Max Elixir</name>
+        <cost>28</cost>
+        <description>Restores PP to full for each move.</description>
+    </item>
+    <item>
+        <name>Lava Cookie</name>
+        <cost>30</cost>
+        <description>Cures any status ailment and confusion.</description>
+    </item>
+    <item>
+        <name>Berry Juice</name>
+        <cost>27</cost>
+        <description>Restores 20 HP.</description>
+    </item>
+    <item>
+        <name>Sacred Ash</name>
+        <cost>29</cost>
+        <description>Revives all fainted Pokémon with full HP.</description>
+    </item>
+    <item>
+        <name>Hp Up</name>
+        <cost>26</cost>
+        <description>Raises HP effort and happiness.</description>
+    </item>
+    <item>
+        <name>Protein</name>
+        <cost>26</cost>
+        <description>Raises Attack effort and happiness.</description>
+    </item>
+    <item>
+        <name>Iron</name>
+        <cost>26</cost>
+        <description>Raises Defense effort and happiness.</description>
+    </item>
+    <item>
+        <name>Carbos</name>
+        <cost>26</cost>
+        <description>Raises Speed effort and happiness.</description>
+    </item>
+    <item>
+        <name>Calcium</name>
+        <cost>26</cost>
+        <description>Raises Special Attack effort and happiness.</description>
+    </item>
+    <item>
+        <name>Rare Candy</name>
+        <cost>26</cost>
+        <description>Causes a level-up and raises happiness.</description>
+    </item>
+    <item>
+        <name>Pp Up</name>
+        <cost>26</cost>
+        <description>Raises a move's max PP by 20%.</description>
+    </item>
+    <item>
+        <name>Zinc</name>
+        <cost>26</cost>
+        <description>Raises Special Defense and happiness.</description>
+    </item>
+    <item>
+        <name>Pp Max</name>
+        <cost>26</cost>
+        <description>Raises a move's max PP by 60%.</description>
+    </item>
+    <item>
+        <name>Old Gateau</name>
+        <cost>30</cost>
+        <description>Cures any status ailment and confusion.</description>
+    </item>
+    <item>
+        <name>Guard Spec</name>
+        <cost>1</cost>
+        <description>Prevents stat changes in battle for five turns in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>Dire Hit</name>
+        <cost>1</cost>
+        <description>Increases the chance of a critical hit in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>X Attack</name>
+        <cost>1</cost>
+        <description>Raises Attack by one stage in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>X Defense</name>
+        <cost>1</cost>
+        <description>Raises Defense by one stage in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>X Speed</name>
+        <cost>1</cost>
+        <description>Raises Speed by one stage in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>X Accuracy</name>
+        <cost>1</cost>
+        <description>Raises accuracy by one stage in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>X Sp Atk</name>
+        <cost>1</cost>
+        <description>Raises Special Attack by one stage in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>X Sp Def</name>
+        <cost>1</cost>
+        <description>Raises Special Defense by one stage in battle.  Raises happiness.</description>
+    </item>
+    <item>
+        <name>Poke Doll</name>
+        <cost>11</cost>
+        <description>Ends a wild battle.</description>
+    </item>
+    <item>
+        <name>Fluffy Tail</name>
+        <cost>11</cost>
+        <description>Ends a wild battle.</description>
+    </item>
+    <item>
+        <name>Blue Flute</name>
+        <cost>38</cost>
+        <description>Cures sleep.</description>
+    </item>
+    <item>
+        <name>Yellow Flute</name>
+        <cost>38</cost>
+        <description>Cures confusion.</description>
+    </item>
+    <item>
+        <name>Red Flute</name>
+        <cost>38</cost>
+        <description>Cures attraction.</description>
+    </item>
+    <item>
+        <name>Black Flute</name>
+        <cost>11</cost>
+        <description>Halves the wild Pokémon encounter rate.</description>
+    </item>
+    <item>
+        <name>White Flute</name>
+        <cost>11</cost>
+        <description>Doubles the wild Pokémon encounter rate.</description>
+    </item>
+    <item>
+        <name>Shoal Salt</name>
+        <cost>9</cost>
+        <description>No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell.</description>
+    </item>
+    <item>
+        <name>Shoal Shell</name>
+        <cost>9</cost>
+        <description>No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell.</description>
+    </item>
+    <item>
+        <name>Red Shard</name>
+        <cost>9</cost>
+        <description>No effect. Can be traded for items or moves.</description>
+    </item>
+    <item>
+        <name>Blue Shard</name>
+        <cost>9</cost>
+        <description>No effect. Can be traded for items or moves.</description>
+    </item>
+    <item>
+        <name>Yellow Shard</name>
+        <cost>9</cost>
+        <description>No effect. Can be traded for items or moves.</description>
+    </item>
+    <item>
+        <name>Green Shard</name>
+        <cost>9</cost>
+        <description>No effect. Can be traded for items or moves.</description>
+    </item>
+    <item>
+        <name>Super Repel</name>
+        <cost>11</cost>
+        <description>"For 200 steps</description>
+    </item>
+    <item>
+        <name>Max Repel</name>
+        <cost>11</cost>
+        <description>"For 250 steps</description>
+    </item>
+    <item>
+        <name>Escape Rope</name>
+        <cost>11</cost>
+        <description>Transports user to the outside entrance of a cave.</description>
+    </item>
+    <item>
+        <name>Repel</name>
+        <cost>11</cost>
+        <description>"For 100 steps</description>
+    </item>
+    <item>
+        <name>Sun Stone</name>
+        <cost>10</cost>
+        <description>"Evolves a Cottonee into Whimsicott</description>
+    </item>
+    <item>
+        <name>Moon Stone</name>
+        <cost>10</cost>
+        <description>"Evolves a Clefairy into Clefable</description>
+    </item>
+    <item>
+        <name>Fire Stone</name>
+        <cost>10</cost>
+        <description>"Evolves an Eevee into Flareon</description>
+    </item>
+    <item>
+        <name>Thunder Stone</name>
+        <cost>10</cost>
+        <description>"Evolves an Eelektrik into Eelektross</description>
+    </item>
+    <item>
+        <name>Water Stone</name>
+        <cost>10</cost>
+        <description>"Evolves an Eevee into Vaporeon</description>
+    </item>
+    <item>
+        <name>Leaf Stone</name>
+        <cost>10</cost>
+        <description>"Evolves an Exeggcute into Exeggutor</description>
+    </item>
+    <item>
+        <name>Tiny Mushroom</name>
+        <cost>24</cost>
+        <description>"Fire Red and Leaf Green: Trade two for prior Level-up moves. Sell for 250 Pokédollars</description>
+    </item>
+    <item>
+        <name>Big Mushroom</name>
+        <cost>24</cost>
+        <description>"Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars</description>
+    </item>
+    <item>
+        <name>Pearl</name>
+        <cost>24</cost>
+        <description>"Sell for 700 Pokédollars</description>
+    </item>
+    <item>
+        <name>Big Pearl</name>
+        <cost>24</cost>
+        <description>"Sell for 3750 Pokédollars</description>
+    </item>
+    <item>
+        <name>Stardust</name>
+        <cost>24</cost>
+        <description>"Sell for 1000 Pokédollars</description>
+    </item>
+    <item>
+        <name>Star Piece</name>
+        <cost>24</cost>
+        <description>"Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars</description>
+    </item>
+    <item>
+        <name>Nugget</name>
+        <cost>24</cost>
+        <description>"Sell for 5000 Pokédollars</description>
+    </item>
+    <item>
+        <name>Heart Scale</name>
+        <cost>9</cost>
+        <description>No effect. Can be traded for prior Level-up moves.</description>
+    </item>
+    <item>
+        <name>Honey</name>
+        <cost>35</cost>
+        <description></description>
+    </item>
+    <item>
+        <name>Growth Mulch</name>
+        <cost>32</cost>
+        <description>"Growing time of berries is reduced</description>
+    </item>
+    <item>
+        <name>Damp Mulch</name>
+        <cost>32</cost>
+        <description>"Growing time of berries is increased</description>
+    </item>
+    <item>
+        <name>Stable Mulch</name>
+        <cost>32</cost>
+        <description>Berries stay on the plant for longer than their usual time.</description>
+    </item>
+    <item>
+        <name>Gooey Mulch</name>
+        <cost>32</cost>
+        <description>Berries regrow from dead plants an increased number of times.</description>
+    </item>
+    <item>
+        <name>Root Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into a Lileep.</description>
+    </item>
+    <item>
+        <name>Claw Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into an Anorith.</description>
+    </item>
+    <item>
+        <name>Helix Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into an Omanyte.</description>
+    </item>
+    <item>
+        <name>Dome Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into a Kabuto.</description>
+    </item>
+    <item>
+        <name>Old Amber</name>
+        <cost>35</cost>
+        <description>Can be revived into an Aerodactyl.</description>
+    </item>
+    <item>
+        <name>Armor Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into a Shieldon.</description>
+    </item>
+    <item>
+        <name>Skull Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into a Cranidos.</description>
+    </item>
+    <item>
+        <name>Rare Bone</name>
+        <cost>24</cost>
+        <description>"Sell for 5000 Pokédollars</description>
+    </item>
+    <item>
+        <name>Shiny Stone</name>
+        <cost>10</cost>
+        <description>"Evolves a Minccino into Cinccino</description>
+    </item>
+    <item>
+        <name>Dusk Stone</name>
+        <cost>10</cost>
+        <description>"Evolves a Lampent into Chandelure</description>
+    </item>
+    <item>
+        <name>Dawn Stone</name>
+        <cost>10</cost>
+        <description>Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.</description>
+    </item>
+    <item>
+        <name>Oval Stone</name>
+        <cost>10</cost>
+        <description>Level-up during Day on a Happiny: Holder evolves into Chansey.</description>
+    </item>
+    <item>
+        <name>Odd Keystone</name>
+        <cost>35</cost>
+        <description>Use on the tower on Route 209 to encounter Spiritomb if you have at least 32 Underground greetings.</description>
+    </item>
+    <item>
+        <name>Adamant Orb</name>
+        <cost>18</cost>
+        <description>Boosts the damage from Dialga's Dragon-type and Steel-type moves by 20%.</description>
+    </item>
+    <item>
+        <name>Lustrous Orb</name>
+        <cost>18</cost>
+        <description>Boosts the damage from Palkia's Dragon-type and Water-type moves by 20%.</description>
+    </item>
+    <item>
+        <name>Grass Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Flame Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bubble Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bloom Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Tunnel Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Steel Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Heart Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Snow Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Space Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Air Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Mosaic Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Brick Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Cheri Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed when paralyzed to cure paralysis.</description>
+    </item>
+    <item>
+        <name>Chesto Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed when asleep to cure sleep.</description>
+    </item>
+    <item>
+        <name>Pecha Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed when poisoned to cure poison.</description>
+    </item>
+    <item>
+        <name>Rawst Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed when burned to cure a burn.</description>
+    </item>
+    <item>
+        <name>Aspear Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed when frozen to cure frozen.</description>
+    </item>
+    <item>
+        <name>Leppa Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed when a move runs out of PP to restore its PP by 10.</description>
+    </item>
+    <item>
+        <name>Oran Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed at 1/2 max HP to recover 10 HP.</description>
+    </item>
+    <item>
+        <name>Persim Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed when confused to cure confusion.</description>
+    </item>
+    <item>
+        <name>Lum Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed to cure any status condition or confusion.</description>
+    </item>
+    <item>
+        <name>Sitrus Berry</name>
+        <cost>3</cost>
+        <description>Held: Consumed at 1/2 max HP to recover 1/4 max HP.</description>
+    </item>
+    <item>
+        <name>Figy Berry</name>
+        <cost>6</cost>
+        <description>Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor.</description>
+    </item>
+    <item>
+        <name>Wiki Berry</name>
+        <cost>6</cost>
+        <description>Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor.</description>
+    </item>
+    <item>
+        <name>Mago Berry</name>
+        <cost>6</cost>
+        <description>Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sweet flavor.</description>
+    </item>
+    <item>
+        <name>Aguav Berry</name>
+        <cost>6</cost>
+        <description>Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.</description>
+    </item>
+    <item>
+        <name>Iapapa Berry</name>
+        <cost>6</cost>
+        <description>Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sour flavor.</description>
+    </item>
+    <item>
+        <name>Razz Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Bluk Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Nanab Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Wepear Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Pinap Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Pomeg Berry</name>
+        <cost>2</cost>
+        <description>Drops HP Effort Values by 10 and raises happiness.</description>
+    </item>
+    <item>
+        <name>Kelpsy Berry</name>
+        <cost>2</cost>
+        <description>Drops Attack Effort Values by 10 and raises happiness.</description>
+    </item>
+    <item>
+        <name>Qualot Berry</name>
+        <cost>2</cost>
+        <description>Drops Defense Effort Values by 10 and raises happiness.</description>
+    </item>
+    <item>
+        <name>Hondew Berry</name>
+        <cost>2</cost>
+        <description>Drops Special Attack Effort Values by 10 and raises happiness.</description>
+    </item>
+    <item>
+        <name>Grepa Berry</name>
+        <cost>2</cost>
+        <description>Drops Special Defense Effort Values by 10 and raises happiness.</description>
+    </item>
+    <item>
+        <name>Tamato Berry</name>
+        <cost>2</cost>
+        <description>Drops Speed Effort Values by 10 and raises happiness.</description>
+    </item>
+    <item>
+        <name>Cornn Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Magost Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Rabuta Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Nomel Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Spelon Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Pamtre Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Watmel Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Durin Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Belue Berry</name>
+        <cost>8</cost>
+        <description>Used for creating PokéBlocks and Poffins.</description>
+    </item>
+    <item>
+        <name>Occa Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Passho Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Water-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Wacan Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Electric-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Rindo Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Grass-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Yache Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Ice-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Chople Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Kebia Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Poison-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Shuca Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Coba Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Flying-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Payapa Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Tanga Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Bug-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Charti Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Rock-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Kasib Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Haban Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Dragon-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Colbur Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Babiri Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Steel-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Chilan Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a Normal-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Liechi Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost Attack.</description>
+    </item>
+    <item>
+        <name>Ganlon Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost Defense.</description>
+    </item>
+    <item>
+        <name>Salac Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost Speed.</description>
+    </item>
+    <item>
+        <name>Petaya Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost Special Attack.</description>
+    </item>
+    <item>
+        <name>Apicot Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost Special Defense.</description>
+    </item>
+    <item>
+        <name>Lansat Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.</description>
+    </item>
+    <item>
+        <name>Starf Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost a random stat by two stages.</description>
+    </item>
+    <item>
+        <name>Enigma Berry</name>
+        <cost>4</cost>
+        <description>Held: Consumed when struck by a super-effective attack to restore 1/4 max HP.</description>
+    </item>
+    <item>
+        <name>Micle Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP to boost accuracy of next move by 20%. (Gen IV: Perfect accuracy)</description>
+    </item>
+    <item>
+        <name>Custap Berry</name>
+        <cost>5</cost>
+        <description>Held: Consumed at 1/4 max HP when using a move to go first.</description>
+    </item>
+    <item>
+        <name>Jaboca Berry</name>
+        <cost>4</cost>
+        <description>Held: Consumed to deal 1/8 attacker's max HP when holder is struck by a physical attack.</description>
+    </item>
+    <item>
+        <name>Rowap Berry</name>
+        <cost>4</cost>
+        <description>Held: Consumed to deal 1/8 attacker's max HP when holder is struck by a special attack.</description>
+    </item>
+    <item>
+        <name>Bright Powder</name>
+        <cost>12</cost>
+        <description>Held: Increases the holder's evasion by 1/9 (11 1/9%).</description>
+    </item>
+    <item>
+        <name>White Herb</name>
+        <cost>12</cost>
+        <description>Held: Resets all lowered stats to normal at end of turn. Consumed after use.</description>
+    </item>
+    <item>
+        <name>Macho Brace</name>
+        <cost>14</cost>
+        <description>"Held: Holder gains double effort values from battles</description>
+    </item>
+    <item>
+        <name>Exp Share</name>
+        <cost>16</cost>
+        <description>Held: Half the experience from a battle is split between Pokémon holding this item.</description>
+    </item>
+    <item>
+        <name>Quick Claw</name>
+        <cost>12</cost>
+        <description>Held: Holder has a 3/16 (18.75%) chance to move first.</description>
+    </item>
+    <item>
+        <name>Soothe Bell</name>
+        <cost>16</cost>
+        <description>Held: Doubles the happiness earned by the holder.</description>
+    </item>
+    <item>
+        <name>Mental Herb</name>
+        <cost>12</cost>
+        <description>"Held: Consumed to cure infatuation. Gen V: Also removes Taunt</description>
+    </item>
+    <item>
+        <name>Choice Band</name>
+        <cost>13</cost>
+        <description>"Held: Increases Attack by 50%</description>
+    </item>
+    <item>
+        <name>Kings Rock</name>
+        <cost>12</cost>
+        <description>Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.</description>
+    </item>
+    <item>
+        <name>Silver Powder</name>
+        <cost>19</cost>
+        <description>Held: Bug-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Amulet Coin</name>
+        <cost>16</cost>
+        <description>Held: Doubles the money earned from a battle. Does not stack with Luck Incense.</description>
+    </item>
+    <item>
+        <name>Cleanse Tag</name>
+        <cost>16</cost>
+        <description>Prevents wild encounters of level lower than your party's lead Pokémon.</description>
+    </item>
+    <item>
+        <name>Soul Dew</name>
+        <cost>18</cost>
+        <description>Raises Latias and Latios's Special Attack and Special Defense by 50%.</description>
+    </item>
+    <item>
+        <name>Deep Sea Tooth</name>
+        <cost>18</cost>
+        <description>Doubles Clamperl's Special Attack. Traded on a Clamperl: Holder evolves into Huntail.</description>
+    </item>
+    <item>
+        <name>Deep Sea Scale</name>
+        <cost>18</cost>
+        <description>Doubles Clamperl's Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss.</description>
+    </item>
+    <item>
+        <name>Smoke Ball</name>
+        <cost>12</cost>
+        <description>Held: Allows the Holder to escape from any wild battle.</description>
+    </item>
+    <item>
+        <name>Everstone</name>
+        <cost>16</cost>
+        <description>Held: Prevents level-based evolution from occuring.</description>
+    </item>
+    <item>
+        <name>Focus Band</name>
+        <cost>12</cost>
+        <description>Held: Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.</description>
+    </item>
+    <item>
+        <name>Lucky Egg</name>
+        <cost>16</cost>
+        <description>Held: Increases EXP earned in battle by 50%.</description>
+    </item>
+    <item>
+        <name>Scope Lens</name>
+        <cost>12</cost>
+        <description>Held: Raises the holder's critical hit ratio by one stage.</description>
+    </item>
+    <item>
+        <name>Metal Coat</name>
+        <cost>19</cost>
+        <description>Held: Steel-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Leftovers</name>
+        <cost>12</cost>
+        <description>Held: Restores 1/16 (6.25%) holder's max HP at the end of each turn.</description>
+    </item>
+    <item>
+        <name>Dragon Scale</name>
+        <cost>10</cost>
+        <description>Traded on a Seadra: Holder evolves into Kingdra.</description>
+    </item>
+    <item>
+        <name>Light Ball</name>
+        <cost>18</cost>
+        <description>Doubles Pikachu's Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.</description>
+    </item>
+    <item>
+        <name>Soft Sand</name>
+        <cost>19</cost>
+        <description>Held: Ground-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Hard Stone</name>
+        <cost>19</cost>
+        <description>Held: Rock-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Miracle Seed</name>
+        <cost>19</cost>
+        <description>Held: Grass-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Black Glasses</name>
+        <cost>19</cost>
+        <description>Held: Dark-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Black Belt</name>
+        <cost>19</cost>
+        <description>Held: Fighting-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Magnet</name>
+        <cost>19</cost>
+        <description>Held: Electric-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Mystic Water</name>
+        <cost>19</cost>
+        <description>Held: Water-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Sharp Beak</name>
+        <cost>19</cost>
+        <description>Held: Flying-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Poison Barb</name>
+        <cost>19</cost>
+        <description>Held: Poison-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Never Melt Ice</name>
+        <cost>19</cost>
+        <description>Held: Ice-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Spell Tag</name>
+        <cost>19</cost>
+        <description>Held: Ghost-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Twisted Spoon</name>
+        <cost>19</cost>
+        <description>Held: Psychic-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Charcoal</name>
+        <cost>19</cost>
+        <description>Held: Fire-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Dragon Fang</name>
+        <cost>19</cost>
+        <description>Held: Dragon-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Silk Scarf</name>
+        <cost>19</cost>
+        <description>Held: Normal-Type moves from holder do 20% more damage.</description>
+    </item>
+    <item>
+        <name>Up Grade</name>
+        <cost>10</cost>
+        <description>Traded on a Porygon: Holder evolves into Porygon2.</description>
+    </item>
+    <item>
+        <name>Shell Bell</name>
+        <cost>12</cost>
+        <description>Held: Holder receives 1/8 of the damage it deals when attacking.</description>
+    </item>
+    <item>
+        <name>Sea Incense</name>
+        <cost>19</cost>
+        <description>Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg.</description>
+    </item>
+    <item>
+        <name>Lax Incense</name>
+        <cost>12</cost>
+        <description>Held: Holder's evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg.</description>
+    </item>
+    <item>
+        <name>Lucky Punch</name>
+        <cost>18</cost>
+        <description>Raises Chansey's critical hit ratio by two stages.</description>
+    </item>
+    <item>
+        <name>Metal Powder</name>
+        <cost>18</cost>
+        <description>Raises Ditto's Defense and Special Defense by 50%. The boost is lost after transforming.</description>
+    </item>
+    <item>
+        <name>Thick Club</name>
+        <cost>18</cost>
+        <description>Doubles Cubone or Marowak's Attack.</description>
+    </item>
+    <item>
+        <name>Stick</name>
+        <cost>18</cost>
+        <description>Raises Farfetch'd's critical hit ratio by two stages.</description>
+    </item>
+    <item>
+        <name>Red Scarf</name>
+        <cost>36</cost>
+        <description>Raises the holder's Coolness while in a contest.</description>
+    </item>
+    <item>
+        <name>Blue Scarf</name>
+        <cost>36</cost>
+        <description>Raises the holder's Beauty while in a contest.</description>
+    </item>
+    <item>
+        <name>Pink Scarf</name>
+        <cost>36</cost>
+        <description>Raises the holder's Cuteness while in a contest.</description>
+    </item>
+    <item>
+        <name>Green Scarf</name>
+        <cost>36</cost>
+        <description>Raises the holder's Smartness while in a contest.</description>
+    </item>
+    <item>
+        <name>Yellow Scarf</name>
+        <cost>36</cost>
+        <description>Raises the holder's Toughness while in a contest.</description>
+    </item>
+    <item>
+        <name>Wide Lens</name>
+        <cost>12</cost>
+        <description>Held: Provides a 1/10 (10%) boost in accuracy to the holder.</description>
+    </item>
+    <item>
+        <name>Muscle Band</name>
+        <cost>12</cost>
+        <description>Held: Boosts the damage of physical moves used by the holder by 10%.</description>
+    </item>
+    <item>
+        <name>Wise Glasses</name>
+        <cost>12</cost>
+        <description>Held: Boosts the damage of special moves used by the holder by 1/10 (10%).</description>
+    </item>
+    <item>
+        <name>Expert Belt</name>
+        <cost>12</cost>
+        <description>Held: Holder's Super Effective moves do 20% extra damage.</description>
+    </item>
+    <item>
+        <name>Light Clay</name>
+        <cost>12</cost>
+        <description>Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.</description>
+    </item>
+    <item>
+        <name>Life Orb</name>
+        <cost>12</cost>
+        <description>"Held: Holder's moves inflict 30% extra damage</description>
+    </item>
+    <item>
+        <name>Power Herb</name>
+        <cost>12</cost>
+        <description>Held: Both turns of a two-turn charge move happen at once. Consumed upon use.</description>
+    </item>
+    <item>
+        <name>Toxic Orb</name>
+        <cost>15</cost>
+        <description>Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.</description>
+    </item>
+    <item>
+        <name>Flame Orb</name>
+        <cost>15</cost>
+        <description>Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.</description>
+    </item>
+    <item>
+        <name>Quick Powder</name>
+        <cost>18</cost>
+        <description>Doubles Ditto's Speed when held. The boost is lost after transforming.</description>
+    </item>
+    <item>
+        <name>Focus Sash</name>
+        <cost>12</cost>
+        <description>"Held: Holder survives any single-hit attack at 1 HP if at max HP</description>
+    </item>
+    <item>
+        <name>Zoom Lens</name>
+        <cost>12</cost>
+        <description>Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.</description>
+    </item>
+    <item>
+        <name>Metronome</name>
+        <cost>12</cost>
+        <description>Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.</description>
+    </item>
+    <item>
+        <name>Iron Ball</name>
+        <cost>15</cost>
+        <description>"Held: Holder's Speed is halved. Negates all Ground-type immunities</description>
+    </item>
+    <item>
+        <name>Lagging Tail</name>
+        <cost>15</cost>
+        <description>Held: Holder moves last in its priority bracket.</description>
+    </item>
+    <item>
+        <name>Destiny Knot</name>
+        <cost>12</cost>
+        <description>Held: Infatuates opposing Pokémon when holder is inflicted with infatuation.</description>
+    </item>
+    <item>
+        <name>Black Sludge</name>
+        <cost>12</cost>
+        <description>Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.</description>
+    </item>
+    <item>
+        <name>Icy Rock</name>
+        <cost>12</cost>
+        <description>Held: Hail by the holder lasts 8 rounds instead of 5.</description>
+    </item>
+    <item>
+        <name>Smooth Rock</name>
+        <cost>12</cost>
+        <description>Held: Sandstorm by the holder lasts 8 rounds instead of 5.</description>
+    </item>
+    <item>
+        <name>Heat Rock</name>
+        <cost>12</cost>
+        <description>Held: Sunny Day by the holder lasts 8 rounds instead of 5.</description>
+    </item>
+    <item>
+        <name>Damp Rock</name>
+        <cost>12</cost>
+        <description>Held: Rain Dance by the holder lasts 8 rounds instead of 5.</description>
+    </item>
+    <item>
+        <name>Grip Claw</name>
+        <cost>12</cost>
+        <description>Held: Holder's multi-turn trapping moves last 5 turns.</description>
+    </item>
+    <item>
+        <name>Choice Scarf</name>
+        <cost>13</cost>
+        <description>"Held: Increases Speed by 50%</description>
+    </item>
+    <item>
+        <name>Sticky Barb</name>
+        <cost>15</cost>
+        <description>"Held: Holder takes 1/8 (12.5%) its max HP at the end of each turn. When the holder is hit by a contact move</description>
+    </item>
+    <item>
+        <name>Power Bracer</name>
+        <cost>14</cost>
+        <description>"Held: Holder gains 4 Attack effort values</description>
+    </item>
+    <item>
+        <name>Power Belt</name>
+        <cost>14</cost>
+        <description>"Held: Holder gains 4 Defense effort values</description>
+    </item>
+    <item>
+        <name>Power Lens</name>
+        <cost>14</cost>
+        <description>"Held: Holder gains 4 Special Attack effort values</description>
+    </item>
+    <item>
+        <name>Power Band</name>
+        <cost>14</cost>
+        <description>"Held: Holder gains 4 Special Defense effort values</description>
+    </item>
+    <item>
+        <name>Power Anklet</name>
+        <cost>14</cost>
+        <description>"Held: Holder gains 4 Speed effort values</description>
+    </item>
+    <item>
+        <name>Power Weight</name>
+        <cost>14</cost>
+        <description>"Held: Holder gains 4 HP effort values</description>
+    </item>
+    <item>
+        <name>Shed Shell</name>
+        <cost>12</cost>
+        <description>Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.</description>
+    </item>
+    <item>
+        <name>Big Root</name>
+        <cost>12</cost>
+        <description>"Held: Increases HP recovered from draining moves</description>
+    </item>
+    <item>
+        <name>Choice Specs</name>
+        <cost>13</cost>
+        <description>"Held: Increases Special Attack by 50%</description>
+    </item>
+    <item>
+        <name>Flame Plate</name>
+        <cost>17</cost>
+        <description>Held: Fire-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fire.</description>
+    </item>
+    <item>
+        <name>Splash Plate</name>
+        <cost>17</cost>
+        <description>Held: Water-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Water.</description>
+    </item>
+    <item>
+        <name>Zap Plate</name>
+        <cost>17</cost>
+        <description>Held: Electric-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Electric.</description>
+    </item>
+    <item>
+        <name>Meadow Plate</name>
+        <cost>17</cost>
+        <description>Held: Grass-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Grass.</description>
+    </item>
+    <item>
+        <name>Icicle Plate</name>
+        <cost>17</cost>
+        <description>Held: Ice-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ice.</description>
+    </item>
+    <item>
+        <name>Fist Plate</name>
+        <cost>17</cost>
+        <description>Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fighting.</description>
+    </item>
+    <item>
+        <name>Toxic Plate</name>
+        <cost>17</cost>
+        <description>Held: Posion-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Posion.</description>
+    </item>
+    <item>
+        <name>Earth Plate</name>
+        <cost>17</cost>
+        <description>Held: Ground-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ground.</description>
+    </item>
+    <item>
+        <name>Sky Plate</name>
+        <cost>17</cost>
+        <description>Held: Flying-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Flying.</description>
+    </item>
+    <item>
+        <name>Mind Plate</name>
+        <cost>17</cost>
+        <description>Held: Psychic-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Psychic.</description>
+    </item>
+    <item>
+        <name>Insect Plate</name>
+        <cost>17</cost>
+        <description>Held: Bug-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Bug.</description>
+    </item>
+    <item>
+        <name>Stone Plate</name>
+        <cost>17</cost>
+        <description>Held: Rock-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Rock.</description>
+    </item>
+    <item>
+        <name>Spooky Plate</name>
+        <cost>17</cost>
+        <description>Held: Ghost-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Ghost.</description>
+    </item>
+    <item>
+        <name>Draco Plate</name>
+        <cost>17</cost>
+        <description>Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Dragon.</description>
+    </item>
+    <item>
+        <name>Dread Plate</name>
+        <cost>17</cost>
+        <description>Held: Dark-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Dark.</description>
+    </item>
+    <item>
+        <name>Iron Plate</name>
+        <cost>17</cost>
+        <description>Held: Steel-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Steel.</description>
+    </item>
+    <item>
+        <name>Odd Incense</name>
+        <cost>19</cost>
+        <description>Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg.</description>
+    </item>
+    <item>
+        <name>Rock Incense</name>
+        <cost>19</cost>
+        <description>Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg.</description>
+    </item>
+    <item>
+        <name>Full Incense</name>
+        <cost>15</cost>
+        <description>Held: Holder moves last in its priority bracket. Breeding: Snorlax begets a Munchlax Egg.</description>
+    </item>
+    <item>
+        <name>Wave Incense</name>
+        <cost>19</cost>
+        <description>Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg.</description>
+    </item>
+    <item>
+        <name>Rose Incense</name>
+        <cost>19</cost>
+        <description>Held: Grass-Type moves from holder do 20% more damage. Breeding: Roselia or Roserade beget a Budew Egg.</description>
+    </item>
+    <item>
+        <name>Luck Incense</name>
+        <cost>16</cost>
+        <description>Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg.</description>
+    </item>
+    <item>
+        <name>Pure Incense</name>
+        <cost>16</cost>
+        <description>Prevents wild encounters of level lower than your party's lead Pokémon. Breeding: Chimecho begets a Chingling Egg.</description>
+    </item>
+    <item>
+        <name>Protector</name>
+        <cost>10</cost>
+        <description>Traded on a Rhydon: Holder evolves into Rhyperior.</description>
+    </item>
+    <item>
+        <name>Electirizer</name>
+        <cost>10</cost>
+        <description>Traded on an Electabuzz: Holder evolves into Electivire.</description>
+    </item>
+    <item>
+        <name>Magmarizer</name>
+        <cost>10</cost>
+        <description>Traded on a Magmar: Holder evolves into Magmortar.</description>
+    </item>
+    <item>
+        <name>Dubious Disc</name>
+        <cost>10</cost>
+        <description>Traded on a Porygon2: Holder evolves into Porygon-Z.</description>
+    </item>
+    <item>
+        <name>Reaper Cloth</name>
+        <cost>10</cost>
+        <description>Traded on a Dusclops: Holder evolves into Dusknoir.</description>
+    </item>
+    <item>
+        <name>Razor Claw</name>
+        <cost>12</cost>
+        <description>Held: Raises the holder's critical hit ratio by one stage. Held by a Sneasel while levelling up at night: Holder evolves into Weavile.</description>
+    </item>
+    <item>
+        <name>Razor Fang</name>
+        <cost>12</cost>
+        <description>Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.</description>
+    </item>
+    <item>
+        <name>Tm01</name>
+        <cost>37</cost>
+        <description>Teaches Hone Claws to a compatible Pokémon. (Gen IV &amp; III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch)</description>
+    </item>
+    <item>
+        <name>Tm02</name>
+        <cost>37</cost>
+        <description>Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)</description>
+    </item>
+    <item>
+        <name>Tm03</name>
+        <cost>37</cost>
+        <description>Teaches Psyshock to a compatible Pokémon. (Gen IV &amp; III: Water Pulse Gen II: Curse Gen I: Swords Dance)</description>
+    </item>
+    <item>
+        <name>Tm04</name>
+        <cost>37</cost>
+        <description>Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind)</description>
+    </item>
+    <item>
+        <name>Tm05</name>
+        <cost>37</cost>
+        <description>Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick)</description>
+    </item>
+    <item>
+        <name>Tm06</name>
+        <cost>37</cost>
+        <description>Teaches Toxic to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm07</name>
+        <cost>37</cost>
+        <description>Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)</description>
+    </item>
+    <item>
+        <name>Tm08</name>
+        <cost>37</cost>
+        <description>Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)</description>
+    </item>
+    <item>
+        <name>Tm09</name>
+        <cost>37</cost>
+        <description>Teaches Venoshock to a compatible Pokémon. (Gen IV &amp; III: Bullet Seed Gen II: Psych Up Gen I: Take Down)</description>
+    </item>
+    <item>
+        <name>Tm10</name>
+        <cost>37</cost>
+        <description>Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)</description>
+    </item>
+    <item>
+        <name>Tm11</name>
+        <cost>37</cost>
+        <description>Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam)</description>
+    </item>
+    <item>
+        <name>Tm12</name>
+        <cost>37</cost>
+        <description>Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun)</description>
+    </item>
+    <item>
+        <name>Tm13</name>
+        <cost>37</cost>
+        <description>Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore)</description>
+    </item>
+    <item>
+        <name>Tm14</name>
+        <cost>37</cost>
+        <description>Teaches Blizzard to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm15</name>
+        <cost>37</cost>
+        <description>Teaches Hyper Beam to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm16</name>
+        <cost>37</cost>
+        <description>Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day)</description>
+    </item>
+    <item>
+        <name>Tm17</name>
+        <cost>37</cost>
+        <description>Teaches Protect to a compatible Pokémon. (Gen I: Submission)</description>
+    </item>
+    <item>
+        <name>Tm18</name>
+        <cost>37</cost>
+        <description>Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter)</description>
+    </item>
+    <item>
+        <name>Tm19</name>
+        <cost>37</cost>
+        <description>Teaches Telekinesis to a compatible Pokémon. (Gen IV &amp; III &amp; II: Giga Drain Gen I: Seismic Toss)</description>
+    </item>
+    <item>
+        <name>Tm20</name>
+        <cost>37</cost>
+        <description>Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage)</description>
+    </item>
+    <item>
+        <name>Tm21</name>
+        <cost>37</cost>
+        <description>Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain)</description>
+    </item>
+    <item>
+        <name>Tm22</name>
+        <cost>37</cost>
+        <description>Teaches SolarBeam to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm23</name>
+        <cost>37</cost>
+        <description>Teaches Smack Down to a compatible Pokémon. (Gen IV &amp; III &amp; II: Iron Tail Gen I: Dragon Rage)</description>
+    </item>
+    <item>
+        <name>Tm24</name>
+        <cost>37</cost>
+        <description>Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath)</description>
+    </item>
+    <item>
+        <name>Tm25</name>
+        <cost>37</cost>
+        <description>Teaches Thunder to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm26</name>
+        <cost>37</cost>
+        <description>Teaches Earthquake to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm27</name>
+        <cost>37</cost>
+        <description>Teaches Return to a compatible Pokémon. (Gen I: Fissure)</description>
+    </item>
+    <item>
+        <name>Tm28</name>
+        <cost>37</cost>
+        <description>Teaches Dig to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm29</name>
+        <cost>37</cost>
+        <description>Teaches Psychic to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm30</name>
+        <cost>37</cost>
+        <description>Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)</description>
+    </item>
+    <item>
+        <name>Tm31</name>
+        <cost>37</cost>
+        <description>Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic)</description>
+    </item>
+    <item>
+        <name>Tm32</name>
+        <cost>37</cost>
+        <description>Teaches Double Team to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm33</name>
+        <cost>37</cost>
+        <description>Teaches Reflect to a compatible Pokémon. (Gen II: Ice Punch)</description>
+    </item>
+    <item>
+        <name>Tm34</name>
+        <cost>37</cost>
+        <description>Teaches Sludge Wave to a compatible Pokémon. (Gen IV &amp; III: Shock Wave Gen II: Swagger Gen I: Bide)</description>
+    </item>
+    <item>
+        <name>Tm35</name>
+        <cost>37</cost>
+        <description>Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)</description>
+    </item>
+    <item>
+        <name>Tm36</name>
+        <cost>37</cost>
+        <description>Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)</description>
+    </item>
+    <item>
+        <name>Tm37</name>
+        <cost>37</cost>
+        <description>Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)</description>
+    </item>
+    <item>
+        <name>Tm38</name>
+        <cost>37</cost>
+        <description>Teaches Fire Blast to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm39</name>
+        <cost>37</cost>
+        <description>Teaches Rock Tomb to a compatible Pokémon. (Gen II &amp; I: Swift)</description>
+    </item>
+    <item>
+        <name>Tm40</name>
+        <cost>37</cost>
+        <description>Teaches Aerial Ace to a compatible Pokémon. (Gen II: Defense Curl Gen I: Skull Bash)</description>
+    </item>
+    <item>
+        <name>Tm41</name>
+        <cost>37</cost>
+        <description>Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled)</description>
+    </item>
+    <item>
+        <name>Tm42</name>
+        <cost>37</cost>
+        <description>Teaches Facade to a compatible Pokémon. (Gen II &amp; I: Dream Eater)</description>
+    </item>
+    <item>
+        <name>Tm43</name>
+        <cost>37</cost>
+        <description>Teaches Flame Charge to a compatible Pokémon. (Gen IV &amp; III: Secret Power Gen II: Detect Gen I: Sky Attack)</description>
+    </item>
+    <item>
+        <name>Tm44</name>
+        <cost>37</cost>
+        <description>Teaches Rest to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm45</name>
+        <cost>37</cost>
+        <description>Teaches Attract to a compatible Pokémon. (Gen I: Thunder Wave)</description>
+    </item>
+    <item>
+        <name>Tm46</name>
+        <cost>37</cost>
+        <description>Teaches Thief to a compatible Pokémon. (Gen I: Psywave)</description>
+    </item>
+    <item>
+        <name>Tm47</name>
+        <cost>37</cost>
+        <description>Teaches Low Sweep to a compatible Pokémon. (Gen IV &amp; III &amp; II: Steel Wing Gen I: Explosion)</description>
+    </item>
+    <item>
+        <name>Tm48</name>
+        <cost>37</cost>
+        <description>Teaches Round to a compatible Pokémon. (Gen IV &amp; III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide)</description>
+    </item>
+    <item>
+        <name>Tm49</name>
+        <cost>37</cost>
+        <description>Teaches Echoed Voice to a compatible Pokémon. (Gen IV &amp; III: Snatch Gen II: Fury Cutter Gen I: Tri Attack)</description>
+    </item>
+    <item>
+        <name>Tm50</name>
+        <cost>37</cost>
+        <description>Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)</description>
+    </item>
+    <item>
+        <name>Tm51</name>
+        <cost>37</cost>
+        <description>Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost)</description>
+    </item>
+    <item>
+        <name>Tm52</name>
+        <cost>37</cost>
+        <description>Teaches Focus Blast to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm53</name>
+        <cost>37</cost>
+        <description>Teaches Energy Ball to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm54</name>
+        <cost>37</cost>
+        <description>Teaches False Swipe to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm55</name>
+        <cost>37</cost>
+        <description>Teaches Scald to a compatible Pokémon. (Gen IV: Brine)</description>
+    </item>
+    <item>
+        <name>Tm56</name>
+        <cost>37</cost>
+        <description>Teaches Fling to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm57</name>
+        <cost>37</cost>
+        <description>Teaches Charge Beam to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm58</name>
+        <cost>37</cost>
+        <description>Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)</description>
+    </item>
+    <item>
+        <name>Tm59</name>
+        <cost>37</cost>
+        <description>Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse)</description>
+    </item>
+    <item>
+        <name>Tm60</name>
+        <cost>37</cost>
+        <description>Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)</description>
+    </item>
+    <item>
+        <name>Tm61</name>
+        <cost>37</cost>
+        <description>Teaches Will-O-Wisp to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm62</name>
+        <cost>37</cost>
+        <description>Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)</description>
+    </item>
+    <item>
+        <name>Tm63</name>
+        <cost>37</cost>
+        <description>Teaches Embargo to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm64</name>
+        <cost>37</cost>
+        <description>Teaches Explosion to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm65</name>
+        <cost>37</cost>
+        <description>Teaches Shadow Claw to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm66</name>
+        <cost>37</cost>
+        <description>Teaches Payback to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm67</name>
+        <cost>37</cost>
+        <description>Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle)</description>
+    </item>
+    <item>
+        <name>Tm68</name>
+        <cost>37</cost>
+        <description>Teaches Giga Impact to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm69</name>
+        <cost>37</cost>
+        <description>Teaches Rock Polish to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm70</name>
+        <cost>37</cost>
+        <description>Teaches Flash to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm71</name>
+        <cost>37</cost>
+        <description>Teaches Stone Edge to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm72</name>
+        <cost>37</cost>
+        <description>Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)</description>
+    </item>
+    <item>
+        <name>Tm73</name>
+        <cost>37</cost>
+        <description>Teaches Thunder Wave to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm74</name>
+        <cost>37</cost>
+        <description>Teaches Gyro Ball to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm75</name>
+        <cost>37</cost>
+        <description>Teaches Swords Dance to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm76</name>
+        <cost>37</cost>
+        <description>Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock)</description>
+    </item>
+    <item>
+        <name>Tm77</name>
+        <cost>37</cost>
+        <description>Teaches Psych Up to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm78</name>
+        <cost>37</cost>
+        <description>Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate)</description>
+    </item>
+    <item>
+        <name>Tm79</name>
+        <cost>37</cost>
+        <description>Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse)</description>
+    </item>
+    <item>
+        <name>Tm80</name>
+        <cost>37</cost>
+        <description>Teaches Rock Slide to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm81</name>
+        <cost>37</cost>
+        <description>Teaches X-Scissor to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm82</name>
+        <cost>37</cost>
+        <description>Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk)</description>
+    </item>
+    <item>
+        <name>Tm83</name>
+        <cost>37</cost>
+        <description>Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift)</description>
+    </item>
+    <item>
+        <name>Tm84</name>
+        <cost>37</cost>
+        <description>Teaches Poison Jab to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm85</name>
+        <cost>37</cost>
+        <description>Teaches Dream Eater to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm86</name>
+        <cost>37</cost>
+        <description>Teaches Grass Knot to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm87</name>
+        <cost>37</cost>
+        <description>Teaches Swagger to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm88</name>
+        <cost>37</cost>
+        <description>Teaches Pluck to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm89</name>
+        <cost>37</cost>
+        <description>Teaches U-turn to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm90</name>
+        <cost>37</cost>
+        <description>Teaches Substitute to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm91</name>
+        <cost>37</cost>
+        <description>Teaches Flash Cannon to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm92</name>
+        <cost>37</cost>
+        <description>Teaches Trick Room to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Hm01</name>
+        <cost>37</cost>
+        <description>Teaches Cut to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Hm02</name>
+        <cost>37</cost>
+        <description>Teaches Fly to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Hm03</name>
+        <cost>37</cost>
+        <description>Teaches Surf to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Hm04</name>
+        <cost>37</cost>
+        <description>Teaches Strength to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Hm05</name>
+        <cost>37</cost>
+        <description>Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III &amp; II &amp; I: Flash)</description>
+    </item>
+    <item>
+        <name>Hm06</name>
+        <cost>37</cost>
+        <description>Teaches Dive to a compatible Pokémon. (Gen IV &amp; III: Rock Smash Gen II: Whirlpool)</description>
+    </item>
+    <item>
+        <name>Hm07</name>
+        <cost>37</cost>
+        <description>Teaches a move to a compatible Pokémon. (Gen IV &amp; III &amp; II: Waterfall)</description>
+    </item>
+    <item>
+        <name>Hm08</name>
+        <cost>37</cost>
+        <description>Teaches a move to a compatible Pokémon. (Gen IV: Rock Climb Gen III: Dive)</description>
+    </item>
+    <item>
+        <name>Explorer Kit</name>
+        <cost>21</cost>
+        <description>Allows visiting the Underground.</description>
+    </item>
+    <item>
+        <name>Loot Sack</name>
+        <cost>23</cost>
+        <description>Carries coal mine loot.</description>
+    </item>
+    <item>
+        <name>Rule Book</name>
+        <cost>23</cost>
+        <description>List of battle types and their rules.</description>
+    </item>
+    <item>
+        <name>Poke Radar</name>
+        <cost>21</cost>
+        <description>Use to track down rare or shiny Pokémon. 50 steps to recharge.</description>
+    </item>
+    <item>
+        <name>Point Card</name>
+        <cost>21</cost>
+        <description>Keeps count of Battle Points earned.</description>
+    </item>
+    <item>
+        <name>Journal</name>
+        <cost>21</cost>
+        <description>Records prior significant activities the player took.</description>
+    </item>
+    <item>
+        <name>Seal Case</name>
+        <cost>21</cost>
+        <description>Stores Seals that can be applied to Poké Ball capsules.</description>
+    </item>
+    <item>
+        <name>Fashion Case</name>
+        <cost>21</cost>
+        <description>Holds Pokémon Accessories for use in Contests.</description>
+    </item>
+    <item>
+        <name>Seal Bag</name>
+        <cost>23</cost>
+        <description>Holds ten Seals for Poké Balls.</description>
+    </item>
+    <item>
+        <name>Pal Pad</name>
+        <cost>21</cost>
+        <description>Use to record Friend Codes and check your own.</description>
+    </item>
+    <item>
+        <name>Works Key</name>
+        <cost>22</cost>
+        <description>Grants access to Valley Windworks.</description>
+    </item>
+    <item>
+        <name>Old Charm</name>
+        <cost>22</cost>
+        <description>Trade to Cynthia's grandmother in Celestic Town for HM04 (Surf).</description>
+    </item>
+    <item>
+        <name>Galactic Key</name>
+        <cost>22</cost>
+        <description>Grants access to Galactic HQ in Veilstone City.</description>
+    </item>
+    <item>
+        <name>Red Chain</name>
+        <cost>23</cost>
+        <description>Used to bind Palkia and Dialga.</description>
+    </item>
+    <item>
+        <name>Town Map</name>
+        <cost>21</cost>
+        <description>Use to see the overworld map.</description>
+    </item>
+    <item>
+        <name>Vs Seeker</name>
+        <cost>21</cost>
+        <description>Allows rebattling of on-screen trainers. 100 steps to recharge.</description>
+    </item>
+    <item>
+        <name>Coin Case</name>
+        <cost>21</cost>
+        <description>Holds coins for the Game Corner.</description>
+    </item>
+    <item>
+        <name>Old Rod</name>
+        <cost>21</cost>
+        <description>Used to catch Pokémon in bodies of water.</description>
+    </item>
+    <item>
+        <name>Good Rod</name>
+        <cost>21</cost>
+        <description>Used to catch Pokémon in bodies of water.</description>
+    </item>
+    <item>
+        <name>Super Rod</name>
+        <cost>21</cost>
+        <description>Used to catch Pokémon in bodies of water.</description>
+    </item>
+    <item>
+        <name>Sprayduck</name>
+        <cost>21</cost>
+        <description>Used to water berries.</description>
+    </item>
+    <item>
+        <name>Poffin Case</name>
+        <cost>21</cost>
+        <description>Holds Poffins.</description>
+    </item>
+    <item>
+        <name>Bicycle</name>
+        <cost>21</cost>
+        <description>Use for fast transit.</description>
+    </item>
+    <item>
+        <name>Suite Key</name>
+        <cost>20</cost>
+        <description>Opens a locked building in the Lakeside Resort.</description>
+    </item>
+    <item>
+        <name>Oaks Letter</name>
+        <cost>20</cost>
+        <description>"Allows access to Seabreak path</description>
+    </item>
+    <item>
+        <name>Lunar Wing</name>
+        <cost>20</cost>
+        <description>Cures sailor's son of nightmares in Canalave City.</description>
+    </item>
+    <item>
+        <name>Member Card</name>
+        <cost>20</cost>
+        <description>Allows access to Newmoon Island and Darkrai.</description>
+    </item>
+    <item>
+        <name>Azure Flute</name>
+        <cost>20</cost>
+        <description>Allows entry into the Hall of Origin. Unreleased.</description>
+    </item>
+    <item>
+        <name>Ss Ticket</name>
+        <cost>22</cost>
+        <description>Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)</description>
+    </item>
+    <item>
+        <name>Contest Pass</name>
+        <cost>21</cost>
+        <description>Allows participation in Pokémon Contests.</description>
+    </item>
+    <item>
+        <name>Magma Stone</name>
+        <cost>22</cost>
+        <description>Magma is sealed inside.</description>
+    </item>
+    <item>
+        <name>Parcel</name>
+        <cost>22</cost>
+        <description>Given to the trainer's rival in Jubilife City. Contains Town Maps.</description>
+    </item>
+    <item>
+        <name>Coupon 1</name>
+        <cost>22</cost>
+        <description>The first of three tickets used to obtain a Pokétch.</description>
+    </item>
+    <item>
+        <name>Coupon 2</name>
+        <cost>22</cost>
+        <description>The second of three tickets used to obtain a Pokétch.</description>
+    </item>
+    <item>
+        <name>Coupon 3</name>
+        <cost>22</cost>
+        <description>The last of three tickets used to obtain a Pokétch.</description>
+    </item>
+    <item>
+        <name>Storage Key</name>
+        <cost>22</cost>
+        <description>Grants access to the Team Galactic warehouse in Veilstone City.</description>
+    </item>
+    <item>
+        <name>Secret Potion</name>
+        <cost>22</cost>
+        <description>Used to heal the Ampharos at the top of Olivine Lighthouse.</description>
+    </item>
+    <item>
+        <name>Griseous Orb</name>
+        <cost>18</cost>
+        <description>"Boosts the damage from Giratina's Dragon-type and Ghost-type moves by 20%</description>
+    </item>
+    <item>
+        <name>Vs Recorder</name>
+        <cost>21</cost>
+        <description>"Records wireless</description>
+    </item>
+    <item>
+        <name>Gracidea</name>
+        <cost>20</cost>
+        <description>Changes an unfrozen Shaymin to Sky Forme in the day.</description>
+    </item>
+    <item>
+        <name>Secret Key</name>
+        <cost>20</cost>
+        <description>Gen IV: The key to Rotom's appliance room. Gen III: The key to Cinnabar Gym.</description>
+    </item>
+    <item>
+        <name>Apricorn Box</name>
+        <cost>21</cost>
+        <description>Holds Apricorns.</description>
+    </item>
+    <item>
+        <name>Berry Pots</name>
+        <cost>21</cost>
+        <description>Allows portable berry growing.</description>
+    </item>
+    <item>
+        <name>Squirt Bottle</name>
+        <cost>22</cost>
+        <description>Use on Sudowoodo blocking the path on Route 36. Also waters berries.</description>
+    </item>
+    <item>
+        <name>Lure Ball</name>
+        <cost>39</cost>
+        <description>3× effectiveness while fishing. Made from Blu Apricorn.</description>
+    </item>
+    <item>
+        <name>Level Ball</name>
+        <cost>39</cost>
+        <description>Success rate based off of fraction target Pokémon is of user's Pokémon. Made from Red Apricorn.</description>
+    </item>
+    <item>
+        <name>Moon Ball</name>
+        <cost>39</cost>
+        <description>4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.</description>
+    </item>
+    <item>
+        <name>Heavy Ball</name>
+        <cost>39</cost>
+        <description>Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn.</description>
+    </item>
+    <item>
+        <name>Fast Ball</name>
+        <cost>39</cost>
+        <description>4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn.</description>
+    </item>
+    <item>
+        <name>Friend Ball</name>
+        <cost>39</cost>
+        <description>Caught Pokémon start with 200 happiness. Made from Grn Apricorn.</description>
+    </item>
+    <item>
+        <name>Love Ball</name>
+        <cost>39</cost>
+        <description>"8× effectiveness on opposite sex</description>
+    </item>
+    <item>
+        <name>Park Ball</name>
+        <cost>34</cost>
+        <description>Catches Pokémon in the Pal Park every time.</description>
+    </item>
+    <item>
+        <name>Sport Ball</name>
+        <cost>34</cost>
+        <description>Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)</description>
+    </item>
+    <item>
+        <name>Red Apricorn</name>
+        <cost>40</cost>
+        <description>Used to make a Level Ball.</description>
+    </item>
+    <item>
+        <name>Blue Apricorn</name>
+        <cost>40</cost>
+        <description>Used to make a Lure Ball.</description>
+    </item>
+    <item>
+        <name>Yellow Apricorn</name>
+        <cost>40</cost>
+        <description>Used to make a Moon Ball.</description>
+    </item>
+    <item>
+        <name>Green Apricorn</name>
+        <cost>40</cost>
+        <description>Used to make a Friend Ball.</description>
+    </item>
+    <item>
+        <name>Pink Apricorn</name>
+        <cost>40</cost>
+        <description>Used to make a Love Ball.</description>
+    </item>
+    <item>
+        <name>White Apricorn</name>
+        <cost>40</cost>
+        <description>Used to make a Fast Ball.</description>
+    </item>
+    <item>
+        <name>Black Apricorn</name>
+        <cost>40</cost>
+        <description>Used to make a Heavy Ball.</description>
+    </item>
+    <item>
+        <name>Dowsing Machine</name>
+        <cost>21</cost>
+        <description>Use to find hidden items on the field. AKA Itemfinder.</description>
+    </item>
+    <item>
+        <name>Rage Candy Bar</name>
+        <cost>21</cost>
+        <description>HS: Traded for TM64. Gen II &amp; Gen V: Acts as a Potion.</description>
+    </item>
+    <item>
+        <name>Red Orb</name>
+        <cost>22</cost>
+        <description>Summons Groudon to the Embedded Tower.</description>
+    </item>
+    <item>
+        <name>Blue Orb</name>
+        <cost>22</cost>
+        <description>Summons Kyogre to the Embedded Tower.</description>
+    </item>
+    <item>
+        <name>Jade Orb</name>
+        <cost>22</cost>
+        <description>Summons Rayquaza to the Embedded Tower.</description>
+    </item>
+    <item>
+        <name>Enigma Stone</name>
+        <cost>20</cost>
+        <description>S: Summons Latias H: Summons Latios.</description>
+    </item>
+    <item>
+        <name>Unown Report</name>
+        <cost>21</cost>
+        <description>Keeps track of Unown types caught.</description>
+    </item>
+    <item>
+        <name>Blue Card</name>
+        <cost>21</cost>
+        <description>Keeps track of points from Buena's show.</description>
+    </item>
+    <item>
+        <name>Slowpoke Tail</name>
+        <cost>23</cost>
+        <description>A tasty tail that sells for a high price.</description>
+    </item>
+    <item>
+        <name>Clear Bell</name>
+        <cost>22</cost>
+        <description>HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower.</description>
+    </item>
+    <item>
+        <name>Card Key</name>
+        <cost>22</cost>
+        <description>HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors.</description>
+    </item>
+    <item>
+        <name>Basement Key</name>
+        <cost>22</cost>
+        <description>HS: Key to the tunnel under Goldenrod City. Gen III: Key to New Mauville.</description>
+    </item>
+    <item>
+        <name>Red Scale</name>
+        <cost>22</cost>
+        <description>Trade to Mr. Pokémon for an Exp. Share.</description>
+    </item>
+    <item>
+        <name>Lost Item</name>
+        <cost>22</cost>
+        <description>A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass.</description>
+    </item>
+    <item>
+        <name>Pass</name>
+        <cost>22</cost>
+        <description>Grants access to ride the Magnet Train between Goldenrod City and Saffron City.</description>
+    </item>
+    <item>
+        <name>Machine Part</name>
+        <cost>22</cost>
+        <description>Must be replaced in the Power Plant to power the Magnet Train.</description>
+    </item>
+    <item>
+        <name>Silver Wing</name>
+        <cost>22</cost>
+        <description>Summons Lugia to the Whirl Islands.</description>
+    </item>
+    <item>
+        <name>Rainbow Wing</name>
+        <cost>22</cost>
+        <description>Summons Ho-Oh at the top of the Bell Tower.</description>
+    </item>
+    <item>
+        <name>Mystery Egg</name>
+        <cost>22</cost>
+        <description>Deliver to Professor Elm.</description>
+    </item>
+    <item>
+        <name>Gb Sounds</name>
+        <cost>21</cost>
+        <description>Use to listen to GameBoy era audio.</description>
+    </item>
+    <item>
+        <name>Tidal Bell</name>
+        <cost>22</cost>
+        <description>Allows Kimono-girls to summon Lugia.</description>
+    </item>
+    <item>
+        <name>Data Card 01</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first place overall in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 02</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in last place overall in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 03</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer's Pokémon have dashed in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 04</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer's Pokémon have jumped in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 05</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash.</description>
+    </item>
+    <item>
+        <name>Data Card 06</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Relay Run.</description>
+    </item>
+    <item>
+        <name>Data Card 07</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.</description>
+    </item>
+    <item>
+        <name>Data Card 08</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Block Smash.</description>
+    </item>
+    <item>
+        <name>Data Card 09</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Disc Catch.</description>
+    </item>
+    <item>
+        <name>Data Card 10</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Snow Throw.</description>
+    </item>
+    <item>
+        <name>Data Card 11</name>
+        <cost>41</cost>
+        <description>Records the number of points the trainer has earned in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 12</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer's Pokémon have messed up in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 13</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer's Pokémon have defeated themselves in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 14</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer's Pokémon have tackled in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 15</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer's Pokémon have fallen in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 16</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Ring Drop.</description>
+    </item>
+    <item>
+        <name>Data Card 17</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump.</description>
+    </item>
+    <item>
+        <name>Data Card 18</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Circle Push.</description>
+    </item>
+    <item>
+        <name>Data Card 19</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first place overall in the Pokéathlon over wirelss.</description>
+    </item>
+    <item>
+        <name>Data Card 20</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless.</description>
+    </item>
+    <item>
+        <name>Data Card 21</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first across all Pokéathlon events.</description>
+    </item>
+    <item>
+        <name>Data Card 22</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in last across all Pokéathlon events.</description>
+    </item>
+    <item>
+        <name>Data Card 23</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has switched Pokémon in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 24</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has come in first in the Pokéathlon Goal Roll.</description>
+    </item>
+    <item>
+        <name>Data Card 25</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer's Pokémon received prizes in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 26</name>
+        <cost>41</cost>
+        <description>Records the number of times the trainer has instructed Pokémon in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Data Card 27</name>
+        <cost>41</cost>
+        <description>Records the total time spent in the Pokéathlon.</description>
+    </item>
+    <item>
+        <name>Lock Capsule</name>
+        <cost>23</cost>
+        <description>Contains TM95 (Snarl).</description>
+    </item>
+    <item>
+        <name>Photo Album</name>
+        <cost>23</cost>
+        <description>Stores photos from your adventure.</description>
+    </item>
+    <item>
+        <name>Orange Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Harbor Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Glitter Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Mech Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Wood Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Wave Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bead Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Shadow Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Tropic Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Dream Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Fab Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Retro Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Mach Bike</name>
+        <cost>21</cost>
+        <description>"Faster than the Acro Bike</description>
+    </item>
+    <item>
+        <name>Acro Bike</name>
+        <cost>21</cost>
+        <description>"More maneuverable than the Mach Bike</description>
+    </item>
+    <item>
+        <name>Wailmer Pail</name>
+        <cost>21</cost>
+        <description>Used to water berries.</description>
+    </item>
+    <item>
+        <name>Devon Goods</name>
+        <cost>22</cost>
+        <description>Contains mechanical parts to be delivered to Captain Stern.</description>
+    </item>
+    <item>
+        <name>Soot Sack</name>
+        <cost>21</cost>
+        <description>Stores volcanic ash from Route 113.</description>
+    </item>
+    <item>
+        <name>Pokeblock Case</name>
+        <cost>21</cost>
+        <description>Holds Pokéblocks.</description>
+    </item>
+    <item>
+        <name>Letter</name>
+        <cost>22</cost>
+        <description>A letter to Steven from the Devon Corp president.</description>
+    </item>
+    <item>
+        <name>Eon Ticket</name>
+        <cost>20</cost>
+        <description>Provides access to Southern Island and Latias or Latios.</description>
+    </item>
+    <item>
+        <name>Scanner</name>
+        <cost>22</cost>
+        <description>Trade to Captain Stern for a DeepSeaTooth or DeepSeaScale.</description>
+    </item>
+    <item>
+        <name>Go Goggles</name>
+        <cost>21</cost>
+        <description>Allows passage through windy deserts.</description>
+    </item>
+    <item>
+        <name>Meteorite</name>
+        <cost>22</cost>
+        <description>FL: Deliver to Lostelle's father. RSE: Trade to Professor Cozmo for TM27 (Return).</description>
+    </item>
+    <item>
+        <name>Rm 1 Key</name>
+        <cost>22</cost>
+        <description>Unlocks room 1 on the Abandoned Ship.</description>
+    </item>
+    <item>
+        <name>Rm 2 Key</name>
+        <cost>22</cost>
+        <description>Unlocks room 2 on the Abandoned Ship.</description>
+    </item>
+    <item>
+        <name>Rm 4 Key</name>
+        <cost>22</cost>
+        <description>Unlocks room 4 on the Abandoned Ship.</description>
+    </item>
+    <item>
+        <name>Rm 6 Key</name>
+        <cost>22</cost>
+        <description>Unlocks room 6 on the Abandoned Ship.</description>
+    </item>
+    <item>
+        <name>Devon Scope</name>
+        <cost>21</cost>
+        <description>Allows spotting of invisible Kecleon.</description>
+    </item>
+    <item>
+        <name>Oaks Parcel</name>
+        <cost>22</cost>
+        <description>Trade to Prof. Oak for a Pokédex.</description>
+    </item>
+    <item>
+        <name>Poke Flute</name>
+        <cost>22</cost>
+        <description>"Use to awaken sleeping Pokémon</description>
+    </item>
+    <item>
+        <name>Bike Voucher</name>
+        <cost>22</cost>
+        <description>Trade in Cerulean bike shop for a Bicycle.</description>
+    </item>
+    <item>
+        <name>Gold Teeth</name>
+        <cost>22</cost>
+        <description>The Safari Zone Warden's dentures. Trade for HM04 (Strength).</description>
+    </item>
+    <item>
+        <name>Lift Key</name>
+        <cost>22</cost>
+        <description>Operates the elevator in Team Rocket's Celadon Hideout.</description>
+    </item>
+    <item>
+        <name>Silph Scope</name>
+        <cost>22</cost>
+        <description>Used to identify the true forms of ghosts in Pokémon Tower.</description>
+    </item>
+    <item>
+        <name>Fame Checker</name>
+        <cost>21</cost>
+        <description>Records information about NPCs.</description>
+    </item>
+    <item>
+        <name>Tm Case</name>
+        <cost>21</cost>
+        <description>Holds TMs.</description>
+    </item>
+    <item>
+        <name>Berry Pouch</name>
+        <cost>21</cost>
+        <description>Holds berries.</description>
+    </item>
+    <item>
+        <name>Teachy Tv</name>
+        <cost>21</cost>
+        <description>Teachers basic trainer advice.</description>
+    </item>
+    <item>
+        <name>Tri Pass</name>
+        <cost>22</cost>
+        <description>Grants access to the first three Sevii Islands.</description>
+    </item>
+    <item>
+        <name>Rainbow Pass</name>
+        <cost>22</cost>
+        <description>Grants access to all of the Sevii Islands.</description>
+    </item>
+    <item>
+        <name>Tea</name>
+        <cost>22</cost>
+        <description>Grants access to Saffron City.</description>
+    </item>
+    <item>
+        <name>Mysticticket</name>
+        <cost>20</cost>
+        <description>Allows access to Navel Rock and Lugia or Ho-oh.</description>
+    </item>
+    <item>
+        <name>Auroraticket</name>
+        <cost>20</cost>
+        <description>Allows access to Birth Island and Deoxys.</description>
+    </item>
+    <item>
+        <name>Powder Jar</name>
+        <cost>21</cost>
+        <description>Stores Berry Powder made using a Berry Crusher.</description>
+    </item>
+    <item>
+        <name>Ruby</name>
+        <cost>22</cost>
+        <description>Give to Celio with Sapphire to activate Network Machine and get Rainbow Pass.</description>
+    </item>
+    <item>
+        <name>Sapphire</name>
+        <cost>22</cost>
+        <description>Give to Celio with Ruby to activate Network Machine and get Rainbow Pass.</description>
+    </item>
+    <item>
+        <name>Magma Emblem</name>
+        <cost>22</cost>
+        <description>Provides access to the Team Magma Hideout in the Jagged Pass.</description>
+    </item>
+    <item>
+        <name>Old Sea Map</name>
+        <cost>20</cost>
+        <description>Allows access to Faraway Island and Mew. Unreleased outside of Japan.</description>
+    </item>
+    <item>
+        <name>Douse Drive</name>
+        <cost>18</cost>
+        <description>"Grants Genesect a blue</description>
+    </item>
+    <item>
+        <name>Shock Drive</name>
+        <cost>18</cost>
+        <description>"Grants Genesect a yellow</description>
+    </item>
+    <item>
+        <name>Burn Drive</name>
+        <cost>18</cost>
+        <description>"Grants Genesect a red</description>
+    </item>
+    <item>
+        <name>Chill Drive</name>
+        <cost>18</cost>
+        <description>"Grants Genesect a white</description>
+    </item>
+    <item>
+        <name>Sweet Heart</name>
+        <cost>27</cost>
+        <description>Restores 20 HP.</description>
+    </item>
+    <item>
+        <name>Greet Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Favored Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Rsvp Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Thanks Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Inquiry Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Like Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Reply Mail</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bridge Mail S</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bridge Mail D</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bridge Mail T</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bridge Mail V</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Bridge Mail M</name>
+        <cost>25</cost>
+        <description>Lets a Trainer write a message and send it via Pokémon trade.</description>
+    </item>
+    <item>
+        <name>Prism Scale</name>
+        <cost>10</cost>
+        <description>Traded on a Feebas: Holder evolves into Milotic.</description>
+    </item>
+    <item>
+        <name>Eviolite</name>
+        <cost>12</cost>
+        <description>"Held: Holder has 1.5× Defense and Special Defense</description>
+    </item>
+    <item>
+        <name>Float Stone</name>
+        <cost>12</cost>
+        <description>Held: Holder has 0.5× weight.</description>
+    </item>
+    <item>
+        <name>Rocky Helmet</name>
+        <cost>12</cost>
+        <description>"Held: When the holder is hit by a contact move</description>
+    </item>
+    <item>
+        <name>Air Balloon</name>
+        <cost>12</cost>
+        <description>"Held: Grants immunity to Ground-type moves</description>
+    </item>
+    <item>
+        <name>Red Card</name>
+        <cost>12</cost>
+        <description>"Held: When the holder takes damage from a move</description>
+    </item>
+    <item>
+        <name>Ring Target</name>
+        <cost>12</cost>
+        <description>Held: Negates the holder's type immunities. Ability immunities are not removed.</description>
+    </item>
+    <item>
+        <name>Binding Band</name>
+        <cost>12</cost>
+        <description>Held: Doubles the per-turn damage of multi-turn trapping moves.</description>
+    </item>
+    <item>
+        <name>Absorb Bulb</name>
+        <cost>12</cost>
+        <description>Held: Raises the holder's Special Attack by one stage when it takes Water-type damage.</description>
+    </item>
+    <item>
+        <name>Cell Battery</name>
+        <cost>12</cost>
+        <description>Held: Raises the holder's Attack by one stage when it takes Electric-type damage.</description>
+    </item>
+    <item>
+        <name>Eject Button</name>
+        <cost>12</cost>
+        <description>"Held: When the holder takes damage from a move</description>
+    </item>
+    <item>
+        <name>Fire Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:fire}-type move</description>
+    </item>
+    <item>
+        <name>Water Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:water}-type move</description>
+    </item>
+    <item>
+        <name>Electric Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:electric}-type move</description>
+    </item>
+    <item>
+        <name>Grass Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:grass}-type move</description>
+    </item>
+    <item>
+        <name>Ice Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:ice}-type move</description>
+    </item>
+    <item>
+        <name>Fighting Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:fighting}-type move</description>
+    </item>
+    <item>
+        <name>Poison Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:poison}-type move</description>
+    </item>
+    <item>
+        <name>Ground Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:ground}-type move</description>
+    </item>
+    <item>
+        <name>Flying Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:flying}-type move</description>
+    </item>
+    <item>
+        <name>Psychic Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:psychic}-type move</description>
+    </item>
+    <item>
+        <name>Bug Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:bug}-type move</description>
+    </item>
+    <item>
+        <name>Rock Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:rock}-type move</description>
+    </item>
+    <item>
+        <name>Ghost Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:ghost}-type move</description>
+    </item>
+    <item>
+        <name>Dark Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:dark}-type move</description>
+    </item>
+    <item>
+        <name>Steel Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:steel}-type move</description>
+    </item>
+    <item>
+        <name>Health Wing</name>
+        <cost>26</cost>
+        <description>Increases [HP]{mechanic:hp} [effort]{mechanic:effort} by 1.</description>
+    </item>
+    <item>
+        <name>Muscle Wing</name>
+        <cost>26</cost>
+        <description>Increases [Attack]{mechanic:attack} [effort]{mechanic:effort} by 1.</description>
+    </item>
+    <item>
+        <name>Resist Wing</name>
+        <cost>26</cost>
+        <description>Increases [Defense]{mechanic:defense} [effort]{mechanic:effort} by 1.</description>
+    </item>
+    <item>
+        <name>Genius Wing</name>
+        <cost>26</cost>
+        <description>Increases [Special Attack]{mechanic:special-attack} [effort]{mechanic:effort} by 1.</description>
+    </item>
+    <item>
+        <name>Clever Wing</name>
+        <cost>26</cost>
+        <description>Increases [Special Defense]{mechanic:special-defense} [effort]{mechanic:effort} by 1.</description>
+    </item>
+    <item>
+        <name>Swift Wing</name>
+        <cost>26</cost>
+        <description>Increases [Speed]{mechanic:speed} [effort]{mechanic:effort} by 1.</description>
+    </item>
+    <item>
+        <name>Pretty Wing</name>
+        <cost>24</cost>
+        <description>Sell for 100 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Cover Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into a []{pokemon:tirtouga}.</description>
+    </item>
+    <item>
+        <name>Plume Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into a []{pokemon:archen}.</description>
+    </item>
+    <item>
+        <name>Liberty Pass</name>
+        <cost>20</cost>
+        <description>Allows access to Liberty Garden and Victini.</description>
+    </item>
+    <item>
+        <name>Pass Orb</name>
+        <cost>12</cost>
+        <description>Activates Pass Powers.</description>
+    </item>
+    <item>
+        <name>Dream Ball</name>
+        <cost>33</cost>
+        <description>Catches Pokémon found in the Dream World.</description>
+    </item>
+    <item>
+        <name>Poke Toy</name>
+        <cost>11</cost>
+        <description>Ends a wild battle.</description>
+    </item>
+    <item>
+        <name>Prop Case</name>
+        <cost>21</cost>
+        <description>Stores props for the Pokémon Musical.</description>
+    </item>
+    <item>
+        <name>Dragon Skull</name>
+        <cost>22</cost>
+        <description>Return to the museum in Nacrene City.</description>
+    </item>
+    <item>
+        <name>Balm Mushroom</name>
+        <cost>24</cost>
+        <description>Sell to Hungry Maid for 25000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Big Nugget</name>
+        <cost>24</cost>
+        <description>Sell to Ore Collector for 30000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Pearl String</name>
+        <cost>24</cost>
+        <description>Sell to Ore Collector for 25000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Comet Shard</name>
+        <cost>24</cost>
+        <description>Sell to Ore Collector for 60000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Relic Copper</name>
+        <cost>24</cost>
+        <description>Sell to Villa Owner for 1000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Relic Silver</name>
+        <cost>24</cost>
+        <description>Sell to Villa Owner 5000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Relic Gold</name>
+        <cost>24</cost>
+        <description>Sell to Villa Owner 10000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Relic Vase</name>
+        <cost>24</cost>
+        <description>Sell to Villa Owner 50000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Relic Band</name>
+        <cost>24</cost>
+        <description>Sell to Villa Owner for 100000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Relic Statue</name>
+        <cost>24</cost>
+        <description>Sell to Villa Owner 200000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Relic Crown</name>
+        <cost>24</cost>
+        <description>Sell to Villa Owner for 300000 Pokédollars.</description>
+    </item>
+    <item>
+        <name>Casteliacone</name>
+        <cost>30</cost>
+        <description>Cures any status ailment and confusion.</description>
+    </item>
+    <item>
+        <name>Dire Hit 2</name>
+        <cost>43</cost>
+        <description>Raises [critical hit]{mechanic:critical-hit} rate by two [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Speed 2</name>
+        <cost>43</cost>
+        <description>Raises [Speed]{mechanic:speed} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Sp Atk 2</name>
+        <cost>43</cost>
+        <description>Raises [Special Attack]{mechanic:special-attack} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Sp Def 2</name>
+        <cost>43</cost>
+        <description>Raises [Special Defense]{mechanic:special-defense} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Defense 2</name>
+        <cost>43</cost>
+        <description>Raises [Defense]{mechanic:defense} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Attack 2</name>
+        <cost>43</cost>
+        <description>Raises [Attack]{mechanic:attack} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Accuracy 2</name>
+        <cost>43</cost>
+        <description>Raises [accuracy]{mechanic:accuracy} by two [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Speed 3</name>
+        <cost>43</cost>
+        <description>Raises [Speed]{mechanic:speed} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Sp Atk 3</name>
+        <cost>43</cost>
+        <description>Raises [Special Attack]{mechanic:special-attack} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Sp Def 3</name>
+        <cost>43</cost>
+        <description>Raises [Special Defense]{mechanic:special-defense} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Defense 3</name>
+        <cost>43</cost>
+        <description>Raises [Defense]{mechanic:defense} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Attack 3</name>
+        <cost>43</cost>
+        <description>Raises [Attack]{mechanic:attack} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Accuracy 3</name>
+        <cost>43</cost>
+        <description>Raises [accuracy]{mechanic:accuracy} by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Speed 6</name>
+        <cost>43</cost>
+        <description>Raises [Speed]{mechanic:speed} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Sp Atk 6</name>
+        <cost>43</cost>
+        <description>Raises [Special Attack]{mechanic:special-attack} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Sp Def 6</name>
+        <cost>43</cost>
+        <description>Raises [Special Defense]{mechanic:special-defense} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Defense 6</name>
+        <cost>43</cost>
+        <description>Raises [Defense]{mechanic:defense} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Attack 6</name>
+        <cost>43</cost>
+        <description>Raises [Attack]{mechanic:attack} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>X Accuracy 6</name>
+        <cost>43</cost>
+        <description>Raises [accuracy]{mechanic:accuracy} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>Ability Urge</name>
+        <cost>43</cost>
+        <description>Forcibly activates a friendly Pokémon's ability.</description>
+    </item>
+    <item>
+        <name>Item Drop</name>
+        <cost>43</cost>
+        <description>Forces a friendly Pokémon to drop its held item.</description>
+    </item>
+    <item>
+        <name>Item Urge</name>
+        <cost>43</cost>
+        <description>Forcibly activates a friendly Pokémon's held item.</description>
+    </item>
+    <item>
+        <name>Reset Urge</name>
+        <cost>43</cost>
+        <description>Resets a friendly Pokémon's stat changes.</description>
+    </item>
+    <item>
+        <name>Dire Hit 3</name>
+        <cost>43</cost>
+        <description>Raises [critical hit]{mechanic:critical-hit} rate by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.</description>
+    </item>
+    <item>
+        <name>Light Stone</name>
+        <cost>22</cost>
+        <description>Summons Reshiram for the final battle against N.</description>
+    </item>
+    <item>
+        <name>Dark Stone</name>
+        <cost>22</cost>
+        <description>Summons Zekrom for the final battle against N.</description>
+    </item>
+    <item>
+        <name>Tm93</name>
+        <cost>37</cost>
+        <description>Teaches Wild Charge to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm94</name>
+        <cost>37</cost>
+        <description>Teaches Rock Smash to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Tm95</name>
+        <cost>37</cost>
+        <description>Teaches Snarl to a compatible Pokémon.</description>
+    </item>
+    <item>
+        <name>Xtransceiver</name>
+        <cost>21</cost>
+        <description>Makes four-way video calls.</description>
+    </item>
+    <item>
+        <name>God Stone</name>
+        <cost>23</cost>
+        <description>Unknown.  Currently unused.</description>
+    </item>
+    <item>
+        <name>Gram 1</name>
+        <cost>22</cost>
+        <description>Part of a sidequest to obtain []{item:tm89}.</description>
+    </item>
+    <item>
+        <name>Gram 2</name>
+        <cost>22</cost>
+        <description>Part of a sidequest to obtain []{item:tm89}.</description>
+    </item>
+    <item>
+        <name>Gram 3</name>
+        <cost>22</cost>
+        <description>Part of a sidequest to obtain []{item:tm89}.</description>
+    </item>
+    <item>
+        <name>Dragon Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:dragon}-type move</description>
+    </item>
+    <item>
+        <name>Normal Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging []{type:normal}-type move</description>
+    </item>
+    <item>
+        <name>Medal Box</name>
+        <cost>21</cost>
+        <description>Holds medals recieved in the medal rally.</description>
+    </item>
+    <item>
+        <name>Dna Splicers</name>
+        <cost>21</cost>
+        <description>"Fuses Kyurem with Reshiram or Zekrom</description>
+    </item>
+    <item>
+        <name>Permit</name>
+        <cost>21</cost>
+        <description>Grants access to the Nature Preserve.</description>
+    </item>
+    <item>
+        <name>Oval Charm</name>
+        <cost>21</cost>
+        <description>Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps.</description>
+    </item>
+    <item>
+        <name>Shiny Charm</name>
+        <cost>21</cost>
+        <description>Raises the chance of finding a shiny Pokémon.</description>
+    </item>
+    <item>
+        <name>Plasma Card</name>
+        <cost>22</cost>
+        <description>Required to progress in the Plasma Frigate.</description>
+    </item>
+    <item>
+        <name>Grubby Hanky</name>
+        <cost>22</cost>
+        <description>Appears in the Café Warehouse on Sunday; return to the customer with a Patrat on Thursday.</description>
+    </item>
+    <item>
+        <name>Colress Machine</name>
+        <cost>22</cost>
+        <description>Wakes up the Crustle blocking the way in Seaside Cave.</description>
+    </item>
+    <item>
+        <name>Dropped Item</name>
+        <cost>22</cost>
+        <description>Returned to Curtis or Yancy as part of a sidequest.</description>
+    </item>
+    <item>
+        <name>Reveal Glass</name>
+        <cost>21</cost>
+        <description>"Switches Tornadus</description>
+    </item>
+    <item>
+        <name>Weakness Policy</name>
+        <cost>12</cost>
+        <description>"Held: When the holder is hit by a super effective move</description>
+    </item>
+    <item>
+        <name>Assault Vest</name>
+        <cost>12</cost>
+        <description>Raises the holder's Special Defense to 1.5×.  Prevents the holder from selecting a status move.</description>
+    </item>
+    <item>
+        <name>Pixie Plate</name>
+        <cost>17</cost>
+        <description>Held: Fairy-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fairy.</description>
+    </item>
+    <item>
+        <name>Ability Capsule</name>
+        <cost>26</cost>
+        <description>Switches a Pokémon between its two possible (non-Hidden) Abilities.</description>
+    </item>
+    <item>
+        <name>Whipped Dream</name>
+        <cost>10</cost>
+        <description>Traded on a Swirlix: Holder evolves into Slurpuff.</description>
+    </item>
+    <item>
+        <name>Sachet</name>
+        <cost>10</cost>
+        <description>Traded on a Spritzee: Holder evolves into Aromatisse.</description>
+    </item>
+    <item>
+        <name>Luminous Moss</name>
+        <cost>12</cost>
+        <description>"Held: If the holder is hit by a damaging Water move</description>
+    </item>
+    <item>
+        <name>Snowball</name>
+        <cost>12</cost>
+        <description>"Held: If the holder is hit by a damaging Ice move</description>
+    </item>
+    <item>
+        <name>Safety Goggles</name>
+        <cost>12</cost>
+        <description>Held: Prevents damage from powder moves and the damage from Hail and Sandstorm.</description>
+    </item>
+    <item>
+        <name>Rich Mulch</name>
+        <cost>32</cost>
+        <description>Increases the total number of Berries by 2.</description>
+    </item>
+    <item>
+        <name>Surprise Mulch</name>
+        <cost>32</cost>
+        <description>Increases the chance of Berry mutation.</description>
+    </item>
+    <item>
+        <name>Boost Mulch</name>
+        <cost>32</cost>
+        <description>Causes soil to dry out in 4 hours.</description>
+    </item>
+    <item>
+        <name>Amaze Mulch</name>
+        <cost>32</cost>
+        <description>"Increases the total number of Berries by 2</description>
+    </item>
+    <item>
+        <name>Gengarite</name>
+        <cost>44</cost>
+        <description>Held: Allows Gengar to Mega Evolve into Mega Gengar.</description>
+    </item>
+    <item>
+        <name>Gardevoirite</name>
+        <cost>44</cost>
+        <description>Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.</description>
+    </item>
+    <item>
+        <name>Ampharosite</name>
+        <cost>44</cost>
+        <description>Held: Allows Ampharos to Mega Evolve into Mega Ampharos.</description>
+    </item>
+    <item>
+        <name>Venusaurite</name>
+        <cost>44</cost>
+        <description>Held: Allows Venusaur to Mega Evolve into Mega Venusaur.</description>
+    </item>
+    <item>
+        <name>Charizardite X</name>
+        <cost>44</cost>
+        <description>Held: Allows Charizard to Mega Evolve into Mega Charizard X.</description>
+    </item>
+    <item>
+        <name>Blastoisinite</name>
+        <cost>44</cost>
+        <description>Held: Allows Blastoise to Mega Evolve into Mega Blastoise.</description>
+    </item>
+    <item>
+        <name>Mewtwonite X</name>
+        <cost>44</cost>
+        <description>Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo X.</description>
+    </item>
+    <item>
+        <name>Mewtwonite Y</name>
+        <cost>44</cost>
+        <description>Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo Y.</description>
+    </item>
+    <item>
+        <name>Blazikenite</name>
+        <cost>44</cost>
+        <description>Held: Allows Blaziken to Mega Evolve into Mega Blaziken.</description>
+    </item>
+    <item>
+        <name>Medichamite</name>
+        <cost>44</cost>
+        <description>Held: Allows Medicham to Mega Evolve into Mega Medicham.</description>
+    </item>
+    <item>
+        <name>Houndoominite</name>
+        <cost>44</cost>
+        <description>Held: Allows Houndoom to Mega Evolve into Mega Houndoom.</description>
+    </item>
+    <item>
+        <name>Aggronite</name>
+        <cost>44</cost>
+        <description>Held: Allows Aggron to Mega Evolve into Mega Aggron.</description>
+    </item>
+    <item>
+        <name>Banettite</name>
+        <cost>44</cost>
+        <description>Held: Allows Banette to Mega Evolve into Mega Banette.</description>
+    </item>
+    <item>
+        <name>Tyranitarite</name>
+        <cost>44</cost>
+        <description>Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.</description>
+    </item>
+    <item>
+        <name>Scizorite</name>
+        <cost>44</cost>
+        <description>Held: Allows Scizor to Mega Evolve into Mega Scizor.</description>
+    </item>
+    <item>
+        <name>Pinsirite</name>
+        <cost>44</cost>
+        <description>Held: Allows Pinsir to Mega Evolve into Mega Pinsir.</description>
+    </item>
+    <item>
+        <name>Aerodactylite</name>
+        <cost>44</cost>
+        <description>Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.</description>
+    </item>
+    <item>
+        <name>Lucarionite</name>
+        <cost>44</cost>
+        <description>Held: Allows Lucario to Mega Evolve into Mega Lucario.</description>
+    </item>
+    <item>
+        <name>Abomasite</name>
+        <cost>44</cost>
+        <description>Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow.</description>
+    </item>
+    <item>
+        <name>Kangaskhanite</name>
+        <cost>44</cost>
+        <description>Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.</description>
+    </item>
+    <item>
+        <name>Gyaradosite</name>
+        <cost>44</cost>
+        <description>Held: Allows Gyarados to Mega Evolve into Mega Gyarados.</description>
+    </item>
+    <item>
+        <name>Absolite</name>
+        <cost>44</cost>
+        <description>Held: Allows Absol to Mega Evolve into Mega Absol.</description>
+    </item>
+    <item>
+        <name>Charizardite Y</name>
+        <cost>44</cost>
+        <description>Held: Allows Charizard to Mega Evolve into Mega Charizard Y.</description>
+    </item>
+    <item>
+        <name>Alakazite</name>
+        <cost>44</cost>
+        <description>Held: Allows Alakazam to Mega Evolve into Mega Alakazam.</description>
+    </item>
+    <item>
+        <name>Heracronite</name>
+        <cost>44</cost>
+        <description>Held: Allows Heracross to Mega Evolve into Mega Heracross.</description>
+    </item>
+    <item>
+        <name>Mawilite</name>
+        <cost>44</cost>
+        <description>Held: Allows Mawile to Mega Evolve into Mega Mawile.</description>
+    </item>
+    <item>
+        <name>Manectite</name>
+        <cost>44</cost>
+        <description>Held: Allows Manectric to Mega Evolve into Mega Manectric.</description>
+    </item>
+    <item>
+        <name>Garchompite</name>
+        <cost>44</cost>
+        <description>Held: Allows Garchomp to Mega Evolve into Mega Garchomp.</description>
+    </item>
+    <item>
+        <name>Roseli Berry</name>
+        <cost>7</cost>
+        <description>Held: Consumed when struck by a super-effective Fairy-type attack to halve the damage.</description>
+    </item>
+    <item>
+        <name>Kee Berry</name>
+        <cost>4</cost>
+        <description>"Held: When the holder is hit by a physical move</description>
+    </item>
+    <item>
+        <name>Maranga Berry</name>
+        <cost>4</cost>
+        <description>"Held: When the holder is hit by a special move</description>
+    </item>
+    <item>
+        <name>Discount Coupon</name>
+        <cost>24</cost>
+        <description>Can be used at a boutique for a 50% discount.  Consumed once used.</description>
+    </item>
+    <item>
+        <name>Strange Souvenir</name>
+        <cost>24</cost>
+        <description>Vendor trash.</description>
+    </item>
+    <item>
+        <name>Lumiose Galette</name>
+        <cost>30</cost>
+        <description>Cures all major status ailments and confusion.</description>
+    </item>
+    <item>
+        <name>Jaw Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into a Tyrunt.</description>
+    </item>
+    <item>
+        <name>Sail Fossil</name>
+        <cost>35</cost>
+        <description>Can be revived into an Amaura.</description>
+    </item>
+    <item>
+        <name>Fairy Gem</name>
+        <cost>42</cost>
+        <description>"Held: When the holder uses a damaging Fairy move</description>
+    </item>
+    <item>
+        <name>Adventure Rules</name>
+        <cost>21</cost>
+        <description>Contains basic gameplay information.</description>
+    </item>
+    <item>
+        <name>Elevator Key</name>
+        <cost>22</cost>
+        <description>Unlocks the elevator in Lysandre Labs.</description>
+    </item>
+    <item>
+        <name>Holo Caster</name>
+        <cost>21</cost>
+        <description>Displays cutscene conversations as the plot advances.</description>
+    </item>
+    <item>
+        <name>Honor Of Kalos</name>
+        <cost>22</cost>
+        <description>"Does nothing</description>
+    </item>
+    <item>
+        <name>Intriguing Stone</name>
+        <cost>22</cost>
+        <description>"Trade for a Sun Stone in X and Y</description>
+    </item>
+    <item>
+        <name>Lens Case</name>
+        <cost>21</cost>
+        <description>Allows the player to change their eye color.</description>
+    </item>
+    <item>
+        <name>Looker Ticket</name>
+        <cost>22</cost>
+        <description>Advances the Looker postgame plot.</description>
+    </item>
+    <item>
+        <name>Mega Ring</name>
+        <cost>21</cost>
+        <description>Allows the player's Pokémon to Mega Evolve.</description>
+    </item>
+    <item>
+        <name>Power Plant Pass</name>
+        <cost>22</cost>
+        <description>Permits entry to the Kalos Power Plant.</description>
+    </item>
+    <item>
+        <name>Profs Letter</name>
+        <cost>22</cost>
+        <description>Traded to the player's mom for the Town Map and a Potion.</description>
+    </item>
+    <item>
+        <name>Roller Skates</name>
+        <cost>21</cost>
+        <description>Allows the player to move quickly and off the grid.</description>
+    </item>
+    <item>
+        <name>Sprinklotad</name>
+        <cost>21</cost>
+        <description>Waters Berry plants.</description>
+    </item>
+    <item>
+        <name>Tmv Pass</name>
+        <cost>21</cost>
+        <description>Permits access to Kiloude City.</description>
+    </item>
+    <item>
+        <name>Tm96</name>
+        <cost>37</cost>
+        <description>Teaches a Pokémon TM96.</description>
+    </item>
+    <item>
+        <name>Tm97</name>
+        <cost>37</cost>
+        <description>Teaches a Pokémon TM97.</description>
+    </item>
+    <item>
+        <name>Tm98</name>
+        <cost>37</cost>
+        <description>Teaches a Pokémon TM98.</description>
+    </item>
+    <item>
+        <name>Tm99</name>
+        <cost>37</cost>
+        <description>Teaches a Pokémon TM99.</description>
+    </item>
+    <item>
+        <name>Tm100</name>
+        <cost>37</cost>
+        <description>Teaches a Pokémon TM100.</description>
+    </item>
+    <item>
+        <name>Latiasite</name>
+        <cost>44</cost>
+        <description>Held: Allows Latias to Mega Evolve into Mega Latias.</description>
+    </item>
+    <item>
+        <name>Latiosite</name>
+        <cost>44</cost>
+        <description>Held: Allows Latios to Mega Evolve into Mega Latios.</description>
+    </item>
+    <item>
+        <name>Common Stone</name>
+        <cost>23</cost>
+        <description>Unknown.</description>
+    </item>
+    <item>
+        <name>Makeup Bag</name>
+        <cost>21</cost>
+        <description>Allows the player to change their lipstick color.</description>
+    </item>
+    <item>
+        <name>Travel Trunk</name>
+        <cost>23</cost>
+        <description>"Unobtainable</description>
+    </item>
+    <item>
+        <name>Shalour Sable</name>
+        <cost>30</cost>
+        <description>Cures any major status ailment and confusion.</description>
+    </item>
+    <item>
+        <name>Mega Charm</name>
+        <cost>23</cost>
+        <description>Unused Key Stone.</description>
+    </item>
+    <item>
+        <name>Mega Glove</name>
+        <cost>23</cost>
+        <description>Unused NPC Key Stone.</description>
+    </item>
+    <item>
+        <name>Devon Parts</name>
+        <cost>22</cost>
+        <description>Allows Captain Stern to set out on his expedition.</description>
+    </item>
+    <item>
+        <name>Pokeblock Kit</name>
+        <cost>21</cost>
+        <description>Creates and stores Pokéblocks.</description>
+    </item>
+    <item>
+        <name>Key To Room 1</name>
+        <cost>22</cost>
+        <description>Unlocks the door to Room 1 in Sea Mauville.</description>
+    </item>
+    <item>
+        <name>Key To Room 2</name>
+        <cost>22</cost>
+        <description>Unlocks the door to Room 2 in Sea Mauville.</description>
+    </item>
+    <item>
+        <name>Key To Room 4</name>
+        <cost>22</cost>
+        <description>Unlocks the door to Room 4 in Sea Mauville.</description>
+    </item>
+    <item>
+        <name>Key To Room 6</name>
+        <cost>22</cost>
+        <description>Unlocks the door to Room 6 in Sea Mauville.</description>
+    </item>
+    <item>
+        <name>Devon Scuba Gear</name>
+        <cost>22</cost>
+        <description>Worn by the player while underwater.</description>
+    </item>
+    <item>
+        <name>Contest Costume Jacket</name>
+        <cost>21</cost>
+        <description>Worn during Pokémon Contests.</description>
+    </item>
+    <item>
+        <name>Magma Suit</name>
+        <cost>22</cost>
+        <description>Allows the player to ride Groudon in the Cave of Origin.</description>
+    </item>
+    <item>
+        <name>Aqua Suit</name>
+        <cost>22</cost>
+        <description>Allows the player to ride Kyogre in the Cave of Origin.</description>
+    </item>
+    <item>
+        <name>Pair Of Tickets</name>
+        <cost>22</cost>
+        <description>Allows the player and their mother to see the star show in the Mossdeep Space Center.</description>
+    </item>
+    <item>
+        <name>Mega Bracelet</name>
+        <cost>21</cost>
+        <description>Allows the player's Pokémon to Mega Evolve.</description>
+    </item>
+    <item>
+        <name>Mega Pendant</name>
+        <cost>23</cost>
+        <description>Unused NPC Key Stone.</description>
+    </item>
+    <item>
+        <name>Mega Glasses</name>
+        <cost>23</cost>
+        <description>Unused NPC Key Stone.</description>
+    </item>
+    <item>
+        <name>Mega Anchor</name>
+        <cost>23</cost>
+        <description>Unused NPC Key Stone.</description>
+    </item>
+    <item>
+        <name>Mega Stickpin</name>
+        <cost>23</cost>
+        <description>Unused NPC Key Stone.</description>
+    </item>
+    <item>
+        <name>Mega Tiara</name>
+        <cost>23</cost>
+        <description>Unused NPC Key Stone.</description>
+    </item>
+    <item>
+        <name>Mega Anklet</name>
+        <cost>23</cost>
+        <description>Unused NPC Key Stone.</description>
+    </item>
+    <item>
+        <name>Swampertite</name>
+        <cost>44</cost>
+        <description>Held: Allows Swampert to Mega Evolve into Mega Swampert.</description>
+    </item>
+    <item>
+        <name>Sceptilite</name>
+        <cost>44</cost>
+        <description>Held: Allows Sceptile to Mega Evolve into Mega Sceptile.</description>
+    </item>
+    <item>
+        <name>Sablenite</name>
+        <cost>44</cost>
+        <description>Held: Allows Sableye to Mega Evolve into Mega Sableye.</description>
+    </item>
+    <item>
+        <name>Altarianite</name>
+        <cost>44</cost>
+        <description>Held: Allows Altaria to Mega Evolve into Mega Altaria.</description>
+    </item>
+    <item>
+        <name>Galladite</name>
+        <cost>44</cost>
+        <description>Held: Allows Gallade to Mega Evolve into Mega Gallade.</description>
+    </item>
+    <item>
+        <name>Audinite</name>
+        <cost>44</cost>
+        <description>Held: Allows Audino to Mega Evolve into Mega Audino.</description>
+    </item>
+    <item>
+        <name>Metagrossite</name>
+        <cost>44</cost>
+        <description>Held: Allows Metagross to Mega Evolve into Mega Metagross.</description>
+    </item>
+    <item>
+        <name>Sharpedonite</name>
+        <cost>44</cost>
+        <description>Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.</description>
+    </item>
+    <item>
+        <name>Slowbronite</name>
+        <cost>44</cost>
+        <description>Held: Allows Slowbro to Mega Evolve into Mega Slowbro.</description>
+    </item>
+    <item>
+        <name>Steelixite</name>
+        <cost>44</cost>
+        <description>Held: Allows Steelix to Mega Evolve into Mega Steelix.</description>
+    </item>
+    <item>
+        <name>Pidgeotite</name>
+        <cost>44</cost>
+        <description>Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.</description>
+    </item>
+    <item>
+        <name>Glalitite</name>
+        <cost>44</cost>
+        <description>Held: Allows Glalie to Mega Evolve into Mega Glalie.</description>
+    </item>
+    <item>
+        <name>Diancite</name>
+        <cost>44</cost>
+        <description>Held: Allows Diancie to Mega Evolve into Mega Diancie.</description>
+    </item>
+    <item>
+        <name>Prison Bottle</name>
+        <cost>21</cost>
+        <description>Transforms Hoopa into its Unbound form for up to three days.</description>
+    </item>
+    <item>
+        <name>Mega Cuff</name>
+        <cost>23</cost>
+        <description>Unused Key Stone.</description>
+    </item>
+    <item>
+        <name>Cameruptite</name>
+        <cost>44</cost>
+        <description>Held: Allows Camerupt to Mega Evolve into Mega Camerupt.</description>
+    </item>
+    <item>
+        <name>Lopunnite</name>
+        <cost>44</cost>
+        <description>Held: Allows Lopunny to Mega Evolve into Mega Lopunny.</description>
+    </item>
+    <item>
+        <name>Salamencite</name>
+        <cost>44</cost>
+        <description>Held: Allows Salamence to Mega Evolve into Mega Salamence.</description>
+    </item>
+    <item>
+        <name>Beedrillite</name>
+        <cost>44</cost>
+        <description>Held: Allows Beedrill to Mega Evolve into Mega Beedrill.</description>
+    </item>
+    <item>
+        <name>Key Stone</name>
+        <cost>21</cost>
+        <description>Allows the player's Pokémon to Mega Evolve.</description>
+    </item>
+    <item>
+        <name>Meteorite Shard</name>
+        <cost>22</cost>
+        <description>"Causes the Meteorite to transform to its final form</description>
+    </item>
+    <item>
+        <name>Eon Flute</name>
+        <cost>21</cost>
+        <description>Summons Latias or Latios for a ride.</description>
+    </item>
+    <item>
+        <name>Normalium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Normal moves.</description>
+    </item>
+    <item>
+        <name>Firium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Fire moves.</description>
+    </item>
+    <item>
+        <name>Waterium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Water moves.</description>
+    </item>
+    <item>
+        <name>Electrium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Electric moves.</description>
+    </item>
+    <item>
+        <name>Grassium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Grass moves.</description>
+    </item>
+    <item>
+        <name>Icium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Ice moves.</description>
+    </item>
+    <item>
+        <name>Fightinium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Fighting moves.</description>
+    </item>
+    <item>
+        <name>Poisonium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Poison moves.</description>
+    </item>
+    <item>
+        <name>Groundium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Ground moves.</description>
+    </item>
+    <item>
+        <name>Flyinium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Flying moves.</description>
+    </item>
+    <item>
+        <name>Psychium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Psychic moves.</description>
+    </item>
+    <item>
+        <name>Buginium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Bug moves.</description>
+    </item>
+    <item>
+        <name>Rockium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Rock moves.</description>
+    </item>
+    <item>
+        <name>Ghostium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Ghost moves.</description>
+    </item>
+    <item>
+        <name>Dragonium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Dragon moves.</description>
+    </item>
+    <item>
+        <name>Darkinium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Dark moves.</description>
+    </item>
+    <item>
+        <name>Steelium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Steel moves.</description>
+    </item>
+    <item>
+        <name>Fairium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows a Pokémon to use the Z-move equivalents of its Fairy moves.</description>
+    </item>
+    <item>
+        <name>Pikanium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Pikachu to upgrade Volt Tackle into Catastropika.</description>
+    </item>
+    <item>
+        <name>Bottle Cap</name>
+        <cost>24</cost>
+        <description>Trade to Mr. Hyper to maximize one of a Pokémon's genes.</description>
+    </item>
+    <item>
+        <name>Gold Bottle Cap</name>
+        <cost>24</cost>
+        <description>Trade to Mr. Hyper to maximize all of a Pokémon's genes.</description>
+    </item>
+    <item>
+        <name>Z Ring</name>
+        <cost>21</cost>
+        <description>Allows the player's Pokémon to use Z-moves.</description>
+    </item>
+    <item>
+        <name>Decidium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Decidueye to upgrade Spirit Shackle into Sinister Arrow Raid.</description>
+    </item>
+    <item>
+        <name>Incinium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault.</description>
+    </item>
+    <item>
+        <name>Primarium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Primarina to upgrade Sparkling Aria into Oceanic Operetta.</description>
+    </item>
+    <item>
+        <name>Tapunium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows the Tapus to upgrade Nature's Madness into Guardian of Alola.</description>
+    </item>
+    <item>
+        <name>Marshadium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Marshadow to upgrade Spectral Thief into Soul-Stealing 7 Star Strike.</description>
+    </item>
+    <item>
+        <name>Aloraichium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Alola Raichu to upgrade Thunderbolt into Stoked Sparksurfer.</description>
+    </item>
+    <item>
+        <name>Snorlium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Snorlax to upgrade Giga Impact into Pulverizing Pancake.</description>
+    </item>
+    <item>
+        <name>Eevium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Eevee to upgrade Last Resort into Extreme Evoboost.</description>
+    </item>
+    <item>
+        <name>Mewnium Z Held</name>
+        <cost>46</cost>
+        <description>Held: Allows Mew to upgrade Psychic into Genesis Supernova.</description>
+    </item>
+    <item>
+        <name>Pikashunium Z Held</name>
+        <cost>46</cost>
+        <description>"Held: Allows cap-wearing Pikachu to upgrade Thunderbolt into 10</description>
+    </item>
+    <item>
+        <name>Forage Bag</name>
+        <cost>21</cost>
+        <description>Holds ingredients during Mallow's trial.</description>
+    </item>
+    <item>
+        <name>Fishing Rod</name>
+        <cost>21</cost>
+        <description>Allows the player to fish for Pokémon.</description>
+    </item>
+    <item>
+        <name>Professors Mask</name>
+        <cost>22</cost>
+        <description>Lost by Professor Kukui.</description>
+    </item>
+    <item>
+        <name>Festival Ticket</name>
+        <cost>21</cost>
+        <description>Hosts a mission in Festival Plaza.</description>
+    </item>
+    <item>
+        <name>Sparkling Stone</name>
+        <cost>22</cost>
+        <description>Required to obtain a Z-Ring.</description>
+    </item>
+    <item>
+        <name>Adrenaline Orb</name>
+        <cost>12</cost>
+        <description>Makes wild Pokémon more likely to summon allies.  Held: increases the holder's Speed by one stage when affected by Intimidate.</description>
+    </item>
+    <item>
+        <name>Zygarde Cube</name>
+        <cost>21</cost>
+        <description>Contains collected Zygarde cells/cores.  Can teach Zygarde moves.</description>
+    </item>
+    <item>
+        <name>Ice Stone</name>
+        <cost>10</cost>
+        <description>Evolves an Alola Sandshrew into Alola Sandslash or an Alola Vulpix into Alola Ninetales.</description>
+    </item>
+    <item>
+        <name>Ride Pager</name>
+        <cost>23</cost>
+        <description>Allows the player to summon a Ride Pokémon.</description>
+    </item>
+    <item>
+        <name>Beast Ball</name>
+        <cost>33</cost>
+        <description>Tries to catch a wild Pokémon.  Success rate is 5× for Ultra Beasts and 0.1× for all other Pokémon.</description>
+    </item>
+    <item>
+        <name>Big Malasada</name>
+        <cost>30</cost>
+        <description>Cures major status ailments and confusion.</description>
+    </item>
+    <item>
+        <name>Red Nectar</name>
+        <cost>18</cost>
+        <description>Changes Oricorio to Baile Style.</description>
+    </item>
+    <item>
+        <name>Yellow Nectar</name>
+        <cost>18</cost>
+        <description>Changes Oricorio to Pom-Pom Style.</description>
+    </item>
+    <item>
+        <name>Pink Nectar</name>
+        <cost>18</cost>
+        <description>Changes Oricorio to Pa’u Style.</description>
+    </item>
+    <item>
+        <name>Purple Nectar</name>
+        <cost>18</cost>
+        <description>Changes Oricorio to Sensu Style.</description>
+    </item>
+    <item>
+        <name>Sun Flute</name>
+        <cost>22</cost>
+        <description>Evolves Nebby into Solgaleo when used at the Altar of the Sunne.</description>
+    </item>
+    <item>
+        <name>Moon Flute</name>
+        <cost>22</cost>
+        <description>Evolves Nebby into Lunala when used at the Altar of the Moone.</description>
+    </item>
+    <item>
+        <name>Enigmatic Card</name>
+        <cost>22</cost>
+        <description>Unlocks Looker's motel room on Route 8.</description>
+    </item>
+    <item>
+        <name>Terrain Extender</name>
+        <cost>12</cost>
+        <description>Held: Extends the holder's Terrain effects to 8 turns.</description>
+    </item>
+    <item>
+        <name>Protective Pads</name>
+        <cost>12</cost>
+        <description>Held: Prevents side effects of contact moves used on the holder.</description>
+    </item>
+    <item>
+        <name>Electric Seed</name>
+        <cost>12</cost>
+        <description>Held: Consumed on Electric Terrain and raises the holder's Defense by one stage.</description>
+    </item>
+    <item>
+        <name>Psychic Seed</name>
+        <cost>12</cost>
+        <description>Held: Consumed on Psychic Terrain and raises the holder's Special Defense by one stage.</description>
+    </item>
+    <item>
+        <name>Misty Seed</name>
+        <cost>12</cost>
+        <description>Held: Consumed on Misty Terrain and raises the holder's Special Defense by one stage.</description>
+    </item>
+    <item>
+        <name>Grassy Seed</name>
+        <cost>12</cost>
+        <description>Held: Consumed on Grassy Terrain and raises the holder's Defense by one stage.</description>
+    </item>
+    <item>
+        <name>Fighting Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Fighting form.  Changes Multi-Attack's type to Fighting.</description>
+    </item>
+    <item>
+        <name>Flying Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Flying form.  Changes Multi-Attack's type to Flying.</description>
+    </item>
+    <item>
+        <name>Poison Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Poison form.  Changes Multi-Attack's type to Poison.</description>
+    </item>
+    <item>
+        <name>Ground Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Ground form.  Changes Multi-Attack's type to Ground.</description>
+    </item>
+    <item>
+        <name>Rock Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Rock form.  Changes Multi-Attack's type to Rock.</description>
+    </item>
+    <item>
+        <name>Bug Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Bug form.  Changes Multi-Attack's type to Bug.</description>
+    </item>
+    <item>
+        <name>Ghost Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Ghost form.  Changes Multi-Attack's type to Ghost.</description>
+    </item>
+    <item>
+        <name>Steel Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Steel form.  Changes Multi-Attack's type to Steel.</description>
+    </item>
+    <item>
+        <name>Fire Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Fire form.  Changes Multi-Attack's type to Fire.</description>
+    </item>
+    <item>
+        <name>Water Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Water form.  Changes Multi-Attack's type to Water.</description>
+    </item>
+    <item>
+        <name>Grass Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Grass form.  Changes Multi-Attack's type to Grass.</description>
+    </item>
+    <item>
+        <name>Electric Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Electric form.  Changes Multi-Attack's type to Electric.</description>
+    </item>
+    <item>
+        <name>Psychic Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Psychic form.  Changes Multi-Attack's type to Psychic.</description>
+    </item>
+    <item>
+        <name>Ice Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Ice form.  Changes Multi-Attack's type to Ice.</description>
+    </item>
+    <item>
+        <name>Dragon Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Dragon form.  Changes Multi-Attack's type to Dragon.</description>
+    </item>
+    <item>
+        <name>Dark Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Dark form.  Changes Multi-Attack's type to Dark.</description>
+    </item>
+    <item>
+        <name>Fairy Memory</name>
+        <cost>45</cost>
+        <description>Held: Changes Silvally to its Fairy form.  Changes Multi-Attack's type to Fairy.</description>
+    </item>
+    <item>
+        <name>Bike Green</name>
+        <cost>23</cost>
+        <description>XXX new effect for bike--green</description>
+    </item>
+    <item>
+        <name>Storage Key Galactic Warehouse</name>
+        <cost>23</cost>
+        <description>XXX new effect for storage-key--galactic-warehouse</description>
+    </item>
+    <item>
+        <name>Basement Key Goldenrod</name>
+        <cost>23</cost>
+        <description>XXX new effect for basement-key--goldenrod</description>
+    </item>
+    <item>
+        <name>Xtranceiver Red</name>
+        <cost>23</cost>
+        <description>XXX new effect for xtranceiver--red</description>
+    </item>
+    <item>
+        <name>Xtranceiver Yellow</name>
+        <cost>23</cost>
+        <description>XXX new effect for xtranceiver--yellow</description>
+    </item>
+    <item>
+        <name>Dna Splicers Merge</name>
+        <cost>23</cost>
+        <description>XXX new effect for dna-splicers--merge</description>
+    </item>
+    <item>
+        <name>Dna Splicers Split</name>
+        <cost>23</cost>
+        <description>XXX new effect for dna-splicers--split</description>
+    </item>
+    <item>
+        <name>Dropped Item Red</name>
+        <cost>23</cost>
+        <description>XXX new effect for dropped-item--red</description>
+    </item>
+    <item>
+        <name>Dropped Item Yellow</name>
+        <cost>23</cost>
+        <description>XXX new effect for dropped-item--yellow</description>
+    </item>
+    <item>
+        <name>Holo Caster Green</name>
+        <cost>23</cost>
+        <description>XXX new effect for holo-caster--green</description>
+    </item>
+    <item>
+        <name>Bike Yellow</name>
+        <cost>23</cost>
+        <description>XXX new effect for bike--yellow</description>
+    </item>
+    <item>
+        <name>Holo Caster Red</name>
+        <cost>23</cost>
+        <description>XXX new effect for holo-caster--red</description>
+    </item>
+    <item>
+        <name>Basement Key New Mauville</name>
+        <cost>23</cost>
+        <description>XXX new effect for basement-key--new-mauville</description>
+    </item>
+    <item>
+        <name>Storage Key Sea Mauville</name>
+        <cost>23</cost>
+        <description>XXX new effect for storage-key--sea-mauville</description>
+    </item>
+    <item>
+        <name>Ss Ticket Hoenn</name>
+        <cost>23</cost>
+        <description>XXX new effect for ss-ticket--hoenn</description>
+    </item>
+    <item>
+        <name>Contest Costume Dress</name>
+        <cost>23</cost>
+        <description>XXX new effect for contest-costume--dress</description>
+    </item>
+    <item>
+        <name>Meteorite 2</name>
+        <cost>23</cost>
+        <description>XXX new effect for meteorite--2</description>
+    </item>
+    <item>
+        <name>Meteorite 3</name>
+        <cost>23</cost>
+        <description>XXX new effect for meteorite--3</description>
+    </item>
+    <item>
+        <name>Meteorite 4</name>
+        <cost>23</cost>
+        <description>XXX new effect for meteorite--4</description>
+    </item>
+    <item>
+        <name>Normalium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for normalium-z--bag</description>
+    </item>
+    <item>
+        <name>Firium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for firium-z--bag</description>
+    </item>
+    <item>
+        <name>Waterium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for waterium-z--bag</description>
+    </item>
+    <item>
+        <name>Electrium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for electrium-z--bag</description>
+    </item>
+    <item>
+        <name>Grassium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for grassium-z--bag</description>
+    </item>
+    <item>
+        <name>Icium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for icium-z--bag</description>
+    </item>
+    <item>
+        <name>Fightinium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for fightinium-z--bag</description>
+    </item>
+    <item>
+        <name>Poisonium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for poisonium-z--bag</description>
+    </item>
+    <item>
+        <name>Groundium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for groundium-z--bag</description>
+    </item>
+    <item>
+        <name>Flyinium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for flyinium-z--bag</description>
+    </item>
+    <item>
+        <name>Psychium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for psychium-z--bag</description>
+    </item>
+    <item>
+        <name>Buginium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for buginium-z--bag</description>
+    </item>
+    <item>
+        <name>Rockium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for rockium-z--bag</description>
+    </item>
+    <item>
+        <name>Ghostium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for ghostium-z--bag</description>
+    </item>
+    <item>
+        <name>Dragonium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for dragonium-z--bag</description>
+    </item>
+    <item>
+        <name>Darkinium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for darkinium-z--bag</description>
+    </item>
+    <item>
+        <name>Steelium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for steelium-z--bag</description>
+    </item>
+    <item>
+        <name>Fairium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for fairium-z--bag</description>
+    </item>
+    <item>
+        <name>Pikanium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for pikanium-z--bag</description>
+    </item>
+    <item>
+        <name>Decidium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for decidium-z--bag</description>
+    </item>
+    <item>
+        <name>Incinium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for incinium-z--bag</description>
+    </item>
+    <item>
+        <name>Primarium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for primarium-z--bag</description>
+    </item>
+    <item>
+        <name>Tapunium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for tapunium-z--bag</description>
+    </item>
+    <item>
+        <name>Marshadium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for marshadium-z--bag</description>
+    </item>
+    <item>
+        <name>Aloraichium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for aloraichium-z--bag</description>
+    </item>
+    <item>
+        <name>Snorlium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for snorlium-z--bag</description>
+    </item>
+    <item>
+        <name>Eevium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for eevium-z--bag</description>
+    </item>
+    <item>
+        <name>Mewnium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for mewnium-z--bag</description>
+    </item>
+    <item>
+        <name>Pikashunium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for pikashunium-z--bag</description>
+    </item>
+    <item>
+        <name>Solganium Z Held</name>
+        <cost>23</cost>
+        <description>XXX new effect for solganium-z--held</description>
+    </item>
+    <item>
+        <name>Lunalium Z Held</name>
+        <cost>23</cost>
+        <description>XXX new effect for lunalium-z--held</description>
+    </item>
+    <item>
+        <name>Ultranecrozium Z Held</name>
+        <cost>23</cost>
+        <description>XXX new effect for ultranecrozium-z--held</description>
+    </item>
+    <item>
+        <name>Mimikium Z Held</name>
+        <cost>23</cost>
+        <description>XXX new effect for mimikium-z--held</description>
+    </item>
+    <item>
+        <name>Lycanium Z Held</name>
+        <cost>23</cost>
+        <description>XXX new effect for lycanium-z--held</description>
+    </item>
+    <item>
+        <name>Kommonium Z Held</name>
+        <cost>23</cost>
+        <description>XXX new effect for kommonium-z--held</description>
+    </item>
+    <item>
+        <name>Solganium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for solganium-z--bag</description>
+    </item>
+    <item>
+        <name>Lunalium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for lunalium-z--bag</description>
+    </item>
+    <item>
+        <name>Ultranecrozium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for ultranecrozium-z--bag</description>
+    </item>
+    <item>
+        <name>Mimikium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for mimikium-z--bag</description>
+    </item>
+    <item>
+        <name>Lycanium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for lycanium-z--bag</description>
+    </item>
+    <item>
+        <name>Kommonium Z Bag</name>
+        <cost>23</cost>
+        <description>XXX new effect for kommonium-z--bag</description>
+    </item>
+    <item>
+        <name>Z Power Ring</name>
+        <cost>23</cost>
+        <description>XXX new effect for z-power-ring</description>
+    </item>
+    <item>
+        <name>Pink Petal</name>
+        <cost>23</cost>
+        <description>XXX new effect for pink-petal</description>
+    </item>
+    <item>
+        <name>Orange Petal</name>
+        <cost>23</cost>
+        <description>XXX new effect for orange-petal</description>
+    </item>
+    <item>
+        <name>Blue Petal</name>
+        <cost>23</cost>
+        <description>XXX new effect for blue-petal</description>
+    </item>
+    <item>
+        <name>Red Petal</name>
+        <cost>23</cost>
+        <description>XXX new effect for red-petal</description>
+    </item>
+    <item>
+        <name>Green Petal</name>
+        <cost>23</cost>
+        <description>XXX new effect for green-petal</description>
+    </item>
+    <item>
+        <name>Yellow Petal</name>
+        <cost>23</cost>
+        <description>XXX new effect for yellow-petal</description>
+    </item>
+    <item>
+        <name>Purple Petal</name>
+        <cost>23</cost>
+        <description>XXX new effect for purple-petal</description>
+    </item>
+    <item>
+        <name>Rainbow Flower</name>
+        <cost>23</cost>
+        <description>XXX new effect for rainbow-flower</description>
+    </item>
+    <item>
+        <name>Surge Badge</name>
+        <cost>23</cost>
+        <description>XXX new effect for surge-badge</description>
+    </item>
+    <item>
+        <name>N Solarizer Merge</name>
+        <cost>23</cost>
+        <description>XXX new effect for n-solarizer--merge</description>
+    </item>
+    <item>
+        <name>N Lunarizer Merge</name>
+        <cost>23</cost>
+        <description>XXX new effect for n-lunarizer--merge</description>
+    </item>
+    <item>
+        <name>N Solarizer Split</name>
+        <cost>23</cost>
+        <description>XXX new effect for n-solarizer--split</description>
+    </item>
+    <item>
+        <name>N Lunarizer Split</name>
+        <cost>23</cost>
+        <description>XXX new effect for n-lunarizer--split</description>
+    </item>
+    <item>
+        <name>Ilimas Normalium Z</name>
+        <cost>23</cost>
+        <description>XXX new effect for ilimas-normalium-z</description>
+    </item>
+    <item>
+        <name>Left Poke Ball</name>
+        <cost>23</cost>
+        <description>XXX new effect for left-poke-ball</description>
+    </item>
+    <item>
+        <name>Roto Hatch</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-hatch</description>
+    </item>
+    <item>
+        <name>Roto Bargain</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-bargain</description>
+    </item>
+    <item>
+        <name>Roto Prize Money</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-prize-money</description>
+    </item>
+    <item>
+        <name>Roto Exp Points</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-exp-points</description>
+    </item>
+    <item>
+        <name>Roto Friendship</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-friendship</description>
+    </item>
+    <item>
+        <name>Roto Encounter</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-encounter</description>
+    </item>
+    <item>
+        <name>Roto Stealth</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-stealth</description>
+    </item>
+    <item>
+        <name>Roto Hp Restore</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-hp-restore</description>
+    </item>
+    <item>
+        <name>Roto Pp Restore</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-pp-restore</description>
+    </item>
+    <item>
+        <name>Roto Boost</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-boost</description>
+    </item>
+    <item>
+        <name>Roto Catch</name>
+        <cost>23</cost>
+        <description>XXX new effect for roto-catch</description>
+    </item>
+</items>
