@@ -177,3 +177,22 @@ class ItemsListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(Item, on_delete=models.CASCADE)
 
+class EffectivenessRecord(models.Model):
+    source_type = models.CharField(max_length=500)
+    target_type = models.CharField(max_length=500)
+    damage_factor = models.CharField(max_length=500)
+
+class EffectivenessRecordsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(EffectivenessRecord, on_delete=models.CASCADE)
+
+class EffectivenessSet(models.Model):
+    games = models.IntegerField()    # Games list_id
+    effectiveness_records = models.IntegerField()    # EffectivenessRecords list_id
+
+class EffectivenessSetsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(EffectivenessSet, on_delete=models.CASCADE)
+
