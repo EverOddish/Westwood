@@ -103,6 +103,10 @@ def import_pokemon(apps, schema_editor):
     AbilityRecordsListElement = apps.get_model('westwood', 'AbilityRecordsListElement')
     AbilitySet = apps.get_model('westwood', 'AbilitySet')
     AbilitySetsListElement = apps.get_model('westwood', 'AbilitySetsListElement')
+    EvolutionRecord = apps.get_model('westwood', 'EvolutionRecord')
+    EvolutionRecordsListElement = apps.get_model('westwood', 'EvolutionRecordsListElement')
+    EvolutionSet = apps.get_model('westwood', 'EvolutionSet')
+    EvolutionSetsListElement = apps.get_model('westwood', 'EvolutionSetsListElement')
     db_alias = schema_editor.connection.alias
 
     pokemon_path = os.path.join(WESTWOOD_XML_PATH, 'pokemon')
@@ -113,6 +117,8 @@ def import_pokemon(apps, schema_editor):
     type_sets_list_counter = 1
     ability_sets_list_counter = 1
     ability_records_list_counter = 1
+    evolution_sets_list_counter = 1
+    evolution_records_list_counter = 1
     context = {}
 
     for pokemon_file in glob.glob(os.path.join(pokemon_path, '*.xml')):
@@ -215,7 +221,42 @@ def import_pokemon(apps, schema_editor):
 
             AbilitySetsListElement.objects.using(db_alias).bulk_create(ability_sets_list_element_objects)
 
-            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id)
+            evolution_sets_list_id = evolution_sets_list_counter
+            evolution_sets_list_counter += 1
+            evolution_sets_sequence_number = 1
+            evolution_sets_list_element_objects = []
+            for evolution_set_tag in pokemon_tag.iter('evolution_set'):
+
+                evolution_records_list_id = evolution_records_list_counter
+                evolution_records_list_counter += 1
+                sequence_number = 1
+                evolution_records_list_element_objects = []
+                for evolution_record in evolution_set_tag.iter('evolution_record'):
+                    evolves_to_tag = evolution_record.find('evolves_to')
+                    level_tag = evolution_record.find('level')
+                    if None != level_tag:
+                        level_int = int(level_tag.text)
+                    else:
+                        level_int = 0
+                    evolution_record_object, created = EvolutionRecord.objects.using(db_alias).get_or_create(evolves_to=evolves_to_tag.text, level=level_int)
+
+                    evolution_records_list_element_object = EvolutionRecordsListElement(list_id=evolution_records_list_id, sequence_number=sequence_number, element=evolution_record_object)
+                    evolution_records_list_element_objects.append(evolution_records_list_element_object)
+                    sequence_number += 1
+                EvolutionRecordsListElement.objects.using(db_alias).bulk_create(evolution_records_list_element_objects)
+
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, ability_set_tag.iter('game'))
+
+                evolution_set_object = EvolutionSet(games=games_list_id, evolution_records=evolution_records_list_id)
+                evolution_set_object.save(using=db_alias)
+
+                evolution_sets_list_element_object = EvolutionSetsListElement(list_id=evolution_sets_list_id, sequence_number=evolution_sets_sequence_number, element=evolution_set_object)
+                evolution_sets_list_element_objects.append(evolution_sets_list_element_object)
+                evolution_sets_sequence_number += 1
+
+            EvolutionSetsListElement.objects.using(db_alias).bulk_create(evolution_sets_list_element_objects)
+
+            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
             pokemon_objects.append(pokemon_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)
