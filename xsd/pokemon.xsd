@@ -103,6 +103,40 @@
         </xs:complexType>
     </xs:element>
 
+    <xs:element name="evolution_record">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="evolves_to" type="xs:string"/>
+                <xs:element name="level" type="xs:positiveInteger" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="evolution_records">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="evolution_record" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="evolution_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element ref="evolution_records"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="evolution_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="evolution_set" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
     <xs:element name="pokemon">
         <xs:complexType>
             <xs:sequence>
@@ -113,6 +147,7 @@
                 <xs:element ref="stat_sets"/>
                 <xs:element ref="type_sets"/>
                 <xs:element ref="ability_sets"/>
+                <xs:element ref="evolution_sets" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

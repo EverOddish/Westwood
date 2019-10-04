@@ -74,6 +74,24 @@ class AbilitySetsListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(AbilitySet, on_delete=models.CASCADE)
 
+class EvolutionRecord(models.Model):
+    evolves_to = models.CharField(max_length=500)
+    level = models.IntegerField(default=0)
+
+class EvolutionRecordsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(EvolutionRecord, on_delete=models.CASCADE)
+
+class EvolutionSet(models.Model):
+    games = models.IntegerField()    # Games list_id
+    evolution_records = models.IntegerField()    # EvolutionRecords list_id
+
+class EvolutionSetsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(EvolutionSet, on_delete=models.CASCADE)
+
 class Pokemon(models.Model):
     name = models.CharField(max_length=500)
     pokedex_numbers = models.IntegerField()    # PokedexNumbers list_id
@@ -82,6 +100,7 @@ class Pokemon(models.Model):
     stat_sets = models.IntegerField()    # StatSets list_id
     type_sets = models.IntegerField()    # TypeSets list_id
     ability_sets = models.IntegerField()    # AbilitySets list_id
+    evolution_sets = models.IntegerField()    # EvolutionSets list_id
 
 class Move(models.Model):
     name = models.CharField(max_length=500)
