@@ -85,7 +85,7 @@ def import_games(apps, schema_editor):
             game_object = Game(name=name_tag.text, generation=generation, release_date=release_date, system=system_tag.text, region=region_tag.text)
             game_objects.append(game_object)
         except etree.XMLSyntaxError:
-            print('Error parsing XML file: ' + pokemon_file)
+            print('Error parsing XML file: ' + game_file)
 
     Game.objects.using(db_alias).bulk_create(game_objects)
 
@@ -288,7 +288,7 @@ def import_moves(apps, schema_editor):
             move_object = Move(name=name_tag.text, generation=generation_tag.text, type_1=type_tag.text, base_power=base_power_tag.text, power_points=power_points_tag.text, accuracy=accuracy_tag.text, priority=priority_tag.text, damage_category=damage_category_tag.text)
             move_objects.append(move_object)
         except etree.XMLSyntaxError:
-            print('Error parsing XML file: ' + pokemon_file)
+            print('Error parsing XML file: ' + move_file)
 
     Move.objects.using(db_alias).bulk_create(move_objects)
 
@@ -316,7 +316,7 @@ def import_abilities(apps, schema_editor):
             ability_object = Ability(name=name_tag.text, description=description_tag.text, games=list_id)
             ability_objects.append(ability_object)
         except etree.XMLSyntaxError:
-            print('Error parsing XML file: ' + pokemon_file)
+            print('Error parsing XML file: ' + ability_file)
 
     Ability.objects.using(db_alias).bulk_create(ability_objects)
 
@@ -333,7 +333,7 @@ def import_misc(apps, schema_editor):
         for type_tag in types_tag.iter('type'):
             type_objects.append(Type(value=type_tag.text))
     except etree.XMLSyntaxError:
-        print('Error parsing XML file: ' + pokemon_file)
+        print('Error parsing XML file: types.xml')
     Type.objects.using(db_alias).bulk_create(type_objects)
 
     learn_method_objects = []
@@ -342,7 +342,7 @@ def import_misc(apps, schema_editor):
         for learn_method in learn_methods_tag.iter('learn_method'):
             learn_method_objects.append(LearnMethod(value=learn_method.text))
     except etree.XMLSyntaxError:
-        print('Error parsing XML file: ' + pokemon_file)
+        print('Error parsing XML file: learn_methods.xml')
     LearnMethod.objects.using(db_alias).bulk_create(learn_method_objects)
 
 def import_learnsets(apps, schema_editor):
@@ -459,6 +459,29 @@ def import_tmsets(apps, schema_editor):
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + learnset_file)
 
+def import_items(apps, schema_editor):
+    print('Importing Item data...')
+    Item = apps.get_model('westwood', 'Item')
+    db_alias = schema_editor.connection.alias
+
+    item_path = os.path.join(WESTWOOD_XML_PATH, 'misc', 'items.xml')
+    item_objects = []
+    list_counter = 1
+
+    try:
+        items_tag = etree.parse(item_path)
+        for item_tag in items_tag.iter('item'):
+            name_tag = item_tag.find('name')
+            cost_tag = item_tag.find('cost')
+            description_tag = item_tag.find('description')
+
+            item_object = Item(name=name_tag.text, cost=cost_tag.text, description=description_tag.text)
+            item_objects.append(item_object)
+    except etree.XMLSyntaxError:
+        print('Error parsing XML file: ' + item_path)
+
+    Item.objects.using(db_alias).bulk_create(item_objects)
+
 class Migration(migrations.Migration):
 
     dependencies = [
@@ -473,4 +496,5 @@ class Migration(migrations.Migration):
         migrations.RunPython(import_misc),
         migrations.RunPython(import_learnsets),
         migrations.RunPython(import_tmsets),
+        migrations.RunPython(import_items),
     ]

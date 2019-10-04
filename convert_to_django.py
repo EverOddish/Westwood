@@ -35,6 +35,7 @@ with open(django_models_path, 'w') as models_file:
                    os.path.join('xsd', 'learn_methods.xsd'),
                    os.path.join('xsd', 'learnset.xsd'),
                    os.path.join('xsd', 'tm_set.xsd'),
+                   os.path.join('xsd', 'item.xsd'),
                    ]
 
     for enum_file in enum_list:

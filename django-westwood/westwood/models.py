@@ -167,3 +167,13 @@ class PokemonTmSets(models.Model):
     name = models.CharField(max_length=500)
     tm_sets = models.IntegerField()    # TmSets list_id
 
+class Item(models.Model):
+    name = models.CharField(max_length=500)
+    cost = models.IntegerField(default=0)
+    description = models.CharField(max_length=500)
+
+class ItemsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(Item, on_delete=models.CASCADE)
+
