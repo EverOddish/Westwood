@@ -482,6 +482,59 @@ def import_items(apps, schema_editor):
 
     Item.objects.using(db_alias).bulk_create(item_objects)
 
+def import_type_effectiveness(apps, schema_editor):
+    print('Importing Type Effectiveness data...')
+    Game = apps.get_model('westwood', 'Game')
+    EffectivenessRecord = apps.get_model('westwood', 'EffectivenessRecord')
+    EffectivenessRecordsListElement = apps.get_model('westwood', 'EffectivenessRecordsListElement')
+    EffectivenessSet = apps.get_model('westwood', 'EffectivenessSet')
+    EffectivenessSetsListElement = apps.get_model('westwood', 'EffectivenessSetsListElement')
+    db_alias = schema_editor.connection.alias
+
+    type_effectiveness_file = os.path.join(WESTWOOD_XML_PATH, 'misc', 'type_effectiveness.xml')
+    effectiveness_sets_list_counter = 1
+    effectiveness_records_list_counter = 1
+    context = {}
+
+    try:
+        effectiveness_sets_tag = etree.parse(type_effectiveness_file)
+
+        effectiveness_sets_list_id = effectiveness_sets_list_counter
+        effectiveness_sets_list_counter += 1
+        effectiveness_sets_sequence_number = 1
+        effectiveness_sets_list_element_objects = []
+        for effectiveness_set_tag in effectiveness_sets_tag.iter('effectiveness_set'):
+
+            effectiveness_records_list_id = effectiveness_records_list_counter
+            effectiveness_records_list_counter += 1
+            sequence_number = 1
+            effectiveness_records_list_element_objects = []
+            for effectiveness_record in effectiveness_set_tag.iter('effectiveness_record'):
+                source_type_tag = effectiveness_record.find('source_type')
+                target_type_tag = effectiveness_record.find('target_type')
+                damage_factor_tag = effectiveness_record.find('damage_factor')
+                damage_factor_int = int(damage_factor_tag.text)
+                effectiveness_record_object, created = EffectivenessRecord.objects.using(db_alias).get_or_create(source_type=source_type_tag.text, target_type=target_type_tag.text, damage_factor=damage_factor_int)
+
+                effectiveness_records_list_element_object = EffectivenessRecordsListElement(list_id=effectiveness_records_list_id, sequence_number=sequence_number, element=effectiveness_record_object)
+                effectiveness_records_list_element_objects.append(effectiveness_records_list_element_object)
+                sequence_number += 1
+            EffectivenessRecordsListElement.objects.using(db_alias).bulk_create(effectiveness_records_list_element_objects)
+
+            context, games_list_id = get_or_create_games_list(apps, db_alias, context, effectiveness_set_tag.iter('game'))
+
+            effectiveness_set_object = EffectivenessSet(games=games_list_id, effectiveness_records=effectiveness_records_list_id)
+            effectiveness_set_object.save(using=db_alias)
+
+            effectiveness_sets_list_element_object = EffectivenessSetsListElement(list_id=effectiveness_sets_list_id, sequence_number=effectiveness_sets_sequence_number, element=effectiveness_set_object)
+            effectiveness_sets_list_element_objects.append(effectiveness_sets_list_element_object)
+            effectiveness_sets_sequence_number += 1
+
+        EffectivenessSetsListElement.objects.using(db_alias).bulk_create(effectiveness_sets_list_element_objects)
+
+    except etree.XMLSyntaxError:
+        print('Error parsing XML file: ' + pokemon_file)
+
 class Migration(migrations.Migration):
 
     dependencies = [
@@ -497,4 +550,5 @@ class Migration(migrations.Migration):
         migrations.RunPython(import_learnsets),
         migrations.RunPython(import_tmsets),
         migrations.RunPython(import_items),
+        migrations.RunPython(import_type_effectiveness),
     ]
