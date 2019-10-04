@@ -106,13 +106,13 @@ class Move(models.Model):
     name = models.CharField(max_length=500)
     generation = models.IntegerField(default=0)
     type_1 = models.CharField(max_length=500)
-    base_power = models.CharField(max_length=500)
+    base_power = models.IntegerField(default=0)
     power_points = models.IntegerField(default=0)
-    accuracy = models.CharField(max_length=500)
-    priority = models.CharField(max_length=500)
+    accuracy = models.IntegerField(default=0)
+    priority = models.IntegerField(default=0)
     damage_category = models.CharField(max_length=500)
     effect = models.CharField(max_length=500, null=True)
-    effect_chance = models.CharField(max_length=500)
+    effect_chance = models.IntegerField(default=0)
 
 class Ability(models.Model):
     name = models.CharField(max_length=500)
@@ -180,7 +180,7 @@ class ItemsListElement(models.Model):
 class EffectivenessRecord(models.Model):
     source_type = models.CharField(max_length=500)
     target_type = models.CharField(max_length=500)
-    damage_factor = models.CharField(max_length=500)
+    damage_factor = models.IntegerField(default=0)
 
 class EffectivenessRecordsListElement(models.Model):
     list_id = models.IntegerField()

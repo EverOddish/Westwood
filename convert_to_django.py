@@ -102,7 +102,7 @@ with open(django_models_path, 'w') as models_file:
                                             content += 'CharField(max_length=500, null=True)'
                                         else:
                                             content += 'CharField(max_length=500)'
-                                    elif field.get('type') == 'xs:positiveInteger':
+                                    elif field.get('type') == 'xs:positiveInteger' or field.get('type') == 'xs:integer':
                                         content += 'IntegerField(default=0)'
                                     elif field.get('type') == 'xs:date':
                                         content += 'DateTimeField()'
