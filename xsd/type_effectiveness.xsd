@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:include schemaLocation="enumerations/type.xsd"/>
+
+    <xs:element name="games">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="effectiveness_record">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="source_type" type="pokemonType"/>
+                <xs:element name="target_type" type="pokemonType"/>
+                <xs:element name="damage_factor" type="xs:integer"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="effectiveness_records">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="effectiveness_record" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="effectiveness_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element ref="effectiveness_records"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="effectiveness_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="effectiveness_set" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
