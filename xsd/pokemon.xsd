@@ -144,6 +144,8 @@
                 <xs:element ref="pokedex_numbers"/>
                 <xs:element name="height" type="xs:positiveInteger"/>
                 <xs:element name="weight" type="xs:positiveInteger"/>
+                <xs:element name="catch_rate" type="xs:positiveInteger"/>
+                <xs:element name="growth_rate" type="xs:string"/>
                 <xs:element ref="stat_sets"/>
                 <xs:element ref="type_sets"/>
                 <xs:element ref="ability_sets"/>
