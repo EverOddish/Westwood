@@ -62,7 +62,7 @@ def get_or_create_games_list(apps, db_alias, context, tags):
     return existing_games_list_ids, games_list_id
 
 def import_games(apps, schema_editor):
-    print('\nImporting Game data...')
+    print('\n    Importing Game data...')
     Game = apps.get_model('westwood', 'Game')
     db_alias = schema_editor.connection.alias
 
@@ -90,7 +90,7 @@ def import_games(apps, schema_editor):
     Game.objects.using(db_alias).bulk_create(game_objects)
 
 def import_pokemon(apps, schema_editor):
-    print('Importing Pokemon data...')
+    print('    Importing Pokemon data...')
     Pokemon = apps.get_model('westwood', 'Pokemon')
     PokedexNumber = apps.get_model('westwood', 'PokedexNumber')
     PokedexNumbersListElement = apps.get_model('westwood', 'PokedexNumbersListElement')
@@ -143,6 +143,8 @@ def import_pokemon(apps, schema_editor):
             name_tag = pokemon_tag.find('name')
             height_tag = pokemon_tag.find('height')
             weight_tag = pokemon_tag.find('weight')
+            catch_rate_tag = pokemon_tag.find('catch_rate')
+            growth_rate_tag = pokemon_tag.find('growth_rate')
 
             stat_sets_list_id = stat_sets_list_counter
             stat_sets_list_counter += 1
@@ -256,7 +258,7 @@ def import_pokemon(apps, schema_editor):
 
             EvolutionSetsListElement.objects.using(db_alias).bulk_create(evolution_sets_list_element_objects)
 
-            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
+            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, catch_rate=catch_rate_tag.text, growth_rate=growth_rate_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
             pokemon_objects.append(pokemon_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)
@@ -265,7 +267,7 @@ def import_pokemon(apps, schema_editor):
     Pokemon.objects.using(db_alias).bulk_create(pokemon_objects)
 
 def import_moves(apps, schema_editor):
-    print('Importing Move data...')
+    print('    Importing Move data...')
     Move = apps.get_model('westwood', 'Move')
     db_alias = schema_editor.connection.alias
 
@@ -293,7 +295,7 @@ def import_moves(apps, schema_editor):
     Move.objects.using(db_alias).bulk_create(move_objects)
 
 def import_abilities(apps, schema_editor):
-    print('Importing Ability data...')
+    print('    Importing Ability data...')
     Ability = apps.get_model('westwood', 'Ability')
     db_alias = schema_editor.connection.alias
 
@@ -321,7 +323,7 @@ def import_abilities(apps, schema_editor):
     Ability.objects.using(db_alias).bulk_create(ability_objects)
 
 def import_misc(apps, schema_editor):
-    print('Importing Misc data...')
+    print('    Importing Misc data...')
     Type = apps.get_model('westwood', 'Type')
     LearnMethod = apps.get_model('westwood', 'LearnMethod')
     db_alias = schema_editor.connection.alias
@@ -346,7 +348,7 @@ def import_misc(apps, schema_editor):
     LearnMethod.objects.using(db_alias).bulk_create(learn_method_objects)
 
 def import_learnsets(apps, schema_editor):
-    print('Importing Learnset data...')
+    print('    Importing Learnset data...')
     PokemonLearnsets = apps.get_model('westwood', 'PokemonLearnsets')
     Learnset = apps.get_model('westwood', 'Learnset')
     LearnsetsListElement = apps.get_model('westwood', 'LearnsetsListElement')
@@ -404,7 +406,7 @@ def import_learnsets(apps, schema_editor):
             print('Error parsing XML file: ' + learnset_file)
 
 def import_tmsets(apps, schema_editor):
-    print('Importing TmSet data...')
+    print('    Importing TmSet data...')
     PokemonTmSets = apps.get_model('westwood', 'PokemonTmSets')
     TmSet = apps.get_model('westwood', 'TmSet')
     TmSetsListElement = apps.get_model('westwood', 'TmSetsListElement')
@@ -460,7 +462,7 @@ def import_tmsets(apps, schema_editor):
             print('Error parsing XML file: ' + learnset_file)
 
 def import_items(apps, schema_editor):
-    print('Importing Item data...')
+    print('    Importing Item data...')
     Item = apps.get_model('westwood', 'Item')
     db_alias = schema_editor.connection.alias
 
@@ -483,7 +485,7 @@ def import_items(apps, schema_editor):
     Item.objects.using(db_alias).bulk_create(item_objects)
 
 def import_type_effectiveness(apps, schema_editor):
-    print('Importing Type Effectiveness data...')
+    print('    Importing Type Effectiveness data...')
     Game = apps.get_model('westwood', 'Game')
     EffectivenessRecord = apps.get_model('westwood', 'EffectivenessRecord')
     EffectivenessRecordsListElement = apps.get_model('westwood', 'EffectivenessRecordsListElement')
