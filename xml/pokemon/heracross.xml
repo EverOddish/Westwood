@@ -9,6 +9,8 @@
 	</pokedex_numbers>
 	<height>15</height>
 	<weight>540</weight>
+	<catch_rate>45</catch_rate>
+	<growth_rate>Slow</growth_rate>
 	<stat_sets>
 		<stat_set>
 			<games>
