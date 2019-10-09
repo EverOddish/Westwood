@@ -81,8 +81,9 @@ def import_games(apps, schema_editor):
             release_date = release_date.replace(tzinfo=timezone.utc)
             system_tag = game_tag.find('system')
             region_tag = game_tag.find('region')
+            sequence_tag = game_tag.find('sequence')
 
-            game_object = Game(name=name_tag.text, generation=generation, release_date=release_date, system=system_tag.text, region=region_tag.text)
+            game_object = Game(name=name_tag.text, generation=generation, release_date=release_date, system=system_tag.text, region=region_tag.text, sequence=sequence_tag.text)
             game_objects.append(game_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + game_file)

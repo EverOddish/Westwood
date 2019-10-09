@@ -12,6 +12,7 @@ class Game(models.Model):
     release_date = models.DateTimeField()
     system = models.CharField(max_length=500)
     region = models.CharField(max_length=500)
+    sequence = models.IntegerField(default=0)
 
 class TypesListElement(models.Model):
     list_id = models.IntegerField()
