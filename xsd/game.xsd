@@ -11,6 +11,7 @@
                 <xs:element name="release_date" type="xs:date"/>
                 <xs:element name="system" type="xs:string"/>
                 <xs:element name="region" type="pokemonRegion"/>
+                <xs:element name="sequence" type="xs:positiveInteger"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
