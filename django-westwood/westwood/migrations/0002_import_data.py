@@ -559,6 +559,29 @@ def import_type_effectiveness(apps, schema_editor):
     except etree.XMLSyntaxError:
         print('Error parsing XML file: ' + pokemon_file)
 
+def import_natures(apps, schema_editor):
+    print('    Importing Nature data...')
+    Nature = apps.get_model('westwood', 'Nature')
+    db_alias = schema_editor.connection.alias
+
+    natures_file = os.path.join(WESTWOOD_XML_PATH, 'misc', 'natures.xml')
+    nature_objects = []
+
+    try:
+        natures_tag = etree.parse(natures_file)
+
+        for nature_tag in natures_tag.iter('nature'):
+            name_tag = nature_tag.find('name')
+            inc_stat_tag = nature_tag.find('increased_stat')
+            dec_stat_tag = nature_tag.find('decreased_stat')
+
+            nature_object = Nature(name=name_tag.text, increased_stat=inc_stat_tag.text, decreased_stat=dec_stat_tag.text)
+            nature_objects.append(nature_object)
+
+        Nature.objects.using(db_alias).bulk_create(nature_objects)
+    except etree.XMLSyntaxError:
+        print('Error parsing XML file: ' + pokemon_file)
+
 class Migration(migrations.Migration):
 
     dependencies = [
@@ -575,4 +598,5 @@ class Migration(migrations.Migration):
         migrations.RunPython(import_tmsets),
         migrations.RunPython(import_items),
         migrations.RunPython(import_type_effectiveness),
+        migrations.RunPython(import_natures),
     ]
