@@ -12,6 +12,20 @@
 	<catch_rate>3</catch_rate>
 	<growth_rate>Slow</growth_rate>
 	<base_exp>270</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>1</value>
+		</ev_yield>
+		<ev_yield>
+			<stat>Special Attack</stat>
+			<value>1</value>
+		</ev_yield>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
 	<stat_sets>
 		<stat_set>
 			<games>

@@ -12,6 +12,12 @@
 	<catch_rate>30</catch_rate>
 	<growth_rate>Medium</growth_rate>
 	<base_exp>180</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>HP</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
 	<stat_sets>
 		<stat_set>
 			<games>
