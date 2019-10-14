@@ -100,6 +100,7 @@ class Pokemon(models.Model):
     weight = models.IntegerField(default=0)
     catch_rate = models.IntegerField(default=0)
     growth_rate = models.CharField(max_length=500)
+    base_exp = models.IntegerField(default=0)
     stat_sets = models.IntegerField()    # StatSets list_id
     type_sets = models.IntegerField()    # TypeSets list_id
     ability_sets = models.IntegerField()    # AbilitySets list_id

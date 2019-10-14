@@ -146,6 +146,7 @@ def import_pokemon(apps, schema_editor):
             weight_tag = pokemon_tag.find('weight')
             catch_rate_tag = pokemon_tag.find('catch_rate')
             growth_rate_tag = pokemon_tag.find('growth_rate')
+            base_exp_tag = pokemon_tag.find('base_exp')
 
             stat_sets_list_id = stat_sets_list_counter
             stat_sets_list_counter += 1
@@ -259,7 +260,7 @@ def import_pokemon(apps, schema_editor):
 
             EvolutionSetsListElement.objects.using(db_alias).bulk_create(evolution_sets_list_element_objects)
 
-            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, catch_rate=catch_rate_tag.text, growth_rate=growth_rate_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
+            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, catch_rate=catch_rate_tag.text, growth_rate=growth_rate_tag.text, base_exp=base_exp_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
             pokemon_objects.append(pokemon_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)

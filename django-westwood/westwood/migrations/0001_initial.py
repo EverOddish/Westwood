@@ -148,6 +148,7 @@ class Migration(migrations.Migration):
                 ('weight', models.IntegerField(default=0)),
                 ('catch_rate', models.IntegerField(default=0)),
                 ('growth_rate', models.CharField(max_length=500)),
+                ('base_exp', models.IntegerField(default=0)),
                 ('stat_sets', models.IntegerField()),
                 ('type_sets', models.IntegerField()),
                 ('ability_sets', models.IntegerField()),

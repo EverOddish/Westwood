@@ -146,6 +146,7 @@
                 <xs:element name="weight" type="xs:positiveInteger"/>
                 <xs:element name="catch_rate" type="xs:positiveInteger"/>
                 <xs:element name="growth_rate" type="xs:string"/>
+                <xs:element name="base_exp" type="xs:positiveInteger"/>
                 <xs:element ref="stat_sets"/>
                 <xs:element ref="type_sets"/>
                 <xs:element ref="ability_sets"/>
