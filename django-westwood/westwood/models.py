@@ -210,3 +210,13 @@ class EffectivenessSetsListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(EffectivenessSet, on_delete=models.CASCADE)
 
+class Nature(models.Model):
+    name = models.CharField(max_length=500)
+    increased_stat = models.CharField(max_length=500)
+    decreased_stat = models.CharField(max_length=500)
+
+class NaturesListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(Nature, on_delete=models.CASCADE)
+

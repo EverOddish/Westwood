@@ -68,6 +68,10 @@ schema = os.path.join('xsd', 'type_effectiveness.xsd')
 target = os.path.join('xml', 'misc', 'type_effectiveness.xml')
 run_xmllint(schema, target)
 
+schema = os.path.join('xsd', 'nature.xsd')
+target = os.path.join('xml', 'misc', 'natures.xml')
+run_xmllint(schema, target)
+
 if len(invalid_files) > 0:
     raise SystemExit("Invalid data!")
 else:
