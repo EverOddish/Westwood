@@ -11,6 +11,7 @@
 	<weight>335</weight>
 	<catch_rate>90</catch_rate>
 	<growth_rate>Fast</growth_rate>
+	<base_exp>140</base_exp>
 	<stat_sets>
 		<stat_set>
 			<games>
