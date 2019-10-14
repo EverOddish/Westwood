@@ -275,7 +275,7 @@ def import_pokemon(apps, schema_editor):
                 ev_yield_object.save(using=db_alias)
 
                 ev_yields_list_element_object = EvYieldsListElement(list_id=ev_yields_list_id, sequence_number=ev_yields_sequence_number, element=ev_yield_object)
-                ev_yields_list_element_objects.append(type_sets_list_element_object)
+                ev_yields_list_element_objects.append(ev_yields_list_element_object)
                 ev_yields_sequence_number += 1
 
             EvYieldsListElement.objects.using(db_alias).bulk_create(ev_yields_list_element_objects)
