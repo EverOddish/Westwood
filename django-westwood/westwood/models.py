@@ -93,6 +93,15 @@ class EvolutionSetsListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(EvolutionSet, on_delete=models.CASCADE)
 
+class EvYield(models.Model):
+    stat = models.CharField(max_length=500)
+    value = models.IntegerField(default=0)
+
+class EvYieldsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(EvYield, on_delete=models.CASCADE)
+
 class Pokemon(models.Model):
     name = models.CharField(max_length=500)
     pokedex_numbers = models.IntegerField()    # PokedexNumbers list_id
@@ -101,6 +110,7 @@ class Pokemon(models.Model):
     catch_rate = models.IntegerField(default=0)
     growth_rate = models.CharField(max_length=500)
     base_exp = models.IntegerField(default=0)
+    ev_yields = models.IntegerField()    # EvYields list_id
     stat_sets = models.IntegerField()    # StatSets list_id
     type_sets = models.IntegerField()    # TypeSets list_id
     ability_sets = models.IntegerField()    # AbilitySets list_id
