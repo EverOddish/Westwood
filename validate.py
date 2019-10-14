@@ -1,74 +1,67 @@
 import os
 import shutil
 import subprocess
-import sys
 
 if not shutil.which('xmllint'):
     raise SystemExit('xmllint not found!')
 
 invalid_files = []
 
+dataset_mapping = {
+    'ability': 'abilities',
+    'game': 'games',
+    'learnset': 'learnsets',
+    'move': 'moves',
+    'pokemon': 'pokemon',
+    'tm_set': 'tm_sets',
+}
+
+misc_mapping = {
+    'item': 'items',
+    'learn_methods': 'learn_methods',
+    'type_effectiveness': 'type_effectiveness',
+    'types': 'types',
+}
+
+
 def run_xmllint(schema, target):
     command = ['xmllint', '--noout', '--schema', schema, target]
-    result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    result = subprocess.run(
+        command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     if 'validates' not in result.stderr.decode('utf-8'):
         invalid_files.append(target)
         print('Failed to validate: ' + target)
 
-print('Processing Pokemon XML...')
-schema = os.path.join('xsd', 'pokemon.xsd')
-for filename in os.listdir(os.path.join('xml', 'pokemon')):
-    target = os.path.join('xml', 'pokemon', filename)
-    run_xmllint(schema, target)
 
-print('Processing Move XML...')
-schema = os.path.join('xsd', 'move.xsd')
-for filename in os.listdir(os.path.join('xml', 'moves')):
-    target = os.path.join('xml', 'moves', filename)
-    run_xmllint(schema, target)
+def validate():
 
-print('Processing Game XML...')
-schema = os.path.join('xsd', 'game.xsd')
-for filename in os.listdir(os.path.join('xml', 'games')):
-    target = os.path.join('xml', 'games', filename)
-    run_xmllint(schema, target)
+    schemas = os.listdir('xsd')
 
-print('Processing Learnset XML...')
-schema = os.path.join('xsd', 'learnset.xsd')
-for filename in os.listdir(os.path.join('xml', 'learnsets')):
-    target = os.path.join('xml', 'learnsets', filename)
-    run_xmllint(schema, target)
+    for schema in schemas:
+        if schema == 'enumerations':
+            continue
 
-print('Processing TM Set XML...')
-schema = os.path.join('xsd', 'tm_set.xsd')
-for filename in os.listdir(os.path.join('xml', 'tm_sets')):
-    target = os.path.join('xml', 'tm_sets', filename)
-    run_xmllint(schema, target)
+        schema_name = schema.split('.')[0]
+        schema = os.path.join('xsd', schema)
 
-print('Processing Ability XML...')
-schema = os.path.join('xsd', 'ability.xsd')
-for filename in os.listdir(os.path.join('xml', 'abilities')):
-    target = os.path.join('xml', 'abilities', filename)
-    run_xmllint(schema, target)
+        print(f'Processing {schema_name.title()} XML...')
+        if schema_name not in dataset_mapping:
+            target = os.path.join(
+                'xml', 'misc', '{}.xml'.format(misc_mapping[schema_name]))
+            run_xmllint(schema, target)
+            continue
 
-print('Processing miscellaneous XML...')
-schema = os.path.join('xsd', 'types.xsd')
-target = os.path.join('xml', 'misc', 'types.xml')
-run_xmllint(schema, target)
+        files = os.listdir(os.path.join('xml', dataset_mapping[schema_name]))
 
-schema = os.path.join('xsd', 'learn_methods.xsd')
-target = os.path.join('xml', 'misc', 'learn_methods.xml')
-run_xmllint(schema, target)
+        for filename in files:
+            target = os.path.join(
+                'xml', dataset_mapping[schema_name], filename)
+            run_xmllint(schema, target)
 
-schema = os.path.join('xsd', 'item.xsd')
-target = os.path.join('xml', 'misc', 'items.xml')
-run_xmllint(schema, target)
+    if invalid_files:
+        raise SystemExit("Invalid data!")
+    else:
+        print("All data is valid!")
 
-schema = os.path.join('xsd', 'type_effectiveness.xsd')
-target = os.path.join('xml', 'misc', 'type_effectiveness.xml')
-run_xmllint(schema, target)
 
-if len(invalid_files) > 0:
-    raise SystemExit("Invalid data!")
-else:
-    print("All data is valid!")
+validate()
