@@ -108,6 +108,8 @@ def import_pokemon(apps, schema_editor):
     EvolutionRecordsListElement = apps.get_model('westwood', 'EvolutionRecordsListElement')
     EvolutionSet = apps.get_model('westwood', 'EvolutionSet')
     EvolutionSetsListElement = apps.get_model('westwood', 'EvolutionSetsListElement')
+    EvYield = apps.get_model('westwood', 'EvYield')
+    EvYieldsListElement = apps.get_model('westwood', 'EvYieldsListElement')
     db_alias = schema_editor.connection.alias
 
     pokemon_path = os.path.join(WESTWOOD_XML_PATH, 'pokemon')
@@ -120,6 +122,7 @@ def import_pokemon(apps, schema_editor):
     ability_records_list_counter = 1
     evolution_sets_list_counter = 1
     evolution_records_list_counter = 1
+    ev_yields_list_counter = 1
     context = {}
 
     for pokemon_file in glob.glob(os.path.join(pokemon_path, '*.xml')):
@@ -260,7 +263,24 @@ def import_pokemon(apps, schema_editor):
 
             EvolutionSetsListElement.objects.using(db_alias).bulk_create(evolution_sets_list_element_objects)
 
-            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, catch_rate=catch_rate_tag.text, growth_rate=growth_rate_tag.text, base_exp=base_exp_tag.text, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
+            ev_yields_list_id = ev_yields_list_counter
+            ev_yields_list_counter += 1
+            ev_yields_sequence_number = 1
+            ev_yields_list_element_objects = []
+            for ev_yield_tag in pokemon_tag.iter('ev_yield'):
+
+                stat = ev_yield_tag.find('stat').text
+                value = ev_yield_tag.find('value').text
+                ev_yield_object = EvYield(stat=stat, value=value)
+                ev_yield_object.save(using=db_alias)
+
+                ev_yields_list_element_object = EvYieldsListElement(list_id=ev_yields_list_id, sequence_number=ev_yields_sequence_number, element=ev_yield_object)
+                ev_yields_list_element_objects.append(type_sets_list_element_object)
+                ev_yields_sequence_number += 1
+
+            EvYieldsListElement.objects.using(db_alias).bulk_create(ev_yields_list_element_objects)
+
+            pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, catch_rate=catch_rate_tag.text, growth_rate=growth_rate_tag.text, base_exp=base_exp_tag.text, ev_yields=ev_yields_list_id, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
             pokemon_objects.append(pokemon_object)
         except etree.XMLSyntaxError:
             print('Error parsing XML file: ' + pokemon_file)
