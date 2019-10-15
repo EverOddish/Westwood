@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<natures>
+	<nature>
+		<name>Hardy</name>
+		<increased_stat>None</increased_stat>
+		<decreased_stat>None</decreased_stat>
+	</nature>
+	<nature>
+		<name>Bold</name>
+		<increased_stat>Defense</increased_stat>
+		<decreased_stat>Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Modest</name>
+		<increased_stat>Special Attack</increased_stat>
+		<decreased_stat>Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Calm</name>
+		<increased_stat>Special Defense</increased_stat>
+		<decreased_stat>Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Timid</name>
+		<increased_stat>Speed</increased_stat>
+		<decreased_stat>Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Lonely</name>
+		<increased_stat>Attack</increased_stat>
+		<decreased_stat>Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Docile</name>
+		<increased_stat>None</increased_stat>
+		<decreased_stat>None</decreased_stat>
+	</nature>
+	<nature>
+		<name>Mild</name>
+		<increased_stat>Special Attack</increased_stat>
+		<decreased_stat>Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Gentle</name>
+		<increased_stat>Special Defense</increased_stat>
+		<decreased_stat>Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Hasty</name>
+		<increased_stat>Speed</increased_stat>
+		<decreased_stat>Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Adamant</name>
+		<increased_stat>Attack</increased_stat>
+		<decreased_stat>Special Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Impish</name>
+		<increased_stat>Defense</increased_stat>
+		<decreased_stat>Special Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Bashful</name>
+		<increased_stat>None</increased_stat>
+		<decreased_stat>None</decreased_stat>
+	</nature>
+	<nature>
+		<name>Careful</name>
+		<increased_stat>Special Defense</increased_stat>
+		<decreased_stat>Special Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Rash</name>
+		<increased_stat>Special Attack</increased_stat>
+		<decreased_stat>Special Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Jolly</name>
+		<increased_stat>Speed</increased_stat>
+		<decreased_stat>Special Attack</decreased_stat>
+	</nature>
+	<nature>
+		<name>Naughty</name>
+		<increased_stat>Attack</increased_stat>
+		<decreased_stat>Special Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Lax</name>
+		<increased_stat>Defense</increased_stat>
+		<decreased_stat>Special Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Quirky</name>
+		<increased_stat>None</increased_stat>
+		<decreased_stat>None</decreased_stat>
+	</nature>
+	<nature>
+		<name>Naive</name>
+		<increased_stat>Speed</increased_stat>
+		<decreased_stat>Special Defense</decreased_stat>
+	</nature>
+	<nature>
+		<name>Brave</name>
+		<increased_stat>Attack</increased_stat>
+		<decreased_stat>Speed</decreased_stat>
+	</nature>
+	<nature>
+		<name>Relaxed</name>
+		<increased_stat>Defense</increased_stat>
+		<decreased_stat>Speed</decreased_stat>
+	</nature>
+	<nature>
+		<name>Quiet</name>
+		<increased_stat>Special Attack</increased_stat>
+		<decreased_stat>Speed</decreased_stat>
+	</nature>
+	<nature>
+		<name>Sassy</name>
+		<increased_stat>Special Defense</increased_stat>
+		<decreased_stat>Speed</decreased_stat>
+	</nature>
+	<nature>
+		<name>Serious</name>
+		<increased_stat>None</increased_stat>
+		<decreased_stat>None</decreased_stat>
+	</nature>
+</natures>
