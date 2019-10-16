@@ -582,6 +582,144 @@ def import_natures(apps, schema_editor):
     except etree.XMLSyntaxError:
         print('Error parsing XML file: ' + pokemon_file)
 
+def import_forms(apps, schema_editor):
+    print('    Importing PokemonForm data...')
+    PokemonForm = apps.get_model('westwood', 'PokemonForm')
+    Game = apps.get_model('westwood', 'Game')
+    StatSet = apps.get_model('westwood', 'StatSet')
+    StatSetsListElement = apps.get_model('westwood', 'StatSetsListElement')
+    TypeSet = apps.get_model('westwood', 'TypeSet')
+    TypeSetsListElement = apps.get_model('westwood', 'TypeSetsListElement')
+    AbilityRecord = apps.get_model('westwood', 'AbilityRecord')
+    AbilityRecordsListElement = apps.get_model('westwood', 'AbilityRecordsListElement')
+    AbilitySet = apps.get_model('westwood', 'AbilitySet')
+    AbilitySetsListElement = apps.get_model('westwood', 'AbilitySetsListElement')
+    EvYield = apps.get_model('westwood', 'EvYield')
+    EvYieldsListElement = apps.get_model('westwood', 'EvYieldsListElement')
+    db_alias = schema_editor.connection.alias
+
+    pokemon_form_path = os.path.join(WESTWOOD_XML_PATH, 'forms')
+    pokemon_form_objects = []
+    pokedex_numbers_list_element_objects = []
+    list_counter = 1
+    stat_sets_list_counter = 1
+    type_sets_list_counter = 1
+    ability_sets_list_counter = 1
+    ability_records_list_counter = 1
+    ev_yields_list_counter = 1
+    context = {}
+
+    for pokemon_form_file in glob.glob(os.path.join(pokemon_form_path, '*.xml')):
+        #print('Processing: ' + pokemon_form_file)
+        try:
+            pokemon_form_tag = etree.parse(pokemon_form_file)
+
+            name_tag = pokemon_form_tag.find('name')
+            height_tag = pokemon_form_tag.find('height')
+            weight_tag = pokemon_form_tag.find('weight')
+            base_exp_tag = pokemon_form_tag.find('base_exp')
+
+            stat_sets_list_id = stat_sets_list_counter
+            stat_sets_list_counter += 1
+            stat_sets_sequence_number = 1
+            stat_sets_list_element_objects = []
+            for stat_set_tag in pokemon_form_tag.iter('stat_set'):
+
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, stat_set_tag.iter('game'))
+
+                hp = int(stat_set_tag.find('hp').text)
+                attack = int(stat_set_tag.find('attack').text)
+                defense = int(stat_set_tag.find('defense').text)
+                special_attack = int(stat_set_tag.find('special_attack').text)
+                special_defense = int(stat_set_tag.find('special_defense').text)
+                speed = int(stat_set_tag.find('speed').text)
+                stat_set_object = StatSet(games=games_list_id, hp=hp, attack=attack, defense=defense, special_attack=special_attack, special_defense=special_defense, speed=speed)
+                stat_set_object.save(using=db_alias)
+
+                stat_sets_list_element_object = StatSetsListElement(list_id=stat_sets_list_id, sequence_number=stat_sets_sequence_number, element=stat_set_object)
+                stat_sets_list_element_objects.append(stat_sets_list_element_object)
+                stat_sets_sequence_number += 1
+
+            StatSetsListElement.objects.using(db_alias).bulk_create(stat_sets_list_element_objects)
+
+            type_sets_list_id = type_sets_list_counter
+            type_sets_list_counter += 1
+            type_sets_sequence_number = 1
+            type_sets_list_element_objects = []
+            for type_set_tag in pokemon_form_tag.iter('type_set'):
+
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, type_set_tag.iter('game'))
+
+                type1 = type_set_tag.find('type1').text
+                type2 = type_set_tag.find('type2')
+                if None != type2:
+                    type2 = type2.text
+                else:
+                    type2 = ''
+                type_set_object = TypeSet(games=games_list_id, type1=type1, type2=type2)
+                type_set_object.save(using=db_alias)
+
+                type_sets_list_element_object = TypeSetsListElement(list_id=type_sets_list_id, sequence_number=type_sets_sequence_number, element=type_set_object)
+                type_sets_list_element_objects.append(type_sets_list_element_object)
+                type_sets_sequence_number += 1
+
+            TypeSetsListElement.objects.using(db_alias).bulk_create(type_sets_list_element_objects)
+
+            ability_sets_list_id = ability_sets_list_counter
+            ability_sets_list_counter += 1
+            ability_sets_sequence_number = 1
+            ability_sets_list_element_objects = []
+            for ability_set_tag in pokemon_form_tag.iter('ability_set'):
+
+                ability_records_list_id = ability_records_list_counter
+                ability_records_list_counter += 1
+                sequence_number = 1
+                ability_records_list_element_objects = []
+                for ability_record in ability_set_tag.iter('ability_record'):
+                    ability_name_tag = ability_record.find('name')
+                    hidden_tag = ability_record.find('hidden')
+                    ability_record_object, created = AbilityRecord.objects.using(db_alias).get_or_create(name=ability_name_tag.text, hidden=hidden_tag.text)
+
+                    ability_records_list_element_object = AbilityRecordsListElement(list_id=ability_records_list_id, sequence_number=sequence_number, element=ability_record_object)
+                    ability_records_list_element_objects.append(ability_records_list_element_object)
+                    sequence_number += 1
+                AbilityRecordsListElement.objects.using(db_alias).bulk_create(ability_records_list_element_objects)
+
+                context, games_list_id = get_or_create_games_list(apps, db_alias, context, ability_set_tag.iter('game'))
+
+                ability_set_object = AbilitySet(games=games_list_id, ability_records=ability_records_list_id)
+                ability_set_object.save(using=db_alias)
+
+                ability_sets_list_element_object = AbilitySetsListElement(list_id=ability_sets_list_id, sequence_number=ability_sets_sequence_number, element=ability_set_object)
+                ability_sets_list_element_objects.append(ability_sets_list_element_object)
+                ability_sets_sequence_number += 1
+
+            AbilitySetsListElement.objects.using(db_alias).bulk_create(ability_sets_list_element_objects)
+
+            ev_yields_list_id = ev_yields_list_counter
+            ev_yields_list_counter += 1
+            ev_yields_sequence_number = 1
+            ev_yields_list_element_objects = []
+            for ev_yield_tag in pokemon_form_tag.iter('ev_yield'):
+
+                stat = ev_yield_tag.find('stat').text
+                value = ev_yield_tag.find('value').text
+                ev_yield_object = EvYield(stat=stat, value=value)
+                ev_yield_object.save(using=db_alias)
+
+                ev_yields_list_element_object = EvYieldsListElement(list_id=ev_yields_list_id, sequence_number=ev_yields_sequence_number, element=ev_yield_object)
+                ev_yields_list_element_objects.append(ev_yields_list_element_object)
+                ev_yields_sequence_number += 1
+
+            EvYieldsListElement.objects.using(db_alias).bulk_create(ev_yields_list_element_objects)
+
+            pokemon_form_object = PokemonForm(name=name_tag.text, height=height_tag.text, weight=weight_tag.text, base_exp=base_exp_tag.text, ev_yields=ev_yields_list_id, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id)
+            pokemon_form_objects.append(pokemon_form_object)
+        except etree.XMLSyntaxError:
+            print('Error parsing XML file: ' + pokemon_form_file)
+
+    PokemonForm.objects.using(db_alias).bulk_create(pokemon_form_objects)
+
 class Migration(migrations.Migration):
 
     dependencies = [
@@ -599,4 +737,5 @@ class Migration(migrations.Migration):
         migrations.RunPython(import_items),
         migrations.RunPython(import_type_effectiveness),
         migrations.RunPython(import_natures),
+        migrations.RunPython(import_forms),
     ]
