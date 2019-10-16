@@ -601,12 +601,11 @@ def import_forms(apps, schema_editor):
     pokemon_form_path = os.path.join(WESTWOOD_XML_PATH, 'forms')
     pokemon_form_objects = []
     pokedex_numbers_list_element_objects = []
-    list_counter = 1
-    stat_sets_list_counter = 1
-    type_sets_list_counter = 1
-    ability_sets_list_counter = 1
-    ability_records_list_counter = 1
-    ev_yields_list_counter = 1
+    stat_sets_list_counter = StatSetsListElement.objects.using(db_alias).order_by('-list_id')[0].list_id + 1
+    type_sets_list_counter = TypeSetsListElement.objects.using(db_alias).order_by('-list_id')[0].list_id + 1
+    ability_sets_list_counter = AbilitySetsListElement.objects.using(db_alias).order_by('-list_id')[0].list_id + 1
+    ability_records_list_counter = AbilityRecordsListElement.objects.using(db_alias).order_by('-list_id')[0].list_id + 1
+    ev_yields_list_counter = EvYieldsListElement.objects.using(db_alias).order_by('-list_id')[0].list_id + 1
     context = {}
 
     for pokemon_form_file in glob.glob(os.path.join(pokemon_form_path, '*.xml')):
