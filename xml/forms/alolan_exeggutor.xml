@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
-<pokemon>
+<pokemon_form>
 	<name>Alolan Exeggutor</name>
 	<height>103</height>
 	<weight>109</weight>
@@ -55,4 +55,4 @@
 			</ability_record>
 		</ability_set>
 	</ability_sets>
-</pokemon>
+</pokemon_form>

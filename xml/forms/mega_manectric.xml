@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
-<pokemon>
+<pokemon_form>
 	<name>Mega Manectric</name>
 	<height>310</height>
 	<weight>18</weight>
@@ -62,4 +62,4 @@
 			</ability_record>
 		</ability_set>
 	</ability_sets>
-</pokemon>
+</pokemon_form>
