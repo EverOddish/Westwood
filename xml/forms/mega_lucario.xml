@@ -51,4 +51,20 @@
 			</ability_record>
 		</ability_set>
 	</ability_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<type1>Fighting</type1>
+			<type2>Steel</type2>
+		</type_set>
+	</type_sets>
 </pokemon>

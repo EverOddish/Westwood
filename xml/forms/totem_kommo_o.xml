@@ -47,4 +47,16 @@
 			</ability_record>
 		</ability_set>
 	</ability_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<type1>Dragon</type1>
+			<type2>Fighting</type2>
+		</type_set>
+	</type_sets>
 </pokemon>
