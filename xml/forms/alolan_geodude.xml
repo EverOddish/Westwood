@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Alolan Geodude</name>
+	<height>74</height>
+	<weight>4</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>40</hp>
+			<attack>80</attack>
+			<defense>100</defense>
+			<special_attack>30</special_attack>
+			<special_defense>30</special_defense>
+			<speed>20</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

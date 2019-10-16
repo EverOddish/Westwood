@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Alolan Graveler</name>
+	<height>75</height>
+	<weight>10</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>55</hp>
+			<attack>95</attack>
+			<defense>115</defense>
+			<special_attack>45</special_attack>
+			<special_defense>45</special_defense>
+			<speed>35</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

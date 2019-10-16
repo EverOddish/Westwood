@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Alolan Raichu</name>
+	<height>26</height>
+	<weight>7</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>60</hp>
+			<attack>85</attack>
+			<defense>50</defense>
+			<special_attack>95</special_attack>
+			<special_defense>85</special_defense>
+			<speed>110</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

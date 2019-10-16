@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Totem Togedemaru</name>
+	<height>777</height>
+	<weight>6</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>65</hp>
+			<attack>98</attack>
+			<defense>63</defense>
+			<special_attack>40</special_attack>
+			<special_defense>73</special_defense>
+			<speed>96</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Alolan Golem</name>
+	<height>76</height>
+	<weight>17</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>80</hp>
+			<attack>120</attack>
+			<defense>130</defense>
+			<special_attack>55</special_attack>
+			<special_defense>65</special_defense>
+			<speed>45</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

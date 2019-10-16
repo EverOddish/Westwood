@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Mega Medicham</name>
+	<height>308</height>
+	<weight>13</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>60</hp>
+			<attack>100</attack>
+			<defense>85</defense>
+			<special_attack>80</special_attack>
+			<special_defense>85</special_defense>
+			<speed>100</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

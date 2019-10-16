@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Alolan Sandshrew</name>
+	<height>27</height>
+	<weight>7</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>50</hp>
+			<attack>75</attack>
+			<defense>90</defense>
+			<special_attack>10</special_attack>
+			<special_defense>35</special_defense>
+			<speed>40</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

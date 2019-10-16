@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Mega Pidgeot</name>
+	<height>18</height>
+	<weight>22</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>83</hp>
+			<attack>80</attack>
+			<defense>80</defense>
+			<special_attack>135</special_attack>
+			<special_defense>80</special_defense>
+			<speed>121</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

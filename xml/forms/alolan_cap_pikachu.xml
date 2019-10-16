@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Alolan Cap Pikachu</name>
+	<height>25</height>
+	<weight>4</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>35</hp>
+			<attack>55</attack>
+			<defense>40</defense>
+			<special_attack>50</special_attack>
+			<special_defense>50</special_defense>
+			<speed>90</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>

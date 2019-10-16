@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Totem Mimikyu Busted</name>
+	<height>778</height>
+	<weight>4</weight>
+	<ev_yields>
+		<ev_yield>
+			<stat>Special Defense</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>55</hp>
+			<attack>90</attack>
+			<defense>80</defense>
+			<special_attack>50</special_attack>
+			<special_defense>105</special_defense>
+			<speed>96</speed>
+		</stat_set>
+	</stat_sets>
+</pokemon>
