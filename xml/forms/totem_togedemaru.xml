@@ -25,4 +25,26 @@
 			<speed>96</speed>
 		</stat_set>
 	</stat_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<ability_record>
+				<name>Iron Barbs</name>
+				<hidden>No</hidden>
+			</ability_record>
+			<ability_record>
+				<name>Lightning Rod</name>
+				<hidden>No</hidden>
+			</ability_record>
+			<ability_record>
+				<name>Sturdy</name>
+				<hidden>No</hidden>
+			</ability_record>
+		</ability_set>
+	</ability_sets>
 </pokemon>

@@ -25,4 +25,22 @@
 			<speed>109</speed>
 		</stat_set>
 	</stat_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<ability_record>
+				<name>Snow Cloak</name>
+				<hidden>No</hidden>
+			</ability_record>
+			<ability_record>
+				<name>Snow Warning</name>
+				<hidden>No</hidden>
+			</ability_record>
+		</ability_set>
+	</ability_sets>
 </pokemon>
