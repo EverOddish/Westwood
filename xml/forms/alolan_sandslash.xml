@@ -3,6 +3,7 @@
 	<name>Alolan Sandslash</name>
 	<height>28</height>
 	<weight>12</weight>
+	<base_exp>550</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Defense</stat>
@@ -45,14 +46,16 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Snow Cloak</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Slush Rush</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Snow Cloak</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Slush Rush</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

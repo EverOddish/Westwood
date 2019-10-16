@@ -3,6 +3,7 @@
 	<name>Groudon Primal</name>
 	<height>383</height>
 	<weight>50</weight>
+	<base_exp>9997</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Attack</stat>
@@ -117,10 +118,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Desolate Land</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Desolate Land</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

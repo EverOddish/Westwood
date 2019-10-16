@@ -3,6 +3,7 @@
 	<name>Mega Ampharos</name>
 	<height>181</height>
 	<weight>14</weight>
+	<base_exp>615</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Special Attack</stat>
@@ -57,10 +58,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Mold Breaker</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Mold Breaker</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

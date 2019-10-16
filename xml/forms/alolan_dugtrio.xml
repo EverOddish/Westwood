@@ -3,6 +3,7 @@
 	<name>Alolan Dugtrio</name>
 	<height>51</height>
 	<weight>7</weight>
+	<base_exp>666</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Attack</stat>
@@ -45,18 +46,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Sand Veil</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Tangling Hair</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Sand Force</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Sand Veil</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Tangling Hair</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Sand Force</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

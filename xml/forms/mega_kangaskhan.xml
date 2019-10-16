@@ -3,6 +3,7 @@
 	<name>Mega Kangaskhan</name>
 	<height>115</height>
 	<weight>22</weight>
+	<base_exp>1000</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>HP</stat>
@@ -56,10 +57,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Parental Bond</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Parental Bond</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

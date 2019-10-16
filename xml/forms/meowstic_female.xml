@@ -3,6 +3,7 @@
 	<name>Meowstic Female</name>
 	<height>678</height>
 	<weight>6</weight>
+	<base_exp>85</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Speed</stat>
@@ -116,18 +117,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Keen Eye</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Infiltrator</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Competitive</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Keen Eye</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Infiltrator</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Competitive</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

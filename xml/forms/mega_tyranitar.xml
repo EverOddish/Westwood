@@ -3,6 +3,7 @@
 	<name>Mega Tyranitar</name>
 	<height>248</height>
 	<weight>25</weight>
+	<base_exp>2550</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Attack</stat>
@@ -57,10 +58,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Sand Stream</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Sand Stream</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

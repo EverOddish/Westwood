@@ -3,6 +3,7 @@
 	<name>Mega Steelix</name>
 	<height>208</height>
 	<weight>105</weight>
+	<base_exp>7400</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Defense</stat>
@@ -57,10 +58,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Sand Force</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Sand Force</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

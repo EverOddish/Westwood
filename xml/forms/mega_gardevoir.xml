@@ -3,6 +3,7 @@
 	<name>Mega Gardevoir</name>
 	<height>282</height>
 	<weight>16</weight>
+	<base_exp>484</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Special Attack</stat>
@@ -57,10 +58,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Pixilate</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Pixilate</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

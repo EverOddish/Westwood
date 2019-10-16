@@ -3,6 +3,7 @@
 	<name>Hoopa Unbound</name>
 	<height>720</height>
 	<weight>65</weight>
+	<base_exp>4900</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Special Attack</stat>
@@ -117,10 +118,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Magician</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Magician</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

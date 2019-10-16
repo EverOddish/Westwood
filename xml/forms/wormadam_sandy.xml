@@ -3,6 +3,7 @@
 	<name>Wormadam Sandy</name>
 	<height>413</height>
 	<weight>5</weight>
+	<base_exp>65</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Defense</stat>
@@ -117,14 +118,16 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Anticipation</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Overcoat</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Anticipation</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Overcoat</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

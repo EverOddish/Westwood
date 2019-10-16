@@ -3,6 +3,7 @@
 	<name>Minior Green</name>
 	<height>774</height>
 	<weight>3</weight>
+	<base_exp>3</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Attack</stat>
@@ -121,10 +122,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Shields Down</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Shields Down</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

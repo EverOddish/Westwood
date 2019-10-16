@@ -3,6 +3,7 @@
 	<name>Totem Ribombee</name>
 	<height>743</height>
 	<weight>4</weight>
+	<base_exp>20</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Speed</stat>
@@ -45,18 +46,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Honey Gather</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Shield Dust</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Sweet Veil</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Honey Gather</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Shield Dust</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Sweet Veil</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

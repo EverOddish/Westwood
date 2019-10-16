@@ -3,6 +3,7 @@
 	<name>Alolan Marowak</name>
 	<height>105</height>
 	<weight>10</weight>
+	<base_exp>340</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Defense</stat>
@@ -45,18 +46,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Cursed Body</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Lightning Rod</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Rock Head</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Cursed Body</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Lightning Rod</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Rock Head</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

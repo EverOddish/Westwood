@@ -3,6 +3,7 @@
 	<name>Alolan Muk</name>
 	<height>89</height>
 	<weight>10</weight>
+	<base_exp>520</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>HP</stat>
@@ -49,18 +50,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Poison Touch</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Gluttony</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Power Of Alchemy</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Poison Touch</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Gluttony</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Power Of Alchemy</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

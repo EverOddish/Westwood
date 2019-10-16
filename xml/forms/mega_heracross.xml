@@ -3,6 +3,7 @@
 	<name>Mega Heracross</name>
 	<height>214</height>
 	<weight>17</weight>
+	<base_exp>625</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Attack</stat>
@@ -57,10 +58,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Skill Link</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Skill Link</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

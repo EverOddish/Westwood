@@ -3,6 +3,7 @@
 	<name>Castform Sunny</name>
 	<height>351</height>
 	<weight>3</weight>
+	<base_exp>8</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>HP</stat>
@@ -116,10 +117,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Forecast</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Forecast</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

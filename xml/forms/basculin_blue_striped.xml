@@ -3,6 +3,7 @@
 	<name>Basculin Blue Striped</name>
 	<height>550</height>
 	<weight>10</weight>
+	<base_exp>180</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Speed</stat>
@@ -116,18 +117,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Rock Head</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Adaptability</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Mold Breaker</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Rock Head</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Adaptability</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Mold Breaker</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

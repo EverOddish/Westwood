@@ -3,6 +3,7 @@
 	<name>Alolan Geodude</name>
 	<height>74</height>
 	<weight>4</weight>
+	<base_exp>203</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Defense</stat>
@@ -45,18 +46,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Magnet Pull</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Sturdy</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Galvanize</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Magnet Pull</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Sturdy</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Galvanize</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

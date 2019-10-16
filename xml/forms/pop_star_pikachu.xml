@@ -3,6 +3,7 @@
 	<name>Pop Star Pikachu</name>
 	<height>25</height>
 	<weight>4</weight>
+	<base_exp>60</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Speed</stat>
@@ -116,14 +117,16 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Static</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Lightning Rod</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Static</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Lightning Rod</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

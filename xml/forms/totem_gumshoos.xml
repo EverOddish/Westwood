@@ -3,6 +3,7 @@
 	<name>Totem Gumshoos</name>
 	<height>735</height>
 	<weight>14</weight>
+	<base_exp>600</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Attack</stat>
@@ -44,18 +45,20 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Stakeout</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Strong Jaw</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Adaptability</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Stakeout</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Strong Jaw</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Adaptability</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

@@ -3,6 +3,7 @@
 	<name>Oricorio Sensu</name>
 	<height>741</height>
 	<weight>6</weight>
+	<base_exp>34</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Special Attack</stat>
@@ -117,10 +118,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Dancer</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Dancer</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

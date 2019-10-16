@@ -3,6 +3,7 @@
 	<name>Mega Manectric</name>
 	<height>310</height>
 	<weight>18</weight>
+	<base_exp>440</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Speed</stat>
@@ -56,10 +57,12 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Intimidate</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Intimidate</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>

@@ -38,6 +38,7 @@ with open(django_models_path, 'w') as models_file:
                    os.path.join('xsd', 'item.xsd'),
                    os.path.join('xsd', 'type_effectiveness.xsd'),
                    os.path.join('xsd', 'nature.xsd'),
+                   os.path.join('xsd', 'form.xsd'),
                    ]
 
     for enum_file in enum_list:

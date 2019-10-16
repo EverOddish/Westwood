@@ -3,6 +3,7 @@
 	<name>Totem Salazzle</name>
 	<height>758</height>
 	<weight>21</weight>
+	<base_exp>810</base_exp>
 	<ev_yields>
 		<ev_yield>
 			<stat>Speed</stat>
@@ -45,14 +46,16 @@
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
 			</games>
-			<ability_record>
-				<name>Corrosion</name>
-				<hidden>No</hidden>
-			</ability_record>
-			<ability_record>
-				<name>Oblivious</name>
-				<hidden>No</hidden>
-			</ability_record>
+			<ability_records>
+				<ability_record>
+					<name>Corrosion</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Oblivious</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
 		</ability_set>
 	</ability_sets>
 </pokemon_form>
