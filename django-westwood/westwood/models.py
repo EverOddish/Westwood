@@ -247,6 +247,7 @@ class RomHack(models.Model):
     title = models.CharField(max_length=500)
     base_game = models.CharField(max_length=500)
     author = models.CharField(max_length=500)
+    description = models.CharField(max_length=500)
 
 class RomHacksListElement(models.Model):
     list_id = models.IntegerField()

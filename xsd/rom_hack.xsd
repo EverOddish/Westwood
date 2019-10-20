@@ -7,6 +7,7 @@
                 <xs:element name="title" type="xs:string"/>
                 <xs:element name="base_game" type="xs:string"/>
                 <xs:element name="author" type="xs:string"/>
+                <xs:element name="description" type="xs:string"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
