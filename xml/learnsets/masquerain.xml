@@ -1,386 +1,441 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Masquerain</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Silver Wind</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ominous Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Silver Wind</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ominous Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Silver Wind</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quiver Dance</name>
-                    <level>68</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ominous Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quiver Dance</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Silver Wind</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quiver Dance</name>
-                    <level>68</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ominous Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quiver Dance</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Cutter</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Silver Wind</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quiver Dance</name>
-                    <level>52</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Masquerain</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

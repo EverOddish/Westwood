@@ -1,403 +1,450 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Heracross</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>54</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brick Break</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aerial Ace</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brick Break</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aerial Ace</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brick Break</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Arm Thrust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aerial Ace</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brick Break</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Arm Thrust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aerial Ace</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brick Break</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Heracross</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Arm Thrust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Arm Thrust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

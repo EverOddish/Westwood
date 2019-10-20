@@ -1,516 +1,579 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Sharpedo</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Fang</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>62</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Fang</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>62</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Sharpedo</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -1,410 +1,469 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Wartortle</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rain Dance</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rain Dance</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>44</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rain Dance</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rain Dance</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Withdraw</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skull Bash</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rain Dance</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Wartortle</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

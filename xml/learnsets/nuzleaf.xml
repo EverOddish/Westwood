@@ -1,232 +1,279 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Nuzleaf</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nature Power</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Out</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Wind</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extrasensory</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nature Power</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Out</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Wind</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extrasensory</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nature Power</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Out</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Wind</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Blade</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extrasensory</name>
-                    <level>36</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Out</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nature Power</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Wind</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Blade</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extrasensory</name>
-                    <level>36</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Nuzleaf</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

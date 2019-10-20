@@ -1,193 +1,236 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Pineco</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>42</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>45</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Pineco</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>42</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

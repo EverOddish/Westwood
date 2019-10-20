@@ -1,486 +1,533 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Solrock</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Polish</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Block</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Polish</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Block</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Polish</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Block</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Polish</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Block</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Polish</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Block</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Polish</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cosmic Power</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Block</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Solrock</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

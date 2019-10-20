@@ -1,234 +1,277 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Dratini</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Twister</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Twister</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rush</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Dance</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Twister</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Tail</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rush</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Dance</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Dratini</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragonbreath</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

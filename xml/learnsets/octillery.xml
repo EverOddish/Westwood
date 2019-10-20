@@ -1,389 +1,432 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Octillery</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Octazooka</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>70</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gunk Shot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Octazooka</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wring Out</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gunk Shot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Octazooka</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wring Out</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Soak</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gunk Shot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Octazooka</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wring Out</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Soak</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Octazooka</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gunk Shot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wring Out</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Soak</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Octillery</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

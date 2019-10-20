@@ -1,503 +1,562 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Jumpluff</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>44</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Crystal</game>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>44</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>U Turn</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>52</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage Powder</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>U Turn</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>69</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fairy Wind</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage Powder</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>U Turn</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>69</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Absorb</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fairy Wind</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stun Spore</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage Powder</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>U Turn</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Memento</name>
-                    <level>69</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Jumpluff</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

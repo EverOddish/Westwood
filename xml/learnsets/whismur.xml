@@ -1,244 +1,295 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Whismur</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Uproar</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Howl</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>45</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Uproar</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Howl</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Uproar</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Howl</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Echoed Voice</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Howl</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Uproar</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>43</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Whismur</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

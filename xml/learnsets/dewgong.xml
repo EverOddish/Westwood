@@ -1,492 +1,547 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Dewgong</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>60</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sheer Cold</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sheer Cold</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Encore</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Ring</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brine</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sheer Cold</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dive</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Encore</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Ring</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brine</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sheer Cold</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dive</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hail</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sheer Cold</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Encore</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Ring</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aurora Beam</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brine</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dive</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hail</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Dewgong</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>
