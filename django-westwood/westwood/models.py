@@ -243,3 +243,13 @@ class PokemonForm(models.Model):
     type_sets = models.IntegerField()    # TypeSets list_id
     ability_sets = models.IntegerField()    # AbilitySets list_id
 
+class RomHack(models.Model):
+    title = models.CharField(max_length=500)
+    base_game = models.CharField(max_length=500)
+    author = models.CharField(max_length=500)
+
+class RomHacksListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(RomHack, on_delete=models.CASCADE)
+
