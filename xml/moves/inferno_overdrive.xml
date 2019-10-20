@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
-    <name>Inferno Overdrive  Physical</name>
-    <generation>7</generation>
-    <type>Fire</type>
-    <base_power>0</base_power>
-    <power_points>1</power_points>
-    <accuracy>100</accuracy>
-    <priority>0</priority>
-    <damage_category>Physical</damage_category>
-    <effect>Inflicts regular damage</effect>
+	<move_records>
+		<move_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<move_definition>
+				<name>Inferno Overdrive</name>
+				<generation>7</generation>
+				<type>Fire</type>
+				<base_power>0</base_power>
+				<power_points>1</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect>Inflicts regular damage</effect>
+			</move_definition>
+		</move_record>
+	</move_records>
 </move>
