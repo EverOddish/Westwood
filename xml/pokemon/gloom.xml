@@ -173,9 +173,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Vileplume</evolves_to>
+					<method>when a Leaf Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Bellossom</evolves_to>
+					<method>when a Sun Stone is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

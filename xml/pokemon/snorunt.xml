@@ -176,7 +176,8 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Glalie</evolves_to>
-                    <level>42</level>
+					<level>42</level>
+					<method>when a Dawn Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Froslass</evolves_to>

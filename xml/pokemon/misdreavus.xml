@@ -168,6 +168,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Mismagius</evolves_to>
+					<method>when a Dusk Stone is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
