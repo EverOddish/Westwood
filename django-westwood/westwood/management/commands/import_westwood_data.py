@@ -235,7 +235,7 @@ class Command(BaseCommand):
                         sequence_number += 1
                     EvolutionRecordsListElement.objects.using(self.db_alias).bulk_create(evolution_records_list_element_objects)
 
-                    context, games_list_id = self.get_or_create_games_list(context, ability_set_tag.iter('game'))
+                    context, games_list_id = self.get_or_create_games_list(context, evolution_set_tag.iter('game'))
 
                     evolution_set_object = EvolutionSet(games=games_list_id, evolution_records=evolution_records_list_id)
                     evolution_set_object.save(using=self.db_alias)
