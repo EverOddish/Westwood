@@ -60,6 +60,7 @@ class Migration(migrations.Migration):
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('evolves_to', models.CharField(max_length=500)),
                 ('level', models.IntegerField(default=0)),
+                ('method', models.CharField(max_length=500, null=True)),
             ],
         ),
         migrations.CreateModel(

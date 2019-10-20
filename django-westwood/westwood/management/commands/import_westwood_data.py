@@ -223,7 +223,12 @@ class Command(BaseCommand):
                             level_int = int(level_tag.text)
                         else:
                             level_int = 0
-                        evolution_record_object, created = EvolutionRecord.objects.using(self.db_alias).get_or_create(evolves_to=evolves_to_tag.text, level=level_int)
+                        method_string = ''
+                        for method_tag in evolution_record.iter('method'):
+                            method_string += method_tag.text + ' '
+                        if method_string.endswith(' '):
+                            method_string = method_string[:-1]
+                        evolution_record_object, created = EvolutionRecord.objects.using(self.db_alias).get_or_create(evolves_to=evolves_to_tag.text, level=level_int, method=method_string)
 
                         evolution_records_list_element_object = EvolutionRecordsListElement(list_id=evolution_records_list_id, sequence_number=sequence_number, element=evolution_record_object)
                         evolution_records_list_element_objects.append(evolution_records_list_element_object)
