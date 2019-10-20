@@ -1,13 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
-    <name>Rock Tomb</name>
-    <generation>3</generation>
-    <type>Rock</type>
-    <base_power>60</base_power>
-    <power_points>15</power_points>
-    <accuracy>95</accuracy>
-    <priority>0</priority>
-    <damage_category>Physical</damage_category>
-    <effect></effect>
-    <effect_chance>100</effect_chance>
+	<move_records>
+		<move_record>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<move_definition>
+				<name>Rock Tomb</name>
+				<generation>3</generation>
+				<type>Rock</type>
+				<base_power>50</base_power>
+				<power_points>15</power_points>
+				<accuracy>95</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect/>
+				<effect_chance>100</effect_chance>
+			</move_definition>
+		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<move_definition>
+				<name>Rock Tomb</name>
+				<generation>3</generation>
+				<type>Rock</type>
+				<base_power>60</base_power>
+				<power_points>15</power_points>
+				<accuracy>95</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect/>
+				<effect_chance>100</effect_chance>
+			</move_definition>
+		</move_record>
+	</move_records>
 </move>
