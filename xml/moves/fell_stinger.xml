@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Fell Stinger</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -29,7 +30,6 @@
 				<game>Pokemon Alpha Sapphire</game>
 			</games>
 			<move_definition>
-				<name>Fell Stinger</name>
 				<generation>6</generation>
 				<type>Bug</type>
 				<base_power>30</base_power>
@@ -47,7 +47,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Fell Stinger</name>
 				<generation>6</generation>
 				<type>Bug</type>
 				<base_power>50</base_power>

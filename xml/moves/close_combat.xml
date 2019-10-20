@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Close Combat</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -33,7 +34,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Close Combat</name>
 				<generation>4</generation>
 				<type>Fighting</type>
 				<base_power>120</base_power>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Agility</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -33,7 +34,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Agility</name>
 				<generation>1</generation>
 				<type>Psychic</type>
 				<base_power>0</base_power>

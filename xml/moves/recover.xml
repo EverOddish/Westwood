@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Recover</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -16,7 +17,6 @@
 				<game>Pokemon LeafGreen</game>
 			</games>
 			<move_definition>
-				<name>Recover</name>
 				<generation>1</generation>
 				<type>Normal</type>
 				<base_power>0</base_power>
@@ -47,7 +47,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Recover</name>
 				<generation>1</generation>
 				<type>Normal</type>
 				<base_power>0</base_power>

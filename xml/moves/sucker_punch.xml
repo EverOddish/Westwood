@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Sucker Punch</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -29,7 +30,6 @@
 				<game>Pokemon Alpha Sapphire</game>
 			</games>
 			<move_definition>
-				<name>Sucker Punch</name>
 				<generation>4</generation>
 				<type>Dark</type>
 				<base_power>80</base_power>
@@ -47,7 +47,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Sucker Punch</name>
 				<generation>4</generation>
 				<type>Dark</type>
 				<base_power>70</base_power>

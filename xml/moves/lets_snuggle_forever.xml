@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Lets Snuggle Forever</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -33,7 +34,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Lets Snuggle Forever</name>
 				<generation>7</generation>
 				<type>Fairy</type>
 				<base_power>190</base_power>

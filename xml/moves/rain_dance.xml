@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Rain Dance</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -33,7 +34,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Rain Dance</name>
 				<generation>2</generation>
 				<type>Water</type>
 				<base_power>0</base_power>

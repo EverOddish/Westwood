@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Sky Attack</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -8,7 +9,6 @@
 				<game>Pokemon Yellow</game>
 			</games>
 			<move_definition>
-				<name>Sky Attack</name>
 				<generation>1</generation>
 				<type>Flying</type>
 				<base_power>140</base_power>
@@ -49,7 +49,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Sky Attack</name>
 				<generation>1</generation>
 				<type>Flying</type>
 				<base_power>140</base_power>

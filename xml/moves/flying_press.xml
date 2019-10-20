@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Flying Press</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -29,7 +30,6 @@
 				<game>Pokemon Alpha Sapphire</game>
 			</games>
 			<move_definition>
-				<name>Flying Press</name>
 				<generation>6</generation>
 				<type>Fighting</type>
 				<base_power>80</base_power>
@@ -47,7 +47,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Flying Press</name>
 				<generation>6</generation>
 				<type>Fighting</type>
 				<base_power>100</base_power>

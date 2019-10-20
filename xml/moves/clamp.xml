@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Clamp</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -21,7 +22,6 @@
 				<game>Pokemon SoulSilver</game>
 			</games>
 			<move_definition>
-				<name>Clamp</name>
 				<generation>1</generation>
 				<type>Water</type>
 				<base_power>35</base_power>
@@ -39,7 +39,6 @@
 				<game>Pokemon White</game>
 			</games>
 			<move_definition>
-				<name>Clamp</name>
 				<generation>1</generation>
 				<type>Water</type>
 				<base_power>35</base_power>
@@ -65,7 +64,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Clamp</name>
 				<generation>1</generation>
 				<type>Water</type>
 				<base_power>35</base_power>

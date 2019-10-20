@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Overheat</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -25,7 +26,6 @@
 				<game>Pokemon White 2</game>
 			</games>
 			<move_definition>
-				<name>Overheat</name>
 				<generation>3</generation>
 				<type>Fire</type>
 				<base_power>140</base_power>
@@ -49,7 +49,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Overheat</name>
 				<generation>3</generation>
 				<type>Fire</type>
 				<base_power>130</base_power>

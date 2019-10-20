@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Razor Wind</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -11,7 +12,6 @@
 				<game>Pokemon Crystal</game>
 			</games>
 			<move_definition>
-				<name>Razor Wind</name>
 				<generation>1</generation>
 				<type>Normal</type>
 				<base_power>80</base_power>
@@ -48,7 +48,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Razor Wind</name>
 				<generation>1</generation>
 				<type>Normal</type>
 				<base_power>80</base_power>

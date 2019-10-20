@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Crabhammer</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -25,7 +26,6 @@
 				<game>Pokemon White 2</game>
 			</games>
 			<move_definition>
-				<name>Crabhammer</name>
 				<generation>1</generation>
 				<type>Water</type>
 				<base_power>90</base_power>
@@ -48,7 +48,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Crabhammer</name>
 				<generation>1</generation>
 				<type>Water</type>
 				<base_power>100</base_power>

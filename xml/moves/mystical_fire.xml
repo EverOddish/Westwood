@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Mystical Fire</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -29,7 +30,6 @@
 				<game>Pokemon Alpha Sapphire</game>
 			</games>
 			<move_definition>
-				<name>Mystical Fire</name>
 				<generation>6</generation>
 				<type>Fire</type>
 				<base_power>65</base_power>
@@ -49,7 +49,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Mystical Fire</name>
 				<generation>6</generation>
 				<type>Fire</type>
 				<base_power>75</base_power>

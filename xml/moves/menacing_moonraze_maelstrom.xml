@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Menacing Moonraze Maelstrom</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -33,7 +34,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Menacing Moonraze Maelstrom</name>
 				<generation>7</generation>
 				<type>Ghost</type>
 				<base_power>200</base_power>

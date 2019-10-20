@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Rock Tomb</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -25,7 +26,6 @@
 				<game>Pokemon White 2</game>
 			</games>
 			<move_definition>
-				<name>Rock Tomb</name>
 				<generation>3</generation>
 				<type>Rock</type>
 				<base_power>50</base_power>
@@ -49,7 +49,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Rock Tomb</name>
 				<generation>3</generation>
 				<type>Rock</type>
 				<base_power>60</base_power>
