@@ -108,6 +108,7 @@
             <xs:sequence>
                 <xs:element name="evolves_to" type="xs:string"/>
                 <xs:element name="level" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="method" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

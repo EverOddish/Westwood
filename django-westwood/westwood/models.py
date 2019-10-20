@@ -78,6 +78,7 @@ class AbilitySetsListElement(models.Model):
 class EvolutionRecord(models.Model):
     evolves_to = models.CharField(max_length=500)
     level = models.IntegerField(default=0)
+    method = models.CharField(max_length=500, null=True)
 
 class EvolutionRecordsListElement(models.Model):
     list_id = models.IntegerField()
