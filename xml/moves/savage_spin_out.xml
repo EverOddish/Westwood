@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Savage Spin Out</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -9,7 +10,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Savage Spin Out</name>
 				<generation>7</generation>
 				<type>Bug</type>
 				<base_power>0</base_power>

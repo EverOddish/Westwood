@@ -117,7 +117,6 @@ class Pokemon(models.Model):
     evolution_sets = models.IntegerField()    # EvolutionSets list_id
 
 class MoveDefinition(models.Model):
-    name = models.CharField(max_length=500)
     generation = models.IntegerField(default=0)
     type_1 = models.CharField(max_length=500)
     base_power = models.IntegerField(default=0)
@@ -138,6 +137,7 @@ class MoveRecordsListElement(models.Model):
     element = models.ForeignKey(MoveRecord, on_delete=models.CASCADE)
 
 class Move(models.Model):
+    name = models.CharField(max_length=500)
     move_records = models.IntegerField()    # MoveRecords list_id
 
 class Ability(models.Model):

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
+	<name>Supersonic Skystrike</name>
 	<move_records>
 		<move_record>
 			<games>
@@ -9,7 +10,6 @@
 				<game>Pokemon Ultra Moon</game>
 			</games>
 			<move_definition>
-				<name>Supersonic Skystrike</name>
 				<generation>7</generation>
 				<type>Flying</type>
 				<base_power>0</base_power>

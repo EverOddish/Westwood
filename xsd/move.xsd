@@ -14,7 +14,6 @@
     <xs:element name="move_definition">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="name" type="xs:string"/>
                 <xs:element name="generation" type="xs:positiveInteger"/>
                 <xs:element name="type" type="pokemonType"/>
                 <xs:element name="base_power" type="xs:integer"/>
@@ -48,6 +47,7 @@
     <xs:element name="move">
         <xs:complexType>
             <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
                 <xs:element ref="move_records"/>
             </xs:sequence>
         </xs:complexType>
