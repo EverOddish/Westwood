@@ -176,45 +176,122 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Vaporeon</evolves_to>
+                    <method>when a Water Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Jolteon</evolves_to>
+                    <method>when a Thunder Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Flareon</evolves_to>
+                    <method>when a Fire Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
+                    <method>during the day</method>
+                    <method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
+                    <method>at night</method>
+                    <method>at happiness level 220</method>
 				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
+                    <method>at Eterna Forest</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
+                    <method>at Route 217</method>
 				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
+                    <method>at Pinwheel Forest</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
+                    <method>at Twist Mountain</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Leafeon</evolves_to>
+                    <method>at Route 20</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Glaceon</evolves_to>
+                    <method>at Frost Cavern</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Sylveon</evolves_to>
+                    <method>when knowing a Fairy-type move</method>
 				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
+                    <method>at Petalsburg Woods</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
+                    <method>at Shoal Cave</method>
 				</evolution_record>
 				<evolution_record>
+					<evolves_to>Sylveon</evolves_to>
+                    <method>when knowing a Fairy-type move</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
+                    <method>at Lush Jungle</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
+                    <method>at Mount Lanakila</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Sylveon</evolves_to>
+                    <method>when knowing a Fairy-type move</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
