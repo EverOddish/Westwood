@@ -271,20 +271,45 @@ class Command(BaseCommand):
 
         move_path = os.path.join(WESTWOOD_XML_PATH, 'moves')
         move_objects = []
+        move_definitions_list_counter = 1
+        games_list_counter = 1
+        move_records_list_counter = 1
+        context = {}
 
         for move_file in glob.glob(os.path.join(move_path, '*.xml')):
             try:
                 move_tag = etree.parse(move_file)
                 name_tag = move_tag.find('name')
-                generation_tag = move_tag.find('generation')
-                type_tag = move_tag.find('type')
-                base_power_tag = move_tag.find('base_power')
-                power_points_tag = move_tag.find('power_points')
-                accuracy_tag = move_tag.find('accuracy')
-                priority_tag = move_tag.find('priority')
-                damage_category_tag = move_tag.find('damage_category')
 
-                move_object = Move(name=name_tag.text, generation=generation_tag.text, type_1=type_tag.text, base_power=base_power_tag.text, power_points=power_points_tag.text, accuracy=accuracy_tag.text, priority=priority_tag.text, damage_category=damage_category_tag.text)
+                move_records_list_id = move_records_list_counter
+                move_records_list_counter += 1
+                move_records_sequence_number = 1
+                move_records_list_element_objects = []
+                for move_record_tag in move_tag.iter('move_record'):
+
+                    context, games_list_id = self.get_or_create_games_list(context, move_record_tag.iter('game'))
+
+                    move_definition_tag = move_record_tag.find('move_definition')
+                    generation_tag = move_definition_tag.find('generation')
+                    type_tag = move_definition_tag.find('type')
+                    base_power_tag = move_definition_tag.find('base_power')
+                    power_points_tag = move_definition_tag.find('power_points')
+                    accuracy_tag = move_definition_tag.find('accuracy')
+                    priority_tag = move_definition_tag.find('priority')
+                    damage_category_tag = move_definition_tag.find('damage_category')
+                    move_definition_object = MoveDefinition(generation=generation_tag.text, type_1=type_tag.text, base_power=base_power_tag.text, power_points=power_points_tag.text, accuracy=accuracy_tag.text, priority=priority_tag.text, damage_category=damage_category_tag.text)
+                    move_definition_object.save()
+
+                    move_record_object = MoveRecord(games=games_list_id, move_definition=move_definition_object)
+                    move_record_object.save(using=self.db_alias)
+
+                    move_records_list_element_object = MoveRecordsListElement(list_id=move_records_list_id, sequence_number=move_records_sequence_number, element=move_record_object)
+                    move_records_list_element_objects.append(move_records_list_element_object)
+                    move_records_sequence_number += 1
+
+                MoveRecordsListElement.objects.using(self.db_alias).bulk_create(move_records_list_element_objects)
+
+                move_object = Move(name=name_tag.text, move_records=move_records_list_id)
                 move_objects.append(move_object)
             except etree.XMLSyntaxError:
                 self.stdout.write('Error parsing XML file: ' + move_file)
