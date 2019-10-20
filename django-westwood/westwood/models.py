@@ -116,7 +116,7 @@ class Pokemon(models.Model):
     ability_sets = models.IntegerField()    # AbilitySets list_id
     evolution_sets = models.IntegerField()    # EvolutionSets list_id
 
-class Move(models.Model):
+class MoveDefinition(models.Model):
     name = models.CharField(max_length=500)
     generation = models.IntegerField(default=0)
     type_1 = models.CharField(max_length=500)
@@ -127,6 +127,18 @@ class Move(models.Model):
     damage_category = models.CharField(max_length=500)
     effect = models.CharField(max_length=500, null=True)
     effect_chance = models.IntegerField(default=0)
+
+class MoveRecord(models.Model):
+    games = models.IntegerField()    # Games list_id
+    move_definition = models.ForeignKey(MoveDefinition, on_delete=models.CASCADE)
+
+class MoveRecordsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(MoveRecord, on_delete=models.CASCADE)
+
+class Move(models.Model):
+    move_records = models.IntegerField()    # MoveRecords list_id
 
 class Ability(models.Model):
     name = models.CharField(max_length=500)

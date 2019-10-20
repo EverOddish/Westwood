@@ -23,7 +23,7 @@
 			<move_definition>
 				<name>Curse</name>
 				<generation>2</generation>
-				<type>???</type>
+				<type>None</type>
 				<base_power>0</base_power>
 				<power_points>10</power_points>
 				<accuracy>100</accuracy>
