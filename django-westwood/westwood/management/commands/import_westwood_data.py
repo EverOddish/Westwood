@@ -466,7 +466,7 @@ class Command(BaseCommand):
                 pokemon_tm_sets_object.save(using=self.db_alias)
 
             except etree.XMLSyntaxError:
-                self.stdout.write('Error parsing XML file: ' + learnset_file)
+                self.stdout.write('Error parsing XML file: ' + tm_set_file)
 
     def import_items(self):
         self.stdout.write('Importing Item data...')
@@ -534,7 +534,7 @@ class Command(BaseCommand):
             EffectivenessSetsListElement.objects.using(self.db_alias).bulk_create(effectiveness_sets_list_element_objects)
 
         except etree.XMLSyntaxError:
-            self.stdout.write('Error parsing XML file: ' + pokemon_file)
+            self.stdout.write('Error parsing XML file: ' + type_effectiveness_file)
 
     def import_natures(self):
         self.stdout.write('Importing Nature data...')
@@ -555,7 +555,7 @@ class Command(BaseCommand):
 
             Nature.objects.using(self.db_alias).bulk_create(nature_objects)
         except etree.XMLSyntaxError:
-            self.stdout.write('Error parsing XML file: ' + pokemon_file)
+            self.stdout.write('Error parsing XML file: ' + nature_file)
 
     def import_forms(self):
         self.stdout.write('Importing PokemonForm data...')
@@ -680,6 +680,28 @@ class Command(BaseCommand):
 
         PokemonForm.objects.using(self.db_alias).bulk_create(pokemon_form_objects)
 
+    def import_rom_hacks(self):
+        self.stdout.write('Importing RomHack data...')
+
+        rom_hacks_file = os.path.join(WESTWOOD_XML_PATH, 'misc', 'rom_hacks.xml')
+        rom_hack_objects = []
+
+        try:
+            rom_hacks_tag = etree.parse(rom_hacks_file)
+
+            for rom_hack_tag in rom_hacks_tag.iter('rom_hack'):
+                title_tag = rom_hack_tag.find('title')
+                base_game_tag = rom_hack_tag.find('base_game')
+                author_tag = rom_hack_tag.find('author')
+                description_tag = rom_hack_tag.find('description')
+
+                rom_hack_object = RomHack(title=title_tag.text, base_game=base_game_tag.text, author=author_tag.text, description=description_tag.text)
+                rom_hack_objects.append(rom_hack_object)
+
+            RomHack.objects.using(self.db_alias).bulk_create(rom_hack_objects)
+        except etree.XMLSyntaxError:
+            self.stdout.write('Error parsing XML file: ' + rom_hack_file)
+
     def handle(self, *args, **options):
         self.db_alias = 'westwood'
         self.import_games()
@@ -693,3 +715,4 @@ class Command(BaseCommand):
         self.import_type_effectiveness()
         self.import_natures()
         self.import_forms()
+        self.import_rom_hacks()
