@@ -35,19 +35,6 @@
 			<games>
 				<game>Pokemon Black</game>
 				<game>Pokemon White</game>
-			</games>
-			<move_definition>
-				<generation>1</generation>
-				<type>Normal</type>
-				<base_power>0</base_power>
-				<power_points>20</power_points>
-				<accuracy>100</accuracy>
-				<priority>0</priority>
-				<damage_category>Status</damage_category>
-			</move_definition>
-		</move_record>
-		<move_record>
-			<games>
 				<game>Pokemon Black 2</game>
 				<game>Pokemon White 2</game>
 				<game>Pokemon X</game>
@@ -58,6 +45,7 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Emerald Kaizo</game>
 			</games>
 			<move_definition>
 				<generation>1</generation>
