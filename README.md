@@ -50,8 +50,8 @@ If all was successful, a westwood.sqlite3 file (or other database) should now ex
 If you notice any errors in the data or would like to contribute, there are several ways you can help:
 
  * Open an issue on GitHub
- * Fix the issue and open a pull request on GitHub
- * Contact @EverOddish on Twitter <https://twitter.com/EverOddish>
+ * Fix the issue and open a pull request on GitHub (be sure to follow the rules on the [Contributing](https://github.com/EverOddish/Westwood/wiki/Contributing) page)
+ * Contact [EverOddish](https://twitter.com/EverOddish) on Twitter
 
 ## Name Origin
 
