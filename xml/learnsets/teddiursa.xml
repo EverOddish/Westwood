@@ -1,251 +1,298 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Teddiursa</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Covet</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fling</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Covet</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fling</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baby Doll Eyes</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fling</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Teddiursa</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby Doll Eyes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

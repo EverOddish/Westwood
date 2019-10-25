@@ -176,6 +176,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Tsareena</evolves_to>
+					<method>when knowing Stomp</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

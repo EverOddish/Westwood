@@ -1,316 +1,371 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Mawile</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baton Pass</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stockpile</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spit Up</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swallow</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baton Pass</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stockpile</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spit Up</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swallow</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Rough</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fairy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baton Pass</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stockpile</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spit Up</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swallow</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Rough</name>
-                    <level>60</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Rough</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fairy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baton Pass</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stockpile</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spit Up</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swallow</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Rough</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Mawile</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flash Cannon</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>32</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -177,6 +177,7 @@
 				<evolution_record>
 					<evolves_to>Pangoro</evolves_to>
 					<level>32</level>
+					<method>when a Dark-type Pokemon is in the party</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

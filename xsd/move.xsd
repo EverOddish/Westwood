@@ -3,10 +3,17 @@
 
     <xs:include schemaLocation="enumerations/type.xsd"/>
 
-    <xs:element name="move">
+    <xs:element name="games">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="name" type="xs:string"/>
+                <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="move_definition">
+        <xs:complexType>
+            <xs:sequence>
                 <xs:element name="generation" type="xs:positiveInteger"/>
                 <xs:element name="type" type="pokemonType"/>
                 <xs:element name="base_power" type="xs:integer"/>
@@ -16,6 +23,32 @@
                 <xs:element name="damage_category" type="xs:string"/>
                 <xs:element name="effect" type="xs:string" minOccurs="0"/>
                 <xs:element name="effect_chance" type="xs:integer" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="move_record">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element ref="move_definition"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="move_records">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="move_record" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="move">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element ref="move_records"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

@@ -1,12 +1,62 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
-    <name>Hypnosis</name>
-    <generation>1</generation>
-    <type>Psychic</type>
-    <base_power>0</base_power>
-    <power_points>20</power_points>
-    <accuracy>60</accuracy>
-    <priority>0</priority>
-    <damage_category>Status</damage_category>
-    <effect>Inflicts sleep</effect>
+	<name>Hypnosis</name>
+	<move_records>
+		<move_record>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Psychic</type>
+				<base_power>0</base_power>
+				<power_points>20</power_points>
+				<accuracy>70</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<effect>Inflicts sleep</effect>
+			</move_definition>
+		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Psychic</type>
+				<base_power>0</base_power>
+				<power_points>20</power_points>
+				<accuracy>60</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<effect>Inflicts sleep</effect>
+			</move_definition>
+		</move_record>
+	</move_records>
 </move>

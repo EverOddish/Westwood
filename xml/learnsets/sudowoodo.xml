@@ -1,353 +1,396 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Sudowoodo</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mimic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mimic</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Copycat</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wood Hammer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mimic</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Tomb</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Copycat</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wood Hammer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mimic</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Tomb</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Copycat</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wood Hammer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Throw</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mimic</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tearful Look</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Tomb</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Smash</name>
-                    <level>54</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Sudowoodo</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tearful Look</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

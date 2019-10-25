@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Alolan Meowth</name>
+	<height>52</height>
+	<weight>4</weight>
+	<base_exp>42</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>40</hp>
+			<attack>35</attack>
+			<defense>35</defense>
+			<special_attack>50</special_attack>
+			<special_defense>40</special_defense>
+			<speed>90</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<type1>Dark</type1>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Pickup</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Technician</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Rattled</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

@@ -176,6 +176,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Escavalier</evolves_to>
+					<method>when traded for a Shelmet</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

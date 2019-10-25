@@ -176,6 +176,8 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Lucario</evolves_to>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

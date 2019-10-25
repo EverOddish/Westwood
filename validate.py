@@ -21,6 +21,8 @@ misc_mapping = {
     'learn_methods': 'learn_methods',
     'type_effectiveness': 'type_effectiveness',
     'types': 'types',
+    'nature': 'natures',
+    'rom_hack': 'rom_hacks',
 }
 
 
@@ -31,7 +33,6 @@ def run_xmllint(schema, target):
     if 'validates' not in result.stderr.decode('utf-8'):
         invalid_files.append(target)
         print('Failed to validate: ' + target)
-
 
 def validate():
 

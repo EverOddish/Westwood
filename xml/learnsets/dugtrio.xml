@@ -1,596 +1,651 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Dugtrio</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tri Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tri Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Slap</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Tomb</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tri Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Slap</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Tomb</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tri Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Slap</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Tomb</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Bomb</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tri Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Slap</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulldoze</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Tomb</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Bomb</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tri Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rototiller</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Slap</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulldoze</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Tomb</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Bomb</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tri Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Tomb</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rototiller</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Slap</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulldoze</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Bomb</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Dugtrio</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rototiller</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rototiller</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

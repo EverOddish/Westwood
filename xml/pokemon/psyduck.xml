@@ -180,5 +180,16 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Emerald</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Golduck</evolves_to>
+					<level>25</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 </pokemon>

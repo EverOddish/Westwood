@@ -173,7 +173,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Vespiquen</evolves_to>
-					<level>21</level>
+					<method>when female</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

@@ -1,366 +1,417 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Tropius</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Tornado</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bestow</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>67</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>71</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bestow</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Tornado</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bestow</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>67</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>71</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Tornado</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bestow</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Tropius</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bestow</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bestow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bestow</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bestow</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

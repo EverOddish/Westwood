@@ -176,6 +176,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Clefairy</evolves_to>
+					<method>at happiness level 220</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

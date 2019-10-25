@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Totem Lurantis</name>
+	<height>754</height>
+	<weight>15</weight>
+	<base_exp>580</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>70</hp>
+			<attack>105</attack>
+			<defense>90</defense>
+			<special_attack>80</special_attack>
+			<special_defense>90</special_defense>
+			<speed>45</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<type1>Grass</type1>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Leaf Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Contrary</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

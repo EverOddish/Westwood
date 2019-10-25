@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Alolan Rattata</name>
+	<height>19</height>
+	<weight>3</weight>
+	<base_exp>38</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>30</hp>
+			<attack>56</attack>
+			<defense>35</defense>
+			<special_attack>25</special_attack>
+			<special_defense>35</special_defense>
+			<speed>72</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<type1>Dark</type1>
+			<type2>Normal</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Gluttony</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Hustle</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Thick Fat</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

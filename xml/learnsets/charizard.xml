@@ -1,548 +1,607 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Charizard</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heat Wave</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heat Wave</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>66</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Burst</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Inferno</name>
-                    <level>62</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heat Wave</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>77</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heat Wave</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Burst</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Inferno</name>
-                    <level>62</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heat Wave</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>77</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heat Wave</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smokescreen</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Burst</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Inferno</name>
-                    <level>62</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heat Wave</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>77</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Charizard</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragonbreath</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

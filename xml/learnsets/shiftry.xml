@@ -1,140 +1,163 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Shiftry</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nature Power</name>
-                    <level>1</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nasty Plot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nasty Plot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Tornado</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nasty Plot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Tornado</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hurricane</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>44</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Shiftry</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

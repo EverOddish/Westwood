@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Basculin Blue Striped</name>
+	<height>550</height>
+	<weight>10</weight>
+	<base_exp>180</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>70</hp>
+			<attack>92</attack>
+			<defense>65</defense>
+			<special_attack>80</special_attack>
+			<special_defense>55</special_defense>
+			<speed>98</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<type1>Water</type1>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Rock Head</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Adaptability</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Mold Breaker</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

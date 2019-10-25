@@ -177,10 +177,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Slowbro</evolves_to>
-					<level>37</level>
+                    <level>37</level>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Slowking</evolves_to>
+					<method>when holding a Kings Rock</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

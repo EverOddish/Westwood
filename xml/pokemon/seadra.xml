@@ -180,6 +180,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Kingdra</evolves_to>
+					<method>when holding a Dragon Scale</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

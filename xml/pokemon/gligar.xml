@@ -177,6 +177,8 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Gliscor</evolves_to>
+					<method>when holding a Razor Fang</method>
+					<method>at night</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

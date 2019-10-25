@@ -177,5 +177,16 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Gloom</evolves_to>
+					<level>16</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 </pokemon>

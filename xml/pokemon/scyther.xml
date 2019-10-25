@@ -177,6 +177,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Scizor</evolves_to>
+					<method>when holding a Metal Coat</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

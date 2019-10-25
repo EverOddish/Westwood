@@ -1,510 +1,569 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Snorlax</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Covet</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Covet</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snore</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Talk</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Block</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Belly Drum</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>High Horsepower</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Snorlax</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -176,7 +176,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Gumshoos</evolves_to>
-					<level>20</level>
+					<method>during the day</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

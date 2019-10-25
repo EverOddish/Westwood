@@ -1,432 +1,483 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Gengar</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Night Shade</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>38</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mean Look</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Shade</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mean Look</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Shade</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Punch</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Shade</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Punch</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nightmare</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mean Look</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mean Look</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Shade</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Punch</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nightmare</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mean Look</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Shade</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Punch</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hex</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nightmare</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Hypnosis</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spite</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mean Look</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Shade</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confuse Ray</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dream Eater</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hex</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nightmare</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Gengar</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>38</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nightmare</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nightmare</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nightmare</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nightmare</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderpunch</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

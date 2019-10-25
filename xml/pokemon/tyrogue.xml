@@ -176,15 +176,15 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Hitmonlee</evolves_to>
-					<level>20</level>
+					<method>with relative physical stats of 1</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Hitmonchan</evolves_to>
-					<level>20</level>
+					<method>with relative physical stats of -1</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Hitmontop</evolves_to>
-					<level>20</level>
+					<method>with relative physical stats of 0</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

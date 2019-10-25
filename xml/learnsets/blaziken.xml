@@ -1,504 +1,575 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Blaziken</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulk Up</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blaze Kick</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Move</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>59</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulk Up</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blaze Kick</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>66</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>High Jump Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulk Up</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blaze Kick</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>66</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>High Jump Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulk Up</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blaze Kick</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>66</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>High Jump Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Charge</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulk Up</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blaze Kick</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>63</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Fire Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>High Jump Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blaze Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Charge</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulk Up</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>63</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Blaziken</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunderpunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blast Burn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hi Jump Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Upeprcut</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

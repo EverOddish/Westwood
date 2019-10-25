@@ -172,9 +172,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Huntail</evolves_to>
+					<method>when holding a Deep Sea Tooth</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Gorebyss</evolves_to>
+					<method>when holding a Deep Sea Scale</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

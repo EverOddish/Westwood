@@ -172,6 +172,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Aromatisse</evolves_to>
+					<method>when holding a Sachet</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

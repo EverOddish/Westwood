@@ -1,376 +1,423 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Rhyhorn</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Drill</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Drill</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Drill</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Drill</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Drill</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulldoze</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Drill Run</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Drill</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>67</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smack Down</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulldoze</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Drill Run</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Drill</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Rhyhorn</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

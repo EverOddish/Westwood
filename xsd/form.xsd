@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="games">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="game" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="stat_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element name="hp" type="xs:positiveInteger"/>
+                <xs:element name="attack" type="xs:positiveInteger"/>
+                <xs:element name="defense" type="xs:positiveInteger"/>
+                <xs:element name="special_attack" type="xs:positiveInteger"/>
+                <xs:element name="special_defense" type="xs:positiveInteger"/>
+                <xs:element name="speed" type="xs:positiveInteger"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="stat_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="stat_set" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="type_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element name="type1" type="xs:string"/>
+                <xs:element name="type2" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="type_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="type_set" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="ability_record">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="hidden" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="ability_records">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ability_record" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="ability_set">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element ref="ability_records"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="ability_sets">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ability_set" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="ev_yield">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="stat" type="xs:string"/>
+                <xs:element name="value" type="xs:positiveInteger"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="ev_yields">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="ev_yield" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="pokemon_form">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="height" type="xs:positiveInteger"/>
+                <xs:element name="weight" type="xs:positiveInteger"/>
+                <xs:element name="base_exp" type="xs:positiveInteger"/>
+                <xs:element ref="ev_yields"/>
+                <xs:element ref="stat_sets"/>
+                <xs:element ref="type_sets"/>
+                <xs:element ref="ability_sets"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

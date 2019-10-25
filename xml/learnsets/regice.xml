@@ -1,326 +1,369 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Regice</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zap Cannon</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lock On</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lock On</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zap Cannon</name>
-                    <level>65</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>73</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>81</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>89</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lock On</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zap Cannon</name>
-                    <level>65</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>73</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>81</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>89</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zap Cannon</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lock On</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lock On</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zap Cannon</name>
-                    <level>65</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>73</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>81</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>89</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulldoze</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bulldoze</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Beam</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hammer Arm</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zap Cannon</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lock On</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Beam</name>
-                    <level>67</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Regice</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>81</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>89</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>81</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>89</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>81</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>89</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

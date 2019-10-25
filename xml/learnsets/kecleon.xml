@@ -1,476 +1,535 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Kecleon</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thief</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bind</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Substitute</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thief</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bind</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Sneak</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Substitute</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>64</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thief</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bind</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Sneak</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Substitute</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thief</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bind</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Sneak</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Substitute</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thief</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bind</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Sneak</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Substitute</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thief</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bind</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Sneak</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Camouflage</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Claw</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Substitute</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Kecleon</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Beak</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

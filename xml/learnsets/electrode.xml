@@ -1,590 +1,649 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Electrode</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>59</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnet Rise</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnet Rise</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>62</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnetic Flux</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Eerie Impulse</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnet Rise</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>62</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnetic Flux</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Eerie Impulse</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnet Rise</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Eerie Impulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnetic Flux</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sonic Boom</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Eerie Impulse</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge Beam</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnet Rise</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Electrode</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnetic Flux</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eerie Impulse</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnetic Flux</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eerie Impulse</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eerie Impulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnetic Flux</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eerie Impulse</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>SonicBoom</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

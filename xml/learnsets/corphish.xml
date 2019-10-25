@@ -1,256 +1,307 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Corphish</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crabhammer</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guillotine</name>
-                    <level>44</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crabhammer</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guillotine</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crabhammer</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guillotine</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Hit</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Shell</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crabhammer</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guillotine</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Corphish</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Shell</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

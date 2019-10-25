@@ -1,250 +1,301 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Bulbasaur</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Red</game>
-                <game>Pokemon Blue</game>
-                <game>Pokemon Yellow</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Gold</game>
-                <game>Pokemon Silver</game>
-                <game>Pokemon Crystal</game>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Seed Bomb</name>
-                    <level>37</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Powder</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sleep Powder</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Seed Bomb</name>
-                    <level>37</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Bulbasaur</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>VineWhip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

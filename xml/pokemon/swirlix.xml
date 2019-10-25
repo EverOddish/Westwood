@@ -172,6 +172,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Slurpuff</evolves_to>
+					<method>when holding a Whipped Dream</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

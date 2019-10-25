@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Totem Kommo O</name>
+	<height>784</height>
+	<weight>24</weight>
+	<base_exp>2075</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<hp>75</hp>
+			<attack>110</attack>
+			<defense>125</defense>
+			<special_attack>100</special_attack>
+			<special_defense>105</special_defense>
+			<speed>85</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<type1>Dragon</type1>
+			<type2>Fighting</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Bulletproof</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Soundproof</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Overcoat</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

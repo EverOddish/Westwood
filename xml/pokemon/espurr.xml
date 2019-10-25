@@ -175,12 +175,12 @@
 			</games>
 			<evolution_records>
 				<evolution_record>
-					<evolves_to>Meowstic</evolves_to>
-					<level>25</level>
+					<evolves_to>Female Meowstic</evolves_to>
+					<method>when female</method>
 				</evolution_record>
 				<evolution_record>
-					<evolves_to>Meowstic</evolves_to>
-					<level>25</level>
+					<evolves_to>Male Meowstic</evolves_to>
+					<method>when male</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

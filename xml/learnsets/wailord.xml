@@ -1,434 +1,501 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Wailord</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlpool</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mist</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Spout</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>59</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlpool</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mist</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brine</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Spout</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dive</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>62</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlpool</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mist</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brine</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Spout</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dive</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>62</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>70</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlpool</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mist</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brine</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Spout</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dive</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Soak</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Noble Roar</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlpool</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mist</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brine</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rest</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Spout</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dive</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bounce</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heavy Slam</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Wailord</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Noble Roar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

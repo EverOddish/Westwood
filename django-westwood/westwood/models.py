@@ -78,6 +78,7 @@ class AbilitySetsListElement(models.Model):
 class EvolutionRecord(models.Model):
     evolves_to = models.CharField(max_length=500)
     level = models.IntegerField(default=0)
+    method = models.CharField(max_length=500, null=True)
 
 class EvolutionRecordsListElement(models.Model):
     list_id = models.IntegerField()
@@ -116,8 +117,7 @@ class Pokemon(models.Model):
     ability_sets = models.IntegerField()    # AbilitySets list_id
     evolution_sets = models.IntegerField()    # EvolutionSets list_id
 
-class Move(models.Model):
-    name = models.CharField(max_length=500)
+class MoveDefinition(models.Model):
     generation = models.IntegerField(default=0)
     type_1 = models.CharField(max_length=500)
     base_power = models.IntegerField(default=0)
@@ -127,6 +127,19 @@ class Move(models.Model):
     damage_category = models.CharField(max_length=500)
     effect = models.CharField(max_length=500, null=True)
     effect_chance = models.IntegerField(default=0)
+
+class MoveRecord(models.Model):
+    games = models.IntegerField()    # Games list_id
+    move_definition = models.ForeignKey(MoveDefinition, on_delete=models.CASCADE)
+
+class MoveRecordsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(MoveRecord, on_delete=models.CASCADE)
+
+class Move(models.Model):
+    name = models.CharField(max_length=500)
+    move_records = models.IntegerField()    # MoveRecords list_id
 
 class Ability(models.Model):
     name = models.CharField(max_length=500)
@@ -219,4 +232,25 @@ class NaturesListElement(models.Model):
     list_id = models.IntegerField()
     sequence_number = models.IntegerField()
     element = models.ForeignKey(Nature, on_delete=models.CASCADE)
+
+class PokemonForm(models.Model):
+    name = models.CharField(max_length=500)
+    height = models.IntegerField(default=0)
+    weight = models.IntegerField(default=0)
+    base_exp = models.IntegerField(default=0)
+    ev_yields = models.IntegerField()    # EvYields list_id
+    stat_sets = models.IntegerField()    # StatSets list_id
+    type_sets = models.IntegerField()    # TypeSets list_id
+    ability_sets = models.IntegerField()    # AbilitySets list_id
+
+class RomHack(models.Model):
+    title = models.CharField(max_length=500)
+    base_game = models.CharField(max_length=500)
+    author = models.CharField(max_length=500)
+    description = models.CharField(max_length=500)
+
+class RomHacksListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(RomHack, on_delete=models.CASCADE)
 

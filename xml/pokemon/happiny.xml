@@ -176,6 +176,8 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Chansey</evolves_to>
+					<method>when holding a Oval Stone</method>
+					<method>during the day</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

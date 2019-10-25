@@ -1,318 +1,365 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Numel</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ruby</game>
-                <game>Pokemon Sapphire</game>
-                <game>Pokemon Emerald</game>
-                <game>Pokemon FireRed</game>
-                <game>Pokemon LeafGreen</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lava Plume</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Burst</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lava Plume</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Burst</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lava Plume</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magnitude</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Burst</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Amnesia</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lava Plume</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earth Power</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Numel</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

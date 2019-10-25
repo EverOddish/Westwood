@@ -172,11 +172,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Wormadam</evolves_to>
-					<level>20</level>
+					<method>when female</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Mothim</evolves_to>
-					<level>20</level>
+					<method>when male</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

@@ -176,6 +176,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Tangrowth</evolves_to>
+					<method>when knowing Ancient Power</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

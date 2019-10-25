@@ -172,6 +172,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Magmortar</evolves_to>
+					<method>when holding a Magmarizer</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
