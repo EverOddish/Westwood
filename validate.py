@@ -14,6 +14,7 @@ dataset_mapping = {
     'move': 'moves',
     'pokemon': 'pokemon',
     'tm_set': 'tm_sets',
+    'form': 'forms',
 }
 
 misc_mapping = {
