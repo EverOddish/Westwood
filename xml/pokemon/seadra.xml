@@ -200,5 +200,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Kingdra</evolves_to>
+					<method>when a Dragon Scale is used</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 </pokemon>

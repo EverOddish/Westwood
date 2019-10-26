@@ -188,7 +188,19 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Electivire</evolves_to>
-					<method>when holding a Electirizer</method>
+					<method>when holding an Electirizer</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Electivire</evolves_to>
+					<method>when an Electirizer is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

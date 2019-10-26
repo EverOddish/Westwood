@@ -193,5 +193,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Volcarona</evolves_to>
+					<level>45</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 </pokemon>
