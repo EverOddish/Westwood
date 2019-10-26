@@ -198,6 +198,10 @@
                 <tmset_move>Charge Beam</tmset_move>
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

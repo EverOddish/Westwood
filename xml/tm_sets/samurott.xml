@@ -221,6 +221,7 @@
                 <tmset_move>Scald</tmset_move>
                 <tmset_move>Retaliate</tmset_move>
                 <tmset_move>Dragon Tail</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

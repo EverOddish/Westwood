@@ -121,6 +121,8 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Echoed Voice</tmset_move>
                 <tmset_move>Scald</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

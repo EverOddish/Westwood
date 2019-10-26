@@ -317,6 +317,8 @@
                 <tmset_move>Echoed Voice</tmset_move>
                 <tmset_move>Incinerate</tmset_move>
                 <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

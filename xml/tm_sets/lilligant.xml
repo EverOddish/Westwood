@@ -172,6 +172,9 @@
                 <tmset_move>Giga Impact</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
                 <tmset_move>Round</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

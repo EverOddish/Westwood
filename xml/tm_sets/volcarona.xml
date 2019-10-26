@@ -213,6 +213,8 @@
                 <tmset_move>Acrobatics</tmset_move>
                 <tmset_move>Struggle Bug</tmset_move>
                 <tmset_move>Wild Charge</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

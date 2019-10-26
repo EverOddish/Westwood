@@ -363,6 +363,7 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Ally Switch</tmset_move>
                 <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Fly</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

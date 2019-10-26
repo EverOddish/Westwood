@@ -236,6 +236,7 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Scald</tmset_move>
                 <tmset_move>Struggle Bug</tmset_move>
+                <tmset_move>Surf</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

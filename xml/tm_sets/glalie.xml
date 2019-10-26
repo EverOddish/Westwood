@@ -283,6 +283,11 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Bulldoze</tmset_move>
                 <tmset_move>Frost Breath</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

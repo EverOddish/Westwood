@@ -261,6 +261,8 @@
                 <tmset_move>Telekinesis</tmset_move>
                 <tmset_move>Low Sweep</tmset_move>
                 <tmset_move>Round</tmset_move>
+                <tmset_move>Will O Wisp</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>
