@@ -93,6 +93,14 @@
 			<type1>Fire</type1>
 			<type2>Fighting</type2>
 		</type_set>
+		<type_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<type1>Fire</type1>
+			<type2>Ground</type2>
+		</type_set>
 	</type_sets>
 	<ability_sets>
 		<ability_set>

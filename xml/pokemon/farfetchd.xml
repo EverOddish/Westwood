@@ -126,6 +126,14 @@
 			<type1>Normal</type1>
 			<type2>Flying</type2>
 		</type_set>
+		<type_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<type1>Fighting</type1>
+			<type2>Flying</type2>
+		</type_set>
 	</type_sets>
 	<ability_sets>
 		<ability_set>
