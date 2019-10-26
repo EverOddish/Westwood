@@ -702,6 +702,55 @@ class Command(BaseCommand):
         except etree.XMLSyntaxError:
             self.stdout.write('Error parsing XML file: ' + rom_hack_file)
 
+    def import_tutor_sets(self):
+        self.stdout.write('Importing TutorSet data...')
+
+        tutor_sets_path = os.path.join(WESTWOOD_XML_PATH, 'tutor_sets')
+        tutor_set_moves_list_counter = 1
+        games_list_counter = 1
+        tutor_sets_list_counter = 1
+        context = {}
+
+        for tutor_set_file in glob.glob(os.path.join(tutor_sets_path, '*.xml')):
+            try:
+                pokemon_tutor_sets_tag = etree.parse(tutor_set_file)
+                pokemon_name = pokemon_tutor_sets_tag.find('name').text
+                
+                tutor_sets_list_id = tutor_sets_list_counter
+                tutor_sets_list_counter += 1
+                tutor_sets_sequence_number = 1
+                tutor_sets_list_element_objects = []
+                for tutor_set_tag in pokemon_tutor_sets_tag.iter('tutor_set'):
+
+                    tutor_set_moves_list_id = tutor_set_moves_list_counter
+                    tutor_set_moves_list_counter += 1
+                    sequence_number = 1
+                    tutor_set_moves_list_element_objects = []
+                    for tutor_set_move in tutor_set_tag.iter('tutor_set_move'):
+                        tutor_set_move_object, created = TutorSetMove.objects.using(self.db_alias).get_or_create(name=tutor_set_move.text)
+
+                        tutor_set_moves_list_element_object = TutorSetMovesListElement(list_id=tutor_set_moves_list_id, sequence_number=sequence_number, element=tutor_set_move_object)
+                        tutor_set_moves_list_element_objects.append(tutor_set_moves_list_element_object)
+                        sequence_number += 1
+                    TutorSetMovesListElement.objects.using(self.db_alias).bulk_create(tutor_set_moves_list_element_objects)
+
+                    context, games_list_id = self.get_or_create_games_list(context, tutor_set_tag.iter('game'))
+
+                    tutor_set_object = TutorSet(games=games_list_id, tutor_set_moves=tutor_set_moves_list_id)
+                    tutor_set_object.save(using=self.db_alias)
+
+                    tutor_sets_list_element_object = TutorSetsListElement(list_id=tutor_sets_list_id, sequence_number=tutor_sets_sequence_number, element=tutor_set_object)
+                    tutor_sets_list_element_objects.append(tutor_sets_list_element_object)
+                    tutor_sets_sequence_number += 1
+
+                TutorSetsListElement.objects.using(self.db_alias).bulk_create(tutor_sets_list_element_objects)
+
+                pokemon_tutor_sets_object = PokemonTutorSets(name=pokemon_name, tutor_sets=tutor_sets_list_id)
+                pokemon_tutor_sets_object.save(using=self.db_alias)
+
+            except etree.XMLSyntaxError:
+                self.stdout.write('Error parsing XML file: ' + tutor_set_file)
+
     def handle(self, *args, **options):
         self.db_alias = 'westwood'
         self.import_games()
@@ -716,3 +765,4 @@ class Command(BaseCommand):
         self.import_natures()
         self.import_forms()
         self.import_rom_hacks()
+        self.import_tutor_sets()
