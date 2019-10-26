@@ -145,5 +145,21 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Drought</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Solid Rock</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 </pokemon>

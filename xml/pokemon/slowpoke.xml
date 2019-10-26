@@ -141,6 +141,22 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Regenerator</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Drizzle</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>
@@ -177,7 +193,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Slowbro</evolves_to>
-                    <level>37</level>
+					<level>37</level>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Slowking</evolves_to>

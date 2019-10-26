@@ -140,6 +140,22 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Anticipation</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Adaptability</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>
@@ -176,25 +192,25 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Vaporeon</evolves_to>
-                    <method>when a Water Stone is used</method>
+					<method>when a Water Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Jolteon</evolves_to>
-                    <method>when a Thunder Stone is used</method>
+					<method>when a Thunder Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Flareon</evolves_to>
-                    <method>when a Fire Stone is used</method>
+					<method>when a Fire Stone is used</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
-                    <method>during the day</method>
-                    <method>at happiness level 220</method>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
-                    <method>at night</method>
-                    <method>at happiness level 220</method>
+					<method>at night</method>
+					<method>at happiness level 220</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -207,11 +223,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
-                    <method>at Eterna Forest</method>
+					<method>at Eterna Forest</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
-                    <method>at Route 217</method>
+					<method>at Route 217</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -225,11 +241,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
-                    <method>at Pinwheel Forest</method>
+					<method>at Pinwheel Forest</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
-                    <method>at Twist Mountain</method>
+					<method>at Twist Mountain</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -241,15 +257,15 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
-                    <method>at Route 20</method>
+					<method>at Route 20</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
-                    <method>at Frost Cavern</method>
+					<method>at Frost Cavern</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Sylveon</evolves_to>
-                    <method>when knowing a Fairy-type move</method>
+					<method>when knowing a Fairy-type move</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -261,15 +277,15 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
-                    <method>at Petalsburg Woods</method>
+					<method>at Petalsburg Woods</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
-                    <method>at Shoal Cave</method>
+					<method>at Shoal Cave</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Sylveon</evolves_to>
-                    <method>when knowing a Fairy-type move</method>
+					<method>when knowing a Fairy-type move</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -283,15 +299,15 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
-                    <method>at Lush Jungle</method>
+					<method>at Lush Jungle</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
-                    <method>at Mount Lanakila</method>
+					<method>at Mount Lanakila</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Sylveon</evolves_to>
-                    <method>when knowing a Fairy-type move</method>
+					<method>when knowing a Fairy-type move</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
