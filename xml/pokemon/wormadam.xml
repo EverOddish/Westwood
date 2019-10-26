@@ -57,6 +57,18 @@
 			<special_defense>105</special_defense>
 			<speed>36</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<hp>60</hp>
+			<attack>59</attack>
+			<defense>85</defense>
+			<special_attack>99</special_attack>
+			<special_defense>125</special_defense>
+			<speed>36</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>
@@ -134,6 +146,22 @@
 				<ability_record>
 					<name>Overcoat</name>
 					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Anticipation</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Leaf Guard</name>
+					<hidden>No</hidden>
 				</ability_record>
 			</ability_records>
 		</ability_set>

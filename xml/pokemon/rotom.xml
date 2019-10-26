@@ -61,6 +61,18 @@
 			<special_defense>77</special_defense>
 			<speed>91</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<hp>50</hp>
+			<attack>50</attack>
+			<defense>77</defense>
+			<special_attack>95</special_attack>
+			<special_defense>77</special_defense>
+			<speed>111</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>
