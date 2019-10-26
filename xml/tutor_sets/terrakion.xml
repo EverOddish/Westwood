@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Terrakion</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Helping Hand</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Block</tutor_set_move>
+				<tutor_set_move>Earth Power</tutor_set_move>
+				<tutor_set_move>Zen Headbutt</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Stealth Rock</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Helping Hand</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Block</tutor_set_move>
+				<tutor_set_move>Earth Power</tutor_set_move>
+				<tutor_set_move>Zen Headbutt</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Stealth Rock</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

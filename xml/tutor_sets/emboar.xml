@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Emboar</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Blast Burn</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Fire Punch</tutor_set_move>
+				<tutor_set_move>Thunder Punch</tutor_set_move>
+				<tutor_set_move>Low Kick</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Helping Hand</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Endeavor</tutor_set_move>
+				<tutor_set_move>Blast Burn</tutor_set_move>
+				<tutor_set_move>Block</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Fire Punch</tutor_set_move>
+				<tutor_set_move>Thunder Punch</tutor_set_move>
+				<tutor_set_move>Low Kick</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Focus Punch</tutor_set_move>
+				<tutor_set_move>Helping Hand</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Endeavor</tutor_set_move>
+				<tutor_set_move>Blast Burn</tutor_set_move>
+				<tutor_set_move>Block</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Zen Headbutt</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

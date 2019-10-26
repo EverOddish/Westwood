@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Talonflame</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Snatch</tutor_set_move>
+				<tutor_set_move>Tailwind</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

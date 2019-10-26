@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Burmy</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>String Shot</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Bug Bite</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Bug Bite</tutor_set_move>
+				<tutor_set_move>Electroweb</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

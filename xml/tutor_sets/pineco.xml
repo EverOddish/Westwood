@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Pineco</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Body Slam</tutor_set_move>
+				<tutor_set_move>Double Edge</tutor_set_move>
+				<tutor_set_move>Counter</tutor_set_move>
+				<tutor_set_move>Mimic</tutor_set_move>
+				<tutor_set_move>Defense Curl</tutor_set_move>
+				<tutor_set_move>Explosion</tutor_set_move>
+				<tutor_set_move>Rock Slide</tutor_set_move>
+				<tutor_set_move>Substitute</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Endure</tutor_set_move>
+				<tutor_set_move>Rollout</tutor_set_move>
+				<tutor_set_move>Swagger</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Body Slam</tutor_set_move>
+				<tutor_set_move>Double Edge</tutor_set_move>
+				<tutor_set_move>Counter</tutor_set_move>
+				<tutor_set_move>Mimic</tutor_set_move>
+				<tutor_set_move>Explosion</tutor_set_move>
+				<tutor_set_move>Rock Slide</tutor_set_move>
+				<tutor_set_move>Substitute</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Rollout</tutor_set_move>
+				<tutor_set_move>Iron Defense</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Headbutt</tutor_set_move>
+				<tutor_set_move>String Shot</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Rollout</tutor_set_move>
+				<tutor_set_move>Pain Split</tutor_set_move>
+				<tutor_set_move>Iron Defense</tutor_set_move>
+				<tutor_set_move>Gravity</tutor_set_move>
+				<tutor_set_move>Bug Bite</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Giga Drain</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Pain Split</tutor_set_move>
+				<tutor_set_move>Iron Defense</tutor_set_move>
+				<tutor_set_move>Gravity</tutor_set_move>
+				<tutor_set_move>Stealth Rock</tutor_set_move>
+				<tutor_set_move>Bug Bite</tutor_set_move>
+				<tutor_set_move>Drill Run</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Giga Drain</tutor_set_move>
+				<tutor_set_move>Pain Split</tutor_set_move>
+				<tutor_set_move>Iron Defense</tutor_set_move>
+				<tutor_set_move>Gravity</tutor_set_move>
+				<tutor_set_move>Stealth Rock</tutor_set_move>
+				<tutor_set_move>Bug Bite</tutor_set_move>
+				<tutor_set_move>Drill Run</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

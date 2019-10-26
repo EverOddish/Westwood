@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Cinccino</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Helping Hand</tutor_set_move>
+				<tutor_set_move>Knock Off</tutor_set_move>
+				<tutor_set_move>Hyper Voice</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Last Resort</tutor_set_move>
+				<tutor_set_move>Aqua Tail</tutor_set_move>
+				<tutor_set_move>Seed Bomb</tutor_set_move>
+				<tutor_set_move>Gunk Shot</tutor_set_move>
+				<tutor_set_move>After You</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Helping Hand</tutor_set_move>
+				<tutor_set_move>Knock Off</tutor_set_move>
+				<tutor_set_move>Hyper Voice</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Shock Wave</tutor_set_move>
+				<tutor_set_move>Last Resort</tutor_set_move>
+				<tutor_set_move>Aqua Tail</tutor_set_move>
+				<tutor_set_move>Seed Bomb</tutor_set_move>
+				<tutor_set_move>Gunk Shot</tutor_set_move>
+				<tutor_set_move>After You</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

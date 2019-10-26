@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Honchkrow</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Swift</tutor_set_move>
+				<tutor_set_move>Spite</tutor_set_move>
+				<tutor_set_move>Mud Slap</tutor_set_move>
+				<tutor_set_move>Twister</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Air Cutter</tutor_set_move>
+				<tutor_set_move>Sucker Punch</tutor_set_move>
+				<tutor_set_move>Ominous Wind</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Swift</tutor_set_move>
+				<tutor_set_move>Sky Attack</tutor_set_move>
+				<tutor_set_move>Spite</tutor_set_move>
+				<tutor_set_move>Mud Slap</tutor_set_move>
+				<tutor_set_move>Twister</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Air Cutter</tutor_set_move>
+				<tutor_set_move>Tailwind</tutor_set_move>
+				<tutor_set_move>Sucker Punch</tutor_set_move>
+				<tutor_set_move>Ominous Wind</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Sky Attack</tutor_set_move>
+				<tutor_set_move>Spite</tutor_set_move>
+				<tutor_set_move>Icy Wind</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Snatch</tutor_set_move>
+				<tutor_set_move>Roost</tutor_set_move>
+				<tutor_set_move>Tailwind</tutor_set_move>
+				<tutor_set_move>Dark Pulse</tutor_set_move>
+				<tutor_set_move>Foul Play</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Sky Attack</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Spite</tutor_set_move>
+				<tutor_set_move>Icy Wind</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Snatch</tutor_set_move>
+				<tutor_set_move>Tailwind</tutor_set_move>
+				<tutor_set_move>Foul Play</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

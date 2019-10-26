@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Cyndaquil</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Flamethrower</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Body Slam</tutor_set_move>
+				<tutor_set_move>Double Edge</tutor_set_move>
+				<tutor_set_move>Mimic</tutor_set_move>
+				<tutor_set_move>Defense Curl</tutor_set_move>
+				<tutor_set_move>Swift</tutor_set_move>
+				<tutor_set_move>Substitute</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Mud Slap</tutor_set_move>
+				<tutor_set_move>Endure</tutor_set_move>
+				<tutor_set_move>Rollout</tutor_set_move>
+				<tutor_set_move>Swagger</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Body Slam</tutor_set_move>
+				<tutor_set_move>Double Edge</tutor_set_move>
+				<tutor_set_move>Mimic</tutor_set_move>
+				<tutor_set_move>Substitute</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Swift</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Mud Slap</tutor_set_move>
+				<tutor_set_move>Rollout</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Headbutt</tutor_set_move>
+				<tutor_set_move>Swift</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Mud Slap</tutor_set_move>
+				<tutor_set_move>Rollout</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>
