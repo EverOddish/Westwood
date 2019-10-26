@@ -6,4 +6,16 @@
         <author>SinisterHoodedFigure</author>
         <description>A harder version of Pokemon Emerald with modified learnsets, stats, and legendary events.</description>
     </rom_hack>
+    <rom_hack>
+        <title>Pokemon Blaze Black</title>
+        <base_game>Pokemon Black</base_game>
+        <author>Drayano</author>
+        <description>Pokémon Blaze Black and Pokémon Volt White are edits of the regular Pokémon Black and White versions which self-contain all 649 Pokémon, allowing a player a large amount of variety. In addition, BB/VW also have edited trainers, an increased difficulty level, improvements to many Pokémon and more.</description>
+    </rom_hack>
+    <rom_hack>
+        <title>Pokemon Volt White</title>
+        <base_game>Pokemon White</base_game>
+        <author>Drayano</author>
+        <description>Pokémon Blaze Black and Pokémon Volt White are edits of the regular Pokémon Black and White versions which self-contain all 649 Pokémon, allowing a player a large amount of variety. In addition, BB/VW also have edited trainers, an increased difficulty level, improvements to many Pokémon and more.</description>
+    </rom_hack>
 </rom_hacks>
