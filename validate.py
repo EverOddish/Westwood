@@ -15,6 +15,7 @@ dataset_mapping = {
     'pokemon': 'pokemon',
     'tm_set': 'tm_sets',
     'form': 'forms',
+    'tutor_set': 'tutor_sets',
 }
 
 misc_mapping = {

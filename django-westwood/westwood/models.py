@@ -254,3 +254,24 @@ class RomHacksListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(RomHack, on_delete=models.CASCADE)
 
+class TutorSetMove(models.Model):
+    name = models.CharField(max_length=500)
+
+class TutorSetMovesListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(TutorSetMove, on_delete=models.CASCADE)
+
+class TutorSet(models.Model):
+    games = models.IntegerField()    # Games list_id
+    tutor_set_moves = models.IntegerField()    # TutorSetMoves list_id
+
+class TutorSetsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(TutorSet, on_delete=models.CASCADE)
+
+class PokemonTutorSets(models.Model):
+    name = models.CharField(max_length=500)
+    tutor_sets = models.IntegerField()    # TutorSets list_id
+
