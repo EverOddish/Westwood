@@ -62,5 +62,30 @@
 				<tutor_set_move>Fire Pledge</tutor_set_move>
 			</tutor_set_moves>
 		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Fire Punch</tutor_set_move>
+				<tutor_set_move>Low Kick</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Helping Hand</tutor_set_move>
+				<tutor_set_move>Role Play</tutor_set_move>
+				<tutor_set_move>Superpower</tutor_set_move>
+				<tutor_set_move>Recycle</tutor_set_move>
+				<tutor_set_move>Knock Off</tutor_set_move>
+				<tutor_set_move>Endeavor</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Gunk Shot</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+				<tutor_set_move>Blast Burn</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
 	</tutor_sets>
 </pokemon_tutor_sets>
