@@ -1,333 +1,413 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Glaceon</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hail</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blizzard</name>
-                    <level>71</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hail</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blizzard</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Barrier</name>
-                    <level>78</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Barrier</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hail</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blizzard</name>
-                    <level>45</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Barrier</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hail</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blizzard</name>
-                    <level>45</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baby Doll Eyes</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Barrier</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hail</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blizzard</name>
-                    <level>45</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Glaceon</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>78</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby Doll Eyes</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam </name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

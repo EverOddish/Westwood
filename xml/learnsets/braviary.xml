@@ -1,292 +1,388 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Braviary</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aerial Ace</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defog</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tailwind</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crush Claw</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Drop</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>70</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aerial Ace</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defog</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tailwind</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crush Claw</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Drop</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>70</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Superpower</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wing Attack</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aerial Ace</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defog</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tailwind</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crush Claw</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Drop</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Whirlwind</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brave Bird</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>70</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Braviary</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defog</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Drop</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defog</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Drop</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defog</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Drop</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defog</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Drop</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>ExtremeSpeed</name>
+					<level>75</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

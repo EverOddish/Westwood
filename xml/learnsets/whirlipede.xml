@@ -1,248 +1,328 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Whirlipede</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Tail</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Steamroller</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Climb</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Tail</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Steamroller</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venom Drench</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Climb</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Tail</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Steamroller</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venom Drench</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Climb</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Whirlipede</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steamroller</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steamroller</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venom Drench</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steamroller</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venom Drench</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twinneedle</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steamroller</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

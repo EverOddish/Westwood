@@ -507,5 +507,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

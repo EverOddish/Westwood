@@ -1,142 +1,214 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Bouffalant</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Revenge</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Charge</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Attack</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Revenge</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Charge</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Bouffalant</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Charge</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Charge</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Charge</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

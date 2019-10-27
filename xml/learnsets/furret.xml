@@ -318,5 +318,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

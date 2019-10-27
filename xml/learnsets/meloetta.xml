@@ -1,162 +1,234 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Meloetta</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Round</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sing</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Teeter Dance</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Echoed Voice</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>U Turn</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wake Up Slap</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Role Play</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>78</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Perish Song</name>
-                    <level>85</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Sing</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Round</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sing</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Teeter Dance</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Echoed Voice</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>U Turn</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wake Up Slap</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Role Play</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>78</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Perish Song</name>
-                    <level>85</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Meloetta</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Round</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake Up Slap</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Round</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake Up Slap</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Round</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Relic Song</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake Up Slap</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

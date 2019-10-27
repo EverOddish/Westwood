@@ -472,5 +472,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>ExtremeSpeed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

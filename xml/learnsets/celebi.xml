@@ -174,5 +174,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>82</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>91</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

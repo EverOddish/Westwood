@@ -1,322 +1,410 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Audino</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Refresh</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Attract</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Secret Power</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Entrainment</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>After You</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Simple Beam</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Refresh</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Attract</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Secret Power</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Entrainment</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>After You</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Simple Beam</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Misty Terrain</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baby Doll Eyes</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Refresh</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Disarming Voice</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Attract</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Secret Power</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Entrainment</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>After You</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Simple Beam</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Misty Terrain</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Baby Doll Eyes</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Refresh</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Disarming Voice</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Slap</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Attract</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Secret Power</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Entrainment</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>After You</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Simple Beam</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Audino</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Misty Terrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby Doll Eyes</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Misty Terrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby Doll Eyes</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -392,5 +392,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

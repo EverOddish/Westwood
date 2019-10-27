@@ -458,5 +458,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Spear</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

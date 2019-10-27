@@ -1,84 +1,168 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Ferroseed</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Harden</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rollout</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gyro Ball</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Shot</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ingrain</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Self Destruct</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flash Cannon</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Ferroseed</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Shot</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flash Cannon</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Shot</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flash Cannon</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

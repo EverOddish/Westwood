@@ -373,5 +373,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>AncientPower</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>79</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

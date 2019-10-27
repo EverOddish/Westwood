@@ -607,5 +607,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

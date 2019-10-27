@@ -1,220 +1,288 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Terrakion</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smack Down</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Retaliate</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sacred Sword</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>67</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>73</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smack Down</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Retaliate</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sacred Sword</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>61</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>67</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>73</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smack Down</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Retaliate</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sacred Sword</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stone Edge</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>61</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Terrakion</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Sword</name>
+					<level>79</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -356,5 +356,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eruption</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

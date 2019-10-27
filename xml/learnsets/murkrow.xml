@@ -316,5 +316,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quash</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

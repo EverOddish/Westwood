@@ -1,182 +1,270 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Sawsbuck</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Camouflage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Jump Kick</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatherapy</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Energy Ball</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Leech</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nature Power</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>60</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Megahorn</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Camouflage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Horn Leech</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Jump Kick</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatherapy</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Energy Ball</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nature Power</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Edge</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>60</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Sawsbuck</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Leech</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Leech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Leech</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

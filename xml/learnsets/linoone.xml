@@ -461,5 +461,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>ExtremeSpeed</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bestow</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -220,5 +220,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

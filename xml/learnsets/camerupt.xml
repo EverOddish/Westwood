@@ -613,5 +613,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eruption</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>75</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

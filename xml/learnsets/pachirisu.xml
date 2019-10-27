@@ -1,201 +1,273 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Pachirisu</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Kiss</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Super Fang</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>37</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Kiss</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Super Fang</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Fang</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endure</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nuzzle</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swift</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Kiss</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Super Fang</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Fang</name>
-                    <level>49</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Pachirisu</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Fang</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Fang</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Fang</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

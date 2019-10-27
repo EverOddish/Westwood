@@ -1,437 +1,533 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Lucario</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Foresight</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Detect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Force Palm</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bone Rush</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Sound</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Me First</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>51</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Foresight</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Detect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Force Palm</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bone Rush</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Sound</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Me First</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>60</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Foresight</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Detect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Force Palm</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Me First</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Sound</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bone Rush</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>60</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Foresight</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Detect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Power Up Punch</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Sound</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bone Rush</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Me First</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>60</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Foresight</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Detect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Laser Focus</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Counter</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Power Up Punch</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Sound</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bone Rush</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Me First</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>60</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extreme Speed</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Lucario</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Up Punch</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Laser Focus</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Up Punch</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

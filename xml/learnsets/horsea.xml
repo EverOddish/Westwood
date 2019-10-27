@@ -333,5 +333,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>42</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

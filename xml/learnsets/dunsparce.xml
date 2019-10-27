@@ -586,5 +586,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

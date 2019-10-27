@@ -1,89 +1,161 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Abomasnow</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Ice Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Powder Snow</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Icy Wind</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Grass Whistle</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mist</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Shard</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ingrain</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wood Hammer</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blizzard</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sheer Cold</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Abomasnow</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Whistle</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Whistle</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

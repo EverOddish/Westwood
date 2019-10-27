@@ -547,5 +547,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Club</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Club</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bonemerang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

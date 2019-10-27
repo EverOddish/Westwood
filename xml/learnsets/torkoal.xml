@@ -445,5 +445,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eruption</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>78</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

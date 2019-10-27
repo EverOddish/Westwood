@@ -503,5 +503,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect Type</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -337,5 +337,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

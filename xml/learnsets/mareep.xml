@@ -270,5 +270,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Guard</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

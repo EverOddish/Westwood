@@ -1,96 +1,176 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Tranquill</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Gust</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Cutter</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roost</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Detect</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Air Slash</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Wind</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feather Dance</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Facade</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tailwind</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Attack</name>
-                    <level>59</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Tranquill</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

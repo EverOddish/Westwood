@@ -1,307 +1,391 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Infernape</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mach Punch</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Wheel</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Punishment</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mach Punch</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Wheel</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Punishment</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>68</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mach Punch</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Wheel</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Punishment</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>68</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mach Punch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Wheel</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Punishment</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Spin</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>68</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Infernape</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Punishment</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Punishment</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Punishment</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Punishment</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Punishment</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

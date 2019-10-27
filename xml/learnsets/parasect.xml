@@ -417,5 +417,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

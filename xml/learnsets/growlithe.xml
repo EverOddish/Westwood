@@ -413,5 +413,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

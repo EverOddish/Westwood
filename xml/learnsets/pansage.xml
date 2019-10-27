@@ -1,154 +1,270 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Pansage</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Seed Bomb</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fling</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Grass Knot</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recycle</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>43</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Seed Bomb</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fling</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Grass Knot</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recycle</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>43</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Pansage</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Knot</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Knot</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Pledge</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Knot</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grasswhistle</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Whip</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Frenzy Plant</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

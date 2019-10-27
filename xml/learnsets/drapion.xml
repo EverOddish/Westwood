@@ -1,417 +1,509 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Drapion</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acupressure</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Fang</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cross Poison</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acupressure</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Fang</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cross Poison</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acupressure</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Fang</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>56</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>65</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cross Poison</name>
-                    <level>73</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acupressure</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Fang</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cross Poison</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Poison Sting</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ice Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Knock Off</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pin Missile</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acupressure</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Fang</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fell Stinger</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cross Poison</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Drapion</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Storm Throw</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -332,5 +332,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grudge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

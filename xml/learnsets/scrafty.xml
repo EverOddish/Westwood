@@ -1,174 +1,278 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Scrafty</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brick Break</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>High Jump Kick</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Facade</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Climb</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Punch</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Smash</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sand Attack</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Low Kick</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Payback</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Brick Break</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>27</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>High Jump Kick</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Facade</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Climb</name>
-                    <level>51</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Punch</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Smash</name>
-                    <level>65</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Scrafty</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>72</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

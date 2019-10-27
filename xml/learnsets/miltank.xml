@@ -228,5 +228,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Milk Drink</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake Up Slap</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

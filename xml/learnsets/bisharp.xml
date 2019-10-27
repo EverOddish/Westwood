@@ -1,198 +1,302 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Bisharp</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Burst</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Sound</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guillotine</name>
-                    <level>71</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guillotine</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Burst</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Torment</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Sound</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Embargo</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Head</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guillotine</name>
-                    <level>71</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Bisharp</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

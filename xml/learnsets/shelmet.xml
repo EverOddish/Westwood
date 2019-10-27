@@ -1,216 +1,284 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Shelmet</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leech Life</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Struggle Bug</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid Armor</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guard Swap</name>
-                    <level>52</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Final Gambit</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Leech Life</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Struggle Bug</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid Armor</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guard Swap</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Final Gambit</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Absorb</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Curse</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Struggle Bug</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid Armor</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guard Swap</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Final Gambit</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Shelmet</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

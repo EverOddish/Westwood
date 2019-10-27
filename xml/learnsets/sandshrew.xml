@@ -389,5 +389,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -1,158 +1,230 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Reshiram</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Imprison</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Breath</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extrasensory</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fusion Flare</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Imprison</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Blast</name>
-                    <level>78</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>85</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>92</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blue Flare</name>
-                    <level>100</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Imprison</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Breath</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extrasensory</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fusion Flare</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Noble Roar</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>71</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Blast</name>
-                    <level>78</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>85</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>92</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Blue Flare</name>
-                    <level>100</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Reshiram</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Flare</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>85</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>92</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blue Flare</name>
+					<level>100</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Flare</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Noble Roar</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>85</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>92</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blue Flare</name>
+					<level>100</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Flare</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blue Flare</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>85</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>92</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

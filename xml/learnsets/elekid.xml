@@ -278,5 +278,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -1,96 +1,180 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Elgyem</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Block</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Miracle Eye</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hidden Power</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Imprison</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Simple Beam</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zen Headbutt</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psych Up</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Calm Mind</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Recover</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guard Split</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Power Split</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synchronoise</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>56</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Elgyem</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

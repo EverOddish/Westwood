@@ -291,5 +291,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>SonicBoom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

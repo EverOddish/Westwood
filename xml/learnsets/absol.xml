@@ -547,5 +547,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

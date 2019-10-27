@@ -1,90 +1,126 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Eelektross</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crush Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>1</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zap Cannon</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crush Claw</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gastro Acid</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Coil</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ion Deluge</name>
-                    <level>1</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Eelektross</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ion Deluge</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

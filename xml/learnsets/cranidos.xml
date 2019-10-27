@@ -1,127 +1,191 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Cranidos</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zen Headbutt</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Smash</name>
-                    <level>43</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Assurance</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Chip Away</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ancient Power</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zen Headbutt</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Smash</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Cranidos</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

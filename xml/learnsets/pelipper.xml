@@ -673,5 +673,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

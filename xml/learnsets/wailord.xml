@@ -497,5 +497,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>78</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

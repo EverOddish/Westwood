@@ -1,154 +1,250 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Emolga</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Thunder Shock</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Team</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shock Wave</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Encore</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Volt Switch</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Thunder Shock</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nuzzle</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pursuit</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Team</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shock Wave</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acrobatics</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Encore</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Volt Switch</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Emolga</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Switch</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Switch</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Switch</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

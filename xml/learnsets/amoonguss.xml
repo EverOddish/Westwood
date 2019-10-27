@@ -1,96 +1,200 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Amoonguss</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Absorb</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ingrain</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feint Attack</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Clear Smog</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Beam</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rage Powder</name>
-                    <level>54</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spore</name>
-                    <level>62</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Amoonguss</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>PoisonPowder</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

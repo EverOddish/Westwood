@@ -1,125 +1,173 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Chingling</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Uproar</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>22</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Uproar</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Entrainment</name>
-                    <level>25</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Yawn</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Entrainment</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Uproar</name>
-                    <level>32</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Chingling</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>22</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>25</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>32</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>30</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>
