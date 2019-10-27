@@ -56,5 +56,20 @@
 				<damage_category>Physical</damage_category>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Ground</type>
+				<base_power>100</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

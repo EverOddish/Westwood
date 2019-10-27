@@ -45,5 +45,22 @@
 				<effect_chance>30</effect_chance>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<move_definition>
+				<generation>5</generation>
+				<type>Ice</type>
+				<base_power>180</base_power>
+				<power_points>5</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect/>
+				<effect_chance>30</effect_chance>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

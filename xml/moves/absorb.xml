@@ -58,5 +58,21 @@
 				<effect>Heals half the damage inflicted</effect>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Grass</type>
+				<base_power>50</base_power>
+				<power_points>25</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect>Heals half the damage inflicted</effect>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

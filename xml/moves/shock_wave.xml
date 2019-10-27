@@ -43,5 +43,20 @@
 				<damage_category>Special</damage_category>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Electric</type>
+				<base_power>70</base_power>
+				<power_points>20</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

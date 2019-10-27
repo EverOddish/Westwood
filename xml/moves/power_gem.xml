@@ -58,5 +58,21 @@
 				<effect>Inflicts regular damage</effect>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<move_definition>
+				<generation>4</generation>
+				<type>Rock</type>
+				<base_power>90</base_power>
+				<power_points>20</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect>Inflicts regular damage</effect>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>
