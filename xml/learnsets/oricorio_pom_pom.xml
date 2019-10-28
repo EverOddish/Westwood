@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Oricorio Pom Pom</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revelation Dance</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Mega Medicham</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Trick</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Trick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Alolan Meowth</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pay Day</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

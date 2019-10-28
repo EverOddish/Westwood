@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Floette Eternal</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grassy Terrain</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Misty Terrain</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Of Ruin</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grassy Terrain</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Misty Terrain</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Of Ruin</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

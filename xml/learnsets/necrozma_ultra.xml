@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Necrozma Ultra</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Photon Geyser</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Prismatic Laser</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

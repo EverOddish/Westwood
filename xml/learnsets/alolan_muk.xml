@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Alolan Muk</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venom Drench</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venom Drench</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belch</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

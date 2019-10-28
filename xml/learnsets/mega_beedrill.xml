@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Mega Beedrill</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twineedle</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twineedle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twineedle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

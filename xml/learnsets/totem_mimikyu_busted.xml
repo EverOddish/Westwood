@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Totem Mimikyu Busted</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby Doll Eyes</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

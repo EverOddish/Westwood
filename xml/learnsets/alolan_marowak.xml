@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Alolan Marowak</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Club</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Club</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bonemerang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will O Wisp</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Bone</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomping Tantrum</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

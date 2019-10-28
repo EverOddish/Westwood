@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Groudon Primal</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Precipice Blades</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>80</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eruption</name>
+					<level>90</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

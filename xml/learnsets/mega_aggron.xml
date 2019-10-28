@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Mega Aggron</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>74</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

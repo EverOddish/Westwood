@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Mega Diancie</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sharpen</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick Room</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Diamond Storm</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sharpen</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick Room</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Diamond Storm</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Alolan Exeggutor</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshock</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Egg Bomb</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

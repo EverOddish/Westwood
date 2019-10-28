@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Mega Heracross</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Arm Thrust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Arm Thrust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

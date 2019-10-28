@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Greninja Ash</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mat Block</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Shuriken</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Shuriken</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

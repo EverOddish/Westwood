@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Hoopa Unbound</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyperspace Fury</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick Room</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyperspace Fury</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>
