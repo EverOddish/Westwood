@@ -203,5 +203,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black</game>
+				<game>Pokemon Volt White</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scald</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
