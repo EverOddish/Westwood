@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tm_sets>
+	<name>Pumpkaboo Large</name>
+	<tm_sets>
+		<tm_set>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tmset_moves>
+				<tmset_move>Attract</tmset_move>
+				<tmset_move>Charge Beam</tmset_move>
+				<tmset_move>Confide</tmset_move>
+				<tmset_move>Dark Pulse</tmset_move>
+				<tmset_move>Double Team</tmset_move>
+				<tmset_move>Dream Eater</tmset_move>
+				<tmset_move>Energy Ball</tmset_move>
+				<tmset_move>Explosion</tmset_move>
+				<tmset_move>Facade</tmset_move>
+				<tmset_move>Fire Blast</tmset_move>
+				<tmset_move>Flame Charge</tmset_move>
+				<tmset_move>Flamethrower</tmset_move>
+				<tmset_move>Flash</tmset_move>
+				<tmset_move>Frustration</tmset_move>
+				<tmset_move>Grass Knot</tmset_move>
+				<tmset_move>Gyro Ball</tmset_move>
+				<tmset_move>Hidden Power</tmset_move>
+				<tmset_move>Incinerate</tmset_move>
+				<tmset_move>Light Screen</tmset_move>
+				<tmset_move>Nature Power</tmset_move>
+				<tmset_move>Protect</tmset_move>
+				<tmset_move>Psychic</tmset_move>
+				<tmset_move>Rest</tmset_move>
+				<tmset_move>Return</tmset_move>
+				<tmset_move>Rock Slide</tmset_move>
+				<tmset_move>Rock Smash</tmset_move>
+				<tmset_move>Round</tmset_move>
+				<tmset_move>Safeguard</tmset_move>
+				<tmset_move>Shadow Ball</tmset_move>
+				<tmset_move>Sleep Talk</tmset_move>
+				<tmset_move>Sludge Bomb</tmset_move>
+				<tmset_move>Solar Beam</tmset_move>
+				<tmset_move>Substitute</tmset_move>
+				<tmset_move>Sunny Day</tmset_move>
+				<tmset_move>Swagger</tmset_move>
+				<tmset_move>Thief</tmset_move>
+				<tmset_move>Toxic</tmset_move>
+				<tmset_move>Trick Room</tmset_move>
+				<tmset_move>Will O Wisp</tmset_move>
+			</tmset_moves>
+		</tm_set>
+		<tm_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tmset_moves>
+				<tmset_move>Attract</tmset_move>
+				<tmset_move>Charge Beam</tmset_move>
+				<tmset_move>Confide</tmset_move>
+				<tmset_move>Dark Pulse</tmset_move>
+				<tmset_move>Double Team</tmset_move>
+				<tmset_move>Dream Eater</tmset_move>
+				<tmset_move>Energy Ball</tmset_move>
+				<tmset_move>Explosion</tmset_move>
+				<tmset_move>Facade</tmset_move>
+				<tmset_move>Fire Blast</tmset_move>
+				<tmset_move>Flame Charge</tmset_move>
+				<tmset_move>Flamethrower</tmset_move>
+				<tmset_move>Flash</tmset_move>
+				<tmset_move>Frustration</tmset_move>
+				<tmset_move>Grass Knot</tmset_move>
+				<tmset_move>Gyro Ball</tmset_move>
+				<tmset_move>Hidden Power</tmset_move>
+				<tmset_move>Incinerate</tmset_move>
+				<tmset_move>Light Screen</tmset_move>
+				<tmset_move>Nature Power</tmset_move>
+				<tmset_move>Protect</tmset_move>
+				<tmset_move>Psychic</tmset_move>
+				<tmset_move>Rest</tmset_move>
+				<tmset_move>Return</tmset_move>
+				<tmset_move>Rock Slide</tmset_move>
+				<tmset_move>Rock Smash</tmset_move>
+				<tmset_move>Round</tmset_move>
+				<tmset_move>Safeguard</tmset_move>
+				<tmset_move>Secret Power</tmset_move>
+				<tmset_move>Shadow Ball</tmset_move>
+				<tmset_move>Sleep Talk</tmset_move>
+				<tmset_move>Sludge Bomb</tmset_move>
+				<tmset_move>Solar Beam</tmset_move>
+				<tmset_move>Substitute</tmset_move>
+				<tmset_move>Sunny Day</tmset_move>
+				<tmset_move>Swagger</tmset_move>
+				<tmset_move>Thief</tmset_move>
+				<tmset_move>Toxic</tmset_move>
+				<tmset_move>Trick Room</tmset_move>
+				<tmset_move>Will O Wisp</tmset_move>
+			</tmset_moves>
+		</tm_set>
+		<tm_set>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tmset_moves>
+				<tmset_move>Attract</tmset_move>
+				<tmset_move>Charge Beam</tmset_move>
+				<tmset_move>Confide</tmset_move>
+				<tmset_move>Dark Pulse</tmset_move>
+				<tmset_move>Double Team</tmset_move>
+				<tmset_move>Dream Eater</tmset_move>
+				<tmset_move>Energy Ball</tmset_move>
+				<tmset_move>Explosion</tmset_move>
+				<tmset_move>Facade</tmset_move>
+				<tmset_move>Fire Blast</tmset_move>
+				<tmset_move>Flame Charge</tmset_move>
+				<tmset_move>Flamethrower</tmset_move>
+				<tmset_move>Frustration</tmset_move>
+				<tmset_move>Grass Knot</tmset_move>
+				<tmset_move>Gyro Ball</tmset_move>
+				<tmset_move>Hidden Power</tmset_move>
+				<tmset_move>Light Screen</tmset_move>
+				<tmset_move>Nature Power</tmset_move>
+				<tmset_move>Protect</tmset_move>
+				<tmset_move>Psychic</tmset_move>
+				<tmset_move>Rest</tmset_move>
+				<tmset_move>Return</tmset_move>
+				<tmset_move>Rock Slide</tmset_move>
+				<tmset_move>Round</tmset_move>
+				<tmset_move>Safeguard</tmset_move>
+				<tmset_move>Shadow Ball</tmset_move>
+				<tmset_move>Sleep Talk</tmset_move>
+				<tmset_move>Sludge Bomb</tmset_move>
+				<tmset_move>Solar Beam</tmset_move>
+				<tmset_move>Substitute</tmset_move>
+				<tmset_move>Sunny Day</tmset_move>
+				<tmset_move>Swagger</tmset_move>
+				<tmset_move>Thief</tmset_move>
+				<tmset_move>Toxic</tmset_move>
+				<tmset_move>Trick Room</tmset_move>
+				<tmset_move>Will O Wisp</tmset_move>
+			</tmset_moves>
+		</tm_set>
+	</tm_sets>
+</pokemon_tm_sets>
