@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Mega Charizard X</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Blast Burn</tutor_set_move>
+				<tutor_set_move>Dragon Pulse</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+				<tutor_set_move>Fire Punch</tutor_set_move>
+				<tutor_set_move>Focus Punch</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Outrage</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Tailwind</tutor_set_move>
+				<tutor_set_move>Thunder Punch</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Blast Burn</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

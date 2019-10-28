@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Mega Gyarados</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Aqua Tail</tutor_set_move>
+				<tutor_set_move>Bounce</tutor_set_move>
+				<tutor_set_move>Dragon Pulse</tutor_set_move>
+				<tutor_set_move>Icy Wind</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Outrage</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Spite</tutor_set_move>
+				<tutor_set_move>Uproar</tutor_set_move>
+				<tutor_set_move>Water Pulse</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>

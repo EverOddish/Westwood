@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+	<name>Kyurem White</name>
+	<tutor_sets>
+		<tutor_set>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Draco Meteor</tutor_set_move>
+				<tutor_set_move>Dragon Pulse</tutor_set_move>
+				<tutor_set_move>Earth Power</tutor_set_move>
+				<tutor_set_move>Endeavor</tutor_set_move>
+				<tutor_set_move>Hyper Voice</tutor_set_move>
+				<tutor_set_move>Icy Wind</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Outrage</tutor_set_move>
+				<tutor_set_move>Roost</tutor_set_move>
+				<tutor_set_move>Signal Beam</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Zen Headbutt</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Draco Meteor</tutor_set_move>
+				<tutor_set_move>Dragon Pulse</tutor_set_move>
+				<tutor_set_move>Earth Power</tutor_set_move>
+				<tutor_set_move>Endeavor</tutor_set_move>
+				<tutor_set_move>Hyper Voice</tutor_set_move>
+				<tutor_set_move>Icy Wind</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Outrage</tutor_set_move>
+				<tutor_set_move>Signal Beam</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Zen Headbutt</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Draco Meteor</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
+	</tutor_sets>
+</pokemon_tutor_sets>
