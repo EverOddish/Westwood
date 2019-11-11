@@ -49,6 +49,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<hp>100</hp>
 			<attack>150</attack>
@@ -89,6 +91,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<type1>Dragon</type1>
 			<type2>Electric</type2>
@@ -125,6 +129,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<ability_records>
 				<ability_record>
