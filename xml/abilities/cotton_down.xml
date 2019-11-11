@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Cotton Down</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>When the Pokémon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pokémon except itself</description>
+</ability>

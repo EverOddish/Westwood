@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Ball Fetch</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle</description>
+</ability>

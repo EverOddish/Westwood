@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Mimicry</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>Changes the Pokémon’s type depending on the terrain</description>
+</ability>

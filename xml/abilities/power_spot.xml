@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Power Spot</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>Just being next to the Pokémon powers up moves</description>
+</ability>

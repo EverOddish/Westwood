@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Stalwart</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves</description>
+</ability>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Hunger Switch</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn</description>
+</ability>

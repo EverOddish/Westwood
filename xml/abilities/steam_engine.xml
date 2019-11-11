@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Steam Engine</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>Boosts the Pokémon’s Speed stat drastically if hit by a Fire- or Water-type move</description>
+</ability>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Wandering Spirit</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact</description>
+</ability>

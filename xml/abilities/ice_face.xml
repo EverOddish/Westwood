@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<ability>
+	<name>Ice Face</name>
+	<games>
+		<game>Pokemon Sword</game>
+		<game>Pokemon Shield</game>
+	</games>
+	<description>The Pokémon’s ice head can take a physical attack as a substitute, but the attack also changes the Pokémon’s appearance</description>
+</ability>
