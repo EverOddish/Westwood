@@ -179,5 +179,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>33</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

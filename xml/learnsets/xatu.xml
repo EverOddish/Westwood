@@ -546,5 +546,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

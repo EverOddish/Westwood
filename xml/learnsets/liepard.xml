@@ -278,5 +278,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

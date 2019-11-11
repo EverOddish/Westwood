@@ -553,5 +553,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Wrecker</name>
+					<level>75</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

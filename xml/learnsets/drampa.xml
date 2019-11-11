@@ -1,76 +1,136 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Drampa</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Echoed Voice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Twister</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Glare</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Rage</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Breath</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Extrasensory</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fly</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>53</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Drampa</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fly</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fly</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

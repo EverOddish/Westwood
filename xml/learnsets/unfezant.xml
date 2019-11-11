@@ -192,5 +192,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

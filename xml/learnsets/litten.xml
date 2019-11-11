@@ -1,146 +1,210 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Litten</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ember</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lick</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fire Fang</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Double Kick</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swagger</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thrash</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flamethrower</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>39</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>46</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Litten</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

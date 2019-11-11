@@ -337,5 +337,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flatter</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belch</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

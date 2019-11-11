@@ -172,5 +172,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

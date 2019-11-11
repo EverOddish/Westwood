@@ -1,178 +1,246 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Hakamo-O</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Autotomize</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Tail</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Claw</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Noble Roar</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Dance</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>58</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sky Uppercut</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Autotomize</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Protect</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Tail</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scary Face</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Iron Defense</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Claw</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Noble Roar</name>
-                    <level>48</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Dance</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Outrage</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>63</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Hakamo-O</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Noble Roar</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Noble Roar</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Noble Roar</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

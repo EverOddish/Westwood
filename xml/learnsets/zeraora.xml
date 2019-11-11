@@ -1,78 +1,154 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Zeraora</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spark</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Attack</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Volt Switch</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Snarl</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Out</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charge</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Punch</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wild Charge</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Quick Guard</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Plasma Fists</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Close Combat</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Zeraora</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Switch</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snarl</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Plasma Fists</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snarl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Switch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>80</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Plasma Fists</name>
+					<level>88</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>96</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

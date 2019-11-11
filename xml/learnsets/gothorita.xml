@@ -278,5 +278,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshock</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flatter</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Room</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

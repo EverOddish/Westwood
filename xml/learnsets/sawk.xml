@@ -296,5 +296,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rock Smash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Sweep</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

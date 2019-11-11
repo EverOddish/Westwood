@@ -1,84 +1,144 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Drilbur</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Scratch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Sport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rapid Spin</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mud Slap</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Swipes</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Metal Claw</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dig</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hone Claws</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Slide</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Earthquake</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sandstorm</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Drill Run</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fissure</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Drilbur</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

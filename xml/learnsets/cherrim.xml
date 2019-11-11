@@ -323,5 +323,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flower Shield</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leafage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

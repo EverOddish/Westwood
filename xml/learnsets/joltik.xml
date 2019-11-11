@@ -1,158 +1,222 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Joltik</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>String Shot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Life</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spider Web</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electroweb</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gastro Acid</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Absorb</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>String Shot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Spider Web</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Thunder Wave</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electroweb</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Bite</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gastro Acid</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Electro Ball</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Signal Beam</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Agility</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sucker Punch</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Discharge</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>48</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Joltik</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spider Web</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spider Web</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -176,5 +176,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamic Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

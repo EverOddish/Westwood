@@ -269,5 +269,49 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

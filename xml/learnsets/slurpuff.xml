@@ -1,162 +1,234 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Slurpuff</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fairy Wind</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Round</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endeavor</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatherapy</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Draining Kiss</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Energy Ball</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Guard</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wish</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Rough</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>67</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fairy Wind</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fairy Wind</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Nice</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fake Tears</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Round</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Spore</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Endeavor</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatherapy</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Draining Kiss</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Energy Ball</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Cotton Guard</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wish</name>
-                    <level>45</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Rough</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>67</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Slurpuff</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Round</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Guard</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Round</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Guard</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fairy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Round</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Guard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sticky Web</name>
+					<level>42</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

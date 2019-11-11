@@ -492,5 +492,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

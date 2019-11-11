@@ -451,5 +451,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Life Dew</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

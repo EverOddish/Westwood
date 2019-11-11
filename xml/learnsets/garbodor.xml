@@ -274,5 +274,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belch</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

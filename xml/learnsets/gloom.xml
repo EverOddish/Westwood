@@ -525,5 +525,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grassy Terrain</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
