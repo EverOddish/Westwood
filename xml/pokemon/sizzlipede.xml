@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Sizzlipede</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>850</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>0</height>
+	<weight>10</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Medium Fast</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>50</hp>
+			<attack>65</attack>
+			<defense>45</defense>
+			<special_attack>50</special_attack>
+			<special_defense>50</special_defense>
+			<speed>45</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Fire</type1>
+			<type2>Bug</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Flash Fire</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>White Smoke</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Flame Body</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+	<evolution_sets>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Centiskorch</evolves_to>
+					<level>28</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+	</evolution_sets>
+</pokemon>

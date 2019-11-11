@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Arrokuda</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>846</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>0</height>
+	<weight>10</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Slow</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>41</hp>
+			<attack>63</attack>
+			<defense>40</defense>
+			<special_attack>40</special_attack>
+			<special_defense>30</special_defense>
+			<speed>66</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Water</type1>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Swift Swim</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Propeller Tail</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+	<evolution_sets>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Barraskewda</evolves_to>
+					<level>26</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+	</evolution_sets>
+</pokemon>

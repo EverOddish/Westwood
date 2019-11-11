@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Frosmoth</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>873</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>10</height>
+	<weight>20</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Medium Fast</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Special Attack</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>70</hp>
+			<attack>65</attack>
+			<defense>60</defense>
+			<special_attack>125</special_attack>
+			<special_defense>90</special_defense>
+			<speed>65</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Ice</type1>
+			<type2>Bug</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Shield Dust</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Ice Scales</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Nickit</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>827</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>0</height>
+	<weight>89</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Fast</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Special Defense</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>40</hp>
+			<attack>28</attack>
+			<defense>28</defense>
+			<special_attack>47</special_attack>
+			<special_defense>52</special_defense>
+			<speed>50</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Dark</type1>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Run Away</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Unburden</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Stakeout</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+	<evolution_sets>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Thievul</evolves_to>
+					<level>18</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+	</evolution_sets>
+</pokemon>

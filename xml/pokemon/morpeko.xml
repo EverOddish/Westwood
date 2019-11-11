@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Morpeko</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>877</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>0</height>
+	<weight>30</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Medium Fast</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>58</hp>
+			<attack>95</attack>
+			<defense>58</defense>
+			<special_attack>70</special_attack>
+			<special_defense>58</special_defense>
+			<speed>97</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Electric</type1>
+			<type2>Dark</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Hunger Switch</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon>

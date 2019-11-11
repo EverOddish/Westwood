@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Appletun</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>842</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>0</height>
+	<weight>30</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Erratic</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>HP</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>110</hp>
+			<attack>85</attack>
+			<defense>80</defense>
+			<special_attack>100</special_attack>
+			<special_defense>80</special_defense>
+			<speed>30</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Grass</type1>
+			<type2>Dragon</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Ripen</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Gluttony</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Thick Fat</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Corviknight</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>823</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>20</height>
+	<weight>50</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Medium Slow</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>98</hp>
+			<attack>87</attack>
+			<defense>105</defense>
+			<special_attack>53</special_attack>
+			<special_defense>85</special_defense>
+			<speed>67</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Flying</type1>
+			<type2>Steel</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Pressure</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Unnerve</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Mirror Armor</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Dracovish</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>882</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>20</height>
+	<weight>50</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Slow</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>90</hp>
+			<attack>90</attack>
+			<defense>100</defense>
+			<special_attack>70</special_attack>
+			<special_defense>80</special_defense>
+			<speed>75</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Water</type1>
+			<type2>Dragon</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Water Absorb</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Strong Jaw</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Sand Rush</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon>

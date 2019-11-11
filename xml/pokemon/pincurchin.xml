@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Pincurchin</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>871</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>0</height>
+	<weight>10</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Medium Fast</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>48</hp>
+			<attack>101</attack>
+			<defense>95</defense>
+			<special_attack>91</special_attack>
+			<special_defense>85</special_defense>
+			<speed>15</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Electric</type1>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Lightning Rod</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Electric Surge</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon>
