@@ -53,14 +53,24 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
 			</games>
 			<hp>60</hp>
 			<attack>50</attack>
 			<defense>150</defense>
 			<special_attack>50</special_attack>
 			<special_defense>150</special_defense>
+			<speed>60</speed>
+		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>60</hp>
+			<attack>50</attack>
+			<defense>140</defense>
+			<special_attack>50</special_attack>
+			<special_defense>140</special_defense>
 			<speed>60</speed>
 		</stat_set>
 	</stat_sets>

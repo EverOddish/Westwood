@@ -53,6 +53,18 @@
 			<special_defense>50</special_defense>
 			<speed>60</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>60</hp>
+			<attack>140</attack>
+			<defense>50</defense>
+			<special_attack>140</special_attack>
+			<special_defense>50</special_defense>
+			<speed>60</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>
