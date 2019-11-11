@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Coalossal</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tar Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tar Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Incinerate</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Crash</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Burn Up</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

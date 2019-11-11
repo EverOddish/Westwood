@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Dreepy</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Infestation</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

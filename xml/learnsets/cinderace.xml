@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Cinderace</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pyro Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pyro Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Court Change</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

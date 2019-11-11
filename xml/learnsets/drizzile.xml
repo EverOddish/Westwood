@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Drizzile</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tearful Look</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Liquidation</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

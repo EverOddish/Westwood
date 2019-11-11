@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Rillaboom</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Drum Beating</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drum Beating</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grassy Terrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Noble Roar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Branch Poke</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Boomburst</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

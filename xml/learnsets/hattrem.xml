@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Hattrem</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Brutal Swing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brutal Swing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Life Dew</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dazzling Gleam</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

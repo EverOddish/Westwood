@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Corvisquire</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Trip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

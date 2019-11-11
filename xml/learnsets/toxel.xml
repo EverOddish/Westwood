@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Toxel</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Belch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tearful Look</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>

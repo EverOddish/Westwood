@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Chewtle</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jaw Lock</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Liquidation</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>
