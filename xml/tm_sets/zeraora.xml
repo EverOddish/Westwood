@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Zeraora</name>
     <tm_sets>
@@ -41,6 +41,68 @@
                 <tmset_move>Snarl</tmset_move>
                 <tmset_move>Confide</tmset_move>
                 <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Aura Sphere</tmset_move>
+                <tmset_move>Blaze Kick</tmset_move>
+                <tmset_move>Bounce</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Close Combat</tmset_move>
+                <tmset_move>Drain Punch</tmset_move>
+                <tmset_move>Electric Terrain</tmset_move>
+                <tmset_move>Electro Ball</tmset_move>
+                <tmset_move>Electroweb</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Fire Punch</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Low Kick</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Pay Day</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Reversal</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Throat Chop</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Thunder Punch</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
+                <tmset_move>Work Up</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

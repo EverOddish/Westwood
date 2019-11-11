@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tm_sets>
+    <name>Sizzlipede</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Fire Spin</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Bug Buzz</tmset_move>
+                <tmset_move>Power Whip</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Heat Crash</tmset_move>
+            </tmset_moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Wobbuffet</name>
     <tm_sets>
@@ -14,6 +14,18 @@
                 <game>Pokemon Ultra Moon</game>
             </games>
             <tmset_moves>
+                <tmset_move>Safeguard</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Charm</tmset_move>
+                <tmset_move>Encore</tmset_move>
                 <tmset_move>Safeguard</tmset_move>
             </tmset_moves>
         </tm_set>

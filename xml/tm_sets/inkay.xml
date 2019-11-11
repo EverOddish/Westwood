@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Inkay</name>
     <tm_sets>
@@ -132,6 +132,50 @@
                 <tmset_move>Trick Room</tmset_move>
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Ally Switch</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Baton Pass</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Future Sight</tmset_move>
+                <tmset_move>Guard Swap</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Liquidation</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Psycho Cut</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Stored Power</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

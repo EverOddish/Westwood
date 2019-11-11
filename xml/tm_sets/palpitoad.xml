@@ -162,5 +162,42 @@
                 <tmset_move>Blizzard</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Bounce</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Hydro Pump</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Muddy Water</tmset_move>
+                <tmset_move>Power Whip</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Venom Drench</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

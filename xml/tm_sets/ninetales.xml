@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Ninetales</name>
     <tm_sets>
@@ -297,6 +297,57 @@
                 <tmset_move>Flame Charge</tmset_move>
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Fire Spin</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Flare Blitz</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Hex</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Imprison</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Mystical Fire</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Power Swap</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Stored Power</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Tail Slap</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

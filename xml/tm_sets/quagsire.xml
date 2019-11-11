@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Quagsire</name>
     <tm_sets>
@@ -377,6 +377,65 @@
                 <tmset_move>Bulldoze</tmset_move>
                 <tmset_move>Confide</tmset_move>
                 <tmset_move>Infestation</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Eerie Impulse</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Guard Swap</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>High Horsepower</tmset_move>
+                <tmset_move>Hydro Pump</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Ice Punch</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Liquidation</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Muddy Water</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Whirlpool</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Torracat</name>
     <tm_sets>
@@ -40,6 +40,45 @@
                 <tmset_move>Acrobatics</tmset_move>
                 <tmset_move>Work Up</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Fire Fang</tmset_move>
+                <tmset_move>Fire Spin</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Flare Blitz</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Pay Day</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Work Up</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tm_sets>
+    <name>Rookidee</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Focus Energy</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Reversal</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brave Bird</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+            </tmset_moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

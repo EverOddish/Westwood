@@ -337,5 +337,42 @@
                 <tmset_move>Sludge Wave</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Toxic Spikes</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Venom Drench</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

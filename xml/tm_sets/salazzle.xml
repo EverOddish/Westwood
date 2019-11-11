@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Salazzle</name>
     <tm_sets>
@@ -43,6 +43,55 @@
                 <tmset_move>Acrobatics</tmset_move>
                 <tmset_move>Dragon Tail</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Beat Up</tmset_move>
+                <tmset_move>Breaking Swipe</tmset_move>
+                <tmset_move>Cross Poison</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Dragon Dance</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Flare Blitz</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Gunk Shot</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Venom Drench</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

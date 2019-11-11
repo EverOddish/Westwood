@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Cottonee</name>
     <tm_sets>
@@ -128,6 +128,40 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Confide</tmset_move>
                 <tmset_move>Dazzling Gleam</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Beat Up</tmset_move>
+                <tmset_move>Charm</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Grassy Terrain</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Misty Terrain</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Seed Bomb</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Taunt</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

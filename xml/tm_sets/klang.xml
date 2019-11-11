@@ -184,5 +184,34 @@
                 <tmset_move>Wild Charge</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Ally Switch</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Power Gem</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

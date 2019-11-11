@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tm_sets>
+    <name>Cursola</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Pin Missile</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Whirlpool</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Icicle Spear</tmset_move>
+                <tmset_move>Rock Blast</tmset_move>
+                <tmset_move>Brine</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Hex</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Hydro Pump</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Power Gem</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Throat Chop</tmset_move>
+                <tmset_move>Liquidation</tmset_move>
+            </tmset_moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

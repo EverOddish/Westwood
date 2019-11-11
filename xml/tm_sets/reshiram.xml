@@ -261,5 +261,63 @@
                 <tmset_move>Earthquake</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Body Press</tmset_move>
+                <tmset_move>Breaking Swipe</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Dragon Dance</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Fire Fang</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Flare Blitz</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Heat Crash</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Imprison</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Mystical Fire</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

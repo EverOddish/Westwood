@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tm_sets>
+    <name>Copperajah</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Rock Blast</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Power Whip</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Heavy Slam</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Heat Crash</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+                <tmset_move>High Horsepower</tmset_move>
+                <tmset_move>Body Press</tmset_move>
+            </tmset_moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

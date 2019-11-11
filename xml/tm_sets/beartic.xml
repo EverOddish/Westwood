@@ -255,5 +255,62 @@
                 <tmset_move>Waterfall</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Avalanche</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Body Press</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Brine</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Charm</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Heavy Slam</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Ice Fang</tmset_move>
+                <tmset_move>Ice Punch</tmset_move>
+                <tmset_move>Icicle Spear</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Liquidation</tmset_move>
+                <tmset_move>Low Kick</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Throat Chop</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>
