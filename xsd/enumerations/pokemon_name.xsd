@@ -833,11 +833,96 @@
             <xs:enumeration value="Stakataka"/>
             <xs:enumeration value="Blacephalon"/>
             <xs:enumeration value="Zeraora"/>
+            <xs:enumeration value="Meltan"/>
+            <xs:enumeration value="Melmetal"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="pokemonName_Gen8">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Grookey"/>
+            <xs:enumeration value="Thwackey"/>
+            <xs:enumeration value="Rillaboom"/>
+            <xs:enumeration value="Scorbunny"/>
+            <xs:enumeration value="Raboot"/>
+            <xs:enumeration value="Cinderace"/>
+            <xs:enumeration value="Sobble"/>
+            <xs:enumeration value="Drizzile"/>
+            <xs:enumeration value="Inteleon"/>
+            <xs:enumeration value="Skwovet"/>
+            <xs:enumeration value="Greedent"/>
+            <xs:enumeration value="Rookidee"/>
+            <xs:enumeration value="Corvisquire"/>
+            <xs:enumeration value="Corviknight"/>
+            <xs:enumeration value="Blipbug"/>
+            <xs:enumeration value="Dottler"/>
+            <xs:enumeration value="Orbeetle"/>
+            <xs:enumeration value="Nickit"/>
+            <xs:enumeration value="Thievul"/>
+            <xs:enumeration value="Gossifleur"/>
+            <xs:enumeration value="Eldegoss"/>
+            <xs:enumeration value="Wooloo"/>
+            <xs:enumeration value="Dubwool"/>
+            <xs:enumeration value="Chewtle"/>
+            <xs:enumeration value="Drednaw"/>
+            <xs:enumeration value="Yamper"/>
+            <xs:enumeration value="Boltund"/>
+            <xs:enumeration value="Rolycoly"/>
+            <xs:enumeration value="Carkol"/>
+            <xs:enumeration value="Coalossal"/>
+            <xs:enumeration value="Applin"/>
+            <xs:enumeration value="Flapple"/>
+            <xs:enumeration value="Appletun"/>
+            <xs:enumeration value="Silicobra"/>
+            <xs:enumeration value="Sandaconda"/>
+            <xs:enumeration value="Cramorant"/>
+            <xs:enumeration value="Arrokuda"/>
+            <xs:enumeration value="Barraskewda"/>
+            <xs:enumeration value="Toxel"/>
+            <xs:enumeration value="Toxtricity"/>
+            <xs:enumeration value="Sizzlipede"/>
+            <xs:enumeration value="Centiskorch"/>
+            <xs:enumeration value="Clobbopus"/>
+            <xs:enumeration value="Grapploct"/>
+            <xs:enumeration value="Sinistea"/>
+            <xs:enumeration value="Polteageist"/>
+            <xs:enumeration value="Hatenna"/>
+            <xs:enumeration value="Hattrem"/>
+            <xs:enumeration value="Hatterene"/>
+            <xs:enumeration value="Impidimp"/>
+            <xs:enumeration value="Morgrem"/>
+            <xs:enumeration value="Grimmsnarl"/>
+            <xs:enumeration value="Obstagoon"/>
+            <xs:enumeration value="Perrserker"/>
+            <xs:enumeration value="Cursola"/>
+            <xs:enumeration value="Runerigus"/>
+            <xs:enumeration value="Milcery"/>
+            <xs:enumeration value="Alcremie"/>
+            <xs:enumeration value="Falinks"/>
+            <xs:enumeration value="Pincurchin"/>
+            <xs:enumeration value="Snom"/>
+            <xs:enumeration value="Frosmoth"/>
+            <xs:enumeration value="Stonjourner"/>
+            <xs:enumeration value="Eiscue"/>
+            <xs:enumeration value="Indeedee"/>
+            <xs:enumeration value="Morpeko"/>
+            <xs:enumeration value="Cufant"/>
+            <xs:enumeration value="Copperajah"/>
+            <xs:enumeration value="Dracozolt"/>
+            <xs:enumeration value="Arctozolt"/>
+            <xs:enumeration value="Dracovish"/>
+            <xs:enumeration value="Arctovish"/>
+            <xs:enumeration value="Duraludon"/>
+            <xs:enumeration value="Dreepy"/>
+            <xs:enumeration value="Drakloak"/>
+            <xs:enumeration value="Dragapult"/>
+            <xs:enumeration value="Zacian"/>
+            <xs:enumeration value="Zamazenta"/>
+            <xs:enumeration value="Eternatus"/>
         </xs:restriction>
     </xs:simpleType>
 
     <!-- This union of enumerations is required because of depth limits in xmllint -->
     <xs:simpleType name="pokemonName">
-        <xs:union memberTypes="pokemonName_Gen1 pokemonName_Gen2 pokemonName_Gen3 pokemonName_Gen4 pokemonName_Gen5 pokemonName_Gen6 pokemonName_Gen7"/>
+        <xs:union memberTypes="pokemonName_Gen1 pokemonName_Gen2 pokemonName_Gen3 pokemonName_Gen4 pokemonName_Gen5 pokemonName_Gen6 pokemonName_Gen7 pokemonName_Gen8"/>
     </xs:simpleType>
 </xs:schema>
