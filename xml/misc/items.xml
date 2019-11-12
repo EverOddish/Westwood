@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <items>
     <item>
         <name>Master Ball</name>
@@ -4769,5 +4769,180 @@
         <name>Roto Catch</name>
         <cost>23</cost>
         <description>XXX new effect for roto-catch</description>
+    </item>
+    <item>
+        <name>Throat Spray</name>
+        <cost>0</cost>
+        <description>Raises Special Attack when a Pokémon uses a sound-based move.</description>
+    </item>
+    <item>
+        <name>Blunder Policy</name>
+        <cost>0</cost>
+        <description>Raises Speed sharply when a Pokémon misses with a move because of accuracy.</description>
+    </item>
+    <item>
+        <name>Eject Pack</name>
+        <cost>0</cost>
+        <description>When the holder's stats are lowered, it will be switched out of battle.</description>
+    </item>
+    <item>
+        <name>Room Service</name>
+        <cost>0</cost>
+        <description>Lowers Speed in Trick Room.</description>
+    </item>
+    <item>
+        <name>Rusted Shield</name>
+        <cost>0</cost>
+        <description>When held, transforms Zamazenta into its Crowned Shield Forme. Changes its stats and gains an added Steel-type.</description>
+    </item>
+    <item>
+        <name>Rusted Sword</name>
+        <cost>0</cost>
+        <description>When held, transforms Zacian into its Crowned Sword Forme. Changes its stats and gains an added Steel-type.</description>
+    </item>
+    <item>
+        <name>Tart Apple</name>
+        <cost>0</cost>
+        <description>Used to evolve Applin into Appletun.</description>
+    </item>
+    <item>
+        <name>Clover Sweet</name>
+        <cost>0</cost>
+        <description>Used to evolve Milcery into Alcremie.</description>
+    </item>
+    <item>
+        <name>Star Sweet</name>
+        <cost>0</cost>
+        <description>Used to evolve Milcery into Alcremie.</description>
+    </item>
+    <item>
+        <name>Exp Candy XS</name>
+        <cost>0</cost>
+        <description>Boosts a Pokémon's Experience.</description>
+    </item>
+    <item>
+        <name>Exp Candy S</name>
+        <cost>0</cost>
+        <description>Boosts a Pokémon's Experience.</description>
+    </item>
+    <item>
+        <name>Exp Candy M</name>
+        <cost>0</cost>
+        <description>Boosts a Pokémon's Experience.</description>
+    </item>
+    <item>
+        <name>Exp Candy L</name>
+        <cost>0</cost>
+        <description>Boosts a Pokémon's Experience.</description>
+    </item>
+    <item>
+        <name>Exp Candy XL</name>
+        <cost>0</cost>
+        <description>Boosts a Pokémon's Experience.</description>
+    </item>
+    <item>
+        <name>Wishing Piece</name>
+        <cost>0</cost>
+        <description>Throw one into a Pokémon Den to attract a wild Dynamax Pokémon.</description>
+    </item>
+    <item>
+        <name>Lonely Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Attack growth rate and lowers its Defense growth rate</description>
+    </item>
+    <item>
+        <name>Brave Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Attack growth rate and lowers its Speed growth rate</description>
+    </item>
+    <item>
+        <name>Adamant Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Attack growth rate and lowers its Special Attack growth rate</description>
+    </item>
+    <item>
+        <name>Naughty Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Attack growth rate and lowers its Special Defense growth rate</description>
+    </item>
+    <item>
+        <name>Bold Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Defense growth rate and lowers its Attack growth rate</description>
+    </item>
+    <item>
+        <name>Relaxed Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Defense growth rate and lowers its Speed growth rate</description>
+    </item>
+    <item>
+        <name>Impish Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Defense growth rate and lowers its Special Attack growth rate</description>
+    </item>
+    <item>
+        <name>Lax Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Defense growth rate and lowers its Special Defense growth rate</description>
+    </item>
+    <item>
+        <name>Timid Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Speed growth rate and lowers its Attack growth rate</description>
+    </item>
+    <item>
+        <name>Hasty Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Speed growth rate and lowers its Defense growth rate</description>
+    </item>
+    <item>
+        <name>Jolly Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Speed growth rate and lowers its Special Attack growth rate</description>
+    </item>
+    <item>
+        <name>Naive Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Speed growth rate and lowers its Special Defense growth rate</description>
+    </item>
+    <item>
+        <name>Modest Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Attack growth rate and lowers its Attack growth rate</description>
+    </item>
+    <item>
+        <name>Mild Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Attack growth rate and lowers its Defense growth rate</description>
+    </item>
+    <item>
+        <name>Quiet Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Attack growth rate and lowers its Speed growth rate</description>
+    </item>
+    <item>
+        <name>Rash Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Attack growth rate and lowers its Special Defense growth rate</description>
+    </item>
+    <item>
+        <name>Calm Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Defense growth rate and lowers its Attack growth rate</description>
+    </item>
+    <item>
+        <name>Gentle Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Defense growth rate and lowers its Defense growth rate</description>
+    </item>
+    <item>
+        <name>Sassy Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Defense growth rate and lowers its Speed growth rate</description>
+    </item>
+    <item>
+        <name>Careful Mint</name>
+        <cost>0</cost>
+        <description>Raises a Pokemon's Special Defense growth rate and lowers its Special Attack growth rate</description>
     </item>
 </items>
