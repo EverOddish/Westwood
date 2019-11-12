@@ -43,5 +43,20 @@
 				<damage_category>Physical</damage_category>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Normal</type>
+				<base_power>50</base_power>
+				<power_points>40</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>
