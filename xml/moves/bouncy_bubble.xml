@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Bouncy Bubble</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Water</type>
+                <base_power>60</base_power>
+                <power_points>20</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Special</damage_category>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>
