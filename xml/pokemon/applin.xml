@@ -64,4 +64,18 @@
 			</ability_records>
 		</ability_set>
 	</ability_sets>
+	<evolution_sets>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Appletun</evolves_to>
+					<method>when a Tart Apple is used</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+	</evolution_sets>
 </pokemon>

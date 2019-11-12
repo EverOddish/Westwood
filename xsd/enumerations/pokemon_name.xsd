@@ -918,6 +918,8 @@
             <xs:enumeration value="Zacian"/>
             <xs:enumeration value="Zamazenta"/>
             <xs:enumeration value="Eternatus"/>
+            <xs:enumeration value="Mr. Rime"/>
+            <xs:enumeration value="Sirfetch'd"/>
         </xs:restriction>
     </xs:simpleType>
 
