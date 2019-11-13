@@ -123,7 +123,7 @@
             <xs:enumeration value="Seaking"/>
             <xs:enumeration value="Staryu"/>
             <xs:enumeration value="Starmie"/>
-            <xs:enumeration value="Mr-Mime"/>
+            <xs:enumeration value="Mr. Mime"/>
             <xs:enumeration value="Scyther"/>
             <xs:enumeration value="Jynx"/>
             <xs:enumeration value="Electabuzz"/>
