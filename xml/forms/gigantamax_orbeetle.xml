@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Gigantamax Orbeetle</name>
+	<height>0</height>
+	<weight>8</weight>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Special Defense</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>60</hp>
+			<attack>45</attack>
+			<defense>110</defense>
+			<special_attack>80</special_attack>
+			<special_defense>120</special_defense>
+			<speed>90</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Bug</type1>
+			<type2>Psychic</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Swarm</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Frisk</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Telepathy</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

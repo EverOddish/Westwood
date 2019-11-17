@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Gigantamax Centiskorch</name>
+	<height>30</height>
+	<weight>0</weight>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>100</hp>
+			<attack>115</attack>
+			<defense>65</defense>
+			<special_attack>90</special_attack>
+			<special_defense>90</special_defense>
+			<speed>65</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Fire</type1>
+			<type2>Bug</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Flash Fire</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>White Smoke</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Flame Body</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

@@ -139,9 +139,9 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="name" type="xs:string"/>
-                <xs:element name="height" type="xs:positiveInteger"/>
-                <xs:element name="weight" type="xs:positiveInteger"/>
-                <xs:element name="base_exp" type="xs:positiveInteger"/>
+                <xs:element name="height" type="xs:integer"/>
+                <xs:element name="weight" type="xs:integer"/>
+                <xs:element name="base_exp" type="xs:integer"/>
                 <xs:element ref="ev_yields"/>
                 <xs:element ref="stat_sets"/>
                 <xs:element ref="type_sets"/>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Gigantamax Grimmsnarl</name>
+	<height>10</height>
+	<weight>10</weight>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>95</hp>
+			<attack>120</attack>
+			<defense>65</defense>
+			<special_attack>95</special_attack>
+			<special_defense>75</special_defense>
+			<speed>60</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Dark</type1>
+			<type2>Fairy</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Prankster</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Frisk</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Pickpocket</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

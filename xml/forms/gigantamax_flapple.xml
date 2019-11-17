@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Gigantamax Flapple</name>
+	<height>0</height>
+	<weight>10</weight>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>70</hp>
+			<attack>110</attack>
+			<defense>80</defense>
+			<special_attack>95</special_attack>
+			<special_defense>60</special_defense>
+			<speed>70</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Grass</type1>
+			<type2>Dragon</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Ripen</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Gluttony</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Hustle</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

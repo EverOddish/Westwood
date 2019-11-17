@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Gigantamax Lapras</name>
+	<height>25</height>
+	<weight>2200</weight>
+	<base_exp>187</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>HP</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>130</hp>
+			<attack>85</attack>
+			<defense>80</defense>
+			<special_attack>85</special_attack>
+			<special_defense>95</special_defense>
+			<speed>60</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Water</type1>
+			<type2>Ice</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Water Absorb</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Shell Armor</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Hydration</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>
