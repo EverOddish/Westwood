@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Galarian Zigzagoon</name>
+	<height>4</height>
+	<weight>175</weight>
+	<base_exp>56</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Speed</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>38</hp>
+			<attack>30</attack>
+			<defense>41</defense>
+			<special_attack>30</special_attack>
+			<special_defense>41</special_defense>
+			<speed>60</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Dark</type1>
+			<type2>Normal</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Pickup</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Gluttony</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Quick Feet</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+	<evolution_sets>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Galarian Linoone</evolves_to>
+					<level>20</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+	</evolution_sets>
+</pokemon_form>

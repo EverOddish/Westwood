@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Galarian Yamask</name>
+	<height>5</height>
+	<weight>15</weight>
+	<base_exp>61</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Defense</stat>
+			<value>1</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>38</hp>
+			<attack>55</attack>
+			<defense>85</defense>
+			<special_attack>30</special_attack>
+			<special_defense>65</special_defense>
+			<speed>30</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Ground</type1>
+			<type2>Ghost</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Wandering Spirit</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+	<evolution_sets>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Runerigus</evolves_to>
+                    <method>when 49+ damage on Galarian Yamask and walk under the stone sculpture in the Dusty Bowl Wild Area</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+	</evolution_sets>
+</pokemon_form>
