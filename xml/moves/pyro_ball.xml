@@ -15,6 +15,8 @@
                 <accuracy>90</accuracy>
                 <priority>0</priority>
                 <damage_category>Physical</damage_category>
+				<effect>Inflicts burn</effect>
+				<effect_chance>10</effect_chance>
             </move_definition>
         </move_record>
     </move_records>

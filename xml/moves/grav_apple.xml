@@ -15,6 +15,8 @@
                 <accuracy>100</accuracy>
                 <priority>0</priority>
                 <damage_category>Physical</damage_category>
+				<effect>Lowers target's defense stat</effect>
+				<effect_chance>100</effect_chance>
             </move_definition>
         </move_record>
     </move_records>
