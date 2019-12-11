@@ -35,6 +35,7 @@
 				<damage_category>Special</damage_category>
 				<effect/>
 				<effect_chance>10</effect_chance>
+				<description>Has a 10% chance to lower the target's Speed by one stage.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -60,6 +61,7 @@
 				<damage_category>Special</damage_category>
 				<effect/>
 				<effect_chance>10</effect_chance>
+				<description>Has a 10% chance to lower the target's Speed by one stage.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>2</priority>
 				<damage_category>Physical</damage_category>
+				<description>Can only be used as the first move after the user enters battle.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

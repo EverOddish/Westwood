@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Prevents all Pokémon from fleeing or switching out during the next turn.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

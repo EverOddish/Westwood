@@ -29,6 +29,7 @@
 				<accuracy>80</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Disables the target's last used move for 1-8 turns.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -57,6 +58,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Disables the target's last used move for 1-8 turns.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

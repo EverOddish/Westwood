@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
+				<description>Power increases when this move has less PP</description>
 			</move_definition>
 		</move_record>
 	</move_records>

@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Changes the user's type to a random type either resistant or immune to the last move used against it.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

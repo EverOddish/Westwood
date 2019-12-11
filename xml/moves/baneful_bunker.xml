@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>4</priority>
 				<damage_category>Status</damage_category>
+				<description>Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

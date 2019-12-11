@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>User faints.  Its replacement has its HP fully restored and any major status effect removed.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

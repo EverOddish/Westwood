@@ -45,6 +45,7 @@
 				<damage_category>Special</damage_category>
 				<effect/>
 				<effect_chance>30</effect_chance>
+				<description>Requires a turn to charge before attacking.  Has a 30% chance to burn the target.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -62,6 +63,7 @@
 				<damage_category>Special</damage_category>
 				<effect/>
 				<effect_chance>30</effect_chance>
+				<description>Requires a turn to charge before attacking.  Has a 30% chance to burn the target.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

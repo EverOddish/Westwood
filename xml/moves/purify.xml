@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Cures the target of a major status ailment and heals the user for 50% of its max HP.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

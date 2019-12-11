@@ -44,6 +44,7 @@
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
 				<effect>Uses target's last move</effect>
+				<description>Uses the target's last used move.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

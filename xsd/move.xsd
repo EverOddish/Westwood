@@ -23,6 +23,7 @@
                 <xs:element name="damage_category" type="xs:string"/>
                 <xs:element name="effect" type="xs:string" minOccurs="0"/>
                 <xs:element name="effect_chance" type="xs:integer" minOccurs="0"/>
+                <xs:element name="description" type="xs:string" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

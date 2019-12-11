@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
+				<description>Power is higher when the user has greater Speed than the target</description>
 			</move_definition>
 		</move_record>
 	</move_records>

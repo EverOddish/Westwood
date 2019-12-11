@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>2</priority>
 				<damage_category>Status</damage_category>
+				<description>User switches places with the friendly Pokémon opposite it.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

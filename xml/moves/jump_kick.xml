@@ -29,6 +29,7 @@
 				<accuracy>95</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>If the user misses</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -44,6 +45,7 @@
 				<accuracy>95</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>If the user misses</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -69,6 +71,7 @@
 				<accuracy>95</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>If the user misses</description>
 			</move_definition>
 		</move_record>
 	</move_records>

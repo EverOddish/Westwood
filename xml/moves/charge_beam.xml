@@ -45,6 +45,7 @@
 				<damage_category>Special</damage_category>
 				<effect/>
 				<effect_chance>70</effect_chance>
+				<description>Has a 70% chance to raise the user's Special Attack by one stage.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

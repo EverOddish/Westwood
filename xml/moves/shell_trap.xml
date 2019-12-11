@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>-3</priority>
 				<damage_category>Special</damage_category>
+				<description>Only inflicts damage if the user was hit by a physical move this turn.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

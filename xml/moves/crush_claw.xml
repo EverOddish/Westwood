@@ -45,6 +45,7 @@
 				<damage_category>Physical</damage_category>
 				<effect/>
 				<effect_chance>50</effect_chance>
+				<description>Has a 50% chance to lower the target's Defense by one stage.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

@@ -44,6 +44,7 @@
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
 				<effect>Chance of critical hit</effect>
+				<description>Has an increased chance for a critical hit.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

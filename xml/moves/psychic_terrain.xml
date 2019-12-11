@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Protects Pokémon on the ground from priority moves and increases the power of their  Psychic moves by 50%.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

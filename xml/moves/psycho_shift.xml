@@ -33,6 +33,7 @@
 				<accuracy>90</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Transfers the user's major status effect to the target.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -56,6 +57,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Transfers the user's major status effect to the target.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

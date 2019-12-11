@@ -16,6 +16,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>User receives 1/3 the damage inflicted in recoil.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -56,6 +57,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>User receives 1/3 the damage inflicted in recoil.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

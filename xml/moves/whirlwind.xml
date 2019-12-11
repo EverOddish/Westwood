@@ -33,6 +33,7 @@
 				<accuracy>100</accuracy>
 				<priority>-6</priority>
 				<damage_category>Status</damage_category>
+				<description>Immediately ends wild battles.  Forces trainers to switch Pokémon.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -56,6 +57,7 @@
 				<accuracy>100</accuracy>
 				<priority>-6</priority>
 				<damage_category>Status</damage_category>
+				<description>Immediately ends wild battles.  Forces trainers to switch Pokémon.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

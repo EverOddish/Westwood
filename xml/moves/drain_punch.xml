@@ -30,6 +30,7 @@
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
 				<effect>Heals half the damage inflicted</effect>
+				<description>Drains half the damage inflicted to heal the user.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -46,6 +47,7 @@
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
 				<effect>Heals half the damage inflicted</effect>
+				<description>Drains half the damage inflicted to heal the user.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -72,6 +74,7 @@
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
 				<effect>Heals half the damage inflicted</effect>
+				<description>Drains half the damage inflicted to heal the user.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

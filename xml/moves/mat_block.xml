@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

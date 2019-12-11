@@ -45,6 +45,7 @@
 				<damage_category>Physical</damage_category>
 				<effect/>
 				<effect_chance>100</effect_chance>
+				<description>Raises the user's Attack by one stage after inflicting damage.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

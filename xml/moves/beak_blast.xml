@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>-3</priority>
 				<damage_category>Physical</damage_category>
+				<description>Inflicts a burn on any Pokémon that makes contact before the attack.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

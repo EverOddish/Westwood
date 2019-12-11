@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Restores 1/16 of the user's max HP each turn.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

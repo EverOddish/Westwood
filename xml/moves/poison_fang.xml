@@ -35,6 +35,7 @@
 				<damage_category>Physical</damage_category>
 				<effect/>
 				<effect_chance>50</effect_chance>
+				<description>Has a 50% chance to badly poison the target.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -60,6 +61,7 @@
 				<damage_category>Physical</damage_category>
 				<effect/>
 				<effect_chance>50</effect_chance>
+				<description>Has a 50% chance to badly poison the target.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

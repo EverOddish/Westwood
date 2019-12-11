@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>Hits twice in one turn.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

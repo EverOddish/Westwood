@@ -127,6 +127,7 @@ class MoveDefinition(models.Model):
     damage_category = models.CharField(max_length=500)
     effect = models.CharField(max_length=500, null=True)
     effect_chance = models.IntegerField(default=0)
+    description = models.CharField(max_length=500, null=True)
 
 class MoveRecord(models.Model):
     games = models.IntegerField()    # Games list_id

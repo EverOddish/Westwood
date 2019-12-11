@@ -43,6 +43,7 @@
 				<accuracy>75</accuracy>
 				<priority>0</priority>
 				<damage_category>Status</damage_category>
+				<description>Poisons the target.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

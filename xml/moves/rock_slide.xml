@@ -18,6 +18,7 @@
 				<damage_category>Physical</damage_category>
 				<effect/>
 				<effect_chance>30</effect_chance>
+				<description>Has a 30% chance to make the target flinch.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -60,6 +61,7 @@
 				<damage_category>Physical</damage_category>
 				<effect/>
 				<effect_chance>30</effect_chance>
+				<description>Has a 30% chance to make the target flinch.</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -77,6 +79,7 @@
 				<damage_category>Physical</damage_category>
 				<effect/>
 				<effect_chance>30</effect_chance>
+				<description>Has a 30% chance to make the target flinch.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

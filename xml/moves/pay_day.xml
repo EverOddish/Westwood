@@ -44,6 +44,7 @@
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
 				<effect>Yields money</effect>
+				<description>Scatters money on the ground worth five times the user's level.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

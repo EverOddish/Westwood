@@ -43,6 +43,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
+				<description>Power is higher the more the user's stats have been raised</description>
 			</move_definition>
 		</move_record>
 	</move_records>

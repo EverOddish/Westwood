@@ -41,6 +41,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>If the user is holding a appropriate plate or drive</description>
 			</move_definition>
 		</move_record>
 		<move_record>
@@ -56,6 +57,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description>If the user is holding a appropriate plate or drive</description>
 			</move_definition>
 		</move_record>
 	</move_records>
