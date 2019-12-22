@@ -144,6 +144,7 @@ class Migration(migrations.Migration):
                 ('damage_category', models.CharField(max_length=500)),
                 ('effect', models.CharField(max_length=500, null=True)),
                 ('effect_chance', models.IntegerField(default=0)),
+                ('description', models.CharField(max_length=500, null=True)),
             ],
         ),
         migrations.CreateModel(
