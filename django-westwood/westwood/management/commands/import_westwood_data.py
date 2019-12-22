@@ -303,7 +303,10 @@ class Command(BaseCommand):
                     priority_tag = move_definition_tag.find('priority')
                     damage_category_tag = move_definition_tag.find('damage_category')
                     description_tag = move_definition_tag.find('description')
-                    move_definition_object = MoveDefinition(generation=generation_tag.text, type_1=type_tag.text, base_power=base_power_tag.text, power_points=power_points_tag.text, accuracy=accuracy_tag.text, priority=priority_tag.text, damage_category=damage_category_tag.text, description=description_tag.text)
+                    description_text = ''
+                    if None != description_tag:
+                        description_text = description_tag.text
+                    move_definition_object = MoveDefinition(generation=generation_tag.text, type_1=type_tag.text, base_power=base_power_tag.text, power_points=power_points_tag.text, accuracy=accuracy_tag.text, priority=priority_tag.text, damage_category=damage_category_tag.text, description=description_text)
                     move_definition_object.save()
 
                     move_record_object = MoveRecord(games=games_list_id, move_definition=move_definition_object)
