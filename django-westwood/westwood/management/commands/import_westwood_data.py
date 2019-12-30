@@ -2,6 +2,7 @@ from datetime import datetime
 from datetime import timezone
 import glob
 import os
+import math
 from westwood.models import *
 from django.core.management.base import BaseCommand, CommandError
 from django.db import migrations
@@ -9,6 +10,21 @@ from django.db.models import Max
 from lxml import etree
 
 WESTWOOD_XML_PATH = os.path.join('..', 'Westwood', 'xml')
+
+def calculate_stat(base_stat, level=100, ev=0.0, iv=31.0, hindered=False, beneficial=False):
+    base_stat = base_stat * 1.0
+    nature = 1.0
+    if hindered:
+        nature = 0.9
+    if beneficial:
+        nature = 1.1
+    stat = math.floor((math.floor((((2 * base_stat) + iv + math.floor(ev / 4)) * level) / 100) + 5) * nature)
+    return stat
+
+def calculate_hp(base_hp, level=100, ev=0.0, iv=31.0):
+    base_hp = base_hp * 1.0
+    hp_stat = math.floor((((2 * base_hp) + iv + math.floor(ev / 4)) * level) / 100) + level + 10
+    return hp_stat
 
 class Command(BaseCommand):
     help = 'Imports Westwood XML data into the Westwood database'
@@ -143,7 +159,31 @@ class Command(BaseCommand):
                     special_attack = int(stat_set_tag.find('special_attack').text)
                     special_defense = int(stat_set_tag.find('special_defense').text)
                     speed = int(stat_set_tag.find('speed').text)
+
                     stat_set_object = StatSet(games=games_list_id, hp=hp, attack=attack, defense=defense, special_attack=special_attack, special_defense=special_defense, speed=speed)
+
+                    stat_set_object.max_hp = calculate_hp(hp, ev=252.0)
+
+                    stat_set_object.max_attack_hindered = calculate_stat(attack, ev=252.0, hindered=True)
+                    stat_set_object.max_attack_neutral = calculate_stat(attack, ev=252.0)
+                    stat_set_object.max_attack_beneficial = calculate_stat(attack, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_defense_hindered = calculate_stat(defense, ev=252.0, hindered=True)
+                    stat_set_object.max_defense_neutral = calculate_stat(defense, ev=252.0)
+                    stat_set_object.max_defense_beneficial = calculate_stat(defense, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_special_attack_hindered = calculate_stat(special_attack, ev=252.0, hindered=True)
+                    stat_set_object.max_special_attack_neutral = calculate_stat(special_attack, ev=252.0)
+                    stat_set_object.max_special_attack_beneficial = calculate_stat(special_attack, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_special_defense_hindered = calculate_stat(special_defense, ev=252.0, hindered=True)
+                    stat_set_object.max_special_defense_neutral = calculate_stat(special_defense, ev=252.0)
+                    stat_set_object.max_special_defense_beneficial = calculate_stat(special_defense, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_speed_hindered = calculate_stat(speed, ev=252.0, hindered=True)
+                    stat_set_object.max_speed_neutral = calculate_stat(speed, ev=252.0)
+                    stat_set_object.max_speed_beneficial = calculate_stat(speed, ev=252.0, beneficial=True)
+
                     stat_set_object.save(using=self.db_alias)
 
                     stat_sets_list_element_object = StatSetsListElement(list_id=stat_sets_list_id, sequence_number=stat_sets_sequence_number, element=stat_set_object)
@@ -598,6 +638,29 @@ class Command(BaseCommand):
                     special_defense = int(stat_set_tag.find('special_defense').text)
                     speed = int(stat_set_tag.find('speed').text)
                     stat_set_object = StatSet(games=games_list_id, hp=hp, attack=attack, defense=defense, special_attack=special_attack, special_defense=special_defense, speed=speed)
+
+                    stat_set_object.max_hp = calculate_hp(hp, ev=252.0)
+
+                    stat_set_object.max_attack_hindered = calculate_stat(attack, ev=252.0, hindered=True)
+                    stat_set_object.max_attack_neutral = calculate_stat(attack, ev=252.0)
+                    stat_set_object.max_attack_beneficial = calculate_stat(attack, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_defense_hindered = calculate_stat(defense, ev=252.0, hindered=True)
+                    stat_set_object.max_defense_neutral = calculate_stat(defense, ev=252.0)
+                    stat_set_object.max_defense_beneficial = calculate_stat(defense, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_special_attack_hindered = calculate_stat(special_attack, ev=252.0, hindered=True)
+                    stat_set_object.max_special_attack_neutral = calculate_stat(special_attack, ev=252.0)
+                    stat_set_object.max_special_attack_beneficial = calculate_stat(special_attack, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_special_defense_hindered = calculate_stat(special_defense, ev=252.0, hindered=True)
+                    stat_set_object.max_special_defense_neutral = calculate_stat(special_defense, ev=252.0)
+                    stat_set_object.max_special_defense_beneficial = calculate_stat(special_defense, ev=252.0, beneficial=True)
+
+                    stat_set_object.max_speed_hindered = calculate_stat(speed, ev=252.0, hindered=True)
+                    stat_set_object.max_speed_neutral = calculate_stat(speed, ev=252.0)
+                    stat_set_object.max_speed_beneficial = calculate_stat(speed, ev=252.0, beneficial=True)
+
                     stat_set_object.save(using=self.db_alias)
 
                     stat_sets_list_element_object = StatSetsListElement(list_id=stat_sets_list_id, sequence_number=stat_sets_sequence_number, element=stat_set_object)

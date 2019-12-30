@@ -39,6 +39,26 @@
                 <xs:element name="special_attack" type="xs:positiveInteger"/>
                 <xs:element name="special_defense" type="xs:positiveInteger"/>
                 <xs:element name="speed" type="xs:positiveInteger"/>
+
+                <xs:element name="max_hp" type="xs:positiveInteger" minOccurs="0"/>
+
+                <xs:element name="max_attack_hindered" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_defense_hindered" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_special_attack_hindered" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_special_defense_hindered" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_speed_hindered" type="xs:positiveInteger" minOccurs="0"/>
+
+                <xs:element name="max_attack_neutral" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_defense_neutral" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_special_attack_neutral" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_special_defense_neutral" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_speed_neutral" type="xs:positiveInteger" minOccurs="0"/>
+
+                <xs:element name="max_attack_beneficial" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_defense_beneficial" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_special_attack_beneficial" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_special_defense_beneficial" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="max_speed_beneficial" type="xs:positiveInteger" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
