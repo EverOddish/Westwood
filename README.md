@@ -12,7 +12,7 @@ XML has been chosen as the primary data storage format. XML is human-readable, e
 
 Westwood contains Python scripts to verify the correctness of all XML data, and to convert the XML data to a format that lends itself to generating a relational database.
 
-Westwood data can be converted to any data format, if support is added. To start with, Westwood will only support conversion to Django models, which can then be populated with Django data migrations. If other formats are required (such as JSON or CSV), support can be added at a later date. Westwood is intended to be easily extensible and adaptable.
+Westwood data can be converted to any data format, if support is added. To start with, Westwood will only support conversion to Django models, which can then be populated with a Django management command. If other formats are required (such as JSON or CSV), support can be added at a later date. Westwood is intended to be easily extensible and adaptable.
 
 Python 3 is required. To install all Python requirements:
 
@@ -26,7 +26,7 @@ To auto-generate Django models inside the django-westwood app, run the following
 
     python3 convert_to_django.py
 
-This will read every XSD file and generate Python classes that describe each model. Then, a database can be generated using the models, and populated from the XML data by running a Django data migration.
+This will read every XSD file and generate Python classes that describe each model. Then, a database can be generated using the models, and populated from the XML data by running a Django management command.
 
 Add the Westwood Django app to a Django project by copying the django-westwood/westwood directory to the project, and editing the project's settings.py file:
 
@@ -39,9 +39,13 @@ Next, copy the provided westwood_router.py file to the Django project. This will
 
     DATABASE_ROUTERS = ['SampleDjangoProject.westwood_router.WestwoodDatabaseRouter']
 
-Finally, run the migration to populate the Westwood database:
+Next, run the migration to create the Westwood database:
 
     python manage.py migrate --database=westwood
+
+Finally, run the management command to populate the Westwood database:
+
+    python manage.py import_westwood_data
 
 If all was successful, a westwood.sqlite3 file (or other database) should now exist with all Westwood data.
 
