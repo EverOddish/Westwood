@@ -144,6 +144,7 @@ class Command(BaseCommand):
                 catch_rate_tag = pokemon_tag.find('catch_rate')
                 growth_rate_tag = pokemon_tag.find('growth_rate')
                 base_exp_tag = pokemon_tag.find('base_exp')
+                egg_groups_tag = pokemon_tag.find('egg_groups')
 
                 stat_sets_list_id = stat_sets_list_counter
                 stat_sets_list_counter += 1
@@ -303,7 +304,7 @@ class Command(BaseCommand):
 
                 EvYieldsListElement.objects.using(self.db_alias).bulk_create(ev_yields_list_element_objects)
 
-                pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, catch_rate=catch_rate_tag.text, growth_rate=growth_rate_tag.text, base_exp=base_exp_tag.text, ev_yields=ev_yields_list_id, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id)
+                pokemon_object = Pokemon(name=name_tag.text, pokedex_numbers=list_id, height=height_tag.text, weight=weight_tag.text, catch_rate=catch_rate_tag.text, growth_rate=growth_rate_tag.text, base_exp=base_exp_tag.text, ev_yields=ev_yields_list_id, stat_sets=stat_sets_list_id, type_sets=type_sets_list_id, ability_sets=ability_sets_list_id, evolution_sets=evolution_sets_list_id, egg_groups=egg_groups_tag.text)
                 pokemon_objects.append(pokemon_object)
             except etree.XMLSyntaxError:
                 self.stdout.write('Error parsing XML file: ' + pokemon_file)

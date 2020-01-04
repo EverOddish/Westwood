@@ -188,6 +188,7 @@ class Migration(migrations.Migration):
                 ('type_sets', models.IntegerField()),
                 ('ability_sets', models.IntegerField()),
                 ('evolution_sets', models.IntegerField()),
+                ('egg_groups', models.CharField(max_length=500)),
             ],
         ),
         migrations.CreateModel(
