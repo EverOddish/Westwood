@@ -135,6 +135,7 @@ class Pokemon(models.Model):
     type_sets = models.IntegerField()    # TypeSets list_id
     ability_sets = models.IntegerField()    # AbilitySets list_id
     evolution_sets = models.IntegerField()    # EvolutionSets list_id
+    egg_groups = models.CharField(max_length=500)
 
 class MoveDefinition(models.Model):
     generation = models.IntegerField(default=0)

@@ -181,10 +181,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Salazzle</evolves_to>
-                    <level>33</level>
+					<level>33</level>
 					<method>when female</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
 	</evolution_sets>
+	<egg_groups>Dragon, Monster</egg_groups>
 </pokemon>

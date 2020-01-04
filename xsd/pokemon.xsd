@@ -190,6 +190,7 @@
                 <xs:element ref="type_sets"/>
                 <xs:element ref="ability_sets"/>
                 <xs:element ref="evolution_sets" minOccurs="0"/>
+                <xs:element name="egg_groups" type="xs:string"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
