@@ -49,6 +49,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<hp>90</hp>
 			<attack>65</attack>
@@ -89,6 +91,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<type1>Water</type1>
 			<type2>Psychic</type2>
@@ -125,6 +129,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -189,6 +195,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<evolution_records>
 				<evolution_record>
@@ -197,7 +205,7 @@
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Slowking</evolves_to>
-					<method>when holding a Kings Rock</method>
+					<method>when traded while holding a Kings Rock</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
