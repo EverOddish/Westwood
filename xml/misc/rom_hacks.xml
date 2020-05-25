@@ -18,4 +18,11 @@
         <author>Drayano</author>
         <description>Pokémon Blaze Black and Pokémon Volt White are edits of the regular Pokémon Black and White versions which self-contain all 649 Pokémon, allowing a player a large amount of variety. In addition, BB/VW also have edited trainers, an increased difficulty level, improvements to many Pokémon and more.</description>
     </rom_hack>
+    <rom_hack>
+        <title>Pokemon Renegade Platinum</title>
+        <!-- All official stat and move changes from USUM were ported into Renegade Platinum -->
+        <base_game>Pokemon Ultra Sun</base_game>
+        <author>Drayano</author>
+        <description>Pokémon Renegade Platinum is an enhancement hack of Pokémon Platinum Version, similar to my other hacks such as Sacred Gold &amp; Storm Silver and Blaze Black &amp; Volt White. In a nutshell, this hack generally keeps the same story flow as the original Pokémon Platinum but adds in a significant number of gameplay differences, including but not limited to access to all 493 Pokémon in the game, revamped Trainers including tougher boss fights, lots of (optional) changes to weaker Pokémon to make them easier to use, the removal of trade only evolutions and a number of other quality of life changes.</description>
+    </rom_hack>
 </rom_hacks>

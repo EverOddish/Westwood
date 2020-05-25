@@ -46,5 +46,20 @@
 				<description>User receives 1/4 the damage it inflicts in recoil.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<move_definition>
+				<generation>5</generation>
+				<type>Electric</type>
+				<base_power>100</base_power>
+				<power_points>15</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description>User receives 1/4 the damage it inflicts in recoil.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

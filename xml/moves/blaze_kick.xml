@@ -48,5 +48,22 @@
 				<description>Has an increased chance for a critical hit and a 10% chance to burn the target.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Fire</type>
+				<base_power>90</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect/>
+				<effect_chance>10</effect_chance>
+				<description>Has an increased chance for a critical hit and a 10% chance to burn the target.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

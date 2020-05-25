@@ -64,5 +64,20 @@
 				<description>Has a 30% chance to confuse the target.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<move_definition>
+				<generation>5</generation>
+				<type>Flying</type>
+				<base_power>110</base_power>
+				<power_points>10</power_points>
+				<accuracy>70</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description>Inflicts regular damage.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>
