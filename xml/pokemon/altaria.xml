@@ -105,6 +105,13 @@
 			<type1>Dragon</type1>
 			<type2>Flying</type2>
 		</type_set>
+		<type_set>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<type1>Dragon</type1>
+			<type2>Fairy</type2>
+		</type_set>
 	</type_sets>
 	<ability_sets>
 		<ability_set>
