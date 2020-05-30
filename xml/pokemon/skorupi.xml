@@ -205,6 +205,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+                <game>Pokemon Renegade Platinum</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Drapion</evolves_to>
+					<level>30</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Bug, Water 3</egg_groups>
 </pokemon>

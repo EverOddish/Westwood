@@ -210,6 +210,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+                <game>Pokemon Renegade Platinum</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Scizor</evolves_to>
+					<method>when a Metal Coat is used</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Bug</egg_groups>
 </pokemon>

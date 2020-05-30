@@ -217,6 +217,21 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Poliwrath</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Politoed</evolves_to>
+					<method>when a Kings Rock is used</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Water 1</egg_groups>
 </pokemon>

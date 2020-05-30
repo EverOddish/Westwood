@@ -204,6 +204,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+                <game>Pokemon Renegade Platinum</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Wailord</evolves_to>
+					<level>36</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Field, Water 2</egg_groups>
 </pokemon>

@@ -321,6 +321,41 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+                <game>Pokemon Renegade Platinum</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Vaporeon</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Jolteon</evolves_to>
+					<method>when a Thunder Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Flareon</evolves_to>
+					<method>when a Fire Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Espeon</evolves_to>
+					<method>when a Sun Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Umbreon</evolves_to>
+					<method>when a Moon Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Leafeon</evolves_to>
+					<method>when a Leaf Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Glaceon</evolves_to>
+					<method>when a Ice Stone is used</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Field</egg_groups>
 </pokemon>
