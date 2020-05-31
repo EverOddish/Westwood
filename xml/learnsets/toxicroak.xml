@@ -397,5 +397,92 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vacuum Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flatter</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

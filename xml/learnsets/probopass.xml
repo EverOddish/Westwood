@@ -561,5 +561,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock-On</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash </name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

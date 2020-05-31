@@ -485,5 +485,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

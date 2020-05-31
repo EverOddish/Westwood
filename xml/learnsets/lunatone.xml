@@ -697,5 +697,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

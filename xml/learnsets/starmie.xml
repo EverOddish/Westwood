@@ -313,5 +313,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

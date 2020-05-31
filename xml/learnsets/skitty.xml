@@ -517,5 +517,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assist</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake-Up Slap</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

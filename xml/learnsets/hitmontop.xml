@@ -562,5 +562,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rolling Kick</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Triple Kick</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Punch</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

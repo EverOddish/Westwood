@@ -383,5 +383,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power </name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

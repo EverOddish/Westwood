@@ -521,5 +521,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge </name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -195,5 +195,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

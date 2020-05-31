@@ -347,5 +347,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Fang</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

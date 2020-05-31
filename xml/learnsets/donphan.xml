@@ -514,5 +514,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

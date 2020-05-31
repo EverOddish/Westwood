@@ -321,5 +321,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

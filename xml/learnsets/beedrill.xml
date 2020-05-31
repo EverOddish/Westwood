@@ -437,5 +437,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twinneedle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison </name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck </name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn </name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

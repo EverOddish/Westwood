@@ -453,5 +453,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Trick</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

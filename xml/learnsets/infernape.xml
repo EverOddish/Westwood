@@ -387,5 +387,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vacuum Wave</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -396,5 +396,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spike Cannon</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twinneedle</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

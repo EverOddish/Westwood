@@ -227,5 +227,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -631,5 +631,92 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

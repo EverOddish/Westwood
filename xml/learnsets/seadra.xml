@@ -442,5 +442,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Disable</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

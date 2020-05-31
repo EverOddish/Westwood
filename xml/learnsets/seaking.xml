@@ -693,5 +693,92 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Waterfall</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -307,5 +307,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Moonblast </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

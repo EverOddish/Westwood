@@ -257,5 +257,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Ball</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

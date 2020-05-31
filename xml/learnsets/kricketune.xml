@@ -1,259 +1,350 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Kricketune</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Life</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sing</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>X Scissor</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Perish Song</name>
-                    <level>38</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Life</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sing</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>X Scissor</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Perish Song</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Life</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sing</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>X Scissor</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fell Stinger</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sticky Web</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Perish Song</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bide</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Absorb</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sing</name>
-                    <level>18</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>26</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>X Scissor</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fell Stinger</name>
-                    <level>36</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Taunt</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sticky Web</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bug Buzz</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Perish Song</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Kricketune</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>38</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sticky Web</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sticky Web</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

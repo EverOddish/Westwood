@@ -811,5 +811,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume </name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot </name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

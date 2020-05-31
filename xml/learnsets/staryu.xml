@@ -575,5 +575,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

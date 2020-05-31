@@ -443,5 +443,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird </name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

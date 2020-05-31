@@ -459,5 +459,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed </name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

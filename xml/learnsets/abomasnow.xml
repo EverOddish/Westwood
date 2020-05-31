@@ -225,5 +225,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Whistle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash </name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

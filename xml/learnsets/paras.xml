@@ -409,5 +409,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

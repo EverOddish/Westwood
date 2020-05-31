@@ -433,5 +433,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snatch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Punishment</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

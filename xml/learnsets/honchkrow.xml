@@ -217,5 +217,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

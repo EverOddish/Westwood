@@ -297,5 +297,76 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

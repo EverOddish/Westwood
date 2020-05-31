@@ -412,5 +412,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

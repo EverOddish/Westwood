@@ -199,5 +199,72 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scald</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

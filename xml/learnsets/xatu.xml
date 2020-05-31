@@ -614,5 +614,92 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion </name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane </name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

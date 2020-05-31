@@ -553,5 +553,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

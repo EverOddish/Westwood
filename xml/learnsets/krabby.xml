@@ -435,5 +435,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

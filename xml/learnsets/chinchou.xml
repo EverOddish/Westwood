@@ -562,5 +562,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

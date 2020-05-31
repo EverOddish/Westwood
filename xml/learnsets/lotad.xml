@@ -375,5 +375,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>34</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

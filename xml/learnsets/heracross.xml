@@ -522,5 +522,92 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Arm Thrust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

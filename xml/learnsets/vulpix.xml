@@ -745,5 +745,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will-O-Wisp</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grudge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

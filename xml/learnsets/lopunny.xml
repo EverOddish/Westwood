@@ -541,5 +541,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mega Kick </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Return</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

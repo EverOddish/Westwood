@@ -195,5 +195,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Weather Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

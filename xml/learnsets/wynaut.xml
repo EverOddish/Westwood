@@ -98,5 +98,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>15</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

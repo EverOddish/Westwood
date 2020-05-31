@@ -523,5 +523,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird </name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

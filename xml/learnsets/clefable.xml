@@ -293,5 +293,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Soft-Boiled</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

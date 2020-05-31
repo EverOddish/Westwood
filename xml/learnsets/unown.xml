@@ -73,5 +73,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Secret Power </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power </name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

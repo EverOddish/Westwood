@@ -244,5 +244,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vacuum Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamic Punch</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat </name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

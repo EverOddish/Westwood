@@ -643,5 +643,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane </name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

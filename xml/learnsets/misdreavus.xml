@@ -408,5 +408,92 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss </name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast </name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grudge</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

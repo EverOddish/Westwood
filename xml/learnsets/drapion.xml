@@ -593,5 +593,92 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -527,5 +527,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

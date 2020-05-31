@@ -85,5 +85,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>10</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -654,5 +654,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter </name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash </name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

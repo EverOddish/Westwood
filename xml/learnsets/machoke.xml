@@ -593,5 +593,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vital Throw</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake-Up Slap</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamic Punch</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

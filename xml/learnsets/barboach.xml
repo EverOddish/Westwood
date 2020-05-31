@@ -373,5 +373,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

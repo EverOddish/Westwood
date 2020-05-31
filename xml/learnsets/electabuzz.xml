@@ -407,5 +407,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat </name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

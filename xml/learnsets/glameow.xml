@@ -261,5 +261,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assist</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake-Up Slap</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

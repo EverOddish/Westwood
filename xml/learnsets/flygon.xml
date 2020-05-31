@@ -711,5 +711,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -593,5 +593,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>39</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -396,5 +396,76 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>39</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

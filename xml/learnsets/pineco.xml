@@ -300,5 +300,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

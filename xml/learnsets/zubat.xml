@@ -599,5 +599,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

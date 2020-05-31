@@ -269,5 +269,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Fang</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

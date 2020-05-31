@@ -321,5 +321,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

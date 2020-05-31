@@ -439,5 +439,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>35</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

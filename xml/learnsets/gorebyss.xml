@@ -275,5 +275,76 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

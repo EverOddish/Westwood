@@ -649,5 +649,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bullet Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meteor Mash</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

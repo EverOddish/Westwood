@@ -483,5 +483,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash </name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Weather Ball</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane </name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

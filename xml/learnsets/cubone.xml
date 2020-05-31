@@ -539,5 +539,88 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Club</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bonemerang</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

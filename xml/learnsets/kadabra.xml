@@ -617,5 +617,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Flash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Kinesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

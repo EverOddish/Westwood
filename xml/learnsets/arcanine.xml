@@ -327,5 +327,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

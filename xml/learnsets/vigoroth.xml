@@ -379,5 +379,68 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

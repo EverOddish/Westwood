@@ -298,5 +298,76 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

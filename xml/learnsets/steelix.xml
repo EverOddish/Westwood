@@ -843,5 +843,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

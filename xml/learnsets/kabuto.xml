@@ -299,5 +299,80 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Waterfall</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -157,5 +157,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Clamp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>25</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

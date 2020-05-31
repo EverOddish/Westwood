@@ -629,5 +629,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss </name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake-Up Slap</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast </name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -835,5 +835,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assist</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

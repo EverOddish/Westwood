@@ -290,5 +290,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Uppercut</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

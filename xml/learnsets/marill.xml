@@ -474,5 +474,84 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>42</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

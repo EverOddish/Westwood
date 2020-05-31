@@ -596,5 +596,96 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

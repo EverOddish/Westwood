@@ -300,5 +300,72 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Milk Drink</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake-Up Slap</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

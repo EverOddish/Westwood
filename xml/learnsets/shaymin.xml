@@ -1,131 +1,250 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Shaymin</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Diamond</game>
-                <game>Pokemon Pearl</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Defense Curl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatherapy</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Energy Ball</name>
-                    <level>73</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Grass Whistle</name>
-                    <level>82</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lucky Chant</name>
-                    <level>91</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Seed Flare</name>
-                    <level>100</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Platinum</game>
-                <game>Pokemon HeartGold</game>
-                <game>Pokemon SoulSilver</game>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Natural Gift</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Worry Seed</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatherapy</name>
-                    <level>64</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Energy Ball</name>
-                    <level>73</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Kiss</name>
-                    <level>82</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Healing Wish</name>
-                    <level>91</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Seed Flare</name>
-                    <level>100</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Shaymin</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Whistle</name>
+					<level>82</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>91</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Flare</name>
+					<level>100</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Platinum</game>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>82</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>91</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Flare</name>
+					<level>100</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Flare</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Flare</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>
