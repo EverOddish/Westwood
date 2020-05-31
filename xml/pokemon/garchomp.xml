@@ -153,6 +153,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Rough Skin</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Sand Veil</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Dragon, Monster</egg_groups>
 </pokemon>

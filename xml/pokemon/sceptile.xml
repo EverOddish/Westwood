@@ -159,6 +159,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Unburden</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Overgrow</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Dragon, Monster</egg_groups>
 </pokemon>

@@ -175,6 +175,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Technician</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Hustle</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Field, Water 1</egg_groups>
 </pokemon>

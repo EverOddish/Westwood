@@ -152,6 +152,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Plus</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Lightning Rod</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Fairy</egg_groups>
 </pokemon>

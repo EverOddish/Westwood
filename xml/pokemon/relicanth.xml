@@ -161,6 +161,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Rock Head</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Swift Swim</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Water 1, Water 2</egg_groups>
 </pokemon>

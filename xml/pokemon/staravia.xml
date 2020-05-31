@@ -153,6 +153,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Reckless</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Intimidate</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>

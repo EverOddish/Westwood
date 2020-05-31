@@ -153,6 +153,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Speed Boost</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Blaze</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Field</egg_groups>
 </pokemon>

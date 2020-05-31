@@ -171,6 +171,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Levitate</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Snow Cloak</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Fairy, Mineral</egg_groups>
 </pokemon>

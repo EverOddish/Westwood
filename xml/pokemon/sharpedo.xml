@@ -153,6 +153,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Speed Boost</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Rough Skin</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Water 2</egg_groups>
 </pokemon>

@@ -153,6 +153,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Soundproof</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Sturdy</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Monster</egg_groups>
 </pokemon>

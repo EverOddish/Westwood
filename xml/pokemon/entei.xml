@@ -156,6 +156,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Pressure</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Inner Focus</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Undiscovered</egg_groups>
 </pokemon>

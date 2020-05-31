@@ -180,6 +180,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Chlorophyll</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Chlorophyll</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Grass</egg_groups>
 </pokemon>

@@ -156,6 +156,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Magic Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Synchronize</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>
@@ -210,7 +222,7 @@
 			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
-                <game>Pokemon Renegade Platinum</game>
+				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<evolution_records>
 				<evolution_record>

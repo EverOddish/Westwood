@@ -175,6 +175,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Swarm</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Rivalry</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Bug</egg_groups>
 </pokemon>

@@ -179,6 +179,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>No Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Tangled Feet</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Flying</egg_groups>
 </pokemon>

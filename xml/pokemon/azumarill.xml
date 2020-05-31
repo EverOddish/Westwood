@@ -151,6 +151,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Huge Power</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Thick Fat</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Fairy, Water 1</egg_groups>
 </pokemon>

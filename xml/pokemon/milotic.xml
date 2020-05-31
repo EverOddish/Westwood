@@ -169,6 +169,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Marvel Scale</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Cute Charm</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Dragon, Water 1</egg_groups>
 </pokemon>

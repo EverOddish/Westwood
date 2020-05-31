@@ -157,6 +157,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Hydration</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Forewarn</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>

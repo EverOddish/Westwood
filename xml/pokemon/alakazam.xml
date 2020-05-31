@@ -166,6 +166,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Magic Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Synchronize</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Human-Like</egg_groups>
 </pokemon>

@@ -169,6 +169,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Super Luck</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Insomnia</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Flying</egg_groups>
 </pokemon>

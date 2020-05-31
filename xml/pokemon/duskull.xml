@@ -158,6 +158,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Frisk</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Levitate</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>
@@ -202,7 +214,7 @@
 		</evolution_set>
 		<evolution_set>
 			<games>
-                <game>Pokemon Renegade Platinum</game>
+				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<evolution_records>
 				<evolution_record>

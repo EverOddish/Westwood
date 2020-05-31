@@ -152,6 +152,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Rock Head</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Mold Breaker</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>

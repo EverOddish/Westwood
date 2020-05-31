@@ -161,6 +161,18 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<ability_records>
+				<ability_record>
+					<name>Solid Rock</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Magma Armor</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Field</egg_groups>
 </pokemon>
