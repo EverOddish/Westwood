@@ -75,6 +75,17 @@
 			<special_defense>90</special_defense>
 			<speed>50</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<hp>50</hp>
+			<attack>95</attack>
+			<defense>115</defense>
+			<special_attack>55</special_attack>
+			<special_defense>85</special_defense>
+			<speed>50</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>
