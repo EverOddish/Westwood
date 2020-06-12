@@ -122,5 +122,13 @@
 				<tutor_set_move>Electroweb</tutor_set_move>
 			</tutor_set_moves>
 		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Draco Meteor</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
 	</tutor_sets>
 </pokemon_tutor_sets>
