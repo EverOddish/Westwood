@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Castform</name>
     <tm_sets>
@@ -254,6 +254,46 @@
                 <tmset_move>Scald</tmset_move>
                 <tmset_move>Work Up</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Renegade Platinum</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Hurricane</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

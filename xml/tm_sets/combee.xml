@@ -12,5 +12,13 @@
                 <tmset_move>Bug Buzz</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Renegade Platinum</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Bug Buzz</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>
