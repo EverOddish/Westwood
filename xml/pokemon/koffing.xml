@@ -128,8 +128,6 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -151,6 +149,26 @@
 				<ability_record>
 					<name>Levitate</name>
 					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Levitate</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Stench</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Neutralizing Gas</name>
+					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>
 		</ability_set>
