@@ -49,6 +49,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
 			</games>
 			<hp>65</hp>
 			<attack>60</attack>
@@ -200,7 +202,7 @@
 			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
-                <game>Pokemon Renegade Platinum</game>
+				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<evolution_records>
 				<evolution_record>
