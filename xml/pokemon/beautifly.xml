@@ -187,6 +187,9 @@
 			</ability_records>
 		</ability_set>
 		<ability_set>
+			<games>
+				<game>Pokemon Renegade Platinum</game>
+			</games>
 			<ability_records>
 				<ability_record>
 					<name>Swarm</name>
