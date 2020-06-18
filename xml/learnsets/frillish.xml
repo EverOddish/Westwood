@@ -212,5 +212,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

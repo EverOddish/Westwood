@@ -392,5 +392,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Daze</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

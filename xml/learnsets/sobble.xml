@@ -50,5 +50,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tearful Look</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Liquidation</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

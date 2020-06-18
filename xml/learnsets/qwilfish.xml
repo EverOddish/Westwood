@@ -631,5 +631,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -164,5 +164,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vise Grip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sticky Web</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fly</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

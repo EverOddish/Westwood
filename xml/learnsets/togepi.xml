@@ -563,5 +563,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Life Dew</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

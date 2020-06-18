@@ -1,154 +1,230 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Lurantis</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>X Scissor</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Petal Blizzard</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leafage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leafage</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ingrain</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Blade</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Blade</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sunny Day</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Night Slash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>X Scissor</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Petal Blizzard</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leafage</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leafage</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Leaf</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>14</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ingrain</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Blade</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Synthesis</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slash</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sweet Scent</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Solar Blade</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Sunny Day</name>
-                    <level>55</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Lurantis</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leafage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leafage</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Blade</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leafage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leafage</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Blade</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Chop</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leafage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Blade</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

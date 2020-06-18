@@ -136,5 +136,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Shell</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

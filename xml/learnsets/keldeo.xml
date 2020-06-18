@@ -282,5 +282,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Secret Sword</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

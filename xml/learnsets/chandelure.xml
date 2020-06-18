@@ -130,5 +130,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will-O-Wisp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Overheat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

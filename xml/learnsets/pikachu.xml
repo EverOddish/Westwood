@@ -668,5 +668,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

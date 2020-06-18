@@ -62,5 +62,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bolt Beak</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

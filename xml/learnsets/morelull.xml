@@ -128,5 +128,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Strength Sap</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dazzling Gleam</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

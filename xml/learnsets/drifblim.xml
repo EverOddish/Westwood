@@ -566,5 +566,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Phantom Force</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Phantom Force</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Strength Sap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

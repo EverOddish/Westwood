@@ -622,5 +622,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomping Tantrum</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bonemerang</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

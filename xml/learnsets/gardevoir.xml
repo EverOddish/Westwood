@@ -772,5 +772,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dazzling Gleam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dazzling Gleam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Misty Terrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Life Dew</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

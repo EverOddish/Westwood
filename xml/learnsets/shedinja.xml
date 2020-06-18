@@ -492,5 +492,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grudge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Phantom Force</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -244,5 +244,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -58,5 +58,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatic Mist</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

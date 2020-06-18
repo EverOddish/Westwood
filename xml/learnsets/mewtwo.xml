@@ -698,5 +698,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Life Dew</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Laser Focus</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psystrike</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>80</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>88</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

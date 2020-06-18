@@ -621,5 +621,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
