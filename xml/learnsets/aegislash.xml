@@ -1,154 +1,76 @@
-<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <pokemon_learnsets>
-	<name>Aegislash</name>
-	<learnsets>
-		<learnset>
-			<games>
-				<game>Pokemon X</game>
-				<game>Pokemon Y</game>
-				<game>Pokemon Omega Ruby</game>
-				<game>Pokemon Alpha Sapphire</game>
-				<game>Pokemon Sun</game>
-				<game>Pokemon Moon</game>
-				<game>Pokemon Ultra Sun</game>
-				<game>Pokemon Ultra Moon</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Swords Dance</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Slash</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fury Cutter</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pursuit</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Defense</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Power Trick</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Night Slash</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Sneak</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Head</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Head Smash</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Autotomize</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sacred Sword</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Kings Shield</name>
-					<level>1</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-	</learnsets>
-	<learnsets>
-		<learnset>
-			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>King’s Shield</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>King’s Shield</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Head Smash</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Metal Sound</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Slash</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Night Slash</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Retaliate</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Defense</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Head</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Power Trick</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Swords Dance</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sacred Sword</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fury Cutter</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Sneak</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Autotomize</name>
-					<level>1</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-	</learnsets>
+    <name>Aegislash</name>
+    <learnsets>
+        <learnset>
+            <games>
+                <game>Pokemon X</game>
+                <game>Pokemon Y</game>
+                <game>Pokemon Omega Ruby</game>
+                <game>Pokemon Alpha Sapphire</game>
+                <game>Pokemon Sun</game>
+                <game>Pokemon Moon</game>
+                <game>Pokemon Ultra Sun</game>
+                <game>Pokemon Ultra Moon</game>
+            </games>
+            <learnset_moves>
+                <learnset_move>
+                    <name>Swords Dance</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Slash</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Fury Cutter</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Pursuit</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Aerial Ace</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Iron Defense</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Power Trick</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Night Slash</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Shadow Sneak</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Iron Head</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Head Smash</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Autotomize</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Sacred Sword</name>
+                    <level>1</level>
+                </learnset_move>
+                <learnset_move>
+                    <name>Kings Shield</name>
+                    <level>1</level>
+                </learnset_move>
+            </learnset_moves>
+        </learnset>
+    </learnsets>
 </pokemon_learnsets>

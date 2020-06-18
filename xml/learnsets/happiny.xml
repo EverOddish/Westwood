@@ -117,46 +117,4 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
-	<learnsets>
-		<learnset>
-			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Minimize</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pound</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Copycat</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Defense Curl</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sweet Kiss</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Disarming Voice</name>
-					<level>12</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Covet</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Charm</name>
-					<level>20</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-	</learnsets>
 </pokemon_learnsets>
