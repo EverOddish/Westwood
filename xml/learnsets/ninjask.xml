@@ -551,4 +551,106 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

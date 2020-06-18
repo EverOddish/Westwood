@@ -237,4 +237,66 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

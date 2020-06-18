@@ -151,4 +151,86 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Power-Up Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snarl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Switch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>80</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Plasma Fists</name>
+					<level>88</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>96</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

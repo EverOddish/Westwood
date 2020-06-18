@@ -423,4 +423,62 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Talk</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

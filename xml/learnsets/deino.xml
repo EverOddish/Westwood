@@ -311,4 +311,82 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

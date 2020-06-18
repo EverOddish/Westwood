@@ -436,4 +436,66 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

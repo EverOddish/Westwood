@@ -591,4 +591,94 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Life Dew</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Surf</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

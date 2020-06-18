@@ -558,4 +558,70 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Shell</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -415,4 +415,78 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Smash</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

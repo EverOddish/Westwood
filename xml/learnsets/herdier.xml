@@ -1,154 +1,220 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Herdier</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Retaliate</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Odor Sleuth</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bite</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Work Up</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crunch</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roar</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Retaliate</name>
-                    <level>33</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Reversal</name>
-                    <level>38</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Last Resort</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Impact</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Play Rough</name>
-                    <level>52</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Herdier</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby-Doll Eyes</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

@@ -209,4 +209,62 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leafage</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

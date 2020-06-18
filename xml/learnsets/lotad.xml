@@ -435,4 +435,66 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

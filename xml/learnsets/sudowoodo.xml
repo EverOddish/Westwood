@@ -652,4 +652,90 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tearful Look</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

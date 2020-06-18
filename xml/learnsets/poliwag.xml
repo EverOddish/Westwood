@@ -362,4 +362,58 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

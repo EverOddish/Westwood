@@ -1,182 +1,256 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Clawitzer</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crabhammer</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smack Down</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Muddy Water</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>57</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>63</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>67</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Splash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aura Sphere</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dark Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Heal Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vice Grip</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble</name>
-                    <level>12</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flail</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bubble Beam</name>
-                    <level>20</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Crabhammer</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Smack Down</name>
-                    <level>42</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>49</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Muddy Water</name>
-                    <level>57</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Clawitzer</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vise Grip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

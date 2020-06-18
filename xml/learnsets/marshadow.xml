@@ -181,4 +181,86 @@
 			</learnset_moves>
 		</learnset>
 	</learnsets>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spectral Thief</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Laser Focus</name>
+					<level>81</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>90</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>
