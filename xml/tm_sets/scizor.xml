@@ -382,5 +382,55 @@
                 <tmset_move>Bug Buzz</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Sand Tomb</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Psycho Cut</tmset_move>
+                <tmset_move>Cross Poison</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Focus Energy</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Reversal</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Baton Pass</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>X-Scissor</tmset_move>
+                <tmset_move>Bug Buzz</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

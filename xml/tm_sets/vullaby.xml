@@ -208,6 +208,7 @@
                 <tmset_move>Swift</tmset_move>
                 <tmset_move>Taunt</tmset_move>
                 <tmset_move>Thief</tmset_move>
+                <tmset_move>U-turn</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

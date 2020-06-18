@@ -370,6 +370,7 @@
                 <tmset_move>Sunny Day</tmset_move>
                 <tmset_move>Taunt</tmset_move>
                 <tmset_move>Thunder Fang</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

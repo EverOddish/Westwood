@@ -51,6 +51,8 @@
                 <tmset_move>Heat Crash</tmset_move>
                 <tmset_move>High Horsepower</tmset_move>
                 <tmset_move>Body Press</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

@@ -68,6 +68,7 @@
                 <tmset_move>Surf</tmset_move>
                 <tmset_move>Waterfall</tmset_move>
                 <tmset_move>Wonder Room</tmset_move>
+                <tmset_move>X-Scissor</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

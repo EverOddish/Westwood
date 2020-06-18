@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Dunsparce</name>
     <tm_sets>
@@ -337,6 +337,59 @@
                 <tmset_move>Bulldoze</tmset_move>
                 <tmset_move>Wild Charge</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Hex</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Baton Pass</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Stored Power</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
+                <tmset_move>Drill Run</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

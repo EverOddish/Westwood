@@ -381,6 +381,8 @@
                 <tmset_move>Weather Ball</tmset_move>
                 <tmset_move>Wonder Room</tmset_move>
                 <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

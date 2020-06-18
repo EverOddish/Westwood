@@ -45,6 +45,7 @@
                 <tmset_move>Grass Knot</tmset_move>
                 <tmset_move>Foul Play</tmset_move>
                 <tmset_move>Play Rough</tmset_move>
+                <tmset_move>U-turn</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

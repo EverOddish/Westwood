@@ -54,6 +54,8 @@
                 <tmset_move>Ally Switch</tmset_move>
                 <tmset_move>Scald</tmset_move>
                 <tmset_move>Psychic Fangs</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>U-turn</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

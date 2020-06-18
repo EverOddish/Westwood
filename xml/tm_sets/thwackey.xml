@@ -39,6 +39,7 @@
                 <tmset_move>Energy Ball</tmset_move>
                 <tmset_move>Grass Knot</tmset_move>
                 <tmset_move>Work Up</tmset_move>
+                <tmset_move>U-turn</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

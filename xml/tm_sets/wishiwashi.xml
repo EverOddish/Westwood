@@ -69,6 +69,7 @@
                 <tmset_move>Uproar</tmset_move>
                 <tmset_move>Waterfall</tmset_move>
                 <tmset_move>Whirlpool</tmset_move>
+                <tmset_move>U-turn</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

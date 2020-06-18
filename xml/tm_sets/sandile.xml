@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Sandile</name>
     <tm_sets>
@@ -165,6 +165,50 @@
                 <tmset_move>Bulldoze</tmset_move>
                 <tmset_move>Snarl</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Beat Up</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Sand Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Thunder Fang</tmset_move>
+                <tmset_move>Fire Fang</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Focus Energy</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

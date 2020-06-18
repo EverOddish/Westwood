@@ -483,6 +483,7 @@
                 <tmset_move>Stored Power</tmset_move>
                 <tmset_move>Scald</tmset_move>
                 <tmset_move>Liquidation</tmset_move>
+                <tmset_move>Endure</tmset_move>
             </tmset_moves>
         </tm_set>
         <tm_set>

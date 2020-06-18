@@ -42,6 +42,7 @@
                 <tmset_move>Heavy Slam</tmset_move>
                 <tmset_move>Heat Crash</tmset_move>
                 <tmset_move>Body Press</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

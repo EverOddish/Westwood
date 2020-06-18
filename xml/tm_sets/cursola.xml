@@ -60,6 +60,8 @@
                 <tmset_move>Scald</tmset_move>
                 <tmset_move>Throat Chop</tmset_move>
                 <tmset_move>Liquidation</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>
