@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Misty Explosion</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Fairy</type>
+                <base_power>100</base_power>
+                <power_points>5</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Special</damage_category>
+                <effect>Inflicts regular damage</effect>
+                <description>The user attacks everything around it and faints upon using this move. This move’s power is increased on Misty Terrain.</description>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>

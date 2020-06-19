@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Scale Shot</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Dragon</type>
+                <base_power>25</base_power>
+                <power_points>20</power_points>
+                <accuracy>90</accuracy>
+                <priority>0</priority>
+                <damage_category>Physical</damage_category>
+                <effect>Inflicts regular damage</effect>
+                <description>The user attacks by shooting scales two to five times in a row. This move boosts the user’s Speed stat but lowers its Defense stat.</description>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>

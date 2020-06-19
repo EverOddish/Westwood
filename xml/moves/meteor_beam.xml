@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Meteor Beam</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Rock</type>
+                <base_power>120</base_power>
+                <power_points>10</power_points>
+                <accuracy>90</accuracy>
+                <priority>0</priority>
+                <damage_category>Special</damage_category>
+                <effect>Inflicts regular damage, raises Sp. Atk by one stage</effect>
+                <description>In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.</description>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>

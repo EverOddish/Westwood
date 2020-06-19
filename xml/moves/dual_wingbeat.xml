@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Dual Wingbeat</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Flying</type>
+                <base_power>40</base_power>
+                <power_points>10</power_points>
+                <accuracy>90</accuracy>
+                <priority>0</priority>
+                <damage_category>Physical</damage_category>
+                <effect>Inflicts regular damage</effect>
+                <description>The user slams the target with its wings. The target is hit twice in a row.</description>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>

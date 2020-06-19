@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Coaching</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Fighting</type>
+                <base_power>0</base_power>
+                <power_points>10</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Status</damage_category>
+                <effect></effect>
+                <description>The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.</description>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>

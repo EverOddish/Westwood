@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Scorching Sands</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Ground</type>
+                <base_power>70</base_power>
+                <power_points>10</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Special</damage_category>
+                <effect>30% chance of burning the target</effect>
+                <description>The user throws scorching sand at the target to attack. This may also leave the target with a burn.</description>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>

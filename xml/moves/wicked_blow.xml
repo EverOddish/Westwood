@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+    <name>Wicked Blow</name>
+    <move_records>
+        <move_record>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Dark</type>
+                <base_power>80</base_power>
+                <power_points>5</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Physical</damage_category>
+                <effect>Inflicts regular damage</effect>
+                <description>The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit.</description>
+            </move_definition>
+        </move_record>
+    </move_records>
+</move>
