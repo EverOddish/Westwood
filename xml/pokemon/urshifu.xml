@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon>
+	<name>Urshifu</name>
+	<pokedex_numbers>
+		<pokedex_number>
+			<name>National</name>
+			<number>892</number>
+		</pokedex_number>
+	</pokedex_numbers>
+	<height>19</height>
+	<weight>1050</weight>
+	<catch_rate>0</catch_rate>
+	<growth_rate>Slow</growth_rate>
+	<base_exp>0</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Attack</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>100</hp>
+			<attack>130</attack>
+			<defense>100</defense>
+			<special_attack>63</special_attack>
+			<special_defense>60</special_defense>
+			<speed>97</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Fighting</type1>
+			<type2>Dark</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Unseen Fist</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+	<egg_groups>Undiscovered</egg_groups>
+</pokemon>

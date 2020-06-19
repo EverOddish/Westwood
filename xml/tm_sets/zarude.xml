@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tm_sets>
+    <name>Zarude</name>
+    <tm_sets>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Magical Leaf</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Solar Blade</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Bullet Seed</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Drain Punch</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Grassy Terrain</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Low Kick</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Close Combat</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Seed Bomb</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Power Whip</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Darkest Lariat</tmset_move>
+                <tmset_move>Throat Chop</tmset_move>
+            </tmset_moves>
+        </tm_set>
+    </tm_sets>
+</pokemon_tm_sets>

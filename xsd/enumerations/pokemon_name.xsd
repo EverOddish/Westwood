@@ -920,6 +920,9 @@
             <xs:enumeration value="Eternatus"/>
             <xs:enumeration value="Mr. Rime"/>
             <xs:enumeration value="Sirfetch'd"/>
+            <xs:enumeration value="Kubfu"/>
+            <xs:enumeration value="Urshifu"/>
+            <xs:enumeration value="Zarude"/>
         </xs:restriction>
     </xs:simpleType>
 
