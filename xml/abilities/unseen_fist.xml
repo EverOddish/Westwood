@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Unseen Fist</name>
+    <games>
+        <game>Pokemon Sword</game>
+        <game>Pokemon Shield</game>
+    </games>
+    <description>The Pokemon can deal damage with moves that make physical contact, even if the target is protected.</description>
+</ability>
