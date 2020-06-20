@@ -100,53 +100,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Scratch</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leer</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fake Out</name>
-					<level>3</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Disarming Voice</name>
-					<level>6</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Covet</name>
-					<level>18</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psybeam</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Light Screen</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Reflect</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psyshock</name>
-					<level>33</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

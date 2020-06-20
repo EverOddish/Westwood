@@ -244,62 +244,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Heal Bell</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Magical Leaf</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Baton Pass</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ancient Power</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Life Dew</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leech Seed</name>
-					<level>50</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recover</name>
-					<level>60</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Future Sight</name>
-					<level>70</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Healing Wish</name>
-					<level>80</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leaf Storm</name>
-					<level>90</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Perish Song</name>
-					<level>100</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<learnset_moves>

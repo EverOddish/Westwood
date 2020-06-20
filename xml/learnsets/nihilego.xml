@@ -1,92 +1,92 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Nihilego</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Pound</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Constrict</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tickle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guard Split</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Power Split</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Clear Smog</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psywave</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Headbutt</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic Spikes</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Safeguard</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Power Gem</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mirror Coat</name>
-                    <level>43</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid Spray</name>
-                    <level>47</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venom Drench</name>
-                    <level>53</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stealth Rock</name>
-                    <level>59</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>67</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Head Smash</name>
-                    <level>73</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Nihilego</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venom Drench</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

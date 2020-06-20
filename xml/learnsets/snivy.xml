@@ -1,84 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Snivy</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leer</name>
-                    <level>4</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Vine Whip</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wrap</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growth</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Tornado</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leech Seed</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mega Drain</name>
-                    <level>22</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Slam</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Blade</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Coil</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Giga Drain</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wring Out</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Gastro Acid</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Leaf Storm</name>
-                    <level>43</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Snivy</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

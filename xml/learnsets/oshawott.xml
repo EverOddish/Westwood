@@ -1,84 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Oshawott</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Black</game>
-                <game>Pokemon White</game>
-                <game>Pokemon Black 2</game>
-                <game>Pokemon White 2</game>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Tackle</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Tail Whip</name>
-                    <level>5</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Gun</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Sport</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Focus Energy</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Razor Shell</name>
-                    <level>17</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Cutter</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Revenge</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Jet</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Encore</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aqua Tail</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Retaliate</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Swords Dance</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>43</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Oshawott</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Shell</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

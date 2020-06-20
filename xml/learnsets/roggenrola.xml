@@ -159,62 +159,6 @@
 					<level>8</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Smack Down</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Defense</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>24</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Blast</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sandstorm</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stone Edge</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>44</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Sand Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Harden</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stealth Rock</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
 					<name>Mud-Slap</name>
 					<level>12</level>
 				</learnset_move>

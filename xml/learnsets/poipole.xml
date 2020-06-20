@@ -1,66 +1,66 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Poipole</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Acid</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Helping Hand</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Dragon Pulse</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venoshock</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Charm</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Venom Drench</name>
-                    <level>23</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nasty Plot</name>
-                    <level>31</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Poison Jab</name>
-                    <level>37</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Toxic</name>
-                    <level>41</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fell Stinger</name>
-                    <level>47</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Poipole</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venom Drench</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

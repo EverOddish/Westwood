@@ -37,62 +37,6 @@
 					<level>35</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Slam</name>
-					<level>49</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Discharge</name>
-					<level>56</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bolt Beak</name>
-					<level>63</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Icicle Crash</name>
-					<level>70</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Blizzard</name>
-					<level>77</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Powder Snow</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Shock</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Charge</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Echoed Voice</name>
-					<level>14</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ancient Power</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pluck</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Avalanche</name>
-					<level>35</level>
-				</learnset_move>
-				<learnset_move>
 					<name>Freeze-Dry</name>
 					<level>42</level>
 				</learnset_move>

@@ -1,68 +1,68 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Florges</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Petal Dance</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wish</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Aromatherapy</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magical Leaf</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Lucky Chant</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Grass Knot</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Petal Blizzard</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Disarming Voice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flower Shield</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Grassy Terrain</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Misty Terrain</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Moonblast</name>
-                    <level>1</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Florges</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Knot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Blizzard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flower Shield</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grassy Terrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Misty Terrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

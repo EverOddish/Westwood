@@ -1,178 +1,178 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Hoopa</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Trick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ally Switch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyperspace Hole</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magic Coat</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skill Swap</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Power Split</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guard Split</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Phantom Force</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Trick Room</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>68</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>75</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyperspace Hole</name>
-                    <level>85</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-        <learnset>
-            <games>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Confusion</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Destiny Bond</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Trick</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Ally Switch</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyperspace Hole</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Astonish</name>
-                    <level>6</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Magic Coat</name>
-                    <level>10</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Light Screen</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psybeam</name>
-                    <level>19</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Skill Swap</name>
-                    <level>25</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Guard Split</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Power Split</name>
-                    <level>29</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Phantom Force</name>
-                    <level>35</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Zen Headbutt</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Trick Room</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Wonder Room</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Shadow Ball</name>
-                    <level>55</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Nasty Plot</name>
-                    <level>68</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Psychic</name>
-                    <level>75</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyperspace Hole</name>
-                    <level>85</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Hoopa</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyperspace Hole</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Phantom Force</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick Room</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyperspace Hole</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyperspace Hole</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Phantom Force</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick Room</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyperspace Hole</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

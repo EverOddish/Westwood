@@ -1,84 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Volcanion</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon X</game>
-                <game>Pokemon Y</game>
-                <game>Pokemon Omega Ruby</game>
-                <game>Pokemon Alpha Sapphire</game>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Take Down</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Steam Eruption</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Mist</name>
-                    <level>8</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Haze</name>
-                    <level>11</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flame Charge</name>
-                    <level>15</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Water Pulse</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Stomp</name>
-                    <level>28</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Scald</name>
-                    <level>32</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Weather Ball</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Body Slam</name>
-                    <level>46</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hydro Pump</name>
-                    <level>50</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Flare Blitz</name>
-                    <level>58</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Overheat</name>
-                    <level>65</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Explosion</name>
-                    <level>76</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Steam Eruption</name>
-                    <level>85</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Volcanion</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steam Eruption</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scald</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Weather Ball</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Overheat</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>76</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steam Eruption</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

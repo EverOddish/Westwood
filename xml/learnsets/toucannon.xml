@@ -1,88 +1,88 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_learnsets>
-    <name>Toucannon</name>
-    <learnsets>
-        <learnset>
-            <games>
-                <game>Pokemon Sun</game>
-                <game>Pokemon Moon</game>
-                <game>Pokemon Ultra Sun</game>
-                <game>Pokemon Ultra Moon</game>
-            </games>
-            <learnset_moves>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Peck</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Smash</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Blast</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Echoed Voice</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Beak Blast</name>
-                    <level>1</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Growl</name>
-                    <level>3</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Echoed Voice</name>
-                    <level>7</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Rock Smash</name>
-                    <level>9</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Supersonic</name>
-                    <level>13</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Pluck</name>
-                    <level>16</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Roost</name>
-                    <level>21</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Fury Attack</name>
-                    <level>24</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Screech</name>
-                    <level>30</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Drill Peck</name>
-                    <level>34</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Bullet Seed</name>
-                    <level>40</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Feather Dance</name>
-                    <level>44</level>
-                </learnset_move>
-                <learnset_move>
-                    <name>Hyper Voice</name>
-                    <level>50</level>
-                </learnset_move>
-            </learnset_moves>
-        </learnset>
-    </learnsets>
+	<name>Toucannon</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Smash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beak Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Smash</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
 </pokemon_learnsets>

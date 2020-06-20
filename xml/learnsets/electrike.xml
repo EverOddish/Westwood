@@ -309,66 +309,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leer</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Howl</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>12</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shock Wave</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bite</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Fang</name>
-					<level>24</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Roar</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Discharge</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Charge</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wild Charge</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder</name>
-					<level>44</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<learnset_moves>

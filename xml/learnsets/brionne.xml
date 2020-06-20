@@ -185,66 +185,6 @@
 					<level>9</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Icy Wind</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sing</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bubble Beam</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Encore</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Misty Terrain</name>
-					<level>35</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper Voice</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Moonblast</name>
-					<level>45</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hydro Pump</name>
-					<level>50</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Sword</game>
-				<game>Pokemon Shield</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Pound</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Growl</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Water Gun</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Disarming Voice</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aqua Jet</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
 					<name>Baby-Doll Eyes</name>
 					<level>12</level>
 				</learnset_move>
