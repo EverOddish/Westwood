@@ -4945,4 +4945,54 @@
         <cost>0</cost>
         <description>Raises a Pokemon's Special Defense growth rate and lowers its Special Attack growth rate</description>
     </item>
+    <item>
+        <name>Max Honey</name>
+        <cost>0</cost>
+        <description>Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive.</description>
+    </item>
+    <item>
+        <name>Max Mushrooms</name>
+        <cost>0</cost>
+        <description>Mushrooms that have the power of changing Dynamax forms. They boost all stats of a Pokémon during battle.</description>
+    </item>
+    <item>
+        <name>Galarica Twig</name>
+        <cost>0</cost>
+        <description>A twig from a species of tree called Galarica that grows in certain areas around the Galar region. It’s a material for an accessory for a certain Pokémon.</description>
+    </item>
+    <item>
+        <name>Galarica Cuff</name>
+        <cost>0</cost>
+        <description>A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.</description>
+    </item>
+    <item>
+        <name>Style Card</name>
+        <cost>0</cost>
+        <description>A card that increases the selection in boutiques and hair salons.</description>
+    </item>
+    <item>
+        <name>Armor Pass</name>
+        <cost>0</cost>
+        <description>A pass to go to the Isle of Armor. Show it to the rail staff at Wedgehurst Station.</description>
+    </item>
+    <item>
+        <name>Rotom Bike</name>
+        <cost>0</cost>
+        <description>This bike can do a turbo boost and run on the water using Rotom’s power. It’s a sparkling white that shines brilliantly.</description>
+    </item>
+    <item>
+        <name>Exp. Charm</name>
+        <cost>0</cost>
+        <description>A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside the charm.</description>
+    </item>
+    <item>
+        <name>Armorite Ore</name>
+        <cost>0</cost>
+        <description>Rare ore that can be obtained on the Isle of Armor. Something good will happen if you give it to a collector on the Isle of Armor.</description>
+    </item>
+    <item>
+        <name>Mark Charm</name>
+        <cost>0</cost>
+        <description>A mysterious and unique charm that increases the chance of finding a Pokémon with a mark.</description>
+    </item>
 </items>
