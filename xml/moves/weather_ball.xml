@@ -46,8 +46,6 @@
 				<description>This attack move varies in power and type depending on the weather.</description>
 			</move_definition>
 		</move_record>
-	</move_records>
-	<move_records>
 		<move_record>
 			<games>
 				<game>Pokemon Emerald Kaizo</game>
@@ -56,7 +54,7 @@
 				<generation>3</generation>
 				<type>Normal</type>
 				<base_power>100</base_power>
-				<power_points>15</power_points>
+				<power_points>16</power_points>
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>

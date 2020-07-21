@@ -46,5 +46,20 @@
 				<description>User foregoes its next turn to recharge.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Water</type>
+				<base_power>150</base_power>
+				<power_points>8</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description>User foregoes its next turn to recharge.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

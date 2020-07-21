@@ -60,5 +60,20 @@
 				<description>Inflicts regular damage and can hit Dive users.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Water</type>
+				<base_power>95</base_power>
+				<power_points>24</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description>Inflicts regular damage and can hit Dive users.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

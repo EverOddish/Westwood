@@ -46,5 +46,20 @@
 				<description>Raises the user's evasion by one stage.</description>
 			</move_definition>
 		</move_record>
+        <move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Normal</type>
+				<base_power>0</base_power>
+				<power_points>6</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<description>Raises the user's evasion by one stage.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

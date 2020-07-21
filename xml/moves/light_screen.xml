@@ -46,5 +46,20 @@
 				<description>Reduces damage from special attacks by 50% for five turns.</description>
 			</move_definition>
 		</move_record>
+        <move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Psychic</type>
+				<base_power>0</base_power>
+				<power_points>3</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<description>Reduces damage from special attacks by 50% for five turns.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

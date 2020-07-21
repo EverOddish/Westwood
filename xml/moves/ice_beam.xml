@@ -64,5 +64,22 @@
 				<description>Has a 10% chance to freeze the target.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Ice</type>
+				<base_power>95</base_power>
+				<power_points>16</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect>Inflicts freeze</effect>
+				<effect_chance>10</effect_chance>
+				<description>Has a 10% chance to freeze the target.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>
