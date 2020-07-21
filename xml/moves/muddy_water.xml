@@ -64,5 +64,22 @@
 				<description>Has a 30% chance to lower the target's accuracy by one stage.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Water</type>
+				<base_power>95</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect/>
+				<effect_chance>30</effect_chance>
+				<description>Has a 30% chance to lower the target's accuracy by one stage.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

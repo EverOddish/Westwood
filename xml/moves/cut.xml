@@ -79,5 +79,21 @@
 				<description>Has an increased chance for a critical hit.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Normal</type>
+				<base_power>50</base_power>
+				<power_points>30</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect>Inflicts regular damage</effect>
+				<description>Inflicts regular damage with no additional effect.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>
