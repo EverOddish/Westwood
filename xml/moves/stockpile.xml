@@ -60,5 +60,20 @@
 				<description>Stores energy up to three times for use with Spit Up and Swallow.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Normal</type>
+				<base_power>0</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<description>Raises the user's Defense and Special Defense by one stage.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

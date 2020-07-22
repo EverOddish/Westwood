@@ -77,5 +77,20 @@
 				<description>Never misses.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Ghost</type>
+				<base_power>70</base_power>
+				<power_points>20</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description>Never misses.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

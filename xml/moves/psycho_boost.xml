@@ -48,5 +48,22 @@
 				<description>Lowers the user's Special Attack by two stages after inflicting damage.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Psychic</type>
+				<base_power>140</base_power>
+				<power_points>5</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect/>
+				<effect_chance>100</effect_chance>
+				<description>User receives 1/4 the damage inflicted in recoil.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

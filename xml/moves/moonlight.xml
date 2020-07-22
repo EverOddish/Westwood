@@ -60,5 +60,20 @@
 				<description>Heals the user by half its max HP.  Affected by weather.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Normal</type>
+				<base_power>0</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<description>Heals the user by half its max HP.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

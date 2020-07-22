@@ -48,5 +48,22 @@
 				<description>Has a 50% chance to burn the target.  Lets frozen Pokémon thaw themselves.</description>
 			</move_definition>
 		</move_record>
+        <move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Fire</type>
+				<base_power>120</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect/>
+				<effect_chance>50</effect_chance>
+				<description>Has a 50% chance to burn the target.  Lets frozen Pokémon thaw themselves.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

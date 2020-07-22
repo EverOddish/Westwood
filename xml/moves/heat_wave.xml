@@ -72,7 +72,7 @@
 				<generation>3</generation>
 				<type>Fire</type>
 				<base_power>100</base_power>
-				<power_points>10</power_points>
+				<power_points>16</power_points>
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>

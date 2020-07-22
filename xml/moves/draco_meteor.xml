@@ -64,5 +64,22 @@
 				<description>Lowers the user's Special Attack by two stages after inflicting damage.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>4</generation>
+				<type>Dragon</type>
+				<base_power>120</base_power>
+				<power_points>8</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect/>
+				<effect_chance>100</effect_chance>
+				<description>User receives 1/3 the damage inflicted in recoil.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>
