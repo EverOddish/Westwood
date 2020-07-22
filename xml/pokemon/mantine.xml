@@ -69,6 +69,17 @@
 			<special_defense>140</special_defense>
 			<speed>70</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<hp>85</hp>
+			<attack>40</attack>
+			<defense>70</defense>
+			<special_attack>80</special_attack>
+			<special_defense>140</special_defense>
+			<speed>70</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>
