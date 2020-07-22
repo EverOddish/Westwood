@@ -62,5 +62,21 @@
 				<description>Drains half the damage inflicted to heal the user.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Bug</type>
+				<base_power>40</base_power>
+				<power_points>24</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect>Heals half the damage inflicted</effect>
+				<description>Drains half the damage inflicted to heal the user.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

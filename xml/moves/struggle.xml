@@ -60,5 +60,20 @@
 				<description>User takes 1/4 its max HP in recoil.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Normal</type>
+				<base_power>50</base_power>
+				<power_points>1</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description>User takes 1/4 its max HP in recoil.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>
