@@ -171,6 +171,21 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games_tag>
+				<game>Pokemon Emerald Kaizo</game>
+			</games_tag>
+			<ability_records>
+				<ability_record>
+					<name>Battle Armor</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Sturdy</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Field</egg_groups>
 </pokemon>

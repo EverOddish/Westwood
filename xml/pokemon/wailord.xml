@@ -173,6 +173,21 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games_tag>
+				<game>Pokemon Emerald Kaizo</game>
+			</games_tag>
+			<ability_records>
+				<ability_record>
+					<name>Pressure</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Oblivious</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Field, Water 2</egg_groups>
 </pokemon>
