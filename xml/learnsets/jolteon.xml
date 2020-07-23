@@ -866,5 +866,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand-Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thundershock</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Kick</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

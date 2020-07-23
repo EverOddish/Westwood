@@ -436,5 +436,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-destruct</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

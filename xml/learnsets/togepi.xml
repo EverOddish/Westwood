@@ -567,5 +567,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Softboiled</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

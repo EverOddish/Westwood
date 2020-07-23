@@ -644,5 +644,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -674,5 +674,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

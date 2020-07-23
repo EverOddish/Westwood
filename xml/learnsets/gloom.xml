@@ -664,5 +664,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Weather Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>42</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

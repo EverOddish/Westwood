@@ -723,5 +723,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will-o-wisp</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

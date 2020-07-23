@@ -507,5 +507,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extremespeed</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will-o-wisp</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Fire</name>
+					<level>81</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

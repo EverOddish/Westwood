@@ -732,5 +732,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissors</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

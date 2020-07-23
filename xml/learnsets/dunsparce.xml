@@ -821,5 +821,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

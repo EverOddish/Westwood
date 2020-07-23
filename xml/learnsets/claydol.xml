@@ -866,5 +866,72 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-slap</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-destruct</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

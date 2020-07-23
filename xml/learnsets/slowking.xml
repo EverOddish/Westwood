@@ -783,5 +783,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

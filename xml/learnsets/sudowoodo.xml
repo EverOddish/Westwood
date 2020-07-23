@@ -655,5 +655,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

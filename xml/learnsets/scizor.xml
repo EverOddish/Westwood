@@ -721,5 +721,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissors</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

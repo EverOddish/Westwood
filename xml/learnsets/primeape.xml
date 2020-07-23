@@ -796,5 +796,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

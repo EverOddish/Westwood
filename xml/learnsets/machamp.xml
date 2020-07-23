@@ -810,5 +810,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mega Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamicpunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vital Throw</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Kick</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

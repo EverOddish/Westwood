@@ -755,5 +755,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand-Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -492,5 +492,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-slap</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flash Cannon</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth power</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

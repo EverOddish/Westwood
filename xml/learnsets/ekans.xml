@@ -560,5 +560,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

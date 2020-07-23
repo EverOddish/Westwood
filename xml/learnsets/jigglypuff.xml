@@ -812,5 +812,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper voice</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -368,5 +368,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -336,5 +336,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Encore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

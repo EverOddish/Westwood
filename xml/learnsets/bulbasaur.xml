@@ -512,5 +512,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>VineWhip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

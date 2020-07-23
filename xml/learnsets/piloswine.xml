@@ -713,5 +713,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

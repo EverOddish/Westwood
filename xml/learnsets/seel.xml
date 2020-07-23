@@ -402,5 +402,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

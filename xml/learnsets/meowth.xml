@@ -650,5 +650,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pay Day</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

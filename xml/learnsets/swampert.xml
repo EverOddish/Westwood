@@ -632,5 +632,68 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hydro Cannon</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge bomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

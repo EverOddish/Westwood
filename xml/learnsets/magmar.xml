@@ -451,5 +451,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

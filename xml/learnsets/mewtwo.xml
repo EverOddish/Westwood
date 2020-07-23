@@ -698,5 +698,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>66</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>77</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>88</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

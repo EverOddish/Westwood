@@ -710,5 +710,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Beak</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

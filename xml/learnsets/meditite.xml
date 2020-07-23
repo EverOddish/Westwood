@@ -532,5 +532,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Karate chop</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>seismic Toss</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hi Jump Kick</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

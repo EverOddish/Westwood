@@ -337,5 +337,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poisonpowder</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Powder</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

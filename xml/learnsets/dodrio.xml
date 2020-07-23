@@ -678,5 +678,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

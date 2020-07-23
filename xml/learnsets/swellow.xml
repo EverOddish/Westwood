@@ -548,5 +548,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

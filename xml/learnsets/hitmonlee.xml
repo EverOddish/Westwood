@@ -798,5 +798,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rolling Kick</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hi Jump Kick</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Kick</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hi Jump Kick</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

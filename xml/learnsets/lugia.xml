@@ -373,5 +373,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Aeroblast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>66</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>69</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

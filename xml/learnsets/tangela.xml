@@ -816,5 +816,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

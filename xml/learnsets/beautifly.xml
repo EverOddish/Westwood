@@ -476,5 +476,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>28</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

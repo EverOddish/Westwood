@@ -518,5 +518,68 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

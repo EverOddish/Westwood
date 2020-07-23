@@ -754,5 +754,76 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunderpunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blast Burn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hi Jump Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Upeprcut</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

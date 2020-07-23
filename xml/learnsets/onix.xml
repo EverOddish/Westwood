@@ -914,5 +914,100 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

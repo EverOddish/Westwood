@@ -873,5 +873,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>SignalBeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

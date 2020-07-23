@@ -516,5 +516,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twineedle</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissors</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

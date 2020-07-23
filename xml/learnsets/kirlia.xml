@@ -672,5 +672,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

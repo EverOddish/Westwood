@@ -443,5 +443,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

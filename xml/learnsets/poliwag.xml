@@ -413,5 +413,11 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves/>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -495,5 +495,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

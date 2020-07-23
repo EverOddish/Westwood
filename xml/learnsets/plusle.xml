@@ -540,5 +540,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thundershock</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

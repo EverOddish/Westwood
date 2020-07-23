@@ -632,5 +632,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will-o-wisp</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

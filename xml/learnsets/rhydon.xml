@@ -898,5 +898,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -526,5 +526,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

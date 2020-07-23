@@ -520,5 +520,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

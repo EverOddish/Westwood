@@ -701,5 +701,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderpunch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

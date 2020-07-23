@@ -794,5 +794,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

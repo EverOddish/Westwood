@@ -686,5 +686,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bone Club</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bonemerang</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

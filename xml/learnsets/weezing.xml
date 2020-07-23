@@ -898,5 +898,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

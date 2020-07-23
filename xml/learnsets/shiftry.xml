@@ -366,5 +366,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

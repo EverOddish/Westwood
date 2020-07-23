@@ -704,5 +704,68 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Overheat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -692,5 +692,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

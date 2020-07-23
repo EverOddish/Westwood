@@ -668,5 +668,64 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lovely Kiss</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lovely Kiss</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -404,5 +404,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flatter</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -279,5 +279,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Present</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>13</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

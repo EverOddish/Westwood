@@ -602,5 +602,72 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vital Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Punch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

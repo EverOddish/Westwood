@@ -465,5 +465,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamehrower</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>31</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

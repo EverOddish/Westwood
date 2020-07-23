@@ -894,5 +894,72 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderpunch</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

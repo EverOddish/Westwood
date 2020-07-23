@@ -461,5 +461,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice punch</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -346,5 +346,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

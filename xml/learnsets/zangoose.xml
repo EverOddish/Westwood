@@ -494,5 +494,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissors</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
