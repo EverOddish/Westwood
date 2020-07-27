@@ -64,4 +64,18 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<tm_definition>
+				<number>37</number>
+				<location>Safari Zone, Celadon Department Store</location>
+				<cost>$2000</cost>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

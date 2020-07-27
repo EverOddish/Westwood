@@ -77,4 +77,17 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<tm_definition>
+				<number>28</number>
+				<location>Cerulean City</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

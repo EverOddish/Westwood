@@ -49,7 +49,6 @@
 		<move_record>
 			<games>
 				<game>Pokemon Emerald Kaizo</game>
-
 			</games>
 			<move_definition>
 				<generation>1</generation>
@@ -63,4 +62,17 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Red</game>
+				<game>Pokemon Blue</game>
+				<game>Pokemon Yellow</game>
+			</games>
+			<tm_definition>
+				<number>18</number>
+				<location>Celadon Department Store</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

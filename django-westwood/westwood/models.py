@@ -158,9 +158,24 @@ class MoveRecordsListElement(models.Model):
     sequence_number = models.IntegerField()
     element = models.ForeignKey(MoveRecord, on_delete=models.CASCADE)
 
+class TmDefinition(models.Model):
+    number = models.IntegerField(default=0)
+    location = models.CharField(max_length=500)
+    cost = models.CharField(max_length=500, null=True)
+
+class TmRecord(models.Model):
+    games = models.IntegerField()    # Games list_id
+    tm_definition = models.ForeignKey(TmDefinition, on_delete=models.CASCADE)
+
+class TmRecordsListElement(models.Model):
+    list_id = models.IntegerField()
+    sequence_number = models.IntegerField()
+    element = models.ForeignKey(TmRecord, on_delete=models.CASCADE)
+
 class Move(models.Model):
     name = models.CharField(max_length=500)
     move_records = models.IntegerField()    # MoveRecords list_id
+    tm_records = models.IntegerField()    # TmRecords list_id
 
 class Ability(models.Model):
     name = models.CharField(max_length=500)
@@ -263,7 +278,7 @@ class PokemonForm(models.Model):
     stat_sets = models.IntegerField()    # StatSets list_id
     type_sets = models.IntegerField()    # TypeSets list_id
     ability_sets = models.IntegerField()    # AbilitySets list_id
-    evolution_sets = models.IntegerField(default=0)    # EvolutionSets list_id
+    evolution_sets = models.IntegerField()    # EvolutionSets list_id
 
 class RomHack(models.Model):
     title = models.CharField(max_length=500)

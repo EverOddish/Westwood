@@ -45,11 +45,39 @@
         </xs:complexType>
     </xs:element>
 
+    <xs:element name="tm_definition">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="number" type="xs:positiveInteger"/>
+                <xs:element name="location" type="xs:string"/>
+                <xs:element name="cost" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="tm_record">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="games"/>
+                <xs:element ref="tm_definition"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="tm_records">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="tm_record" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
     <xs:element name="move">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="name" type="xs:string"/>
                 <xs:element ref="move_records"/>
+                <xs:element ref="tm_records" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
