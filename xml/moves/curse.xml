@@ -74,7 +74,7 @@
 				<description>Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.</description>
 			</move_definition>
 		</move_record>
-        <move_record>
+		<move_record>
 			<games>
 				<game>Pokemon Emerald Kaizo</game>
 			</games>
@@ -90,4 +90,17 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>03</number>
+				<location>Celadon Mansion</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

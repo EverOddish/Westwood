@@ -102,5 +102,16 @@
 				<location>Prize for defeating Koga</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>06</number>
+				<location>Prize for defeating Janine</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

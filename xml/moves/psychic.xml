@@ -94,5 +94,16 @@
 				<location>Saffron City</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>29</number>
+				<location>Saffron City, Celadon Game Corner</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

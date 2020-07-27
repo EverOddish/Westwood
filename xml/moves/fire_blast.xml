@@ -94,5 +94,16 @@
 				<location>Prize for defeating Blaine</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>38</number>
+				<location>Goldenrod Game Corner</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

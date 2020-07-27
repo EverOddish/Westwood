@@ -88,5 +88,16 @@
 				<location>Safari Zone</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>03</number>
+				<location>Ecruteak City</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

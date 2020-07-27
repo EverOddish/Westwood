@@ -59,5 +59,16 @@
 				<location>Route 12</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>39</number>
+				<location>Union Cave</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -74,5 +74,16 @@
 				<location>Pokémon Mansion</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>22</number>
+				<location>Route 27</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

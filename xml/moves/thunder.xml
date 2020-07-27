@@ -94,5 +94,16 @@
 				<location>Kanto Power Plant</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>25</number>
+				<location>Goldenrod Game Corner</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

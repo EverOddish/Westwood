@@ -67,4 +67,18 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>41</number>
+				<location>Goldenrod Department Store</location>
+				<cost>$3000</cost>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

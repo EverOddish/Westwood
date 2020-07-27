@@ -62,4 +62,17 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Gold</game>
+				<game>Pokemon Silver</game>
+				<game>Pokemon Crystal</game>
+			</games>
+			<tm_definition>
+				<number>12</number>
+				<location>Route 34</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>
