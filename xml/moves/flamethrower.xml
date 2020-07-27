@@ -64,7 +64,7 @@
 				<description>Has a 10% chance to burn the target.</description>
 			</move_definition>
 		</move_record>
-        <move_record>
+		<move_record>
 			<games>
 				<game>Pokemon Emerald Kaizo</game>
 			</games>
@@ -82,4 +82,27 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>35</number>
+				<location>Mauville Game Corner</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>35</number>
+				<location>Rocket Game Corner</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

@@ -94,4 +94,27 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>09</number>
+				<location>Route 104</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>09</number>
+				<location>Mt. Moon</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

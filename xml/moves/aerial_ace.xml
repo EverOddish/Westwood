@@ -47,4 +47,27 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>40</number>
+				<location>Prize for defeating Winona</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>40</number>
+				<location>Route 9</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

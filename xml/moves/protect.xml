@@ -60,5 +60,28 @@
 				<cost>$3000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>17</number>
+				<location>Lilycove Department Store</location>
+				<cost>$3000</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>17</number>
+				<location>Kanto Power Plant</location>
+				<cost>$3000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

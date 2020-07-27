@@ -94,5 +94,26 @@
 				<location>Prize for defeating Lt. Surge</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Gift from Wattson, Mauville Game Corner</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Rocket Game Corner</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -106,5 +106,26 @@
 				<location>Prize for defeating Erika</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>19</number>
+				<location>Route 123, Trainer HillE</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>19</number>
+				<location>Prize for defeating Erika</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

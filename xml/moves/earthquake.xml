@@ -85,5 +85,26 @@
 				<location>Victory Road</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>26</number>
+				<location>Seafloor Cavern, PickupE (1% chance, lv 91-100)</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>26</number>
+				<location>Prize for defeating Giovanni</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

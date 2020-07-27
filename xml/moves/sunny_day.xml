@@ -75,5 +75,26 @@
 				<cost>$2000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>11</number>
+				<location>Scorched Slab, Trainer HillE</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>11</number>
+				<location>Safari Zone</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

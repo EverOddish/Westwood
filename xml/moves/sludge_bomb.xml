@@ -78,5 +78,26 @@
 				<location>Route 43</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ruby</game>
+				<game>Pokemon Sapphire</game>
+				<game>Pokemon Emerald</game>
+			</games>
+			<tm_definition>
+				<number>36</number>
+				<location>Dewford Town</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon FireRed</game>
+				<game>Pokemon LeafGreen</game>
+			</games>
+			<tm_definition>
+				<number>36</number>
+				<location>Rocket Warehouse</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>
