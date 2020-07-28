@@ -177,5 +177,25 @@
 				<location>Route 5</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>02</number>
+				<location>Coumarine City</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>02</number>
+				<location>Fortree City</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

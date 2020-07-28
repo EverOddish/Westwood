@@ -163,5 +163,25 @@
 				<location>Route 13</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>29</number>
+				<location>Pokémon Village</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>29</number>
+				<location>Ever Grande City</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

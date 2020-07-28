@@ -84,5 +84,25 @@
 				<cost>$10000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>74</number>
+				<location>Reflection Cave</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>74</number>
+				<location>Mirage Forest (north of Route 111)</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

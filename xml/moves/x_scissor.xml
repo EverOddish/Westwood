@@ -100,5 +100,25 @@
 				<location>Route 7</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>81</number>
+				<location>Azure Bay</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>81</number>
+				<location>Victory Road</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

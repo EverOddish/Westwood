@@ -48,4 +48,26 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>99</number>
+				<location>Prize for defeating Valerie</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>99</number>
+				<location>Route 123</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

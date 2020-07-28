@@ -150,5 +150,26 @@
 				<location>Route 23</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>05</number>
+				<location>Battle Maison</location>
+				<cost>24 BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>05</number>
+				<location>Route 114</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

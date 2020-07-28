@@ -89,5 +89,25 @@
 				<location>Driftveil City market</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>63</number>
+				<location>Coumarine City</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>63</number>
+				<location>S.S. Tidal</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

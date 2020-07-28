@@ -110,5 +110,25 @@
 				<location>Castelia Sewers</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>41</number>
+				<location>Laverre City</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>41</number>
+				<location>Slateport City</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -72,5 +72,26 @@
 				<cost>18BP</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>23</number>
+				<location>Battle Maison</location>
+				<cost>32 BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>23</number>
+				<location>Fallarbor Town</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

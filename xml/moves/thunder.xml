@@ -174,5 +174,27 @@
 				<cost>$70000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>25</number>
+				<location>Anistar City Poké Mart</location>
+				<cost>$70,000</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>25</number>
+				<location>Lilycove Department Store</location>
+				<cost>$30,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

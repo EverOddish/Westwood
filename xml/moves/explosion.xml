@@ -134,5 +134,26 @@
 				<cost>24BP</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>64</number>
+				<location>Battle Maison</location>
+				<cost>48 BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>64</number>
+				<location>Sky Pillar</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -70,5 +70,26 @@
 				<cost>18BP</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>48</number>
+				<location>Battle Maison</location>
+				<cost>16 BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>48</number>
+				<location>Mauville City</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

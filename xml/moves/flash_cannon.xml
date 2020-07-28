@@ -100,5 +100,25 @@
 				<location>Twist Mountain</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>91</number>
+				<location>Kiloude City</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>91</number>
+				<location>Mirage Island (north of Route 125)</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

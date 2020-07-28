@@ -149,5 +149,25 @@
 				<location>Route 15</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>26</number>
+				<location>Route 22</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>26</number>
+				<location>Seafloor Cavern</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -92,5 +92,26 @@
 				<location>Twist Mountain</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>71</number>
+				<location>Frost Cavern</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>71</number>
+				<location>Lilycove Department Store</location>
+				<cost>$30,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

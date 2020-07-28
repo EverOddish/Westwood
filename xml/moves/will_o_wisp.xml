@@ -97,5 +97,25 @@
 				<location>Celestial Tower</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>61</number>
+				<location>Route 14</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>61</number>
+				<location>Mt. Pyre</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

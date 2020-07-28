@@ -87,5 +87,25 @@
 				<location>Prize for defeating Marlon</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>55</number>
+				<location>Couriway Town</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>55</number>
+				<location>Seafloor Cavern</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

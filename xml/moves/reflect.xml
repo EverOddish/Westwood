@@ -134,5 +134,27 @@
 				<cost>$30000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>33</number>
+				<location>Kiloude City Poké Mart</location>
+				<cost>$30,000</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>33</number>
+				<location>Lilycove Department Store</location>
+				<cost>$10,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

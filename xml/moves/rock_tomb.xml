@@ -145,5 +145,25 @@
 				<location>Relic Castle</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>39</number>
+				<location>Prize for defeating Grant</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>39</number>
+				<location>Prize for defeating Roxanne</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

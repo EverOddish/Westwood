@@ -139,5 +139,25 @@
 				<location>From Team Plasma Grunt on Floccesy Ranch</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>21</number>
+				<location>Connecting Cave</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>21</number>
+				<location>Pacifidlog Town</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

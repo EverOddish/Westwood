@@ -145,5 +145,26 @@
 				<location>N's Castle</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon X</game>
+				<game>Pokemon Y</game>
+			</games>
+			<tm_definition>
+				<number>50</number>
+				<location>Kiloude City Poké Mart</location>
+				<cost>$80,000</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Omega Ruby</game>
+				<game>Pokemon Alpha Sapphire</game>
+			</games>
+			<tm_definition>
+				<number>50</number>
+				<location>Prize for defeating Flannery</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>
