@@ -80,5 +80,28 @@
 				<location>Route 24, Celadon Department Store</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>45</number>
+				<location>Battle Tower prize, Amity Square</location>
+				<cost>32BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>45</number>
+				<location>Prize for defeating Whitney, Battle Frontier prize</location>
+				<cost>32BP</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

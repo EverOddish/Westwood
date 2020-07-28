@@ -63,4 +63,29 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>59</number>
+				<location>Battle Tower prize, Victory Road</location>
+				<cost>80BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>59</number>
+				<location>Prize for defeating Clair, Battle Frontier prize</location>
+				<cost>80BP</cost>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

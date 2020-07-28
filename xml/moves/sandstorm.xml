@@ -95,5 +95,28 @@
 				<location>Victory Road</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>37</number>
+				<location>Route 212DP, Route 228</location>
+				<cost>10 Yellow ShardsDP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>37</number>
+				<location>Route 27, Pokéwalker (Town Outskirts)</location>
+				<cost>10 Yellow ShardsDP</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

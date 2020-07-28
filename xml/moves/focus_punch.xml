@@ -69,5 +69,26 @@
 				<location>Silph Co.</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>01</number>
+				<location>Oreburgh Gate, Pickup (1% chance, lv 71-90)</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>01</number>
+				<location>Prize for defeating Chuck</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -106,5 +106,28 @@
 				<location>Prize for defeating Giovanni</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>26</number>
+				<location>Wayward Cave (secret entrance under bike path), Battle Tower prize, Pickup (1% chance, lv 91-100)</location>
+				<cost>80BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>26</number>
+				<location>Victory Road, Battle Frontier prize, Pickup (1% chance, lv 91-100)</location>
+				<cost>80BP</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

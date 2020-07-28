@@ -74,5 +74,26 @@
 				<location>Goldenrod Department Store basement</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>82</number>
+				<location>Eterna Forest</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>82</number>
+				<location>Goldenrod Tunnel</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

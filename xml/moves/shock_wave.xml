@@ -85,5 +85,26 @@
 				<location>Prize for defeating Lt. Surge</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>34</number>
+				<location>Route 215</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>34</number>
+				<location>Prize for defeating Lt. Surge</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

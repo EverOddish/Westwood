@@ -116,5 +116,28 @@
 				<location>Rocket Game Corner</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>13</number>
+				<location>Route 216, Veilstone Game Corner</location>
+				<cost>10000C</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>13</number>
+				<location>Goldenrod Game Corner, Seafoam Islands</location>
+				<cost>10000C</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

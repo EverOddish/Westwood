@@ -91,5 +91,28 @@
 				<location>S.S. Anne</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>44</number>
+				<location>Veilstone Game Corner, Pickup (1% chance, lv 51-70)</location>
+				<cost>6000C</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>44</number>
+				<location>Route 31, Goldenrod Game Corner</location>
+				<cost>6000C</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

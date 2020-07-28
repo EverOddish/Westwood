@@ -116,5 +116,28 @@
 				<location>Rocket Game Corner</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Veilstone Game Corner, Valley Windworks</location>
+				<cost>10000C</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Goldenrod Game Corner, Cerulean Cave</location>
+				<cost>10000C</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

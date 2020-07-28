@@ -69,5 +69,28 @@
 				<location>Route 9</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>40</number>
+				<location>Route 213, Battle Tower prize</location>
+				<cost>40 BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>40</number>
+				<location>Mt. Mortar, Battle Frontier prize</location>
+				<cost>40 BP</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

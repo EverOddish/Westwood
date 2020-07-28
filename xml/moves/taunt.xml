@@ -69,5 +69,26 @@
 				<location>Rocket Hideout</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>12</number>
+				<location>Route 211</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>12</number>
+				<location>Route 34 outpost, Burned Tower, Celadon Department Store</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

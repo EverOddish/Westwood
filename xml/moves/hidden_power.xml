@@ -97,5 +97,28 @@
 				<cost>$3000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>10</number>
+				<location>Trainers' SchoolDP, Veilstone Game Corner</location>
+				<cost>6000C</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>10</number>
+				<location>Lake of Rage, Celadon Game Corner, Pokéwalker (Quiet Cave)</location>
+				<cost>6000C</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

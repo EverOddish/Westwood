@@ -94,5 +94,26 @@
 				<location>Mt. Moon</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>46</number>
+				<location>Eterna City</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>46</number>
+				<location>Team Rocket HQ</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

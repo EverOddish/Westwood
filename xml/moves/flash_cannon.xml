@@ -48,7 +48,7 @@
 				<description>Has a 10% chance to lower the target's Special Defense by one stage.</description>
 			</move_definition>
 		</move_record>
-        <move_record>
+		<move_record>
 			<games>
 				<game>Pokemon Emerald Kaizo</game>
 			</games>
@@ -66,4 +66,27 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>91</number>
+				<location>Prize for defeating Byron</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>91</number>
+				<location>Route 9, Goldenrod City Lottery</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

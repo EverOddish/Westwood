@@ -95,5 +95,28 @@
 				<location>Route 12</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>27</number>
+				<location>Veilstone Game Corner, Sandgem TownPt</location>
+				<cost>8000C</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>27</number>
+				<location>Goldenrod Department Store, Celadon Department Store</location>
+				<cost>8000C</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

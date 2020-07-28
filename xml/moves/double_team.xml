@@ -109,5 +109,28 @@
 				<location>Safari Zone</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Diamond</game>
+				<game>Pokemon Pearl</game>
+				<game>Pokemon Platinum</game>
+			</games>
+			<tm_definition>
+				<number>32</number>
+				<location>Wayward Cave, Veilstone Game Corner</location>
+				<cost>4000C</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon HeartGold</game>
+				<game>Pokemon SoulSilver</game>
+			</games>
+			<tm_definition>
+				<number>32</number>
+				<location>Celadon Game Corner</location>
+				<cost>4000C</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>
