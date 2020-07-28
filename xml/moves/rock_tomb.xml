@@ -177,5 +177,15 @@
 				<location>Wela Volcano Park</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>48</number>
+				<location>Prize for defeating GordieSw CirchesterSh</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

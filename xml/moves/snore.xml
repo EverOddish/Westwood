@@ -77,5 +77,15 @@
 				<location>Moomoo Farm, Dark Cave</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Glimwood Tangle</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

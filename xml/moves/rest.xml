@@ -159,5 +159,15 @@
 				<cost>$1,000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>21</number>
+				<location>Ballonlea</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

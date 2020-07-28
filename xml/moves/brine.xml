@@ -69,5 +69,16 @@
 				<location>Celadon Department Store, Route 19</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>55</number>
+				<location>Hammerlocke</location>
+				<cost>$10,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

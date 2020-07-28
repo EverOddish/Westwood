@@ -78,5 +78,15 @@
 				<location>Prize for defeating Pryce</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>27</number>
+				<location>CirchesterSw Prize for defeating MelonySh</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

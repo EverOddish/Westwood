@@ -47,4 +47,17 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>41</number>
+				<location>Motostoke</location>
+				<cost>$10,000</cost>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

@@ -48,4 +48,16 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>69</number>
+				<location>Route 2</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

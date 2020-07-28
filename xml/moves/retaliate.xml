@@ -89,5 +89,15 @@
 				<location>Prize for defeating Norman</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>79</number>
+				<location>Hulbury</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

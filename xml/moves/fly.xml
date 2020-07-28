@@ -209,5 +209,15 @@
 				<location>Malie Library</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>06</number>
+				<location>Stow-on-Side</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

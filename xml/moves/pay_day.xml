@@ -60,5 +60,15 @@
 				<location>Route 12</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>02</number>
+				<location>Motostoke</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

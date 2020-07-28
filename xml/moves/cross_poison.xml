@@ -66,4 +66,16 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>73</number>
+				<location>Dusty Bowl</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

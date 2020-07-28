@@ -121,5 +121,16 @@
 				<location>Hau'oli Cemetery</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>59</number>
+				<location>Battle Tower</location>
+				<cost>$100,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

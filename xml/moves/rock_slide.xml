@@ -185,5 +185,15 @@
 				<location>Route 17</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>22</number>
+				<location>Route 9</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

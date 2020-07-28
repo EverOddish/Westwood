@@ -81,5 +81,15 @@
 				<location>Mount Hokulani</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>80</number>
+				<location>Wild Area (Rotom Rally)</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

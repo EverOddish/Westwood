@@ -100,5 +100,15 @@
 				<cost>$10,000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>75</number>
+				<location>Bridge Field</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

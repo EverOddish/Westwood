@@ -110,5 +110,15 @@
 				<location>Team Rocket HQ</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>36</number>
+				<location>Prize for defeating Nessa</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

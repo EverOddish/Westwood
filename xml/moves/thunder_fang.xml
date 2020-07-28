@@ -67,4 +67,17 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>66</number>
+				<location>Hammerlocke</location>
+				<cost>$30,000</cost>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

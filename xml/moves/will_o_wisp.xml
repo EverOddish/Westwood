@@ -129,5 +129,15 @@
 				<location>Konikoni City</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>38</number>
+				<location>Prize for defeating Kabu</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

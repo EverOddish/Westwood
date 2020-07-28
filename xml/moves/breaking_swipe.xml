@@ -1,23 +1,35 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <move>
-    <name>Breaking Swipe</name>
-    <move_records>
-        <move_record>
-            <games>
-                <game>Pokemon Sword</game>
-                <game>Pokemon Shield</game>
-            </games>
-            <move_definition>
-                <generation>8</generation>
-                <type>Dragon</type>
-                <base_power>60</base_power>
-                <power_points>15</power_points>
-                <accuracy>100</accuracy>
-                <priority>0</priority>
-                <damage_category>Physical</damage_category>
+	<name>Breaking Swipe</name>
+	<move_records>
+		<move_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<move_definition>
+				<generation>8</generation>
+				<type>Dragon</type>
+				<base_power>60</base_power>
+				<power_points>15</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
 				<effect>Lowers target's attack stat</effect>
 				<effect_chance>100</effect_chance>
-            </move_definition>
-        </move_record>
-    </move_records>
+			</move_definition>
+		</move_record>
+	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>99</number>
+				<location>Prize for defeating Raihan</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

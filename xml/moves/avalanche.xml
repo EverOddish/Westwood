@@ -69,5 +69,15 @@
 				<location>Ice Path, Celadon Department Store</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>64</number>
+				<location>Route 9</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

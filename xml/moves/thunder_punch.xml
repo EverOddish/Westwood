@@ -80,5 +80,16 @@
 				<cost>$3000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tm_definition>
+				<number>05</number>
+				<location>Wyndon</location>
+				<cost>$50,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>
