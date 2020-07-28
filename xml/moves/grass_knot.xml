@@ -69,5 +69,17 @@
 				<location>Route 11, Pickup (1% chance, lv 71-90)</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>86</number>
+				<location>Pinwheel Forest</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -128,5 +128,25 @@
 				<cost>10000C</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>35</number>
+				<location>Abundant Shrine</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>35</number>
+				<location>Route 23</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

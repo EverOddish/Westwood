@@ -72,5 +72,25 @@
 				<cost>80BP</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>71</number>
+				<location>Challenger's Cave</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>71</number>
+				<location>Twist Mountain</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -69,5 +69,17 @@
 				<location>Prize for defeating Blue</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>92</number>
+				<location>Abundant Shrine</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

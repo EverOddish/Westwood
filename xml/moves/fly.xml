@@ -157,5 +157,25 @@
 				<location>Cianwood City</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>02</number>
+				<location>Driftveil City</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>02</number>
+				<location>Route 5</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

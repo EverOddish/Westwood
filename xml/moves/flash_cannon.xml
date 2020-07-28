@@ -88,5 +88,17 @@
 				<location>Route 9, Goldenrod City Lottery</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>91</number>
+				<location>Twist Mountain</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

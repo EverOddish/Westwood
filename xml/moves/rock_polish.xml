@@ -69,5 +69,25 @@
 				<location>Route 10</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>69</number>
+				<location>Chargestone Cave, from Bronius of the Seven Sages</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>69</number>
+				<location>Reversal Mountain</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

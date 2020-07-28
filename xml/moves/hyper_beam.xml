@@ -133,5 +133,18 @@
 				<cost>$7500</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>15</number>
+				<location>Shopping Mall Nine</location>
+				<cost>$90000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

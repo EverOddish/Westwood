@@ -69,5 +69,17 @@
 				<location>Route 35</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>66</number>
+				<location>Route 16</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

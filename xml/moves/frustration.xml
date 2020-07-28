@@ -118,5 +118,26 @@
 				<cost>8000C</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>21</number>
+				<location>Nimbasa City Poké Mart</location>
+				<cost>$10000</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>21</number>
+				<location>From Team Plasma Grunt on Floccesy Ranch</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

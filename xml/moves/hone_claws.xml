@@ -47,4 +47,26 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>01</number>
+				<location>Cold Storage, from Zinzolin of the Seven Sages</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>01</number>
+				<location>Victory Road</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

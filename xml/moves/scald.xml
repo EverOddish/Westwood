@@ -66,4 +66,26 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>55</number>
+				<location>Cold Storage</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>55</number>
+				<location>Prize for defeating Marlon</location>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

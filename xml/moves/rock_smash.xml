@@ -154,5 +154,25 @@
 				<location>Route 36</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>94</number>
+				<location>Pinwheel Forest</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>94</number>
+				<location>Virbank Complex</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

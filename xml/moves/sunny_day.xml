@@ -119,5 +119,18 @@
 				<cost>10 Red ShardsDP</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>11</number>
+				<location>Mistralton City Poké Mart</location>
+				<cost>$50000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

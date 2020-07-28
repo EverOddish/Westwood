@@ -106,5 +106,26 @@
 				<cost>$2000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>17</number>
+				<location>Nuvema Town, from Professor Juniper</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>17</number>
+				<location>Battle Subway, PWT</location>
+				<cost>6BP</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -92,5 +92,25 @@
 				<location>Viridian City</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>85</number>
+				<location>Dreamyard Basement</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>85</number>
+				<location>Dreamyard</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

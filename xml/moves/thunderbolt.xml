@@ -139,5 +139,25 @@
 				<cost>10000C</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>P2 Laboratory</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Victory Road</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

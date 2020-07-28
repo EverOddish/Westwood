@@ -132,5 +132,26 @@
 				<cost>4000C</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>32</number>
+				<location>Route 18, from Rood of the Seven Sages</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>32</number>
+				<location>Battle Subway, PWT</location>
+				<cost>6BP</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

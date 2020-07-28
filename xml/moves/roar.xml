@@ -130,5 +130,25 @@
 				<location>Route 32</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>05</number>
+				<location>Route 10</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>05</number>
+				<location>Route 23</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

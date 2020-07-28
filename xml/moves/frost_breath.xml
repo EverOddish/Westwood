@@ -65,4 +65,27 @@
 			</move_definition>
 		</move_record>
 	</move_records>
+	<tm_records>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>79</number>
+				<location>Prize for defeating Brycen</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>79</number>
+				<location>Battle Subway, PWT</location>
+				<cost>12BP</cost>
+			</tm_definition>
+		</tm_record>
+	</tm_records>
 </move>

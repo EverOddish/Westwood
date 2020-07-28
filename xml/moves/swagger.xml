@@ -94,5 +94,27 @@
 				<location>Glitter Lighthouse, Celadon Department Store</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black</game>
+				<game>Pokemon White</game>
+			</games>
+			<tm_definition>
+				<number>87</number>
+				<location>Battle Subway</location>
+				<cost>36BP</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
+			</games>
+			<tm_definition>
+				<number>87</number>
+				<location>Battle Subway, PWT</location>
+				<cost>18BP</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>
