@@ -57,6 +57,7 @@
 			<tm_definition>
 				<number>23</number>
 				<location>Rocket Game Corner</location>
+				<cost>3300C</cost>
 			</tm_definition>
 		</tm_record>
 	</tm_records>

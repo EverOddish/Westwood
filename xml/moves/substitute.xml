@@ -57,6 +57,7 @@
 			<tm_definition>
 				<number>50</number>
 				<location>Rocket Game Corner</location>
+				<cost>7700C</cost>
 			</tm_definition>
 		</tm_record>
 	</tm_records>
