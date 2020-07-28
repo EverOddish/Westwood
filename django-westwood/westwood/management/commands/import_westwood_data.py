@@ -318,8 +318,9 @@ class Command(BaseCommand):
         move_path = os.path.join(WESTWOOD_XML_PATH, 'moves')
         move_objects = []
         move_definitions_list_counter = 1
-        games_list_counter = 1
         move_records_list_counter = 1
+        tm_definitions_list_counter = 1
+        tm_records_list_counter = 1
         context = {}
 
         for move_file in glob.glob(os.path.join(move_path, '*.xml')):
@@ -348,7 +349,7 @@ class Command(BaseCommand):
                     if None != description_tag:
                         description_text = description_tag.text
                     move_definition_object = MoveDefinition(generation=generation_tag.text, type_1=type_tag.text, base_power=base_power_tag.text, power_points=power_points_tag.text, accuracy=accuracy_tag.text, priority=priority_tag.text, damage_category=damage_category_tag.text, description=description_text)
-                    move_definition_object.save()
+                    move_definition_object.save(using=self.db_alias)
 
                     move_record_object = MoveRecord(games=games_list_id, move_definition=move_definition_object)
                     move_record_object.save(using=self.db_alias)
@@ -359,7 +360,33 @@ class Command(BaseCommand):
 
                 MoveRecordsListElement.objects.using(self.db_alias).bulk_create(move_records_list_element_objects)
 
-                move_object = Move(name=name_tag.text, move_records=move_records_list_id)
+                tm_records_list_id = tm_records_list_counter
+                tm_records_list_counter += 1
+                tm_records_sequence_number = 1
+                tm_records_list_element_objects = []
+                for tm_record_tag in move_tag.iter('tm_record'):
+
+                    context, games_list_id = self.get_or_create_games_list(context, tm_record_tag.iter('game'))
+
+                    tm_definition_tag = tm_record_tag.find('tm_definition')
+                    number_tag = tm_definition_tag.find('number')
+                    location_tag = tm_definition_tag.find('location')
+                    cost_tag = tm_definition_tag.find('cost')
+                    tm_definition_object = TmDefinition(number=number_tag.text, location=location_tag.text)
+                    if None != cost_tag:
+                        tm_definition_object.cost = cost_tag.text
+                    tm_definition_object.save(using=self.db_alias)
+
+                    tm_record_object = TmRecord(games=games_list_id, tm_definition=tm_definition_object)
+                    tm_record_object.save(using=self.db_alias)
+
+                    tm_records_list_element_object = TmRecordsListElement(list_id=tm_records_list_id, sequence_number=tm_records_sequence_number, element=tm_record_object)
+                    tm_records_list_element_objects.append(tm_records_list_element_object)
+                    tm_records_sequence_number += 1
+
+                TmRecordsListElement.objects.using(self.db_alias).bulk_create(tm_records_list_element_objects)
+
+                move_object = Move(name=name_tag.text, move_records=move_records_list_id, tm_records=tm_records_list_id)
                 move_objects.append(move_object)
             except etree.XMLSyntaxError:
                 self.stdout.write('Error parsing XML file: ' + move_file)
