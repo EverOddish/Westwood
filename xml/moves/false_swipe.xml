@@ -111,5 +111,17 @@
 				<location>Rustboro City Poké Mart</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>54</number>
+				<location>Iki Town</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

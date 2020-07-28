@@ -169,5 +169,17 @@
 				<location>Seafloor Cavern</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>26</number>
+				<location>Resolution Cave</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

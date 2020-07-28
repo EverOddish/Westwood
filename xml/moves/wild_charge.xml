@@ -99,5 +99,25 @@
 				<location>Safari Zone</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tm_definition>
+				<number>93</number>
+				<location>Route 15</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>93</number>
+				<location>Vast Poni Canyon</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

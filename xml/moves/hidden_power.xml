@@ -161,5 +161,17 @@
 				<location>Fortree City</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>10</number>
+				<location>Paniola Ranch - Pokémon Nursery</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

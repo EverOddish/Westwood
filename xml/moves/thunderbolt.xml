@@ -179,5 +179,25 @@
 				<location>Gift from Wattson</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Poni Plains</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>24</number>
+				<location>Sandy Cave</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -147,5 +147,17 @@
 				<location>Meteor Falls</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>02</number>
+				<location>Vast Poni Canyon</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -146,5 +146,18 @@
 				<location>Lilycove City</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>44</number>
+				<location>Thrifty Megamart</location>
+				<cost>$1,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

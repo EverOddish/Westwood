@@ -68,5 +68,25 @@
 				<location>Route 119</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tm_definition>
+				<number>62</number>
+				<location>Ten Carat Hill</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>62</number>
+				<location>Route 15</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

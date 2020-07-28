@@ -107,5 +107,25 @@
 				<location>Shoal Cave</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tm_definition>
+				<number>79</number>
+				<location>Ancient Poni Path</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>79</number>
+				<location>Seaward Cave</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

@@ -122,5 +122,26 @@
 				<location>Route 133</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tm_definition>
+				<number>77</number>
+				<location>Route 12</location>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>77</number>
+				<location>Malie City Poké Mart</location>
+				<cost>$10,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

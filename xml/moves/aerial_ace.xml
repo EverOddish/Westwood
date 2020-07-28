@@ -125,5 +125,27 @@
 				<cost>$10,000</cost>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tm_definition>
+				<number>40</number>
+				<location>Malie City Poké Mart</location>
+				<cost>$10,000</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>40</number>
+				<location>Konikoni City TM Shop</location>
+				<cost>$10,000</cost>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

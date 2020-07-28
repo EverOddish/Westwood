@@ -173,5 +173,26 @@
 				<location>Route 113</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+			</games>
+			<tm_definition>
+				<number>32</number>
+				<location>Konikoni City TM Shop</location>
+				<cost>$10,000</cost>
+			</tm_definition>
+		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>32</number>
+				<location>Route 7</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

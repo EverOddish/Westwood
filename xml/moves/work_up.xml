@@ -68,5 +68,17 @@
 				<location>Prize for defeating Cheren</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>01</number>
+				<location>Route 1 - Trainers' School</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

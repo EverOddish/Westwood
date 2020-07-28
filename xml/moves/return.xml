@@ -159,5 +159,17 @@
 				<location>Pacifidlog Town</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>27</number>
+				<location>Malie City</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>

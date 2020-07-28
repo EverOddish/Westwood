@@ -181,5 +181,17 @@
 				<location>Petalburg City</location>
 			</tm_definition>
 		</tm_record>
+		<tm_record>
+			<games>
+				<game>Pokemon Sun</game>
+				<game>Pokemon Moon</game>
+				<game>Pokemon Ultra Sun</game>
+				<game>Pokemon Ultra Moon</game>
+			</games>
+			<tm_definition>
+				<number>94</number>
+				<location>Poni Breaker Coast</location>
+			</tm_definition>
+		</tm_record>
 	</tm_records>
 </move>
