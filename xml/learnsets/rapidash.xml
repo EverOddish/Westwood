@@ -849,5 +849,68 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Emerald Kaizo</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will-O-Wisp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Overheat</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
