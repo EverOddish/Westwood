@@ -278,7 +278,7 @@ class PokemonForm(models.Model):
     stat_sets = models.IntegerField()    # StatSets list_id
     type_sets = models.IntegerField()    # TypeSets list_id
     ability_sets = models.IntegerField()    # AbilitySets list_id
-    evolution_sets = models.IntegerField()    # EvolutionSets list_id
+    evolution_sets = models.IntegerField(default=0)    # EvolutionSets list_id
 
 class RomHack(models.Model):
     title = models.CharField(max_length=500)
