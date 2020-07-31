@@ -274,57 +274,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>SAnd</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bite</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>secret Power</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Roar</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crunch</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Tail</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper voice</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Poison Fang</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Super Fang</name>
-					<level>45</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<learnset_moves>
@@ -404,7 +353,7 @@
 					<level>1</level>
 				</learnset_move>
 				<learnset_move>
-					<name>SAnd-Attack</name>
+					<name>Sand-Attack</name>
 					<level>4</level>
 				</learnset_move>
 				<learnset_move>
@@ -412,7 +361,7 @@
 					<level>5</level>
 				</learnset_move>
 				<learnset_move>
-					<name>secret Power</name>
+					<name>Secret Power</name>
 					<level>10</level>
 				</learnset_move>
 				<learnset_move>
