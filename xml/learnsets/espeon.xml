@@ -435,57 +435,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sand</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Helping Hand</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mud</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Swift</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psybeam</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>47</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Morning Sun</name>
-					<level>52</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

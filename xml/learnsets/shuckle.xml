@@ -377,41 +377,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Mud</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bide</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Knock Off</name>
-					<level>50</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wrap</name>
-					<level>60</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Safeguard</name>
-					<level>65</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Encore</name>
-					<level>70</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ancientpower</name>
-					<level>75</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<learnset_moves>
