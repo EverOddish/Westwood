@@ -376,57 +376,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Ancientpower</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Endure</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Knock Off</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>False Swipe</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>12</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mud Shot</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crabhammer</name>
-					<level>27</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crush Claw</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>X</name>
-					<level>49</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Superpower</name>
-					<level>57</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

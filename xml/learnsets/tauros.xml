@@ -398,49 +398,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Horn Attack</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stomp</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thrash</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pursuit</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Tail</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>43</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>53</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>55</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

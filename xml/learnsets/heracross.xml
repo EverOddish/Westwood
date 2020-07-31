@@ -401,53 +401,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Counter</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Horn Attack</name>
-					<level>6</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Facade</name>
-					<level>11</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>X</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Brick Break</name>
-					<level>45</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Megahorn</name>
-					<level>69</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

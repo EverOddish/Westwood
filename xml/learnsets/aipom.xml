@@ -175,53 +175,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Fake Out</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sand</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Brick Break</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Knock Off</name>
-					<level>18</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Tickle</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>27</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

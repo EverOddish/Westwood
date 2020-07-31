@@ -265,61 +265,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Seismic toss</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crush Claw</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Facade</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Gunk Shot</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Superpower</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Cross Chop</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Refresh</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Brick Break</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crunch</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Facade</name>
-					<level>43</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>49</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

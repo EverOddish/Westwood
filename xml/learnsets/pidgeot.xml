@@ -400,61 +400,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Swift</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Refresh</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sand Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mud Slap</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Faint Attack</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Air Slash</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Whirlwind</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Steel Wing</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Heat Wave</name>
-					<level>48</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sky Attack</name>
-					<level>62</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

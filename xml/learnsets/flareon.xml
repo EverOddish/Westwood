@@ -546,57 +546,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Heat Wave</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ember</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Helping Hand</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sand</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flame Wheel</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bite</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flamethrower</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Overheat</name>
-					<level>47</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Superpower</name>
-					<level>52</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

@@ -188,57 +188,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Ember</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bite</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rage</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Twister</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Take Down</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragonbreath</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Roar</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crunch</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragon Claw</name>
-					<level>49</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>53</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

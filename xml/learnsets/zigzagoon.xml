@@ -336,65 +336,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Swift</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sand Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Snore</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Secret Power</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Odor Sleuth</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dig</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Super Fang</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Extremespeed</name>
-					<level>41</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<learnset_moves>

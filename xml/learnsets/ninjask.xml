@@ -314,69 +314,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Swift</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>False Swipe</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Gust</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sand Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leech Life</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mud</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>14</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Metal Claw</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Silver Wind</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>X</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Air Slash</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dig</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>X</name>
-					<level>45</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

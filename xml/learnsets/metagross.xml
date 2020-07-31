@@ -368,61 +368,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Ice Punch</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunderpunch</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fire Punch</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Earth Power</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pursuit</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flash Cannon</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>44</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Meteor Mash</name>
-					<level>55</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>66</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Teleport</name>
-					<level>77</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

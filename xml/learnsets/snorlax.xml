@@ -508,65 +508,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Facade</name>
-					<level>6</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Slack Off</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sleep Talk</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Facade</name>
-					<level>24</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rest</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Snore</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body slam</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Yawn</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sleep Talk</name>
-					<level>46</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Whirlwind</name>
-					<level>51</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

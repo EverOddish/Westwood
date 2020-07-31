@@ -266,53 +266,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confuse Ray</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Silver Wind</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Moonlight</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Seismic Toss</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Tail Glow</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Protect</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>37</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

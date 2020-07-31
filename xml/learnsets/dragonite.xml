@@ -492,65 +492,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Wrap</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Steel Wing</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Twister</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragon Breath</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragon Rage</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Slam</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hydro Pump</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Roar</name>
-					<level>47</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wing Attack</name>
-					<level>55</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>61</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragon Claw</name>
-					<level>75</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>

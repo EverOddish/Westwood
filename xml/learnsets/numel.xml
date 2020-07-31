@@ -316,53 +316,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Ember</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stomp</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flame Wheel</name>
-					<level>11</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Magnitude</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Double</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Earthquake</name>
-					<level>35</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flamethrower</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>49</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Renegade Platinum</game>
 			</games>
 			<learnset_moves>

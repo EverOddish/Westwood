@@ -430,57 +430,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Hypnosis</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Lick</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Will</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mean Look</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Sneak</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Night Shade</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Punch</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confuse Ray</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sludge Bomb</name>
-					<level>39</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>48</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
-		<learnset>
-			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
 			</games>
