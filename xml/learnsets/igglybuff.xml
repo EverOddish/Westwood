@@ -267,32 +267,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Sing</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Charm</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Secret Power</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pound</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sweet Kiss</name>
-					<level>14</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

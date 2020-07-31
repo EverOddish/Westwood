@@ -438,52 +438,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Counter</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bite</name>
-					<level>2</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Super Fang</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crunch</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>18</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dig</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sludge Bomb</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flatter</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Drill Run</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Poison Fang</name>
-					<level>53</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -601,52 +601,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Toxic</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leech Life</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mega Drain</name>
-					<level>6</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pursuit</name>
-					<level>11</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sludge Bomb</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Spider Web</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Agility</name>
-					<level>45</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Poison Fang</name>
-					<level>46</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

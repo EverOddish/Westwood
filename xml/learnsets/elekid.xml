@@ -425,44 +425,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shock Wave</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Swift</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunderpunch</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fire Punch</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunderbolt</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Cross Chop</name>
-					<level>49</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

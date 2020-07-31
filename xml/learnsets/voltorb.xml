@@ -634,56 +634,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Thundershock</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Secret Power</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shock Wave</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sonic Boom</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wild Charge</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Selfdestruct</name>
-					<level>27</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rollout</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunderbolt</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>46</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>49</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

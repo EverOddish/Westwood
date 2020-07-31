@@ -276,28 +276,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Sing</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Brick Break</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper voice</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>1</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -632,52 +632,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Stomp</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fake Out</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bite</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mega Punch</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Superpower</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crush Claw</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>43</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fake Out</name>
-					<level>49</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

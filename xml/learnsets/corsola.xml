@@ -593,52 +593,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Rock Tomb</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bubblebeam</name>
-					<level>6</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aurora Beam</name>
-					<level>12</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recover</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Refresh</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Surf</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ice Beam</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mirror Coat</name>
-					<level>39</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ancientpower</name>
-					<level>45</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

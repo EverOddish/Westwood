@@ -478,56 +478,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Pound</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Uproar</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Secret Power</name>
-					<level>11</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bite</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Brick Break</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Extrasensory</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Roar</name>
-					<level>35</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Teeter Dance</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper Voice</name>
-					<level>45</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

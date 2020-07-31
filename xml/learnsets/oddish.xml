@@ -596,40 +596,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Mega Drain</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Acid</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Toxic</name>
-					<level>14</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stun Spore</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Moonlight</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Petal Dance</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sleep Powder</name>
-					<level>39</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

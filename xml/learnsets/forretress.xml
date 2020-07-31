@@ -827,52 +827,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Rapid Spin</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Spikes</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Giga Drain</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Selfdestruct</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Secret Power</name>
-					<level>12</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Take Down</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Drill Run</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flash Cannon</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>39</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

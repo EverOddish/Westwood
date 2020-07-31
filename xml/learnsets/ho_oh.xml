@@ -373,52 +373,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Sky Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sacred Fire</name>
-					<level>11</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ancientpower</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Weather Ball</name>
-					<level>44</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>60</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recover</name>
-					<level>66</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Whirlwind</name>
-					<level>67</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Roar</name>
-					<level>68</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Overheat</name>
-					<level>70</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

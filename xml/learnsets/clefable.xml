@@ -328,28 +328,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Endeavor</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Seismic Toss</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wish</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recycle</name>
-					<level>1</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

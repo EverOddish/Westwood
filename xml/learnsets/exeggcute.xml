@@ -682,52 +682,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mega Drain</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hypnosis</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Poisonpowder</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psybeam</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Giga Drain</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stun Spore</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Egg Bomb</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sleep Powder</name>
-					<level>43</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

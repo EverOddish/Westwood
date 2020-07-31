@@ -434,40 +434,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Absorb</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Water gun</name>
-					<level>3</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Nature Power</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bullet Seed</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bubblebeam</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hydro Pump</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Magical Leaf</name>
-					<level>43</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

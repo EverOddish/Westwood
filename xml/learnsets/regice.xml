@@ -436,48 +436,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Ancientpower</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Icy Wind</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ice Punch</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Superpower</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Selfdestruct</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ice Beam</name>
-					<level>49</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunderbolt</name>
-					<level>57</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

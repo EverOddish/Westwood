@@ -468,56 +468,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Acid</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Yawn</name>
-					<level>6</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fire Punch</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sludge bomb</name>
-					<level>14</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Giga Drain</name>
-					<level>17</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Encore</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Toxic</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ice Beam</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Gunk Shot</name>
-					<level>39</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

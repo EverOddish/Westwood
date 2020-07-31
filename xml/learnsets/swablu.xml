@@ -602,56 +602,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Peck</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>False Swipe</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Swift</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sing</name>
-					<level>11</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Refresh</name>
-					<level>21</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>24</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper Voice</name>
-					<level>31</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Air Slash</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Heat Wave</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Heal Bell</name>
-					<level>48</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

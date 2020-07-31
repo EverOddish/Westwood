@@ -368,32 +368,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Poison Tail</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Poison Fang</name>
-					<level>2</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Drill Run</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Megahorn</name>
-					<level>45</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Head Smash</name>
-					<level>48</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

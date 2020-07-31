@@ -436,48 +436,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Peck</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Refresh</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Swift</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wing Attack</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Facade</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Endeavor</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Air Slash</name>
-					<level>43</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

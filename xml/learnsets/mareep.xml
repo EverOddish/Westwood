@@ -413,40 +413,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Tackle</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thundershock</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>9</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shock Wave</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunderbolt</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>37</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

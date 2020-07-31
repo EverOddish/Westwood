@@ -403,52 +403,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Silver Wind</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Supersonic</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Knock Off</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Light Screen</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Reflect</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Safeguard</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Air Slash</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Encore</name>
-					<level>29</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

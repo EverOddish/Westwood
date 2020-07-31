@@ -416,48 +416,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Wrap</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Take Down</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Twister</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragon Rage</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Slam</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragonbreath</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hydro Pump</name>
-					<level>43</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Whirlwind</name>
-					<level>57</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -528,56 +528,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Psywave</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Memento</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Helping Hand</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Safeguard</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragonbreath</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Refresh</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Luster Purge</name>
-					<level>35</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Memento</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recover</name>
-					<level>45</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Dragon Claw</name>
-					<level>50</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

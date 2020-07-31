@@ -726,56 +726,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Poison Powder</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Supersonic</name>
-					<level>14</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Aerial Ace</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Silver Wind</name>
-					<level>18</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psybeam</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stun Spore</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sleep Powder</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Giga Drain</name>
-					<level>40</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>47</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

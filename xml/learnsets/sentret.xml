@@ -359,48 +359,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Secret Power</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Follow Me</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Knock Off</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Helping Hand</name>
-					<level>12</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Body Slam</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Super Fang</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper Voice</name>
-					<level>28</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

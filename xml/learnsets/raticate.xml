@@ -522,48 +522,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Thunder Wave</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pursuit</name>
-					<level>2</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>5</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper Fang</name>
-					<level>13</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Endeavor</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Shadow Ball</name>
-					<level>24</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Super Fang</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Facade</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>36</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

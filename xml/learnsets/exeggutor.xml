@@ -364,32 +364,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Ancientpower</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sleep Powder</name>
-					<level>3</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>4</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stun Spore</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Egg Bomb</name>
-					<level>51</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

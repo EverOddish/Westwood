@@ -631,44 +631,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Spikes</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pin Missiles</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Headbutt</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bubblebeam</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hydro Pump</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Toxic</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Gunk Shot</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Explosion</name>
-					<level>46</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

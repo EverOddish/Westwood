@@ -384,52 +384,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Rock Tomb</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mega Drain</name>
-					<level>8</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Acid</name>
-					<level>15</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sludge Bomb</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recover</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ancientpower</name>
-					<level>43</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confuse Ray</name>
-					<level>46</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Giga Drain</name>
-					<level>48</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Earth Power</name>
-					<level>50</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

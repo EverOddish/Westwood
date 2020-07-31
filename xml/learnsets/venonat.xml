@@ -474,48 +474,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Foresight</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leech Life</name>
-					<level>2</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Toxic</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sludge Bomb</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Signal Beam</name>
-					<level>33</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Stun Spore</name>
-					<level>36</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sleep Powder</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Poison Fang</name>
-					<level>45</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -310,56 +310,5 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
-		<learnset>
-			<games>
-				<game>Pokemon Emerald Kaizo</game>
-			</games>
-			<learnset_moves>
-				<learnset_move>
-					<name>Scratch</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>peck</name>
-					<level>6</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Ember</name>
-					<level>7</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Seismic Toss</name>
-					<level>10</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fire Spin</name>
-					<level>16</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Sand attack</name>
-					<level>19</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bounce</name>
-					<level>25</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Quick Attack</name>
-					<level>28</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Slide</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Crush Claw</name>
-					<level>37</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flamethrower</name>
-					<level>43</level>
-				</learnset_move>
-			</learnset_moves>
-		</learnset>
 	</learnsets>
 </pokemon_learnsets>
