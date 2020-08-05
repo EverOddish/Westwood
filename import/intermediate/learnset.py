@@ -1,3 +1,4 @@
+import copy
 import os
 
 from lxml import etree
@@ -34,6 +35,23 @@ class PokemonLearnset(PokemonObject):
                 learnset.moves.append(pair)
 
             self.learnsets.append(learnset)
+
+    def copy_learnset(self, specified_game):
+        for learnset in self.learnsets:
+            for game in learnset.games:
+                if specified_game == game:
+                    return copy.deepcopy(learnset)
+        return None
+
+    def add_learnset(self, new_learnset):
+        for learnset in self.learnsets:
+            if learnset.moves == new_learnset.moves:
+                # Just add the game entry to the existing duplicate learnset
+                new_game = new_learnset.games[0]
+                learnset.games.append(new_game)
+                return
+        # No matching learnset was found, so add the new unique learnset
+        self.learnsets.append(new_learnset)
 
     def dump(self, xml_file=None):
         pokemon_learnsets_tag = etree.Element('pokemon_learnsets')

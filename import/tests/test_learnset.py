@@ -45,3 +45,33 @@ def test_learnset():
     new_pokemon_learnset = PokemonLearnset(new_xml_file.name)
     validate_pokemon_learnset(new_pokemon_learnset)
     new_xml_file.close()
+
+    # Start with a fresh copy
+    pokemon_learnset = PokemonLearnset(filename)
+
+    # Base game not found
+    learnset_copy = pokemon_learnset.copy_learnset('Pokemon Non-Existent')
+    assert None == learnset_copy, 'Learnset not found should be None'
+
+    # Copy and add an unmodified learnset
+    old_learnset_count = len(pokemon_learnset.learnsets)
+    learnset_copy = pokemon_learnset.copy_learnset('Pokemon Blue')
+    assert None != learnset_copy, 'Learnset should not be None for existing learnset'
+    learnset_copy.games = ['Pokemon Sky Blue']
+    pokemon_learnset.add_learnset(learnset_copy)
+    new_learnset_count = len(pokemon_learnset.learnsets)
+    assert old_learnset_count == new_learnset_count, 'There should not be a separate entry for a duplicate learnset'
+    assert 'Pokemon Sky Blue' in pokemon_learnset.learnsets[0].games
+
+    # Copy and add a modified learnset
+    old_learnset_count = len(pokemon_learnset.learnsets)
+    learnset_copy = pokemon_learnset.copy_learnset('Pokemon Blue')
+    assert None != learnset_copy, 'Learnset should not be None for existing learnset'
+    learnset_copy.games = ['Pokemon Sky Blue']
+    new_move = ('47', 'Ice Beam')
+    learnset_copy.moves.append(new_move)
+    pokemon_learnset.add_learnset(learnset_copy)
+    new_learnset_count = len(pokemon_learnset.learnsets)
+    assert old_learnset_count < new_learnset_count, 'There should be a separate entry for a modified learnset'
+    assert 'Pokemon Sky Blue' in pokemon_learnset.learnsets[-1].games
+    assert new_move in pokemon_learnset.learnsets[-1].moves
