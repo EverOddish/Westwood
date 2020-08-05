@@ -11,8 +11,9 @@ class Learnset():
 
 class PokemonLearnset(PokemonObject):
     def __init__(self, xml_file):
-        super().__init__()
         self.xml_file = xml_file
+        super().__init__()
+
         self.learnsets = []
 
         parser = etree.XMLParser(remove_blank_text=True)

@@ -2,8 +2,15 @@ from lxml import etree
 
 class PokemonObject():
     def __init__(self):
-        self.xml_file = None
-        self.tab = '\t'
+        with open(self.xml_file) as f:
+            lines = f.readlines()
+            for line in lines:
+                if line.startswith('\t'):
+                    self.tab = '\t'
+                    break
+                elif line.startswith('    '):
+                    self.tab = '    '
+                    break
 
     def make_tag_with_text(self, tag, text):
         element = etree.Element(tag)
