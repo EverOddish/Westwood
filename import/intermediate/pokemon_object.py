@@ -40,6 +40,7 @@ class PokemonObject():
         contents = self.pretty_print(root_element)
 
         xml_file.write(contents)
+        xml_file.flush()
 
         if close:
             xml_file.close()
