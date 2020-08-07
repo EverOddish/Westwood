@@ -51,6 +51,9 @@ def test_learnset():
     tm_set_copy = pokemon_tm_set.copy_tm_set('Pokemon Blue')
     assert None != tm_set_copy, 'TM set should not be None for existing TM set'
     tm_set_copy.games = ['Pokemon Sky Blue']
+    temp_tm = tm_set_copy.moves[0]  # Switch the ordering of the first two TMs
+    tm_set_copy.moves[0] = tm_set_copy.moves[1]
+    tm_set_copy.moves[1] = temp_tm
     pokemon_tm_set.add_tm_set(tm_set_copy)
     new_tm_set_count = len(pokemon_tm_set.tm_sets)
     assert old_tm_set_count == new_tm_set_count, 'There should not be a separate entry for a duplicate TM set'
