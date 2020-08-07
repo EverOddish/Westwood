@@ -5,20 +5,20 @@ import tempfile
 from intermediate.move import Move
 
 def validate_move_record(move_record):
-    assert len(move_record.games) >= 11, 'There should be at least 11 games for Absorb in the first record'
+    assert len(move_record.games) >= 20, 'There should be at least 20 games for Pin Missile in the first record'
     assert 'Pokemon Blue' in move_record.games, 'Pokemon Blue should be in the list of games'
     assert '1' == move_record.generation, 'Generation 1'
-    assert 'Grass' == move_record.move_type, 'Grass type'
-    assert '20' == move_record.base_power, '20 base power'
+    assert 'Bug' == move_record.move_type, 'Bug type'
+    assert '14' == move_record.base_power, '14 base power'
     assert '20' == move_record.power_points, '20 PP'
-    assert '100' == move_record.accuracy, '100% accuracy'
+    assert '95' == move_record.accuracy, '95% accuracy'
     assert '0' == move_record.priority, 'No priority'
-    assert 'Special' == move_record.damage_category, 'Special move'
+    assert 'Physical' == move_record.damage_category, 'Special move'
     assert len(move_record.effect) > 0, 'Non-empty effect'
     assert len(move_record.description) > 0, 'Non-empty description'
 
 def test_move():
-    filename = os.path.join('..', 'xml', 'moves', 'absorb.xml')
+    filename = os.path.join('..', 'xml', 'moves', 'pin_missile.xml')
     move = Move(filename)
 
     # Validate the intermediate representation derived from XML

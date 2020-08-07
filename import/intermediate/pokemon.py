@@ -225,8 +225,8 @@ class Pokemon(PokemonObject):
         for set_object in sets:
             if set_object == new_set:
                 # Just add the game entry to the existing duplicate set
-                new_game = new_set.games[0]
-                set_object.games.append(new_game)
+                for new_game in new_set.games:
+                    set_object.games.append(new_game)
                 return
         # No matching set was found, so add the new unique set
         sets.append(new_set)

@@ -30,12 +30,19 @@ class MoveRecord():
                self.effect == other.effect and \
                self.description == other.description
 
+class TmRecord():
+    def __init__(self):
+        self.games = []
+        self.number = ''
+        self.location = ''
+
 class Move(PokemonObject):
     def __init__(self, xml_file):
         self.xml_file = xml_file
         super().__init__()
 
         self.move_records = []
+        self.tm_records = []
 
         parser = etree.XMLParser(remove_blank_text=True)
         root = etree.parse(xml_file, parser)
@@ -63,6 +70,19 @@ class Move(PokemonObject):
 
             self.move_records.append(move_record)
 
+        for tm_record_tag in move_tag.iter('tm_record'):
+            tm_record = TmRecord()
+
+            games_tag = tm_record_tag.find('games')
+            for game_tag in games_tag:
+                tm_record.games.append(game_tag.text)
+
+            tm_definition_tag = tm_record_tag.find('tm_definition')
+            tm_record.number = tm_definition_tag.find('number').text
+            tm_record.location = tm_definition_tag.find('location').text
+
+            self.tm_records.append(tm_record)
+
     def copy_move_record(self, specified_game):
         for move_record in self.move_records:
             for game in move_record.games:
@@ -74,8 +94,8 @@ class Move(PokemonObject):
         for move_record in self.move_records:
             if move_record == new_move_record:
                 # Just add the game entry to the existing duplicate learnset
-                new_game = new_move_record.games[0]
-                move_record.games.append(new_game)
+                for new_game in new_move_record.games:
+                    move_record.games.append(new_game)
                 return
         # No matching learnset was found, so add the new unique learnset
         self.move_records.append(new_move_record)
@@ -122,5 +142,29 @@ class Move(PokemonObject):
             move_records_tag.append(move_record_tag)
 
         move_tag.append(move_records_tag)
+
+        if len(self.tm_records) > 0:
+            tm_records_tag = etree.Element('tm_records')
+
+            for tm_record in self.tm_records:
+                tm_record_tag = etree.Element('tm_record')
+
+                games_tag = etree.Element('games')
+                for game in tm_record.games:
+                    game_tag = self.make_tag_with_text('game', game)
+                    games_tag.append(game_tag)
+                tm_record_tag.append(games_tag)
+
+                tm_definition_tag = etree.Element('tm_definition')
+
+                tag = self.make_tag_with_text('number', tm_record.number)
+                tm_definition_tag.append(tag)
+                tag = self.make_tag_with_text('location', tm_record.location)
+                tm_definition_tag.append(tag)
+
+                tm_record_tag.append(tm_definition_tag)
+                tm_records_tag.append(tm_record_tag)
+
+            move_tag.append(tm_records_tag)
 
         self.dump_to_file(move_tag, xml_file)

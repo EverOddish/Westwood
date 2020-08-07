@@ -46,8 +46,8 @@ class PokemonTmSet(PokemonObject):
         for tm_set in self.tm_sets:
             if sorted(tm_set.moves) == sorted(new_tm_set.moves):
                 # Just add the game entry to the existing duplicate learnset
-                new_game = new_tm_set.games[0]
-                tm_set.games.append(new_game)
+                for new_game in new_tm_set.games:
+                    tm_set.games.append(new_game)
                 return
         # No matching learnset was found, so add the new unique learnset
         self.tm_sets.append(new_tm_set)
