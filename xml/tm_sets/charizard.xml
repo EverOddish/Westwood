@@ -599,5 +599,57 @@
                 <tmset_move>Hurricane</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2</game>
+                <game>Pokemon Volt White 2</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Will O Wisp</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+                <tmset_move>Flame Charge</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Echoed Voice</tmset_move>
+                <tmset_move>Sky Drop</tmset_move>
+                <tmset_move>Incinerate</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Dragon Tail</tmset_move>
+                <tmset_move>Hurricane</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

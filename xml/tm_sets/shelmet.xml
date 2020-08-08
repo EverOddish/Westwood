@@ -147,5 +147,31 @@
                 <tmset_move>Venoshock</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2</game>
+                <game>Pokemon Volt White 2</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Struggle Bug</tmset_move>
+                <tmset_move>Bug Buzz</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>
