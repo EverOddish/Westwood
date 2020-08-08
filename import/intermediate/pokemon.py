@@ -357,34 +357,35 @@ class Pokemon(PokemonObject):
             ability_sets_tag.append(ability_set_tag)
         pokemon_tag.append(ability_sets_tag)
 
-        evolution_sets_tag = etree.Element('evolution_sets')
-        for evolution_set in self.evolution_sets:
-            evolution_set_tag = etree.Element('evolution_set')
-            games_tag = etree.Element('games')
-            for game in evolution_set.games:
-                game_tag = self.make_tag_with_text('game', game)
-                games_tag.append(game_tag)
-            evolution_set_tag.append(games_tag)
+        if len(self.evolution_sets) > 0:
+            evolution_sets_tag = etree.Element('evolution_sets')
+            for evolution_set in self.evolution_sets:
+                evolution_set_tag = etree.Element('evolution_set')
+                games_tag = etree.Element('games')
+                for game in evolution_set.games:
+                    game_tag = self.make_tag_with_text('game', game)
+                    games_tag.append(game_tag)
+                evolution_set_tag.append(games_tag)
 
-            evolution_records_tag = etree.Element('evolution_records')
-            for evolution_record in evolution_set.evolution_records:
-                evolution_record_tag = etree.Element('evolution_record')
-                evolves_to_tag = etree.Element('evolves_to')
-                evolves_to_tag.text = evolution_record.evolves_to
-                evolution_record_tag.append(evolves_to_tag)
-                if None != evolution_record.level and len(evolution_record.level) > 0:
-                    level_tag = etree.Element('level')
-                    level_tag.text = evolution_record.level
-                    evolution_record_tag.append(level_tag)
-                if None != evolution_record.method and len(evolution_record.method) > 0:
-                    method_tag = etree.Element('method')
-                    method_tag.text = evolution_record.method
-                    evolution_record_tag.append(method_tag)
-                evolution_records_tag.append(evolution_record_tag)
-            evolution_set_tag.append(evolution_records_tag)
+                evolution_records_tag = etree.Element('evolution_records')
+                for evolution_record in evolution_set.evolution_records:
+                    evolution_record_tag = etree.Element('evolution_record')
+                    evolves_to_tag = etree.Element('evolves_to')
+                    evolves_to_tag.text = evolution_record.evolves_to
+                    evolution_record_tag.append(evolves_to_tag)
+                    if None != evolution_record.level and len(evolution_record.level) > 0:
+                        level_tag = etree.Element('level')
+                        level_tag.text = evolution_record.level
+                        evolution_record_tag.append(level_tag)
+                    if None != evolution_record.method and len(evolution_record.method) > 0:
+                        method_tag = etree.Element('method')
+                        method_tag.text = evolution_record.method
+                        evolution_record_tag.append(method_tag)
+                    evolution_records_tag.append(evolution_record_tag)
+                evolution_set_tag.append(evolution_records_tag)
 
-            evolution_sets_tag.append(evolution_set_tag)
-        pokemon_tag.append(evolution_sets_tag)
+                evolution_sets_tag.append(evolution_set_tag)
+            pokemon_tag.append(evolution_sets_tag)
 
         tag = self.make_tag_with_text('egg_groups', self.egg_groups)
         pokemon_tag.append(tag)

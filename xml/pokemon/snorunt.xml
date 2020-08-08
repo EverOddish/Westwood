@@ -162,6 +162,22 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Moody</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Ice Body</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<evolution_sets>
 		<evolution_set>
@@ -205,7 +221,6 @@
 				<evolution_record>
 					<evolves_to>Froslass</evolves_to>
 					<method>when female</method>
-					<method>when a Dawn Stone is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -221,7 +236,6 @@
 				<evolution_record>
 					<evolves_to>Froslass</evolves_to>
 					<method>when female</method>
-					<method>when a Dawn Stone is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

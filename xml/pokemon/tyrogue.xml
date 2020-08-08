@@ -150,6 +150,8 @@
 			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -215,17 +217,17 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Hitmonlee</evolves_to>
-                    <level>20</level>
+					<level>20</level>
 					<method>with relative physical stats of 1</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Hitmonchan</evolves_to>
-                    <level>20</level>
+					<level>20</level>
 					<method>with relative physical stats of -1</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Hitmontop</evolves_to>
-                    <level>20</level>
+					<level>20</level>
 					<method>with relative physical stats of 0</method>
 				</evolution_record>
 			</evolution_records>
@@ -237,17 +239,17 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Hitmonlee</evolves_to>
-                    <level>15</level>
+					<level>15</level>
 					<method>with relative physical stats of 1</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Hitmonchan</evolves_to>
-                    <level>15</level>
+					<level>15</level>
 					<method>with relative physical stats of -1</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Hitmontop</evolves_to>
-                    <level>15</level>
+					<level>15</level>
 					<method>with relative physical stats of 0</method>
 				</evolution_record>
 			</evolution_records>

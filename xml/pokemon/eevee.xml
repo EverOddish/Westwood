@@ -150,6 +150,8 @@
 			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -213,12 +215,10 @@
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
 					<method>during the day</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -244,12 +244,10 @@
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
 					<method>during the day</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
@@ -284,12 +282,10 @@
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
 					<method>during the day</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
@@ -322,12 +318,10 @@
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
 					<method>during the day</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
@@ -364,12 +358,10 @@
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
 					<method>during the day</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
@@ -410,12 +402,10 @@
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
 					<method>during the day</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
@@ -487,12 +477,10 @@
 				<evolution_record>
 					<evolves_to>Espeon</evolves_to>
 					<method>during the day</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Umbreon</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>

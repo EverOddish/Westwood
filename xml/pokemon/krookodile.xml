@@ -173,6 +173,22 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Intimidate</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Moxie</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Field</egg_groups>
 </pokemon>
