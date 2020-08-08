@@ -89,6 +89,8 @@
 			<games>
 				<game>Pokemon Black</game>
 				<game>Pokemon White</game>
+				<game>Pokemon Black 2</game>
+				<game>Pokemon White 2</game>
 			</games>
 			<learnset_moves>
 				<learnset_move>
@@ -171,8 +173,6 @@
 		</learnset>
 		<learnset>
 			<games>
-				<game>Pokemon Black 2</game>
-				<game>Pokemon White 2</game>
 				<game>Pokemon X</game>
 				<game>Pokemon Y</game>
 				<game>Pokemon Omega Ruby</game>
