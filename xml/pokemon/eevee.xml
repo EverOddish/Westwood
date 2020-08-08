@@ -230,6 +230,28 @@
 			</games>
 			<evolution_records>
 				<evolution_record>
+					<evolves_to>Vaporeon</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Jolteon</evolves_to>
+					<method>when a Thunder Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Flareon</evolves_to>
+					<method>when a Fire Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Espeon</evolves_to>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Umbreon</evolves_to>
+					<method>at night</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
 					<method>at Eterna Forest</method>
 				</evolution_record>
@@ -248,6 +270,28 @@
 			</games>
 			<evolution_records>
 				<evolution_record>
+					<evolves_to>Vaporeon</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Jolteon</evolves_to>
+					<method>when a Thunder Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Flareon</evolves_to>
+					<method>when a Fire Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Espeon</evolves_to>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Umbreon</evolves_to>
+					<method>at night</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
 					<method>at Pinwheel Forest</method>
 				</evolution_record>
@@ -263,6 +307,28 @@
 				<game>Pokemon Y</game>
 			</games>
 			<evolution_records>
+				<evolution_record>
+					<evolves_to>Vaporeon</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Jolteon</evolves_to>
+					<method>when a Thunder Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Flareon</evolves_to>
+					<method>when a Fire Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Espeon</evolves_to>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Umbreon</evolves_to>
+					<method>at night</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
 					<method>at Route 20</method>
@@ -283,6 +349,28 @@
 				<game>Pokemon Alpha Sapphire</game>
 			</games>
 			<evolution_records>
+				<evolution_record>
+					<evolves_to>Vaporeon</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Jolteon</evolves_to>
+					<method>when a Thunder Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Flareon</evolves_to>
+					<method>when a Fire Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Espeon</evolves_to>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Umbreon</evolves_to>
+					<method>at night</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
 					<method>at Petalsburg Woods</method>
@@ -307,6 +395,28 @@
 				<game>Pokemon Shield</game>
 			</games>
 			<evolution_records>
+				<evolution_record>
+					<evolves_to>Vaporeon</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Jolteon</evolves_to>
+					<method>when a Thunder Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Flareon</evolves_to>
+					<method>when a Fire Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Espeon</evolves_to>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Umbreon</evolves_to>
+					<method>at night</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
 				<evolution_record>
 					<evolves_to>Leafeon</evolves_to>
 					<method>at Lush Jungle</method>
@@ -353,6 +463,44 @@
 				<evolution_record>
 					<evolves_to>Glaceon</evolves_to>
 					<method>when a Ice Stone is used</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Vaporeon</evolves_to>
+					<method>when a Water Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Jolteon</evolves_to>
+					<method>when a Thunder Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Flareon</evolves_to>
+					<method>when a Fire Stone is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Espeon</evolves_to>
+					<method>during the day</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Umbreon</evolves_to>
+					<method>at night</method>
+					<method>at happiness level 220</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Leafeon</evolves_to>
+					<method>when a Woodland Ore is used</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Glaceon</evolves_to>
+					<method>when a Frozen Ore is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

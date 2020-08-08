@@ -219,6 +219,18 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Gigalith</evolves_to>
+					<method>when a Covenant Ore is used</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Mineral</egg_groups>
 </pokemon>
