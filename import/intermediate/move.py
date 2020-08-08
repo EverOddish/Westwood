@@ -14,7 +14,8 @@ class MoveRecord():
         self.accuracy = ''
         self.priority = ''
         self.damage_category = ''
-        self.effect = ''
+        self.effect = None
+        self.effect_chance = None
         self.description = ''
 
     def __eq__(self, other):
@@ -35,6 +36,7 @@ class TmRecord():
         self.games = []
         self.number = ''
         self.location = ''
+        self.cost = None
 
 class Move(PokemonObject):
     def __init__(self, xml_file):
@@ -65,7 +67,12 @@ class Move(PokemonObject):
             move_record.accuracy = move_definition_tag.find('accuracy').text
             move_record.priority = move_definition_tag.find('priority').text
             move_record.damage_category = move_definition_tag.find('damage_category').text
-            move_record.effect = move_definition_tag.find('effect').text
+            effect_tag = move_definition_tag.find('effect')
+            if None != effect_tag:
+                move_record.effect = effect_tag.text
+            effect_chance_tag = move_definition_tag.find('effect_chance')
+            if None != effect_chance_tag:
+                move_record.effect_chance = effect_chance_tag.text
             move_record.description = move_definition_tag.find('description').text
 
             self.move_records.append(move_record)
@@ -80,6 +87,10 @@ class Move(PokemonObject):
             tm_definition_tag = tm_record_tag.find('tm_definition')
             tm_record.number = tm_definition_tag.find('number').text
             tm_record.location = tm_definition_tag.find('location').text
+
+            cost_tag = tm_definition_tag.find('cost')
+            if None != cost_tag:
+                tm_record.cost = cost_tag.text
 
             self.tm_records.append(tm_record)
 
@@ -133,8 +144,12 @@ class Move(PokemonObject):
             move_definition_tag.append(tag)
             tag = self.make_tag_with_text('damage_category', move_record.damage_category)
             move_definition_tag.append(tag)
-            tag = self.make_tag_with_text('effect', move_record.effect)
-            move_definition_tag.append(tag)
+            if None != move_record.effect:
+                tag = self.make_tag_with_text('effect', move_record.effect)
+                move_definition_tag.append(tag)
+            if None != move_record.effect_chance:
+                tag = self.make_tag_with_text('effect_chance', move_record.effect_chance)
+                move_definition_tag.append(tag)
             tag = self.make_tag_with_text('description', move_record.description)
             move_definition_tag.append(tag)
 
@@ -159,8 +174,13 @@ class Move(PokemonObject):
 
                 tag = self.make_tag_with_text('number', tm_record.number)
                 tm_definition_tag.append(tag)
+
                 tag = self.make_tag_with_text('location', tm_record.location)
                 tm_definition_tag.append(tag)
+
+                if None != tm_record.cost:
+                    tag = self.make_tag_with_text('cost', tm_record.cost)
+                    tm_definition_tag.append(tag)
 
                 tm_record_tag.append(tm_definition_tag)
                 tm_records_tag.append(tm_record_tag)
