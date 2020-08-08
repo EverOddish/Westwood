@@ -490,5 +490,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -498,5 +498,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -531,5 +531,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Wave</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

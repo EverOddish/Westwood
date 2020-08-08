@@ -334,5 +334,53 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>23</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

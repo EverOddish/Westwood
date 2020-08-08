@@ -430,5 +430,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

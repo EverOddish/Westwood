@@ -358,5 +358,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

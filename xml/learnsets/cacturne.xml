@@ -782,5 +782,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>ThunderPunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Needle Arm</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

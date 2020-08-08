@@ -732,5 +732,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vital Throw</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Storm Throw</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -270,5 +270,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Charge</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -248,5 +248,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>2</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -806,5 +806,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

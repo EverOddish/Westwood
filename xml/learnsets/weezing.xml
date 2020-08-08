@@ -898,5 +898,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

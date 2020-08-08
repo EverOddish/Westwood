@@ -372,5 +372,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -596,5 +596,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

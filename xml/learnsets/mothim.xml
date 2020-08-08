@@ -414,5 +414,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -267,5 +267,53 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>29</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

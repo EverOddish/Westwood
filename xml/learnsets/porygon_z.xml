@@ -255,5 +255,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Conversion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick Room</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Conversion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock-on</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

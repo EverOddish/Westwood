@@ -392,5 +392,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assist</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

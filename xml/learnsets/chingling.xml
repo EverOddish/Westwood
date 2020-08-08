@@ -212,5 +212,45 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>28</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

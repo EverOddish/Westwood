@@ -472,5 +472,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Split</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

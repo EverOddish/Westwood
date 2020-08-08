@@ -464,5 +464,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>75</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

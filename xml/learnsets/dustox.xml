@@ -480,5 +480,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

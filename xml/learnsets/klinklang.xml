@@ -432,5 +432,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vice Grip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gear Grind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gear Grind</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Shot</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shift Gear</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>66</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>72</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

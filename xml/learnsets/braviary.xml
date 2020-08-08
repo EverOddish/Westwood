@@ -460,5 +460,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defog</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Drop</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

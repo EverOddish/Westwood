@@ -601,5 +601,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spider Web</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -816,5 +816,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Whip</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

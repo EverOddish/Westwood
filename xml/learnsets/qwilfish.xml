@@ -631,5 +631,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -480,5 +480,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Whip</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

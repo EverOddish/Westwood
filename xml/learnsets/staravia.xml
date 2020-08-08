@@ -262,5 +262,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

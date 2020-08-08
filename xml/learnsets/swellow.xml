@@ -548,5 +548,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>ExtremeSpeed</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

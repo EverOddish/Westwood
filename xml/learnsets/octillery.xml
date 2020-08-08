@@ -687,5 +687,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

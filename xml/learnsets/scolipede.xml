@@ -436,5 +436,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twinneedle</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steamroller</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Climb</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

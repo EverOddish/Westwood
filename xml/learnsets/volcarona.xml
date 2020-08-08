@@ -460,5 +460,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>- Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Morning Sun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Leech Life</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Gust</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Fire Spin</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Whirlwind</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Silver Wind</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Heat Wave</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Quiver Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Bug Buzz</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Rage Powder</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Hurricane</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>- Fiery Dance</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

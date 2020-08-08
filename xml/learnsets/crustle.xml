@@ -240,5 +240,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Wrecker</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

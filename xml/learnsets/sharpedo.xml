@@ -838,5 +838,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

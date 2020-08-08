@@ -723,5 +723,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

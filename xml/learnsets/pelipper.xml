@@ -936,5 +936,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -832,5 +832,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will O Wisp</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grudge</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

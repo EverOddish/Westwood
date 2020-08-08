@@ -380,5 +380,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chatter</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Round</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

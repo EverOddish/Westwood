@@ -338,5 +338,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Round</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Round</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Wave</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

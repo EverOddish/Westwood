@@ -266,5 +266,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scald</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pledge</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Cannon</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -334,5 +334,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assist</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand-Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pay Day</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snatch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

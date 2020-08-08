@@ -174,5 +174,49 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pay Day</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

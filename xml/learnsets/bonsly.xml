@@ -386,5 +386,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

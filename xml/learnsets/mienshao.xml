@@ -342,5 +342,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

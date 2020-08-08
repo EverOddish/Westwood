@@ -532,5 +532,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thundershock</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flatter</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

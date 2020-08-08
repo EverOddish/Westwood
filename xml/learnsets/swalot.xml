@@ -782,5 +782,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>66</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

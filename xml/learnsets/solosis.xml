@@ -236,5 +236,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snatch</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshock</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

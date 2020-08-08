@@ -800,5 +800,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

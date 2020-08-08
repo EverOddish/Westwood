@@ -136,5 +136,41 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Smash</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>30</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

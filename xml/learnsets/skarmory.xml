@@ -657,5 +657,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Drop</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

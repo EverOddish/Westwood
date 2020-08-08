@@ -522,5 +522,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

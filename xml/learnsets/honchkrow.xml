@@ -264,5 +264,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quash</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

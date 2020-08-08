@@ -430,5 +430,41 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

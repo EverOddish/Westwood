@@ -435,5 +435,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

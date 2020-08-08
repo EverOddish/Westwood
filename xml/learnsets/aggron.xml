@@ -664,5 +664,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>74</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

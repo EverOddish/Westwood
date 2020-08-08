@@ -366,5 +366,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Weather Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Spear</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Shot</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

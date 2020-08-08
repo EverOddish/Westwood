@@ -234,5 +234,53 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cotton Spore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

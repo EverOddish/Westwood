@@ -176,5 +176,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Incinerate</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Searing Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Flare</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Bolt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>V-Create</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>73</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>81</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>89</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Overheat</name>
+					<level>97</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -710,5 +710,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thief</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

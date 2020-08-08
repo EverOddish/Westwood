@@ -364,5 +364,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

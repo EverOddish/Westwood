@@ -814,5 +814,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

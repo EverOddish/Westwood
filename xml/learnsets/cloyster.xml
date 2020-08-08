@@ -447,5 +447,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spike Cannon</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

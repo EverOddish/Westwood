@@ -522,5 +522,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand-Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Featherdance</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-edge</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

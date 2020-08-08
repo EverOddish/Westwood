@@ -374,5 +374,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twineedle</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Needle Arm</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

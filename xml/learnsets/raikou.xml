@@ -503,5 +503,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>ExtremeSpeed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Weather Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>71</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>78</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

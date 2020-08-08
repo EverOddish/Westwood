@@ -148,5 +148,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Daze</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Punishment</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

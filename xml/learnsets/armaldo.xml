@@ -572,5 +572,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>73</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -590,5 +590,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defend Order</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attack Order</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Order</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

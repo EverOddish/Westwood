@@ -380,5 +380,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

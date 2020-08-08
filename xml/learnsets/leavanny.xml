@@ -300,5 +300,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X Scissor</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

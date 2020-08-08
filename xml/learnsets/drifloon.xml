@@ -432,5 +432,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Minimize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Constrict</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

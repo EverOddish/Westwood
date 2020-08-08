@@ -553,5 +553,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Leech</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

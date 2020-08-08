@@ -192,5 +192,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>66</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>71</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

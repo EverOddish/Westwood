@@ -416,5 +416,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -713,5 +713,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

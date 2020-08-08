@@ -870,5 +870,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

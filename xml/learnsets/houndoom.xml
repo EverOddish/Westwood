@@ -579,5 +579,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snarl</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Embargo</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -808,5 +808,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self Destruct</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

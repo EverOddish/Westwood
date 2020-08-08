@@ -495,5 +495,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sonic Boom</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U Turn</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

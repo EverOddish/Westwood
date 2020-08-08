@@ -456,5 +456,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake Up Slap</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

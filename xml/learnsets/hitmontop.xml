@@ -637,5 +637,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rolling Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Triple Kick</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Triple Kick</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

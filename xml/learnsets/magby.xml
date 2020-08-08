@@ -429,5 +429,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

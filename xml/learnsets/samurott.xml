@@ -294,5 +294,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Shell</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Smash</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Secret Sword</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>74</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -382,5 +382,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vacuum Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamic Punch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Circle Throw</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

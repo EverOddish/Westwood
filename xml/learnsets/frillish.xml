@@ -212,5 +212,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubble</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

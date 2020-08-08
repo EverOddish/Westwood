@@ -466,5 +466,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint Attack</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

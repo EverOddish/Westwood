@@ -244,5 +244,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshock</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nightmare</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Telekinesis</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

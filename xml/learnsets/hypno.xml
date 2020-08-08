@@ -806,5 +806,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nightmare</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshock</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -810,5 +810,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Sweep</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vital Throw</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake Up Slap</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamic Punch</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

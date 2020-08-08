@@ -412,5 +412,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Sport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Drill</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
