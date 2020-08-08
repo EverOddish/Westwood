@@ -33,7 +33,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>Has a 100% chance to lower the target's Special Attack by one stage.</description>
 			</move_definition>
@@ -50,6 +49,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
 			</games>
 			<move_definition>
 				<generation>5</generation>
@@ -59,7 +60,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>Has a 100% chance to lower the target's Special Attack by one stage.</description>
 			</move_definition>
@@ -77,7 +77,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>Has a 100% chance to lower the target's Special Attack by one stage.</description>
 			</move_definition>

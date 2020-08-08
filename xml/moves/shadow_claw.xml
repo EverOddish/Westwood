@@ -80,6 +80,23 @@
 				<description>Has an increased chance for a critical hit.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<move_definition>
+				<generation>4</generation>
+				<type>Ghost</type>
+				<base_power>90</base_power>
+				<power_points>15</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect>Chance of critical hit</effect>
+				<description>Has an increased chance for a critical hit.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>
