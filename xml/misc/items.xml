@@ -398,32 +398,32 @@
     <item>
         <name>Sun Stone</name>
         <cost>10</cost>
-        <description>"Evolves a Cottonee into Whimsicott</description>
+        <description>A stone that evolves Gloom, Sunkern, Cottonee, Petilil and Helioptile.</description>
     </item>
     <item>
         <name>Moon Stone</name>
         <cost>10</cost>
-        <description>"Evolves a Clefairy into Clefable</description>
+        <description>A stone that evolves Nidorino, Nidorina, Clefairy, Jigglypuff, Skitty and Munna.</description>
     </item>
     <item>
         <name>Fire Stone</name>
         <cost>10</cost>
-        <description>"Evolves an Eevee into Flareon</description>
+        <description>A stone that evolves Vulpix, Growlithe, Eevee and Pansear.</description>
     </item>
     <item>
         <name>Thunder Stone</name>
         <cost>10</cost>
-        <description>"Evolves an Eelektrik into Eelektross</description>
+        <description>A stone that evolves Pikachu, Eevee, Elektrik, and Charjabug.</description>
     </item>
     <item>
         <name>Water Stone</name>
         <cost>10</cost>
-        <description>"Evolves an Eevee into Vaporeon</description>
+        <description>A stone that evolves Poliwhirl, Shellder, Staryu, Eevee, Lombre and Panpour.</description>
     </item>
     <item>
         <name>Leaf Stone</name>
         <cost>10</cost>
-        <description>"Evolves an Exeggcute into Exeggutor</description>
+        <description>A stone that evolves Gloom, Weepinbell, Exeggcute, Eevee, Nuzleaf and Pansage.</description>
     </item>
     <item>
         <name>Tiny Mushroom</name>
@@ -533,17 +533,17 @@
     <item>
         <name>Shiny Stone</name>
         <cost>10</cost>
-        <description>"Evolves a Minccino into Cinccino</description>
+        <description>A stone that evolves Togetic, Roselia, Minccino and Floette.</description>
     </item>
     <item>
         <name>Dusk Stone</name>
         <cost>10</cost>
-        <description>"Evolves a Lampent into Chandelure</description>
+        <description>A stone that evolves Murkrow, Misdreavus, Lampent and Doublade.</description>
     </item>
     <item>
         <name>Dawn Stone</name>
         <cost>10</cost>
-        <description>Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.</description>
+        <description>A stone that evolves male Kirlia into Gallade, and female Snorunt into Froslass.</description>
     </item>
     <item>
         <name>Oval Stone</name>
