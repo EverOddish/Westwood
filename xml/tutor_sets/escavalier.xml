@@ -33,5 +33,21 @@
 				<tutor_set_move>Drill Run</tutor_set_move>
 			</tutor_set_moves>
 		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Giga Drain</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Knock Off</tutor_set_move>
+				<tutor_set_move>Iron Defense</tutor_set_move>
+				<tutor_set_move>Iron Head</tutor_set_move>
+				<tutor_set_move>Bug Bite</tutor_set_move>
+				<tutor_set_move>Drill Run</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
 	</tutor_sets>
 </pokemon_tutor_sets>

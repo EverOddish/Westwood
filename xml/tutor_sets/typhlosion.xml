@@ -149,5 +149,23 @@
 				<tutor_set_move>Fire Pledge</tutor_set_move>
 			</tutor_set_moves>
 		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Fire Punch</tutor_set_move>
+				<tutor_set_move>Thunder Punch</tutor_set_move>
+				<tutor_set_move>Low Kick</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Heat Wave</tutor_set_move>
+				<tutor_set_move>Blast Burn</tutor_set_move>
+				<tutor_set_move>Covet</tutor_set_move>
+				<tutor_set_move>Fire Pledge</tutor_set_move>
+				<tutor_set_move>Earth Power</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
 	</tutor_sets>
 </pokemon_tutor_sets>
