@@ -126,6 +126,8 @@
 			<games>
 				<game>Pokemon Blaze Black</game>
 				<game>Pokemon Volt White</game>
+				<game>Pokemon Blaze Black 2</game>
+				<game>Pokemon Volt White 2</game>
 			</games>
 			<type1>Psychic</type1>
 			<type2>Dark</type2>
@@ -203,11 +205,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Regenerator</name>
+					<name>Frisk</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Magic Guard</name>
+					<name>Magic Bounce</name>
 					<hidden>No</hidden>
 				</ability_record>
 			</ability_records>
