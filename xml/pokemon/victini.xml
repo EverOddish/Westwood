@@ -145,10 +145,6 @@
 					<name>Victory Star</name>
 					<hidden>No</hidden>
 				</ability_record>
-				<ability_record>
-					<name>Victory Star</name>
-					<hidden>No</hidden>
-				</ability_record>
 			</ability_records>
 		</ability_set>
 	</ability_sets>
