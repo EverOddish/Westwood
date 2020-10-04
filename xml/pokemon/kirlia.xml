@@ -251,11 +251,11 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Gardevoir</evolves_to>
-					<method>when a Dawn Stone is used</method>
+                    <level>30</level>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Gallade</evolves_to>
-					<method>when male</method>
+					<method>when male and a Dawn Stone is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
