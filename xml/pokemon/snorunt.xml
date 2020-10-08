@@ -232,7 +232,7 @@
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Froslass</evolves_to>
-					<method>when female</method>
+					<method>when female and a Dawn Stone is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -247,7 +247,7 @@
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Froslass</evolves_to>
-					<method>when female</method>
+					<method>when female and a Dawn Stone is used</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
