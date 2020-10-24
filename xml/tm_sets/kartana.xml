@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Kartana</name>
     <tm_sets>
@@ -30,6 +30,35 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Confide</tmset_move>
                 <tmset_move>Smart Strike</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Solar Blade</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Psycho Cut</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Smart Strike</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Leaf Blade</tmset_move>
+                <tmset_move>X-Scissor</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

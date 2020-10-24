@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Groudon</name>
     <tm_sets>
@@ -332,6 +332,65 @@
                 <tmset_move>Dragon Tail</tmset_move>
                 <tmset_move>Confide</tmset_move>
                 <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Fire Punch</tmset_move>
+                <tmset_move>Thunder Punch</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Heavy Slam</tmset_move>
+                <tmset_move>Heat Crash</tmset_move>
+                <tmset_move>High Horsepower</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

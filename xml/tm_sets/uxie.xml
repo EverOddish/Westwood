@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Uxie</name>
     <tm_sets>
@@ -251,6 +251,73 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Acrobatics</tmset_move>
                 <tmset_move>Confide</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Fire Punch</tmset_move>
+                <tmset_move>Ice Punch</tmset_move>
+                <tmset_move>Thunder Punch</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Imprison</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Drain Punch</tmset_move>
+                <tmset_move>Psycho Cut</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Wonder Room</tmset_move>
+                <tmset_move>Magic Room</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Draining Kiss</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Metronome</tmset_move>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Tri Attack</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Baton Pass</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Future Sight</tmset_move>
+                <tmset_move>Trick</tmset_move>
+                <tmset_move>Skill Swap</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Stored Power</tmset_move>
+                <tmset_move>Ally Switch</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
                 <tmset_move>Dazzling Gleam</tmset_move>
             </tmset_moves>
         </tm_set>

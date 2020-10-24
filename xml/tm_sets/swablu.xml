@@ -286,5 +286,42 @@
                 <tmset_move>Hurricane</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Power Swap</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

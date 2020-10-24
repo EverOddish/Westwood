@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Nidorina</name>
     <tm_sets>
@@ -302,6 +302,46 @@
                 <tmset_move>Round</tmset_move>
                 <tmset_move>Echoed Voice</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Charm</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Beat Up</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Focus Energy</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Toxic Spikes</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Venom Drench</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

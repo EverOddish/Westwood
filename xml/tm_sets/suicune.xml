@@ -429,5 +429,55 @@
                 <tmset_move>Hurricane</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Whirlpool</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Brine</tmset_move>
+                <tmset_move>Avalanche</tmset_move>
+                <tmset_move>Ice Fang</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Hydro Pump</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Liquidation</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

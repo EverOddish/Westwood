@@ -298,5 +298,62 @@
                 <tmset_move>Drain Punch</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Fire Punch</tmset_move>
+                <tmset_move>Ice Punch</tmset_move>
+                <tmset_move>Thunder Punch</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Electroweb</tmset_move>
+                <tmset_move>Electric Terrain</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Low Kick</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Electro Ball</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
+                <tmset_move>Darkest Lariat</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

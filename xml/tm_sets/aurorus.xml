@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Aurorus</name>
     <tm_sets>
@@ -166,6 +166,61 @@
                 <tmset_move>Frost Breath</tmset_move>
                 <tmset_move>Dragon Tail</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Icicle Spear</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Rock Blast</tmset_move>
+                <tmset_move>Avalanche</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

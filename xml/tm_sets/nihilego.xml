@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Nihilego</name>
     <tm_sets>
@@ -42,6 +42,53 @@
                 <tmset_move>Confide</tmset_move>
                 <tmset_move>Dazzling Gleam</tmset_move>
                 <tmset_move>Brutal Swing</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Wonder Room</tmset_move>
+                <tmset_move>Cross Poison</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Hex</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Toxic Spikes</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Power Gem</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Gunk Shot</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Ally Switch</tmset_move>
+                <tmset_move>Venom Drench</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>
