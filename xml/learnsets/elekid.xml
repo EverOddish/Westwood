@@ -493,5 +493,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

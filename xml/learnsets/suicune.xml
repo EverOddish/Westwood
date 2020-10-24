@@ -707,5 +707,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Surf</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>66</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>78</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

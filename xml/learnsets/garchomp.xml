@@ -472,5 +472,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Chop</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Tomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>82</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

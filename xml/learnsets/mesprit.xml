@@ -256,5 +256,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flatter</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Healing Wish</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

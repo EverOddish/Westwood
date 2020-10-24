@@ -536,5 +536,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

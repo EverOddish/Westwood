@@ -893,5 +893,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

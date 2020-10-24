@@ -162,5 +162,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>77</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>84</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Diamond Storm</name>
+					<level>91</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

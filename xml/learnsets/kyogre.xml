@@ -362,5 +362,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Origin Pulse</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>81</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>90</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

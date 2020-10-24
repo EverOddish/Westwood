@@ -84,5 +84,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eerie Impulse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electric Terrain</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Whip</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

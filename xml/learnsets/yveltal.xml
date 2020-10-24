@@ -88,5 +88,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snarl</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Oblivion Wing</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Phantom Force</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Blast</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>80</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

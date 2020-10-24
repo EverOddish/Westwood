@@ -373,5 +373,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Weather Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aeroblast</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>81</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>90</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

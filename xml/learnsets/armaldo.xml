@@ -648,5 +648,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smack Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

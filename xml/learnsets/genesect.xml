@@ -182,5 +182,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fell Stinger</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Sound</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock-On</name>
+					<level>77</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Techno Blast</name>
+					<level>84</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>91</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

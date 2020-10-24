@@ -49,7 +49,8 @@ class PokemonLearnset(PokemonObject):
             if learnset.moves == new_learnset.moves:
                 # Just add the game entry to the existing duplicate learnset
                 for new_game in new_learnset.games:
-                    learnset.games.append(new_game)
+                    if new_game not in learnset.games:
+                        learnset.games.append(new_game)
                 return
         # No matching learnset was found, so add the new unique learnset
         self.learnsets.append(new_learnset)

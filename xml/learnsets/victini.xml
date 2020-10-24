@@ -264,5 +264,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>V-create</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Incinerate</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Searing Shot</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>77</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Overheat</name>
+					<level>84</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>91</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

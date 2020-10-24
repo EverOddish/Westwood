@@ -336,5 +336,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Surf</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
