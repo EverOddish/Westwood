@@ -77,5 +77,15 @@
 				<tutor_set_move>Water Pulse</tutor_set_move>
 			</tutor_set_moves>
 		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Triple Axel</tutor_set_move>
+				<tutor_set_move>Poltergeist</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
 	</tutor_sets>
 </pokemon_tutor_sets>

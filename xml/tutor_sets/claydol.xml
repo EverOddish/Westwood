@@ -108,5 +108,15 @@
 				<tutor_set_move>Drill Run</tutor_set_move>
 			</tutor_set_moves>
 		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Scorching Sands</tutor_set_move>
+				<tutor_set_move>Expanding Force</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
 	</tutor_sets>
 </pokemon_tutor_sets>

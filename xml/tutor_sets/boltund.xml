@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_tutor_sets>
+    <name>Boltund</name>
+    <tutor_sets>
+        <tutor_set>
+            <games>
+                <game>Pokemon Sword</game>
+                <game>Pokemon Shield</game>
+            </games>
+            <tutor_set_moves>
+                <tutor_set_move>Rising Voltage</tutor_set_move>
+            </tutor_set_moves>
+        </tutor_set>
+    </tutor_sets>
+</pokemon_tutor_sets>
