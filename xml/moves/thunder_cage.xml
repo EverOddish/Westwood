@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+	<name>Thunder Cage</name>
+	<move_records>
+		<move_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<move_definition>
+				<generation>8</generation>
+				<type>Electric</type>
+				<base_power>80</base_power>
+				<power_points>15</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description>The user traps the target in a cage of sparking electricity for four to five turns.</description>
+			</move_definition>
+		</move_record>
+	</move_records>
+</move>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<move>
+	<name>Freezing Glare</name>
+	<move_records>
+		<move_record>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<move_definition>
+				<generation>8</generation>
+				<type>Psychic</type>
+				<base_power>90</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect>May induce freeze</effect>
+				<effect_chance>10</effect_chance>
+				<description>The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.</description>
+			</move_definition>
+		</move_record>
+	</move_records>
+</move>
