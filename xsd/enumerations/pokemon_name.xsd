@@ -923,6 +923,13 @@
             <xs:enumeration value="Kubfu"/>
             <xs:enumeration value="Urshifu"/>
             <xs:enumeration value="Zarude"/>
+            <xs:enumeration value="Regieleki"/>
+            <xs:enumeration value="Regidrago"/>
+            <xs:enumeration value="Glastrier"/>
+            <xs:enumeration value="Spectrier"/>
+            <xs:enumeration value="Calyrex"/>
+            <xs:enumeration value="Calyrex-Ice-Rider"/>
+            <xs:enumeration value="Calyrex-Shadow-Rider"/>
         </xs:restriction>
     </xs:simpleType>
 
