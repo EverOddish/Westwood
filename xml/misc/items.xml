@@ -4995,4 +4995,84 @@
         <cost>0</cost>
         <description>A mysterious and unique charm that increases the chance of finding a Pokémon with a mark.</description>
     </item>
+    <item>
+        <name>Reins of Unity</name>
+        <cost>0</cost>
+        <description>Reins that people presented to the king. They enhance Calyrex’s power over bountiful harvests and unite Calyrex with its beloved steed. They enable those who are connected to communicate with each other. The reins separate Calyrex and its beloved steed. Cords that shine when you hold them up to the light. The people of old times presented these to the King of Bountiful Harvests to express their gratitude.</description>
+    </item>
+    <item>
+        <name>Galarica Wreath</name>
+        <cost>0</cost>
+        <description>A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy.</description>
+    </item>
+    <item>
+        <name>Legendary Clue 1</name>
+        <cost>0</cost>
+        <description>A clue about the King of Bountiful Harvests. It’s written by Peony, and an old photo is attached to it.</description>
+    </item>
+    <item>
+        <name>Legendary Clue 2</name>
+        <cost>0</cost>
+        <description>A clue about the legend of giants. It’s written by Peony and has unique drawings.</description>
+    </item>
+    <item>
+        <name>Legendary Clue 3</name>
+        <cost>0</cost>
+        <description>A clue about the legend of bird Pokémon. It’s written by Peony and has a unique drawing.</description>
+    </item>
+    <item>
+        <name>Legendary Clue 4</name>
+        <cost>0</cost>
+        <description>A mysterious clue that Peony seems to have dropped. There’s a photo attached to it showing a shining hole opening above the Max Lair.</description>
+    </item>
+    <item>
+        <name>Crown Pass</name>
+        <cost>0</cost>
+        <description>A pass to go to the Crown Tundra. Show it to the rail staff at Wedgehurst Station.</description>
+    </item>
+    <item>
+        <name>Wooden Crown</name>
+        <cost>0</cost>
+        <description>A mysterious object made of wood. Part of it seems to be chipped. Maybe it’s meant to be part of something.</description>
+    </item>
+    <item>
+        <name>Radiant Petal</name>
+        <cost>0</cost>
+        <description>A single petal that the King of Bountiful Harvests gave you. It radiates faint light.</description>
+    </item>
+    <item>
+        <name>White Mane Hair</name>
+        <cost>0</cost>
+        <description>Mane hair that belonged to the King of Bountiful Harvests’ beloved steed, Glastrier. The hair is strong and very flexible.</description>
+    </item>
+    <item>
+        <name>Black Mane Hair</name>
+        <cost>0</cost>
+        <description>Mane hair that belonged to the King of Bountiful Harvests’ beloved steed, Spectrier. The hair is very smooth to the touch.</description>
+    </item>
+    <item>
+        <name>Iceroot Carrot</name>
+        <cost>0</cost>
+        <description>Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a field covered in snow.</description>
+    </item>
+    <item>
+        <name>Shaderoot Carrot</name>
+        <cost>0</cost>
+        <description>Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a gloomy field.</description>
+    </item>
+    <item>
+        <name>Dynite Ore</name>
+        <cost>0</cost>
+        <description>Mysterious ore that can be obtained in the Max Lair. Something good will happen if you give it to a collector in the Crown Tundra.</description>
+    </item>
+    <item>
+        <name>Carrot Seeds</name>
+        <cost>0</cost>
+        <description>Seeds to plant in a field. The kind of carrot you’ll get is determined by which field you plant the seeds in.</description>
+    </item>
+    <item>
+        <name>Ability Patch</name>
+        <cost>0</cost>
+        <description>A patch that allows a Pokémon with a regular Ability to have a rare Ability.</description>
+    </item>
 </items>
