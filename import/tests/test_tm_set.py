@@ -1,7 +1,9 @@
 import filecmp
 import os
 import tempfile
+import sys
 
+sys.path.append(os.getcwd())
 from intermediate.tm_set import PokemonTmSet
 
 def validate_pokemon_tm_set(pokemon_tm_set):

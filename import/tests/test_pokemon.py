@@ -1,7 +1,9 @@
 import filecmp
 import os
 import tempfile
+import sys
 
+sys.path.append(os.getcwd())
 from intermediate.pokemon import Pokemon
 
 def validate_pokemon(pokemon):

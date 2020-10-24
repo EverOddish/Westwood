@@ -1,7 +1,9 @@
 import filecmp
 import os
 import tempfile
+import sys
 
+sys.path.append(os.getcwd())
 from intermediate.move import Move
 
 def validate_move_record(move_record):
