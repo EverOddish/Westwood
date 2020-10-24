@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Chilling Neigh</name>
+    <games>
+        <game>Pokemon Sword</game>
+        <game>Pokemon Shield</game>
+    </games>
+    <description>When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat</description>
+</ability>

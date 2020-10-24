@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Grim Neigh</name>
+    <games>
+        <game>Pokemon Sword</game>
+        <game>Pokemon Shield</game>
+    </games>
+    <description>When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat</description>
+</ability>

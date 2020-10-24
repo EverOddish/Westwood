@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>As One</name>
+    <games>
+        <game>Pokemon Sword</game>
+        <game>Pokemon Shield</game>
+    </games>
+    <description>This Ability combines the effects of both Calyrex's Unnerve Ability and Glastrier's Chilling Neigh Ability or Spectrier's Grim Neigh Ability</description>
+</ability>

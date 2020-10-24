@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ability>
+    <name>Dragon's Maw</name>
+    <games>
+        <game>Pokemon Sword</game>
+        <game>Pokemon Shield</game>
+    </games>
+    <description>Powers up Dragon-type moves</description>
+</ability>
