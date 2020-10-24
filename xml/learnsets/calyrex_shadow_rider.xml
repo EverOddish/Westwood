@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Calyrex Ice Rider</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astral Barrage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Life Dew</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshock</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>80</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>88</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>
