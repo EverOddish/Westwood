@@ -215,6 +215,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Alakazam</evolves_to>
+                    <method>when traded</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
