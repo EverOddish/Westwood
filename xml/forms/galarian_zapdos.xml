@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Galarian Zapdos</name>
+	<height>16</height>
+	<weight>526</weight>
+	<base_exp>261</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Special Attack</stat>
+			<value>3</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>90</hp>
+			<attack>125</attack>
+			<defense>90</defense>
+			<special_attack>85</special_attack>
+			<special_defense>90</special_defense>
+			<speed>100</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Fighting</type1>
+			<type2>Flying</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Defiant</name>
+					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_form>
+	<name>Slowking</name>
+	<height>20</height>
+	<weight>795</weight>
+	<base_exp>172</base_exp>
+	<ev_yields>
+		<ev_yield>
+			<stat>Special Defense</stat>
+			<value>2</value>
+		</ev_yield>
+	</ev_yields>
+	<stat_sets>
+		<stat_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<hp>95</hp>
+			<attack>65</attack>
+			<defense>80</defense>
+			<special_attack>110</special_attack>
+			<special_defense>110</special_defense>
+			<speed>30</speed>
+		</stat_set>
+	</stat_sets>
+	<type_sets>
+		<type_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<type1>Poison</type1>
+			<type2>Psychic</type2>
+		</type_set>
+	</type_sets>
+	<ability_sets>
+		<ability_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Curious Medicine</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Own Tempo</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Regenerator</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+	</ability_sets>
+</pokemon_form>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<pokemon_learnsets>
+	<name>Slowking</name>
+	<learnsets>
+		<learnset>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Eerie Spell</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Surf</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+	</learnsets>
+</pokemon_learnsets>
