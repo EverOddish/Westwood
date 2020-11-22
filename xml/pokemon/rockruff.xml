@@ -182,15 +182,41 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Midday Lycanroc</evolves_to>
+                    <level>25</level>
+					<method>during the day in Pokemon Sun or Pokemon Ultra Sun</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Midnight Lycanroc</evolves_to>
+                    <level>25</level>
+					<method>at night in Pokemon Moon or Pokemon Ultra Moon</method>
+				</evolution_record>
+				<evolution_record>
+					<evolves_to>Dusk Lycanroc</evolves_to>
+                    <level>25</level>
+					<method>between 5:00 pm and 5:59 pm with the ability Own Tempo</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Sword</game>
+				<game>Pokemon Shield</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Midday Lycanroc</evolves_to>
+                    <level>25</level>
 					<method>during the day</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Midnight Lycanroc</evolves_to>
+                    <level>25</level>
 					<method>at night</method>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Dusk Lycanroc</evolves_to>
-					<method>at dusk with the ability Own Tempo</method>
+                    <level>25</level>
+					<method>between 7:00 pm and 7:59 pm with the ability Own Tempo</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
