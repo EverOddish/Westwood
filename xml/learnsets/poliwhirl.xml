@@ -451,8 +451,44 @@
 			</games>
 			<learnset_moves>
 				<learnset_move>
-					<name>Water gun</name>
+					<name>Bubble</name>
 					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>51</level>
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
