@@ -49,6 +49,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<hp>30</hp>
 			<attack>45</attack>
@@ -100,6 +102,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<type1>Rock</type1>
 		</type_set>
@@ -195,7 +199,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Probopass</evolves_to>
-                    <method>when levelled up at Mt. Coronet</method>
+					<method>when levelled up at Mt. Coronet</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -209,7 +213,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Probopass</evolves_to>
-                    <method>when levelled up in Chargestone Cave</method>
+					<method>when levelled up in Chargestone Cave</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -221,7 +225,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Probopass</evolves_to>
-                    <method>when levelled up near the Electric Rock on Route 13</method>
+					<method>when levelled up near the Electric Rock on Route 13</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -233,7 +237,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Probopass</evolves_to>
-                    <method>when levelled up near the Electric Rock in New Mauville</method>
+					<method>when levelled up near the Electric Rock in New Mauville</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -245,7 +249,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Probopass</evolves_to>
-                    <method>when levelled up near the Electric Rock at Vast Poni Canyon</method>
+					<method>when levelled up near the Electric Rock at Vast Poni Canyon</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
@@ -257,7 +261,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Probopass</evolves_to>
-                    <method>when levelled up near the Electric Rock at Blush Mountain</method>
+					<method>when levelled up near the Electric Rock at Blush Mountain</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>

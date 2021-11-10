@@ -53,6 +53,8 @@
 				<game>Pokemon Shield</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<hp>38</hp>
 			<attack>35</attack>
@@ -130,6 +132,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<type1>Psychic</type1>
 			<type2>Fairy</type2>
@@ -251,7 +255,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Gardevoir</evolves_to>
-                    <level>30</level>
+					<level>30</level>
 				</evolution_record>
 				<evolution_record>
 					<evolves_to>Gallade</evolves_to>

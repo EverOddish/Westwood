@@ -49,6 +49,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<hp>73</hp>
 			<attack>95</attack>
@@ -101,6 +103,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<type1>Normal</type1>
 		</type_set>

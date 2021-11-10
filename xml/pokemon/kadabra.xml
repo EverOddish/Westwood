@@ -51,6 +51,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<hp>40</hp>
 			<attack>35</attack>
@@ -93,6 +95,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<type1>Psychic</type1>
 		</type_set>
@@ -215,7 +219,7 @@
 			<evolution_records>
 				<evolution_record>
 					<evolves_to>Alakazam</evolves_to>
-                    <method>when traded</method>
+					<method>when traded</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
