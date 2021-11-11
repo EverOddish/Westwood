@@ -487,5 +487,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

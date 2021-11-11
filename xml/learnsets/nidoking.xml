@@ -436,5 +436,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flatter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

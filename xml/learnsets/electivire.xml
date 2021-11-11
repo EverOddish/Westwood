@@ -576,5 +576,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

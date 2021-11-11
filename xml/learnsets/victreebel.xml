@@ -494,5 +494,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>44</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

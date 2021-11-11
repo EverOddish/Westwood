@@ -884,5 +884,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomping Tantrum</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

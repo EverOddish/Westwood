@@ -264,5 +264,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>46</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

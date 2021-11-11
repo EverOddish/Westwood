@@ -412,5 +412,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -628,5 +628,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

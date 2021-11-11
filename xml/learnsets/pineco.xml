@@ -447,5 +447,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

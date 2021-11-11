@@ -799,5 +799,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Incinerate</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

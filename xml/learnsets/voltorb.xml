@@ -710,5 +710,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eerie Impulse</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

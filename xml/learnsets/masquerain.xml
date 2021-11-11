@@ -692,5 +692,81 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

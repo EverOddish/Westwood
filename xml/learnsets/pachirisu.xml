@@ -350,5 +350,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby-Doll Eyes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

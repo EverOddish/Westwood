@@ -456,5 +456,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Knot</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Whip</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

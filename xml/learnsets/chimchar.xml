@@ -198,5 +198,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power-Up Punch</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Facade</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

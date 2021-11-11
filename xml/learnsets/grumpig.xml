@@ -718,5 +718,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psych Up</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Gem</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshock</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

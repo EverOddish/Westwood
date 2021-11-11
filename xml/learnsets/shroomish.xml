@@ -424,5 +424,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>40</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

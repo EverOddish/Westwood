@@ -572,5 +572,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

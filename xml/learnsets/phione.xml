@@ -132,5 +132,53 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

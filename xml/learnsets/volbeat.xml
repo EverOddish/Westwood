@@ -562,5 +562,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Glow</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Infestation</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

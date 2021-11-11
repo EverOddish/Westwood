@@ -482,5 +482,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

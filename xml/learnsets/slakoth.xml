@@ -264,5 +264,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>38</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

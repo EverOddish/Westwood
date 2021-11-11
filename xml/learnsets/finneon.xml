@@ -214,5 +214,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

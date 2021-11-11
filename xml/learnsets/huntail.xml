@@ -346,5 +346,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dive</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

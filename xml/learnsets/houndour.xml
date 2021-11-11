@@ -521,5 +521,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

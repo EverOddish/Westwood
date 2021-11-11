@@ -541,5 +541,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roar</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

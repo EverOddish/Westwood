@@ -410,5 +410,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sticky Web</name>
+					<level>38</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

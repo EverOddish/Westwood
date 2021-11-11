@@ -431,5 +431,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

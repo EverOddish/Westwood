@@ -385,5 +385,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fling</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baby-Doll Eyes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Scent</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Nice</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snore</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

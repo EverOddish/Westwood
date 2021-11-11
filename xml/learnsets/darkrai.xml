@@ -202,5 +202,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Void</name>
+					<level>66</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>84</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>93</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

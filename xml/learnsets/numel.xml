@@ -428,5 +428,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>47</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

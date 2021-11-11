@@ -762,5 +762,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

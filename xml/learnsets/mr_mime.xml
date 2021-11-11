@@ -998,5 +998,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Copycat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dazzling Gleam</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
