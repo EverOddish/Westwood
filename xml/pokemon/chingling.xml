@@ -139,6 +139,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -200,7 +202,6 @@
 				<evolution_record>
 					<evolves_to>Chimecho</evolves_to>
 					<method>at night</method>
-					<method>at happiness level 220</method>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
