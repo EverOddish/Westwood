@@ -386,5 +386,46 @@
                 <tmset_move>Sucker Punch</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Focus Punch</tmset_move>
+                <tmset_move>Roar</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Explosion</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Rock Climb</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

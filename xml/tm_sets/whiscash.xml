@@ -327,5 +327,40 @@
                 <tmset_move>Zen Headbutt</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Water Pulse</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

@@ -377,5 +377,45 @@
                 <tmset_move>Bug Buzz</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Focus Punch</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Roost</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Drain Punch</tmset_move>
+                <tmset_move>Bug Buzz</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Flash</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>U-Turn</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Strength</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

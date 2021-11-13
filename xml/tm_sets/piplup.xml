@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Piplup</name>
     <tm_sets>
@@ -242,6 +242,43 @@
                 <tmset_move>Quash</tmset_move>
                 <tmset_move>Work Up</tmset_move>
                 <tmset_move>Confide</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Water Pulse</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Aerial Ace</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Brine</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Pluck</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Cut</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Defog</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

@@ -221,5 +221,36 @@
                 <tmset_move>Weather Ball</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Bullet Seed</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Flash</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Cut</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

@@ -285,5 +285,34 @@
                 <tmset_move>Flare Blitz</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Focus Punch</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Rock Smash</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

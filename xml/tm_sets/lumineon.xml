@@ -268,5 +268,39 @@
                 <tmset_move>Hurricane</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Water Pulse</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Brine</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Flash</tmset_move>
+                <tmset_move>Psych Up</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>U-Turn</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Defog</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>
