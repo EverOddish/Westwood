@@ -51,6 +51,8 @@
 			<games>
 				<game>Pokemon Diamond</game>
 				<game>Pokemon Pearl</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<tutor_set_moves>
 				<tutor_set_move>Blast Burn</tutor_set_move>
