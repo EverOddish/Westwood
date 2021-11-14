@@ -41,6 +41,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<hp>60</hp>
 			<attack>79</attack>
@@ -105,6 +107,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<type1>Bug</type1>
 			<type2>Ground</type2>
@@ -141,6 +145,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<ability_records>
 				<ability_record>
