@@ -308,5 +308,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Force</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Claw</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>77</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>84</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

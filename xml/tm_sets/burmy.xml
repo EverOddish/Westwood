@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
 <pokemon_tm_sets>
     <name>Burmy</name>
     <tm_sets>
@@ -16,6 +16,15 @@
             <tmset_moves>
                 <tmset_move>Protect</tmset_move>
                 <tmset_move>Hidden Power</tmset_move>
+            </tmset_moves>
+        </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Protect</tmset_move>
             </tmset_moves>
         </tm_set>
     </tm_sets>

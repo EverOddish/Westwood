@@ -49,6 +49,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<hp>40</hp>
 			<attack>29</attack>
@@ -100,6 +102,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<type1>Bug</type1>
 		</type_set>
@@ -135,6 +139,8 @@
 				<game>Pokemon Moon</game>
 				<game>Pokemon Ultra Sun</game>
 				<game>Pokemon Ultra Moon</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -235,6 +241,18 @@
 				<evolution_record>
 					<evolves_to>Mothim</evolves_to>
 					<method>when male</method>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Wormadam</evolves_to>
+					<level>20</level>
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
