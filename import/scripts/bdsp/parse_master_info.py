@@ -610,7 +610,7 @@ for temp_pokemon in pokemon_list:
         pokemon_name = 'ho_oh'
     if pokemon_name == 'MimeJr':
         pokemon_name = 'mime_jr'
-    filename = '/Users/mikeaustin/github/Westwood/xml/pokemon/' + pokemon_name.replace("'", '_').replace(' ', '_').replace('.', '_').replace('-', '_').lower() + '.xml'
+    filename = '../../../xml/pokemon/' + pokemon_name.replace("'", '_').replace(' ', '_').replace('.', '_').replace('-', '_').lower() + '.xml'
     if os.path.exists(filename):
 
         pokemon_object = Pokemon(filename)
