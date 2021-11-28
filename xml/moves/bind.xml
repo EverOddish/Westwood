@@ -29,7 +29,6 @@
 				<accuracy>75</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>Prevents the target from fleeing and inflicts damage for 2-5 turns.</description>
 			</move_definition>
@@ -38,6 +37,8 @@
 			<games>
 				<game>Pokemon Black</game>
 				<game>Pokemon White</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>1</generation>
@@ -47,7 +48,6 @@
 				<accuracy>85</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>Prevents the target from fleeing and inflicts damage for 2-5 turns.</description>
 			</move_definition>
@@ -75,7 +75,6 @@
 				<accuracy>85</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>Prevents the target from fleeing and inflicts damage for 2-5 turns.</description>
 			</move_definition>

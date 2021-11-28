@@ -34,6 +34,10 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>4</generation>
@@ -43,7 +47,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect/>
 				<effect_chance>10</effect_chance>
 				<description>User takes 1/3 the damage inflicted in recoil.  Has a 10% chance to burn the target.</description>
 			</move_definition>

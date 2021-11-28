@@ -34,6 +34,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>2</generation>
@@ -46,7 +48,7 @@
 				<description>Lowers the PP of the target's last used move by 4.</description>
 			</move_definition>
 		</move_record>
-        <move_record>
+		<move_record>
 			<games>
 				<game>Pokemon Emerald Kaizo</game>
 			</games>

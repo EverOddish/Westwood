@@ -34,6 +34,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>2</generation>
@@ -47,7 +49,7 @@
 				<description>Inflicts regular damage with no additional effect.</description>
 			</move_definition>
 		</move_record>
-        <move_record>
+		<move_record>
 			<games>
 				<game>Pokemon Emerald Kaizo</game>
 			</games>

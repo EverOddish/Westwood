@@ -6,6 +6,8 @@
             <games>
                 <game>Pokemon Sword</game>
                 <game>Pokemon Shield</game>
+                <game>Pokemon Brilliant Diamond</game>
+                <game>Pokemon Shining Pearl</game>
             </games>
             <move_definition>
                 <generation>8</generation>
@@ -15,7 +17,6 @@
                 <accuracy>100</accuracy>
                 <priority>0</priority>
                 <damage_category>Status</damage_category>
-                <effect></effect>
                 <description>The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.</description>
             </move_definition>
         </move_record>

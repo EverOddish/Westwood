@@ -73,7 +73,10 @@ class Move(PokemonObject):
             effect_chance_tag = move_definition_tag.find('effect_chance')
             if None != effect_chance_tag:
                 move_record.effect_chance = effect_chance_tag.text
-            move_record.description = move_definition_tag.find('description').text
+            if None != move_definition_tag.find('description'):
+                move_record.description = move_definition_tag.find('description').text
+            else:
+                move_record.description = ''
 
             self.move_records.append(move_record)
 

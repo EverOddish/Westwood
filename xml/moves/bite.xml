@@ -16,7 +16,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect/>
 				<effect_chance>30</effect_chance>
 				<description>Has a 30% chance to make the target flinch.</description>
 			</move_definition>
@@ -50,6 +49,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>1</generation>
@@ -59,7 +60,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect/>
 				<effect_chance>30</effect_chance>
 				<description>Has a 30% chance to make the target flinch.</description>
 			</move_definition>

@@ -34,6 +34,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>3</generation>
@@ -43,7 +45,6 @@
 				<accuracy>90</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>Lowers the user's Special Attack by two stages after inflicting damage.</description>
 			</move_definition>
@@ -60,7 +61,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect/>
 				<effect_chance>100</effect_chance>
 				<description>User receives 1/4 the damage inflicted in recoil.</description>
 			</move_definition>

@@ -37,6 +37,8 @@
 			<games>
 				<game>Pokemon Black</game>
 				<game>Pokemon White</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>2</generation>

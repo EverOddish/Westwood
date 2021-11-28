@@ -34,6 +34,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>7</generation>
@@ -43,6 +45,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
+				<description></description>
 			</move_definition>
 		</move_record>
 	</move_records>

@@ -34,6 +34,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Sword</game>
 				<game>Pokemon Shield</game>
+				<game>Pokemon Brilliant Diamond</game>
+				<game>Pokemon Shining Pearl</game>
 			</games>
 			<move_definition>
 				<generation>6</generation>
@@ -43,7 +45,6 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect/>
 				<effect_chance>10</effect_chance>
 				<description>Super-effective against Water.</description>
 			</move_definition>
