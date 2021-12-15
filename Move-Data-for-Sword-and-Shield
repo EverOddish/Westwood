@@ -1,0 +1,278 @@
+<gamemovetutor>
+<games> Pokemon Sword and Shield </games>
+
+<MoveTutor>
+<name> Grass Pledge </name>
+<type> Grass </type>
+<power> 80 </power>
+<accuracy> 100 </accuracy>
+<location> Hammerlocke </location>
+<description> A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Fire Pledge </name>
+<type> Fire </type>
+<power> 80 </power>
+<accuracy> 100 </accuracy>
+<location> Hammerlocke </location>
+<description> A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Water Pledge </name>
+<type> Water </type>
+<power> 80 </power>
+<accuracy> 100 </accuracy>
+<location> Hammerlocke </location>
+<description> A column of water hits the target. When used with its fire equivalent, its power increases and a rainbow appears. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Draco Meteor </name>
+<type> Dragon </type>
+<power> 130 </power>
+<accuracy> 90 </accuracy>
+<location> Circhester </location>
+<description> Comets are summoned down from the sky onto the target. The attack's recoil harshly lowers the user's Sp. Atk stat. </description>
+</MoveTutor>
+
+<gamemovetutor>
+<games> Pokemon Sword and Shield </games>
+
+<MoveTutor>
+<name> Grass Pledge </name>
+<type> Grass </type>
+<power> 80 </power>
+<accuracy> 100 </accuracy>
+<location> Hammerlocke </location>
+<description> A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Fire Pledge </name>
+<type> Fire </type>
+<power> 80 </power>
+<accuracy> 100 </accuracy>
+<location> Hammerlocke </location>
+<description> A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Water Pledge </name>
+<type> Water </type>
+<power> 80 </power>
+<accuracy> 100 </accuracy>
+<location> Hammerlocke </location>
+<description> A column of water hits the target. When used with its fire equivalent, its power increases and a rainbow appears. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Frenzy Plant </name>
+<type> Grass </type>
+<power> 150 </power>
+<accuracy> 90 </accuracy>
+<location> Wyndon </location>
+<description> The user slams the target with the roots of an enormous tree. The user can't move on the next turn. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Blast Burn </name>
+<type> Fire </type>
+<power> 150 </power>
+<accuracy> 90 </accuracy>
+<location> Wyndon </location>
+<description> The target is razed by a fiery explosion. The user can't move on the next turn. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Hydro Cannon </name>
+<type> Water </type>
+<power> 150 </power>
+<accuracy> 90 </accuracy>
+<location> Wyndon </location>
+<description> The target is hit with a watery blast. The user can't move on the next turn. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Steel Beam </name>
+<type> Steel </type>
+<power> 140 </power>
+<accuracy> 95 </accuracy>
+<location> Motostoke (after becoming Champion) </location>
+<description> The user fires a beam of steel that it collected from its entire body. This also damages the user. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Terrain Pulse </name>
+<type> Normal </type>
+<power> 50 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user utilizes the power of the terrain to attack. This move's type and power changes depending on the terrain when it's used. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Burning Jealousy </name>
+<type> Fire </type>
+<power> 70 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Flip Turn </name>
+<type> Water </type>
+<power> 60 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> After making its attack, the user rushes back to switch places with a party Pokémon in waiting. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Grassy Glide </name>
+<type> Grass </type>
+<power> 70 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Rising Voltage </name>
+<type> Electric </type>
+<power> 70 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user attacks with electric voltage rising from the ground. This move's power doubles when the target is on Electric Terrain. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Coaching </name>
+<type> Fighting </type>
+<power> - </power>
+<accuracy> - </accuracy>
+<location> Master Dojo </location>
+<description> The user properly coaches its ally Pokémon, boosting their Attack and Defense stats. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Scorching Sands </name>
+<type> Ground </type>
+<power> 70 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user throws scorching sand at the target to attack. This may also leave the target with a burn. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Dual Wingbeat </name>
+<type> Ground </type>
+<power> 40 </power>
+<accuracy> 90 </accuracy>
+<location> Master Dojo </location>
+<description> The user slams the target with its wings. The target is hit twice in a row. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Meteor Beam </name>
+<type> Rock </type>
+<power> 120 </power>
+<accuracy> 90 </accuracy>
+<location> Master Dojo </location>
+<description> In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Skitter Smack </name>
+<type> Bug </type>
+<power> 70 </power>
+<accuracy> 90 </accuracy>
+<location> Master Dojo </location>
+<description> The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Skitter Smack </name>
+<type> Bug </type>
+<power> 70 </power>
+<accuracy> 90 </accuracy>
+<location> Master Dojo </location>
+<description> The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Triple Axel </name>
+<type> Ice </type>
+<power> 20 </power>
+<accuracy> 90 </accuracy>
+<location> Master Dojo </location>
+<description> A consecutive three-kick attack that becomes more powerful with each successful hit. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Corrosive Gas </name>
+<type> Poison </type>
+<power> - </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user surrounds everything around it with highly acidic gas and melts away items they hold. </description>
+</MoveTutor>
+
+
+<MoveTutor>
+<name> Expanding Force </name>
+<type> Psychic </type>
+<power> 80 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user attacks the target with its psychic power. This move's power goes up and damages all opposing Pokémon on Psychic Terrain. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Poltergeist </name>
+<type> Ghost </type>
+<power> 110 </power>
+<accuracy> 90 </accuracy>
+<location> Master Dojo </location>
+<description> The user attacks the target by controlling the target's item. The move fails if the target doesn't have an item. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Scale Shot </name>
+<type> Dragon </type>
+<power> 25 </power>
+<accuracy> 90 </accuracy>
+<location> Master Dojo </location>
+<description> The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Lash Out </name>
+<type> Dragon </type>
+<power> 75 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user lashes out to vent its frustration toward the target. If its stats were lowered during the turn, the power of this move is doubled. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Steel Roller </name>
+<type> Steel </type>
+<power> 130 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user attacks while destroying the terrain. This move fails when the ground hasn't turned into a terrain. </description>
+</MoveTutor>
+
+<MoveTutor>
+<name> Misty Explosion </name>
+<type> Steel </type>
+<power> 100 </power>
+<accuracy> 100 </accuracy>
+<location> Master Dojo </location>
+<description> The user attacks everything around it and faints upon using this move. This move's power is increased on Misty Terrain. </description>
+</MoveTutor>
+
+</gamemovetutor>
