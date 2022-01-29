@@ -48,5 +48,20 @@
 				<description>Power increases when this move has less PP</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>4</generation>
+				<type>Normal</type>
+				<base_power>1</base_power>
+				<power_points>5</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

@@ -48,5 +48,20 @@
 				<description>Damages the target for 75% of its remaining HP.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>7</generation>
+				<type>Fairy</type>
+				<base_power>1</base_power>
+				<power_points>1</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

@@ -21,5 +21,20 @@
                 <description>A consecutive three-kick attack that becomes more powerful with each successful hit.</description>
             </move_definition>
         </move_record>
+        <move_record>
+            <games>
+                <game>Pokemon Legends Arceus</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Ice</type>
+                <base_power>10</base_power>
+                <power_points>10</power_points>
+                <accuracy>90</accuracy>
+                <priority>0</priority>
+                <damage_category>Physical</damage_category>
+                <description></description>
+            </move_definition>
+        </move_record>
     </move_records>
 </move>

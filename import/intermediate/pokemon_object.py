@@ -2,6 +2,7 @@ from lxml import etree
 
 class PokemonObject():
     def __init__(self):
+        self.tab = '    '
         with open(self.xml_file) as f:
             lines = f.readlines()
             for line in lines:

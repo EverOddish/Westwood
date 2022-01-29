@@ -49,5 +49,20 @@
 				<description>Has a 20% chance to make the target flinch.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>4</generation>
+				<type>Psychic</type>
+				<base_power>80</base_power>
+				<power_points>10</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

@@ -48,5 +48,20 @@
 				<description>Power doubles every turn this move is used in succession after the first</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Ice</type>
+				<base_power>40</base_power>
+				<power_points>20</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

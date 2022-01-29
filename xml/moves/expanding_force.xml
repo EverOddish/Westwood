@@ -21,5 +21,20 @@
                 <description>The user attacks the target with its psychic power. This move’s power goes up and damages all opposing Pokémon on Psychic Terrain.</description>
             </move_definition>
         </move_record>
+        <move_record>
+            <games>
+                <game>Pokemon Legends Arceus</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Psychic</type>
+                <base_power>85</base_power>
+                <power_points>10</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Special</damage_category>
+                <description></description>
+            </move_definition>
+        </move_record>
     </move_records>
 </move>

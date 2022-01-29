@@ -65,5 +65,20 @@
 				<description>Has a 50% chance to lower the target's accuracy by one stage.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Water</type>
+				<base_power>65</base_power>
+				<power_points>15</power_points>
+				<accuracy>85</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

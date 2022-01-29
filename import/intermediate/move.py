@@ -27,9 +27,21 @@ class MoveRecord():
                self.power_points == other.power_points and \
                self.accuracy == other.accuracy and \
                self.priority == other.priority and \
-               self.damage_category == other.damage_category and \
-               self.effect == other.effect and \
-               self.description == other.description
+               self.damage_category == other.damage_category #and \
+               #self.effect == other.effect and \
+               #self.description == other.description
+
+    def __str__(self):
+        return "MoveRecord: games=%s gen=%s type=%s bp=%s pp=%s acc=%s pri=%s cat=%s" % (
+            self.games,
+            self.generation,
+            self.move_type,
+            self.base_power,
+            self.power_points,
+            self.accuracy,
+            self.priority,
+            self.damage_category
+        )
 
 class TmRecord():
     def __init__(self):
@@ -50,7 +62,11 @@ class Move(PokemonObject):
         root = etree.parse(xml_file, parser)
         move_tag = root.getroot()
 
-        self.move_name = move_tag.findall('name')[0].text
+        name_tags = move_tag.findall('name')
+        if len(name_tags) >= 1:
+            self.move_name = name_tags[0].text
+        else:
+            self.move_name = ''
 
         for move_record_tag in move_tag.iter('move_record'):
             move_record = MoveRecord()

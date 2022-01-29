@@ -49,5 +49,20 @@
 				<description>Has a 30% chance to make the target flinch.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Ghost</type>
+				<base_power>30</base_power>
+				<power_points>25</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

@@ -64,5 +64,20 @@
 				<description>Has an increased chance for a critical hit.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Flying</type>
+				<base_power>60</base_power>
+				<power_points>15</power_points>
+				<accuracy>95</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

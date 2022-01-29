@@ -8,6 +8,7 @@
                 <game>Pokemon Shield</game>
                 <game>Pokemon Brilliant Diamond</game>
                 <game>Pokemon Shining Pearl</game>
+                <game>Pokemon Legends Arceus</game>
             </games>
             <move_definition>
                 <generation>8</generation>
@@ -19,7 +20,7 @@
                 <damage_category>Physical</damage_category>
                 <effect>Lowers target's speed stat</effect>
                 <effect_chance>100</effect_chance>
-                <description></description>
+                <description/>
             </move_definition>
         </move_record>
     </move_records>

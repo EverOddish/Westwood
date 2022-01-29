@@ -48,5 +48,20 @@
 				<description>Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Normal</type>
+				<base_power>1</base_power>
+				<power_points>15</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

@@ -63,6 +63,21 @@
 				<description>Raises the user's Special Attack and Special Defense by one stage.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>3</generation>
+				<type>Psychic</type>
+				<base_power>0</base_power>
+				<power_points>10</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>

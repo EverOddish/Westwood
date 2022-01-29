@@ -62,6 +62,21 @@
 				<description>Power and type depend upon user's IVs.  Power can range from 30 to 70.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Normal</type>
+				<base_power>50</base_power>
+				<power_points>15</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>

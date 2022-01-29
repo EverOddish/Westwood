@@ -48,5 +48,20 @@
 				<description>Inflicts regular damage with no additional effect.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>4</generation>
+				<type>Steel</type>
+				<base_power>40</base_power>
+				<power_points>20</power_points>
+				<accuracy>100</accuracy>
+				<priority>1</priority>
+				<damage_category>Physical</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

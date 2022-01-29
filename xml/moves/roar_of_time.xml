@@ -48,5 +48,20 @@
 				<description>User foregoes its next turn to recharge.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Legends Arceus</game>
+			</games>
+			<move_definition>
+				<generation>4</generation>
+				<type>Dragon</type>
+				<base_power>120</base_power>
+				<power_points>5</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<description></description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

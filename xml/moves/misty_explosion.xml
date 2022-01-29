@@ -21,5 +21,20 @@
                 <description>The user attacks everything around it and faints upon using this move. This move’s power is increased on Misty Terrain.</description>
             </move_definition>
         </move_record>
+        <move_record>
+            <games>
+                <game>Pokemon Legends Arceus</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Fairy</type>
+                <base_power>120</base_power>
+                <power_points>5</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Special</damage_category>
+                <description></description>
+            </move_definition>
+        </move_record>
     </move_records>
 </move>

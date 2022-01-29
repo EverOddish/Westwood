@@ -20,5 +20,20 @@
                 <description>The user surrounds everything around it with highly acidic gas and melts away items they hold.</description>
             </move_definition>
         </move_record>
+        <move_record>
+            <games>
+                <game>Pokemon Legends Arceus</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Poison</type>
+                <base_power>20</base_power>
+                <power_points>40</power_points>
+                <accuracy>100</accuracy>
+                <priority>0</priority>
+                <damage_category>Special</damage_category>
+                <description></description>
+            </move_definition>
+        </move_record>
     </move_records>
 </move>
