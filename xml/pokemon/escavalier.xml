@@ -165,6 +165,26 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Overcoat</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>No Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Shell Armour</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Bug</egg_groups>
 </pokemon>

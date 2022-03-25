@@ -239,6 +239,26 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Prankster</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Tinted Lens</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Oblivious</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Bug, Human-Like</egg_groups>
 </pokemon>

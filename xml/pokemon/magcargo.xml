@@ -259,6 +259,26 @@
 				</ability_record>
 			</ability_records>
 		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Weak Armour</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Solid Rock</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Flame Body</name>
+					<hidden>Yes</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
 	</ability_sets>
 	<egg_groups>Amorphous</egg_groups>
 </pokemon>
