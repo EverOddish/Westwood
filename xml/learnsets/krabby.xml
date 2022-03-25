@@ -588,5 +588,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Shell</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

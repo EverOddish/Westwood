@@ -690,5 +690,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Club</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bonemerang</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bone Rush</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

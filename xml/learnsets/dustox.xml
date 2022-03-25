@@ -608,5 +608,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

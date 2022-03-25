@@ -402,5 +402,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spit Up</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -529,5 +529,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Whistle</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -282,5 +282,53 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

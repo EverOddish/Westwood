@@ -600,5 +600,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pluck</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

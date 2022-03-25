@@ -594,5 +594,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Breaking Swipe</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse </name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -525,5 +525,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mist</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

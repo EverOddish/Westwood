@@ -414,5 +414,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

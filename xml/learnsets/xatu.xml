@@ -791,5 +791,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skill Swap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Esper Wing</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

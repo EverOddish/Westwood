@@ -230,5 +230,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teeter Dance</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Echoed Voice</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wake-Up Slap</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Relic Song</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

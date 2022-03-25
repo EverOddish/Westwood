@@ -418,5 +418,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Double Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Self-Destruct</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

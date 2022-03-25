@@ -506,5 +506,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge Beam</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock-On</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hail</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

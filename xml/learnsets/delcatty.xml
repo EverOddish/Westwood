@@ -238,5 +238,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

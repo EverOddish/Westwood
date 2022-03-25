@@ -232,5 +232,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

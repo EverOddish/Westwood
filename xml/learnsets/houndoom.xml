@@ -747,5 +747,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Odor Sleuth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snarl</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

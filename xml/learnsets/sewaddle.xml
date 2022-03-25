@@ -94,5 +94,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Web</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic Fangs</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

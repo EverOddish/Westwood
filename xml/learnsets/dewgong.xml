@@ -730,5 +730,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Entrainment</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Spear</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slack Off</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

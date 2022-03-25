@@ -375,5 +375,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

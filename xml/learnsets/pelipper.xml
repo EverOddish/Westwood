@@ -1030,5 +1030,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stockpile</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swallow</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Mind</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

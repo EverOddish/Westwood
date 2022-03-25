@@ -466,5 +466,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Tackle</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

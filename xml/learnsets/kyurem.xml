@@ -358,5 +358,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Spear</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash     </name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glaciate</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Bolt</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash     </name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Freeze Shock </name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Esper Wing</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Flare</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Burn</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

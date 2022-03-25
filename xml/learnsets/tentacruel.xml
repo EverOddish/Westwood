@@ -732,5 +732,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Supersonic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Barrier</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armour</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

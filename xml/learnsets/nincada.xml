@@ -434,5 +434,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

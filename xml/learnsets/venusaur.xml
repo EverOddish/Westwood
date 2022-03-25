@@ -812,5 +812,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Venoshock</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Whip</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>63</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

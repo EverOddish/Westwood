@@ -668,5 +668,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defend Order</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Order</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attack Order</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison </name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

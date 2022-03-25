@@ -280,5 +280,45 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough    </name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Boomburst</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

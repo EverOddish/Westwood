@@ -266,5 +266,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aromatherapy</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Leech</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nature Power</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

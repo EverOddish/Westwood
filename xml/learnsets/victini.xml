@@ -344,5 +344,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Secret Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshield Bash</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Searing Shot</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Bolt</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fusion Flare</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glaciate</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>V-Create</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>76</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blue Flare</name>
+					<level>80</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bolt Strike</name>
+					<level>80</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

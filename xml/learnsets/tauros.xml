@@ -744,5 +744,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Impact</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headlong Rush</name>
+					<level>69</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

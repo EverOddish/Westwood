@@ -882,5 +882,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bind</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Substitute</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

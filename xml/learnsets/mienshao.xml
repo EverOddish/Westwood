@@ -430,5 +430,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>U-turn</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aura Sphere</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Jump Kick</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

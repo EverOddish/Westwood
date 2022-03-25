@@ -384,5 +384,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Splash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Present</name>
+					<level>20</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

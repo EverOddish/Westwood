@@ -630,5 +630,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Extreme Speed  </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gastro Acid</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Armour</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Blast</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

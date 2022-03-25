@@ -842,5 +842,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Blade</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

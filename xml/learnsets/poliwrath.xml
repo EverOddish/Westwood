@@ -456,5 +456,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vacuum Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lovely Kiss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Storm Throw</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamic Punch</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Circle Throw</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -224,5 +224,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Daze</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

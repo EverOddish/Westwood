@@ -546,5 +546,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Tail</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

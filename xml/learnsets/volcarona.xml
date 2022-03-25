@@ -532,5 +532,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fiery Dance</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fiery Dance</name>
+					<level>68</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>72</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

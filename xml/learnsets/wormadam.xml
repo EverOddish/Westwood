@@ -239,50 +239,6 @@
 					<level>1</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Razor Leaf</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bug Buzz</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Growth</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Energy Ball</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psybeam</name>
-					<level>35</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Attract</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flail</name>
-					<level>44</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Captivate</name>
-					<level>47</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leaf Storm</name>
-					<level>50</level>
-				</learnset_move>
-				<learnset_move>
 					<name>Fissure</name>
 					<level>1</level>
 				</learnset_move>
@@ -305,50 +261,6 @@
 				<learnset_move>
 					<name>Hidden Power</name>
 					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Rock Blast</name>
-					<level>20</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Confusion</name>
-					<level>23</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Bug Buzz</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Harden</name>
-					<level>29</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Earth Power</name>
-					<level>32</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psybeam</name>
-					<level>35</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Attract</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>41</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Flail</name>
-					<level>44</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Captivate</name>
-					<level>47</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Fissure</name>
-					<level>50</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Iron Head</name>
@@ -379,8 +291,24 @@
 					<level>1</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Mirror Shot</name>
 					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>23</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Confusion</name>
@@ -391,8 +319,32 @@
 					<level>26</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Metal Sound</name>
 					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>32</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Flash Cannon</name>
@@ -403,8 +355,32 @@
 					<level>35</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Psybeam</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Attract</name>
 					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>41</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Psychic</name>
@@ -415,12 +391,284 @@
 					<level>44</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Flail</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Captivate</name>
 					<level>47</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Captivate</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Iron Head</name>
 					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Tornado</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Shot</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Energy Ball</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>60</level>
 				</learnset_move>
 			</learnset_moves>
 		</learnset>

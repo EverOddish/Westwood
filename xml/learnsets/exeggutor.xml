@@ -418,5 +418,53 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Powder</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soft-Boiled</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -918,5 +918,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grudge</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -907,5 +907,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

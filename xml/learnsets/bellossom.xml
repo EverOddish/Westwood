@@ -537,5 +537,53 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Earth Power </name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sunny Day</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast   </name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

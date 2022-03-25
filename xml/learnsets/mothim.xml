@@ -570,5 +570,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electroweb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quiver Dance</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hurricane</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

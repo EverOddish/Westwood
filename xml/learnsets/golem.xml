@@ -867,5 +867,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Steamroller</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autonomize</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Accelerock</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headlong Rush</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

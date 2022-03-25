@@ -799,5 +799,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Present</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

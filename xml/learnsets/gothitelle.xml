@@ -462,5 +462,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Tears</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Room</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Block</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Daze</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

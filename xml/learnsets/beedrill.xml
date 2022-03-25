@@ -660,5 +660,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twinneedle</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

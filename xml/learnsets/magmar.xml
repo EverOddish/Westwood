@@ -636,5 +636,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Spin</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Will-O-Wisp</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -213,52 +213,20 @@
 					<level>1</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Night Shade</name>
-					<level>6</level>
+					<name>Leer</name>
+					<level>1</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Teleport</name>
-					<level>10</level>
+					<name>Wrap</name>
+					<level>1</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Knock Off</name>
-					<level>14</level>
+					<name>Leer</name>
+					<level>1</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Pursuit</name>
-					<level>18</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Snatch</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psycho Shift</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Zen Headbutt</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Cosmic Power</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recover</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psycho Boost</name>
-					<level>46</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper Beam</name>
-					<level>50</level>
+					<name>Wrap</name>
+					<level>1</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Leer</name>
@@ -273,56 +241,12 @@
 					<level>6</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Teleport</name>
-					<level>10</level>
+					<name>Night Shade</name>
+					<level>6</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Taunt</name>
-					<level>14</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Pursuit</name>
-					<level>18</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Superpower</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psycho Shift</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Zen Headbutt</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Cosmic Power</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Zap Cannon</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psycho Boost</name>
-					<level>46</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Hyper Beam</name>
-					<level>50</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leer</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wrap</name>
-					<level>1</level>
+					<name>Night Shade</name>
+					<level>6</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Night Shade</name>
@@ -333,64 +257,12 @@
 					<level>10</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Knock Off</name>
-					<level>14</level>
+					<name>Teleport</name>
+					<level>10</level>
 				</learnset_move>
 				<learnset_move>
-					<name>Spikes</name>
-					<level>18</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psychic</name>
-					<level>22</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Snatch</name>
-					<level>26</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psycho Shift</name>
-					<level>30</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Zen Headbutt</name>
-					<level>34</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Iron Defense</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Amnesia</name>
-					<level>38</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Recover</name>
-					<level>42</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Psycho Boost</name>
-					<level>46</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Counter</name>
-					<level>50</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Mirror Coat</name>
-					<level>50</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Leer</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Wrap</name>
-					<level>1</level>
-				</learnset_move>
-				<learnset_move>
-					<name>Night Shade</name>
-					<level>6</level>
+					<name>Teleport</name>
+					<level>10</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Double Team</name>
@@ -401,12 +273,60 @@
 					<level>14</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Taunt</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Pursuit</name>
 					<level>18</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Psychic</name>
 					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snatch</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snatch</name>
+					<level>26</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Swift</name>
@@ -417,8 +337,48 @@
 					<level>30</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Zen Headbutt</name>
 					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>38</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Agility</name>
@@ -429,8 +389,320 @@
 					<level>42</level>
 				</learnset_move>
 				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
 					<name>Psycho Boost</name>
 					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Meteor Mash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meteor Mash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meteor Mash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meteor Mash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Team</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snatch</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Snatch</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Shift</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Boost</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>50</level>
 				</learnset_move>
 				<learnset_move>
 					<name>Extreme Speed</name>

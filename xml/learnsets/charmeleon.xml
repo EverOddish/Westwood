@@ -530,5 +530,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Block</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Breaking Swipe</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Breath</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Lash</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Crash</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rush</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

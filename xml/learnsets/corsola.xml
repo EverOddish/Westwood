@@ -595,5 +595,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power     </name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Spear</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

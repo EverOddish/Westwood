@@ -808,5 +808,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -765,5 +765,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twineedle</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Web</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage Powder</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

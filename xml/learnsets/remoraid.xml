@@ -467,5 +467,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock-On</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Soak</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Signal Beam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

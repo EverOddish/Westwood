@@ -626,5 +626,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Gas</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Burst</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Jab     </name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Slap</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

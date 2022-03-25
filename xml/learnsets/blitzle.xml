@@ -208,5 +208,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Me First</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Tackle</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

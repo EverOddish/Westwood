@@ -336,5 +336,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Switch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

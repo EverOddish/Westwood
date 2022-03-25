@@ -274,5 +274,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Present</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Triple Axel</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

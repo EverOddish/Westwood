@@ -492,5 +492,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

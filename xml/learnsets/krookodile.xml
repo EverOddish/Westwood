@@ -532,5 +532,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hone Claws</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

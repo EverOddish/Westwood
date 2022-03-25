@@ -238,5 +238,61 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mind Reader</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rain Dance</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

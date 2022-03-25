@@ -402,5 +402,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nuzzle</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

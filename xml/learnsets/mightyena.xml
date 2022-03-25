@@ -892,5 +892,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Howl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic Fangs</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

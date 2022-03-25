@@ -158,5 +158,49 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Acid Armor</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprision</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hex</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Overheat</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

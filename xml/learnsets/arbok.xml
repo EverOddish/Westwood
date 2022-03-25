@@ -1002,5 +1002,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Coil</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Breaking Swipe</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Tail</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Fang</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Fang</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

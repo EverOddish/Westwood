@@ -812,5 +812,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vacuum Wave</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feint</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

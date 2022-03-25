@@ -358,5 +358,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tail Whip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ember</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Bomb</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heat Crash</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flare Blitz</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

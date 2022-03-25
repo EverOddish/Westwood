@@ -747,5 +747,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Autotomize</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

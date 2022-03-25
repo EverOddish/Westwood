@@ -398,5 +398,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Esper Wing</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

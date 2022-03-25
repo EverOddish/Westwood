@@ -336,5 +336,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Block</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swords Dance</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earth Power</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

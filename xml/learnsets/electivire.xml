@@ -648,5 +648,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Shock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Electro Ball</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brick Break</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Chop</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Punch</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Discharge</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wild Charge</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Volt Tackle</name>
+					<level>61</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

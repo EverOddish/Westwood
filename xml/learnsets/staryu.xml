@@ -728,5 +728,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Camouflage</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect Type</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

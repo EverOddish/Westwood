@@ -162,5 +162,41 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magic Coat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

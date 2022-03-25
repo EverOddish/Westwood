@@ -170,5 +170,89 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Roar of Time</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spacial Rend</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Force</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cosmic Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Refresh</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Esper Wing</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blast Burn     </name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Cannon     </name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Judgment</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

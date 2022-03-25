@@ -354,5 +354,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seed Bomb</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Torment</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acrobatics</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Knot</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Pledge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recycle</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leaf Storm</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -744,5 +744,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Octazooka</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tickle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Sneak</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Claw</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sucker Punch</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

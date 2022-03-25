@@ -532,5 +532,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chatter</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ominous Wind</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Voice</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Feather Dance</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Boomburst</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -556,5 +556,97 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mimic</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Twister</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>After You</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>54</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

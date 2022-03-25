@@ -710,5 +710,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Accelerock</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Run</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

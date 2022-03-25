@@ -308,5 +308,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mist</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synthesis</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bullet Seed</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Shard</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ingrain</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Whistle</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Natural Gift</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wood Hammer</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

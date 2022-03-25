@@ -1018,5 +1018,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bullet Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Force Palm</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Calm Mind</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reversal</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psycho Cut</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Jump Kick</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

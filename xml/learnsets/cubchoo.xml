@@ -366,5 +366,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Smash</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Frost Breath</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Fang</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Play Rough</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Superpower</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icicle Crash</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blizzard</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sheer Cold</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

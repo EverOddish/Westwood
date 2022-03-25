@@ -250,5 +250,77 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Shift Gear</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Blaze Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flame Charge</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extreme Speed</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>X-Scissor</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Buzz</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Simple Beam</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock-On</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Techno Blast</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Head</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

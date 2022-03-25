@@ -374,5 +374,85 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Poison</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

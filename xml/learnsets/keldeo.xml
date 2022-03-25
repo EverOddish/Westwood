@@ -350,5 +350,73 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Secret Sword</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Helping Hand</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Retaliate</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Sword</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

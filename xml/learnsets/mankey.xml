@@ -638,5 +638,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Covet</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Work Up</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulldoze</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>58</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -500,5 +500,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Outrage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Focus Energy</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Polish</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Charge</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headlong Rush</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Head Smash</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

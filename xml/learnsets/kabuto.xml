@@ -440,5 +440,69 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endure</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Waterfall</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wring Out</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

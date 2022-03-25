@@ -874,5 +874,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Block</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dark Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Pulse</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Follow Me</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Withdraw</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Yawn</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fake Out</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Muddy Water</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Spout</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shell Smash</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

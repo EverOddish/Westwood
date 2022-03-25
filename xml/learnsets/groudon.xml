@@ -428,5 +428,65 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mud Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rest</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hammer Arm</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bulk Up</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Inferno</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solar Beam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Eruption</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

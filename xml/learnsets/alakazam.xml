@@ -866,5 +866,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Teleport</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Kinesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Miracle Eye</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wonder Room</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gravity</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Telekinesis</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Role Play</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trick</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stored Power</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

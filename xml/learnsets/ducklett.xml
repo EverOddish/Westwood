@@ -80,5 +80,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Defog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brine</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tailwind</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>57</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -158,5 +158,57 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growth</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Worry Seed</name>
+					<level>3</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud-Slap</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grass Whistle</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Seed</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extrasensory</name>
+					<level>21</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

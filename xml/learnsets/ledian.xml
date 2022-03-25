@@ -519,5 +519,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Focus Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meteor Mash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fling</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>String Shot</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Struggle Bug</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Silver Wind</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aerial Ace</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Roost</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bug Bite</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drain Punch</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smart Strike</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dual Wingbeat</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dynamic Punch</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -638,5 +638,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Swipes</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Guard</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crush Claw</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lunge</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Belly Drum</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Detect</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Close Combat</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Last Resort</name>
+					<level>62</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Final Gambit</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

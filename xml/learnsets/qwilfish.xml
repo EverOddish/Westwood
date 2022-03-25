@@ -721,5 +721,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid Spray</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Revenge</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acupressure</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Tail</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlpool</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wave Crash</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

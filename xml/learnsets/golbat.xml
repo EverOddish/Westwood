@@ -964,5 +964,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Absorb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gust</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poison Fang</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mean Look</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Cutter</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zen Headbutt</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Air Slash</name>
+					<level>59</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Brave Bird</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

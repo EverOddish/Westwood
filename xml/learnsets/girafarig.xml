@@ -547,5 +547,113 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Agility</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foul Play</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>High Horsepower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Astonish</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Swap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Power Swap</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Beat Up</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshield Bash</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wish</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic Fangs</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Nasty Plot</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double-Edge</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Baton Pass</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

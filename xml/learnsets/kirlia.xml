@@ -766,5 +766,101 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Telekinesis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Growl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disarming Voice</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam     </name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shock Wave</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magical Leaf</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Pulse</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dream Eater</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ally Switch</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast     </name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Imprison</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Future Sight</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Synchronoise</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

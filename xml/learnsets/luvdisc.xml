@@ -586,5 +586,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lucky Chant</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Draining Kiss</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flail</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heart Stamp</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Captivate</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonblast     </name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Ring</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bounce</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heart Swap</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lovely Kiss</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

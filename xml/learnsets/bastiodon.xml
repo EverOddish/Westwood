@@ -512,5 +512,93 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fissure</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnet Rise</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psyshield Bash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Taunt</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guard Split</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Blast</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wide Guard</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stealth Rock</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Burst</name>
+					<level>55</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

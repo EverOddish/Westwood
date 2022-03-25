@@ -872,5 +872,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Harden</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leer</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Pulse</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubble Beam</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancient Power</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Knock Off</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Shell</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Night Slash</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Switcheroo</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Endeavor</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aqua Jet</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crabhammer</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Trump Card</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Guillotine</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

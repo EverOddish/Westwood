@@ -976,5 +976,105 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Heat Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smog</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Uproar</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Clear Smog</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic Spikes</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lava Plume</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gyro Ball</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Hit</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spite</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Memento</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Grudge</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Gunk Shot</name>
+					<level>62</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

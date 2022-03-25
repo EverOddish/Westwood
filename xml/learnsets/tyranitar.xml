@@ -689,5 +689,109 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Avalanche</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heavy Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pursuit</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Raging Fury</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scorching Sands</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Screech</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Tomb </name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Payback</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Chip Away</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Defense</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Curse</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Assurance</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stone Edge</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hyper Beam</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Dance</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Breaking Swipe</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Wrecker</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
