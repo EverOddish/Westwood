@@ -98,6 +98,18 @@
 			<special_defense>50</special_defense>
 			<speed>96</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<hp>70</hp>
+			<attack>94</attack>
+			<defense>50</defense>
+			<special_attack>94</special_attack>
+			<special_defense>50</special_defense>
+			<speed>92</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>
