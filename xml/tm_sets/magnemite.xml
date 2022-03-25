@@ -401,5 +401,38 @@
                 <tmset_move>Flash Cannon</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Volt Switch</tmset_move>
+                <tmset_move>Electroweb</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Electro Ball</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
+                <tmset_move>Bug Buzz</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

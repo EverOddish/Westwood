@@ -492,5 +492,49 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Sand Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Guard Swap</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Spikes</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X-Scissor</tmset_move>
+                <tmset_move>Brave Bird</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Body Press</tmset_move>
+                <tmset_move>Hurricane</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

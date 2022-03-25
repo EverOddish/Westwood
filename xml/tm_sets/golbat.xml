@@ -490,5 +490,51 @@
                 <tmset_move>Defog</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Brave Bird</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Venom Drench</tmset_move>
+                <tmset_move>Hurricane</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

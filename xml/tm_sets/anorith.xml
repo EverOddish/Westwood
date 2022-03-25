@@ -362,5 +362,43 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Rock Blast</tmset_move>
+                <tmset_move>Brine</tmset_move>
+                <tmset_move>Cross Poison</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>X-Scissor</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Wave Crash</tmset_move>
+                <tmset_move>Bug Buzz</tmset_move>
+                <tmset_move>Rock Climb</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

@@ -294,5 +294,56 @@
                 <tmset_move>Will</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Bullet Seed</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Charm</tmset_move>
+                <tmset_move>Dazzling Gleam</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Gunk Shot</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Rock Blast</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Seed Bomb</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Tail Slap</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

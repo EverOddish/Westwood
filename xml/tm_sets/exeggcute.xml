@@ -373,5 +373,43 @@
                 <tmset_move>Strength</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Bullet Seed</tmset_move>
+                <tmset_move>Power Swap</tmset_move>
+                <tmset_move>Trick Room</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Grassy Terrain</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Skill Swap</tmset_move>
+                <tmset_move>Seed Bomb</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Leaf Storm</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Tri Attack</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

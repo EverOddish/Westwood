@@ -355,5 +355,55 @@
                 <tmset_move>Sucker Punch</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Baton Pass</tmset_move>
+                <tmset_move>Charm</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Gunk Shot</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Pay Day</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Psycho Cut</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Seed Bomb</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Throat Chop</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Trick</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Quash</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

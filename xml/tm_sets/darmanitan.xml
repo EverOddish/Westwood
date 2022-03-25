@@ -286,5 +286,71 @@
                 <tmset_move>U-turn</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Body Press</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Bulk Up</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Fire Fang</tmset_move>
+                <tmset_move>Fire Punch</tmset_move>
+                <tmset_move>Fire Spin</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Flare Blitz</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Focus Energy</tmset_move>
+                <tmset_move>Future Sight</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Guard Swap</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Mystical Fire</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Power Swap</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Reversal</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Trick</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

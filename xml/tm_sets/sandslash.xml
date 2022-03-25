@@ -446,5 +446,61 @@
                 <tmset_move>Rock Climb</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Pin Missile</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Sand Tomb</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Leech Life</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Spikes</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>X-Scissor</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Drill Run</tmset_move>
+                <tmset_move>Throat Chop</tmset_move>
+                <tmset_move>Smack Down</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Rock Polish</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

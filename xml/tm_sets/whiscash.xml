@@ -362,5 +362,55 @@
                 <tmset_move>Waterfall</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Bounce</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Dragon Dance</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Future Sight</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Hydro Pump</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Liquidation</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Muddy Water</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sand Tomb</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Whirlpool</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Wave Crash</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

@@ -440,5 +440,61 @@
                 <tmset_move>Waterfall</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Ice Punch</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Whirlpool</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Dive</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Bounce</tmset_move>
+                <tmset_move>Mud Shot</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Hydro Pump</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Metronome</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Encore</tmset_move>
+                <tmset_move>Uproar</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Muddy Water</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Liquidation</tmset_move>
+                <tmset_move>Wave Crash</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

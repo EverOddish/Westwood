@@ -221,5 +221,47 @@
                 <tmset_move>Sucker Punch</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Waterfall</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Torment</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scald</tmset_move>
+                <tmset_move>Acrobatics</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Quash</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

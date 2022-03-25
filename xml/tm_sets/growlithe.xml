@@ -357,5 +357,49 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Close Combat</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Fire Fang</tmset_move>
+                <tmset_move>Fire Spin</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Flare Blitz</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Play Rough</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Psychic Fangs</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Reversal</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Wild Charge</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>Hone Claws</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

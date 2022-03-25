@@ -503,5 +503,59 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Thunder Fang</tmset_move>
+                <tmset_move>Fire Fang</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Breaking Swipe</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Hydro Pump</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Focus Energy</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Crunch</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Hyper Voice</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Dragon Claw</tmset_move>
+                <tmset_move>Dragon Dance</tmset_move>
+                <tmset_move>Dragon Pulse</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Hurricane</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

@@ -473,5 +473,53 @@
                 <tmset_move>Rock Climb</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Bullet Seed</tmset_move>
+                <tmset_move>Charm</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Grassy Terrain</tmset_move>
+                <tmset_move>Helping Hand</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Leaf Storm</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Magical Leaf</tmset_move>
+                <tmset_move>Outrage</tmset_move>
+                <tmset_move>Power Whip</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Safeguard</tmset_move>
+                <tmset_move>Seed Bomb</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

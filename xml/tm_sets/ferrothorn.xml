@@ -236,5 +236,55 @@
                 <tmset_move>Body Press</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Pin Missile</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Thunder Wave</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Giga Drain</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Bullet Seed</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Thunderbolt</tmset_move>
+                <tmset_move>Thunder</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Spikes</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Seed Bomb</tmset_move>
+                <tmset_move>Energy Ball</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Power Whip</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Heavy Slam</tmset_move>
+                <tmset_move>Body Press</tmset_move>
+                <tmset_move>Rock Climb</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

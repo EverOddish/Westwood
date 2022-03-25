@@ -372,5 +372,52 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Amnesia</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Body Press</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Earth Power</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fire Blast</tmset_move>
+                <tmset_move>Fire Spin</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Heat Crash</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Overheat</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Solar Beam</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Stomping Tantrum</tmset_move>
+                <tmset_move>Stone Edge</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Superpower</tmset_move>
+                <tmset_move>Weather Ball</tmset_move>
+                <tmset_move>Will-O-Wisp</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
+                <tmset_move>Mystical Fire</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

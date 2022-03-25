@@ -321,5 +321,47 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Flamethrower</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Toxic</tmset_move>
+                <tmset_move>Double Team</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Swagger</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Return</tmset_move>
+                <tmset_move>Frustration</tmset_move>
+                <tmset_move>Hidden Power</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>X Scissor</tmset_move>
+                <tmset_move>Venoshock</tmset_move>
+                <tmset_move>Sludge Wave</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Dragon Tail</tmset_move>
+                <tmset_move>Confide</tmset_move>
+                <tmset_move>Infestation</tmset_move>
+                <tmset_move>Brutal Swing</tmset_move>
+                <tmset_move>Work Up</tmset_move>
+                <tmset_move>Cut</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

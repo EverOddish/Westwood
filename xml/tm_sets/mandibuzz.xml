@@ -263,5 +263,49 @@
                 <tmset_move>Hurricane</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Air Slash</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Brave Bird</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>Fly</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Heat Wave</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Steel Wing</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>U-turn</tmset_move>
+                <tmset_move>Hurricane</tmset_move>
+                <tmset_move>Quash</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

@@ -528,5 +528,70 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Assurance</tmset_move>
+                <tmset_move>Attract</tmset_move>
+                <tmset_move>Avalanche</tmset_move>
+                <tmset_move>Beat Up</tmset_move>
+                <tmset_move>Blizzard</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Calm Mind</tmset_move>
+                <tmset_move>Dark Pulse</tmset_move>
+                <tmset_move>Dig</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Fake Tears</tmset_move>
+                <tmset_move>False Swipe</tmset_move>
+                <tmset_move>Fling</tmset_move>
+                <tmset_move>Focus Blast</tmset_move>
+                <tmset_move>Foul Play</tmset_move>
+                <tmset_move>Giga Impact</tmset_move>
+                <tmset_move>Hail</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Ice Beam</tmset_move>
+                <tmset_move>Ice Punch</tmset_move>
+                <tmset_move>Icicle Spear</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Iron Tail</tmset_move>
+                <tmset_move>Low Kick</tmset_move>
+                <tmset_move>Low Sweep</tmset_move>
+                <tmset_move>Mega Kick</tmset_move>
+                <tmset_move>Mega Punch</tmset_move>
+                <tmset_move>Nasty Plot</tmset_move>
+                <tmset_move>Payback</tmset_move>
+                <tmset_move>Poison Jab</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Psycho Cut</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Retaliate</tmset_move>
+                <tmset_move>Revenge</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Screech</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Shadow Claw</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Snarl</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Surf</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Swords Dance</tmset_move>
+                <tmset_move>Taunt</tmset_move>
+                <tmset_move>Thief</tmset_move>
+                <tmset_move>Throat Chop</tmset_move>
+                <tmset_move>Whirlpool</tmset_move>
+                <tmset_move>X-Scissor</tmset_move>
+                <tmset_move>Quash</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>

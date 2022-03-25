@@ -417,5 +417,56 @@
                 <tmset_move>Rock Smash</tmset_move>
             </tmset_moves>
         </tm_set>
+        <tm_set>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <tmset_moves>
+                <tmset_move>Ice Punch</tmset_move>
+                <tmset_move>Thunder Punch</tmset_move>
+                <tmset_move>Hyper Beam</tmset_move>
+                <tmset_move>Light Screen</tmset_move>
+                <tmset_move>Reflect</tmset_move>
+                <tmset_move>Self-Destruct</tmset_move>
+                <tmset_move>Rest</tmset_move>
+                <tmset_move>Rock Slide</tmset_move>
+                <tmset_move>Snore</tmset_move>
+                <tmset_move>Protect</tmset_move>
+                <tmset_move>Scary Face</tmset_move>
+                <tmset_move>Icy Wind</tmset_move>
+                <tmset_move>Sandstorm</tmset_move>
+                <tmset_move>Rain Dance</tmset_move>
+                <tmset_move>Sunny Day</tmset_move>
+                <tmset_move>Facade</tmset_move>
+                <tmset_move>Swift</tmset_move>
+                <tmset_move>Brick Break</tmset_move>
+                <tmset_move>Rock Tomb</tmset_move>
+                <tmset_move>Psycho Cut</tmset_move>
+                <tmset_move>Round</tmset_move>
+                <tmset_move>Bulldoze</tmset_move>
+                <tmset_move>Body Slam</tmset_move>
+                <tmset_move>Earthquake</tmset_move>
+                <tmset_move>Psychic</tmset_move>
+                <tmset_move>Agility</tmset_move>
+                <tmset_move>Substitute</tmset_move>
+                <tmset_move>Sludge Bomb</tmset_move>
+                <tmset_move>Psyshock</tmset_move>
+                <tmset_move>Endure</tmset_move>
+                <tmset_move>Sleep Talk</tmset_move>
+                <tmset_move>Shadow Ball</tmset_move>
+                <tmset_move>Trick</tmset_move>
+                <tmset_move>Cosmic Power</tmset_move>
+                <tmset_move>Iron Defense</tmset_move>
+                <tmset_move>Gyro Ball</tmset_move>
+                <tmset_move>Zen Headbutt</tmset_move>
+                <tmset_move>Flash Cannon</tmset_move>
+                <tmset_move>Iron Head</tmset_move>
+                <tmset_move>Stealth Rock</tmset_move>
+                <tmset_move>Grass Knot</tmset_move>
+                <tmset_move>Ally Switch</tmset_move>
+                <tmset_move>Fly</tmset_move>
+            </tmset_moves>
+        </tm_set>
     </tm_sets>
 </pokemon_tm_sets>
