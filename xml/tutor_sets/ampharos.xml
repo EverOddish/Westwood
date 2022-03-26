@@ -149,5 +149,24 @@
 				<tutor_set_move>Dragon Pulse</tutor_set_move>
 			</tutor_set_moves>
 		</tutor_set>
+		<tutor_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<tutor_set_moves>
+				<tutor_set_move>Fire Punch</tutor_set_move>
+				<tutor_set_move>Thunder Punch</tutor_set_move>
+				<tutor_set_move>Snore</tutor_set_move>
+				<tutor_set_move>Outrage</tutor_set_move>
+				<tutor_set_move>Sleep Talk</tutor_set_move>
+				<tutor_set_move>Heal Bell</tutor_set_move>
+				<tutor_set_move>Iron Tail</tutor_set_move>
+				<tutor_set_move>Signal Beam</tutor_set_move>
+				<tutor_set_move>Magnet Rise</tutor_set_move>
+				<tutor_set_move>After You</tutor_set_move>
+				<tutor_set_move>Draco Meteor</tutor_set_move>
+			</tutor_set_moves>
+		</tutor_set>
 	</tutor_sets>
 </pokemon_tutor_sets>
