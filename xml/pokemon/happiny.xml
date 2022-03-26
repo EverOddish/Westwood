@@ -239,6 +239,18 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Chansey</evolves_to>
+					<level>30</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Undiscovered</egg_groups>
 </pokemon>
