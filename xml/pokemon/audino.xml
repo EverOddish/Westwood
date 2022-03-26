@@ -96,6 +96,14 @@
 			</games>
 			<type1>Normal</type1>
 		</type_set>
+		<type_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<type1>Normal</type1>
+			<type2>Fairy</type2>
+		</type_set>
 	</type_sets>
 	<ability_sets>
 		<ability_set>
