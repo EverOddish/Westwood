@@ -11,6 +11,7 @@
             <xs:enumeration value="Kalos"/>
             <xs:enumeration value="Alola"/>
             <xs:enumeration value="Galar"/>
+            <xs:enumeration value="Hisui"/>
         </xs:restriction>
     </xs:simpleType>
 

@@ -37,4 +37,18 @@
         <author>Drayano</author>
         <description>Pokémon Blaze Black 2 and Pokémon Volt White 2 are essentially the sequels to my Black and White hacks known as Blaze Black and Volt White. The usual rules with my hacks apply; the main feature is that all 649 Pokémon are available for capture somewhere in the game, and the trainers have all had their rosters changed in order to maintain a much harder challenge than the original game, as well as having an increased variety of opponents to fight.</description>
     </rom_hack>
+    <rom_hack>
+        <title>Pokemon Blaze Black 2 Redux</title>
+        <!-- All official stat and move changes from SwSh were ported into Blaze Black 2 Redux -->
+        <base_game>Pokemon Sword</base_game>
+        <author>AphexCubed</author>
+        <description>Pokémon Blaze Black 2 and Volt White 2 Redux are a reimagining of Drayano's 2012 project's Blaze Black 2 and Volt White 2. In a nutshell, Redux retains the usual changes brought about in Drayano's other projects, including but not limited to: access to all 649 Pokémon in the game, revamped Trainers including tougher boss fights, lots of (optional) changes to weaker Pokémon to make them easier to use, the removal of trade only evolutions and a number of other quality of life changes.</description>
+    </rom_hack>
+    <rom_hack>
+        <title>Pokemon Volt White 2 Redux</title>
+        <!-- All official stat and move changes from SwSh were ported into Blaze Black 2 Redux -->
+        <base_game>Pokemon Sword</base_game>
+        <author>AphexCubed</author>
+        <description>Pokémon Blaze Black 2 and Volt White 2 Redux are a reimagining of Drayano's 2012 project's Blaze Black 2 and Volt White 2. In a nutshell, Redux retains the usual changes brought about in Drayano's other projects, including but not limited to: access to all 649 Pokémon in the game, revamped Trainers including tougher boss fights, lots of (optional) changes to weaker Pokémon to make them easier to use, the removal of trade only evolutions and a number of other quality of life changes.</description>
+    </rom_hack>
 </rom_hacks>
