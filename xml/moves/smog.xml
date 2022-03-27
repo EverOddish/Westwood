@@ -67,5 +67,23 @@
 				<description>Has a 40% chance to poison the target.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Poison</type>
+				<base_power>35</base_power>
+				<power_points>20</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect>Inflicts poison</effect>
+				<effect_chance>40</effect_chance>
+				<description>Has a 40% chance to poison the target.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

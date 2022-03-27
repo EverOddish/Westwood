@@ -52,6 +52,8 @@
 		<move_record>
 			<games>
 				<game>Pokemon Legends Arceus</game>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
 			</games>
 			<move_definition>
 				<generation>1</generation>
@@ -61,7 +63,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<description></description>
+				<description/>
 			</move_definition>
 		</move_record>
 	</move_records>

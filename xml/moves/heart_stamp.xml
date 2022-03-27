@@ -50,5 +50,22 @@
 				<description>Has a 30% chance to make the target flinch.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<move_definition>
+				<generation>5</generation>
+				<type>Psychic</type>
+				<base_power>75</base_power>
+				<power_points>15</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect_chance>30</effect_chance>
+				<description>Has a 30% chance to make the target flinch.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 </move>

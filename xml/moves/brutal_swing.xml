@@ -49,6 +49,22 @@
 				<description>Inflicts regular damage with no additional effect.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<move_definition>
+				<generation>7</generation>
+				<type>Dark</type>
+				<base_power>100</base_power>
+				<power_points>15</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description>Inflicts regular damage with no additional effect.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>

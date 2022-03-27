@@ -66,6 +66,23 @@
 				<description>Has a 10% chance to lower the target's Speed by one stage.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Water</type>
+				<base_power>70</base_power>
+				<power_points>20</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect_chance>10</effect_chance>
+				<description>Has a 10% chance to lower the target's Speed by one stage.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>

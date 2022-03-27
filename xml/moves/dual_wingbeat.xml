@@ -22,5 +22,22 @@
                 <description>The user slams the target with its wings. The target is hit twice in a row.</description>
             </move_definition>
         </move_record>
+        <move_record>
+            <games>
+                <game>Pokemon Blaze Black 2 Redux</game>
+                <game>Pokemon Volt White 2 Redux</game>
+            </games>
+            <move_definition>
+                <generation>8</generation>
+                <type>Flying</type>
+                <base_power>50</base_power>
+                <power_points>10</power_points>
+                <accuracy>90</accuracy>
+                <priority>0</priority>
+                <damage_category>Physical</damage_category>
+                <effect>Inflicts regular damage</effect>
+                <description>The user slams the target with its wings. The target is hit twice in a row.</description>
+            </move_definition>
+        </move_record>
     </move_records>
 </move>

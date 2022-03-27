@@ -63,6 +63,22 @@
 				<description>Power doubles every turn this move is used in succession after the first</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Bug</type>
+				<base_power>30</base_power>
+				<power_points>20</power_points>
+				<accuracy>95</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<description>Power doubles every turn this move is used in succession after the first</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>
