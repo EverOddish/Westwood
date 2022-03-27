@@ -137,8 +137,7 @@
 				<game>Pokemon Blaze Black 2 Redux</game>
 				<game>Pokemon Volt White 2 Redux</game>
 			</games>
-			<type1/>
-			<type2>Flying</type2>
+			<type1>Flying</type1>
 		</type_set>
 	</type_sets>
 	<ability_sets>
