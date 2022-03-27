@@ -200,11 +200,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Guts</name>
+					<name>Intimidate</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Intimidate</name>
+					<name>Guts</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

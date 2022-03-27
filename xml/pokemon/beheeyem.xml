@@ -185,11 +185,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Analytic</name>
+					<name>Synchronise</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Synchronise</name>
+					<name>Analytic</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

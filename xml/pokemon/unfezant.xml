@@ -224,15 +224,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Rivalry</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Unaware</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Super Luck</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Rivalry</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

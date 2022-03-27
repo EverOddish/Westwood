@@ -217,15 +217,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Arena Trap</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Hyper Cutter</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Sheer Force</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Arena Trap</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

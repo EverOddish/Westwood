@@ -243,11 +243,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Technician</name>
+					<name>Filter</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Filter</name>
+					<name>Technician</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

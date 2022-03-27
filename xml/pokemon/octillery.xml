@@ -193,15 +193,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
+					<name>Mold Breaker</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
 					<name>Sniper</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Suction Cups</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
-					<name>Mold Breaker</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

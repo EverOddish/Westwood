@@ -216,11 +216,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Dry Skin</name>
+					<name>Trace</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Trace</name>
+					<name>Dry Skin</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

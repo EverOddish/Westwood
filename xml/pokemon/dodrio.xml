@@ -237,15 +237,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Tangled Feet</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Anger Point</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Early Bird</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Tangled Feet</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

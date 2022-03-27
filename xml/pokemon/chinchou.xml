@@ -179,7 +179,7 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Illuminate</name>
+					<name>Volt Absorb</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
@@ -187,7 +187,7 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Volt Absorb</name>
+					<name>Illuminate</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

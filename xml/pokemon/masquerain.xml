@@ -267,15 +267,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Unnerve</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Intimidate</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Levitate</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Unnerve</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

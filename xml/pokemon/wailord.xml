@@ -217,11 +217,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Pressure</name>
+					<name>Drizzle</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Drizzle</name>
+					<name>Pressure</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

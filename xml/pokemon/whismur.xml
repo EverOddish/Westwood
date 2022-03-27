@@ -199,7 +199,7 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Rattled</name>
+					<name>Soundproof</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
@@ -207,7 +207,7 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Soundproof</name>
+					<name>Rattled</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

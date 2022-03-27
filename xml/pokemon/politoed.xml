@@ -203,11 +203,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Drizzle</name>
+					<name>Water Absorb</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Water Absorb</name>
+					<name>Drizzle</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

@@ -198,7 +198,7 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Clear Body</name>
+					<name>Filter</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
@@ -206,7 +206,7 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Filter</name>
+					<name>Clear Body</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

@@ -175,11 +175,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Sheer Force</name>
+					<name>Blaze</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Blaze</name>
+					<name>Sheer Force</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

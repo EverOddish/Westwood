@@ -222,7 +222,7 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Gluttony</name>
+					<name>Sturdy</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
@@ -230,7 +230,7 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Sturdy</name>
+					<name>Gluttony</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

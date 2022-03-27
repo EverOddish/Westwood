@@ -202,7 +202,7 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Light Metal</name>
+					<name>Heatproof</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
@@ -210,7 +210,7 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Heatproof</name>
+					<name>Light Metal</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

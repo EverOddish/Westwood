@@ -183,15 +183,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
+					<name>Hustle</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
 					<name>Guts</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Run Away</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
-					<name>Hustle</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

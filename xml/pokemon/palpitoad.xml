@@ -172,15 +172,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Swift Swim</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Water Absorb</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Hydration</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Swift Swim</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

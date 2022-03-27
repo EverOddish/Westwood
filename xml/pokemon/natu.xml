@@ -193,11 +193,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Magic Bounce</name>
+					<name>Synchronise</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Synchronise</name>
+					<name>Magic Bounce</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

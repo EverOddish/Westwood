@@ -169,15 +169,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Overcoat</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Regenerator</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Magic Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Overcoat</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

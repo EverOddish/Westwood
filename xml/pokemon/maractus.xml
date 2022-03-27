@@ -209,11 +209,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Storm Drain</name>
+					<name>Water Absorb</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Water Absorb</name>
+					<name>Storm Drain</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

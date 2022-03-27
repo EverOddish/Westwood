@@ -270,15 +270,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
+					<name>No Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
 					<name>Tangled Feet</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Keen Eye</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
-					<name>No Guard</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

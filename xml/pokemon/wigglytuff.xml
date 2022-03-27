@@ -261,15 +261,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Frisk</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Huge Power</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Friend Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Frisk</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

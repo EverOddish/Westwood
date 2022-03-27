@@ -144,6 +144,8 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Brilliant Diamond</game>
 				<game>Pokemon Shining Pearl</game>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -186,22 +188,6 @@
 				<ability_record>
 					<name>Sturdy</name>
 					<hidden>No</hidden>
-				</ability_record>
-			</ability_records>
-		</ability_set>
-		<ability_set>
-			<games>
-				<game>Pokemon Blaze Black 2 Redux</game>
-				<game>Pokemon Volt White 2 Redux</game>
-			</games>
-			<ability_records>
-				<ability_record>
-					<name>Soundproof</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
-					<name>Sturdy</name>
-					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>
 		</ability_set>

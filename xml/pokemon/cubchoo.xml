@@ -171,11 +171,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Rattled</name>
+					<name>Snow Cloak</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Snow Cloak</name>
+					<name>Rattled</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

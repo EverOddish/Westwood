@@ -142,8 +142,6 @@
 				<game>Pokemon Ultra Moon</game>
 				<game>Pokemon Brilliant Diamond</game>
 				<game>Pokemon Shining Pearl</game>
-				<game>Pokemon Blaze Black 2 Redux</game>
-				<game>Pokemon Volt White 2 Redux</game>
 			</games>
 			<ability_records>
 				<ability_record>
@@ -189,6 +187,26 @@
 				<ability_record>
 					<name>Early Bird</name>
 					<hidden>No</hidden>
+				</ability_record>
+			</ability_records>
+		</ability_set>
+		<ability_set>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<ability_records>
+				<ability_record>
+					<name>Early Bird</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Solar Power</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Chlorophyll</name>
+					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>
 		</ability_set>

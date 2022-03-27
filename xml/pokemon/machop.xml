@@ -177,11 +177,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Steadfast</name>
+					<name>No Guard</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>No Guard</name>
+					<name>Steadfast</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

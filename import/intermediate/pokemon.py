@@ -213,6 +213,27 @@ class Pokemon(PokemonObject):
                     return copy.deepcopy(ability_set)
         return None
 
+    def remove_ability_set(self, specified_game, pair_game):
+        index = 0
+        for ability_set in self.ability_sets:
+            for game in ability_set.games:
+                if specified_game == game:
+                    if len(ability_set.games) == 2:
+                        del self.ability_sets[index]
+                    else:
+                        j = 0
+                        for g in ability_set.games:
+                            if specified_game == g:
+                                del ability_set.games[j]
+                            j += 1
+                        j = 0
+                        for g in ability_set.games:
+                            if pair_game == g:
+                                del ability_set.games[j]
+                            j += 1
+            index += 1
+        return None
+
     def copy_evolution_set(self, specified_game):
         for evolution_set in self.evolution_sets:
             for game in evolution_set.games:

@@ -206,11 +206,11 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Pressure</name>
+					<name>Water Veil</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Water Veil</name>
+					<name>Pressure</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

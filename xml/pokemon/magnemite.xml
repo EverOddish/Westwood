@@ -196,11 +196,11 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Magnet Pull</name>
+					<name>Sturdy</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Sturdy</name>
+					<name>Magnet Pull</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

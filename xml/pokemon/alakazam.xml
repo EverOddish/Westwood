@@ -213,15 +213,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Inner Focus</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Synchronise</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Magic Guard</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Inner Focus</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

@@ -192,7 +192,7 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Klutz</name>
+					<name>Run Away</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
@@ -200,7 +200,7 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Run Away</name>
+					<name>Klutz</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

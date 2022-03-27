@@ -270,15 +270,15 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Poison Point</name>
-					<hidden>No</hidden>
-				</ability_record>
-				<ability_record>
 					<name>Intimidate</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
 					<name>Swift Swim</name>
+					<hidden>No</hidden>
+				</ability_record>
+				<ability_record>
+					<name>Poison Point</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>

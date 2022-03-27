@@ -171,7 +171,7 @@
 			</games>
 			<ability_records>
 				<ability_record>
-					<name>Shed Skin</name>
+					<name>Swarm</name>
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
@@ -179,7 +179,7 @@
 					<hidden>No</hidden>
 				</ability_record>
 				<ability_record>
-					<name>Swarm</name>
+					<name>Shed Skin</name>
 					<hidden>Yes</hidden>
 				</ability_record>
 			</ability_records>
