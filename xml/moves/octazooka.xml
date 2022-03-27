@@ -93,8 +93,9 @@
 				<accuracy>85</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect_chance>50</effect_chance>
-				<description>Has a 50% chance to lower the target's accuracy by one stage.</description>
+				<effect>Chance of critical hit</effect>
+				<effect_chance>30</effect_chance>
+				<description>Has a 30% chance to lower the target's accuracy by one stage, and an increased chance for a critical hit.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

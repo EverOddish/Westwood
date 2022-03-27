@@ -28,7 +28,7 @@
                 <base_power>70</base_power>
                 <power_points>10</power_points>
                 <accuracy>100</accuracy>
-                <priority>0</priority>
+                <priority>1</priority>
                 <damage_category>Special</damage_category>
                 <description/>
             </move_definition>

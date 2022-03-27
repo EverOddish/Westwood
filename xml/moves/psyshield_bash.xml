@@ -30,7 +30,7 @@
                 <accuracy>100</accuracy>
                 <priority>0</priority>
                 <damage_category>Physical</damage_category>
-                <description/>
+                <description>Hits target through Substitute and Protect.</description>
             </move_definition>
         </move_record>
     </move_records>

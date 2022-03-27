@@ -52,8 +52,6 @@
 				<game>Pokemon Brilliant Diamond</game>
 				<game>Pokemon Shining Pearl</game>
 				<game>Pokemon Legends Arceus</game>
-				<game>Pokemon Blaze Black 2 Redux</game>
-				<game>Pokemon Volt White 2 Redux</game>
 			</games>
 			<move_definition>
 				<generation>1</generation>
@@ -81,6 +79,23 @@
 				<damage_category>Physical</damage_category>
 				<effect>Chance of critical hit</effect>
 				<description>Has an increased chance for a critical hit.</description>
+			</move_definition>
+		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Blaze Black 2 Redux</game>
+				<game>Pokemon Volt White 2 Redux</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Water</type>
+				<base_power>100</base_power>
+				<power_points>10</power_points>
+				<accuracy>90</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect></effect>
+				<description>Has a 10% chance to decrease target's Defense by one stage.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

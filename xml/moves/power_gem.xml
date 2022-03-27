@@ -111,8 +111,8 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<effect>Inflicts regular damage</effect>
-				<description>Inflicts regular damage with no additional effect.</description>
+				<effect_chance>10</effect_chance>
+				<description>Has a 10% chance to lower the target's Special Defense by one stage.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

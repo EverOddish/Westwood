@@ -124,8 +124,8 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect_chance>50</effect_chance>
-				<description>Has a 50% chance to lower the target's Defense by one stage.</description>
+				<effect_chance>100</effect_chance>
+				<description>Has a 100% chance to lower the target's Defense by one stage.</description>
 			</move_definition>
 		</move_record>
 	</move_records>

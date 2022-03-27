@@ -95,8 +95,8 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<effect>Inflicts regular damage</effect>
-				<description>Inflicts regular damage with no additional effect.</description>
+				<effect>Chance of critical hit</effect>
+				<description>Has an increased chance for a critical hit.</description>
 			</move_definition>
 		</move_record>
 	</move_records>
