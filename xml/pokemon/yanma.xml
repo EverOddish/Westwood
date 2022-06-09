@@ -59,6 +59,17 @@
 			<special_defense>45</special_defense>
 			<speed>95</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<hp>65</hp>
+			<attack>96</attack>
+			<defense>45</defense>
+			<special_attack>75</special_attack>
+			<special_defense>45</special_defense>
+			<speed>95</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>

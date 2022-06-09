@@ -29,14 +29,15 @@ for pokemon in all_pokemon.keys():
         pokemon_object = Pokemon(path)
         stat_set_copy = StatSet()
         stat_set_copy.games = ['Pokemon Crystal Kaizo+']
+        # Note: Different stat order than usual
         stat_set_copy.hp = stats[0]
         stat_set_copy.attack = stats[1]
         stat_set_copy.defense = stats[2]
-        stat_set_copy.special_attack = stats[3]
-        stat_set_copy.special_defense = stats[4]
-        stat_set_copy.speed = stats[5]
+        stat_set_copy.speed = stats[3]
+        stat_set_copy.special_attack = stats[4]
+        stat_set_copy.special_defense = stats[5]
         pokemon_object.add_stat_set(stat_set_copy)
 
-        #with open(path, 'w') as g:
-        #    pokemon_object.dump(g)
-
+        print(pokemon)
+        with open(path, 'w') as g:
+            pokemon_object.dump(g)

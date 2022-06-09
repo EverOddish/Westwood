@@ -100,6 +100,17 @@
 			<special_defense>100</special_defense>
 			<speed>30</speed>
 		</stat_set>
+		<stat_set>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<hp>80</hp>
+			<attack>95</attack>
+			<defense>80</defense>
+			<special_attack>60</special_attack>
+			<special_defense>80</special_defense>
+			<speed>30</speed>
+		</stat_set>
 	</stat_sets>
 	<type_sets>
 		<type_set>
