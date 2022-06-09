@@ -801,5 +801,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Take Down</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Return</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

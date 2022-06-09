@@ -1015,5 +1015,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Glare</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>43</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

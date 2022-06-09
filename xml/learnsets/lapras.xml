@@ -776,5 +776,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

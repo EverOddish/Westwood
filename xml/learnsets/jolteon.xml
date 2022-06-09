@@ -1040,5 +1040,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thundershock</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spark</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

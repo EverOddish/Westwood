@@ -919,5 +919,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>48</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>90</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

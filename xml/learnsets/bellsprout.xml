@@ -680,5 +680,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Acid</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>17</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

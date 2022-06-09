@@ -733,5 +733,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Present</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Softboiled</name>
+					<level>20</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

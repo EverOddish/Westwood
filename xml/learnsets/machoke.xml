@@ -870,5 +870,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>61</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Foresight</name>
+					<level>65</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Counter</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

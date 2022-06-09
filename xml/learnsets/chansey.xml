@@ -1038,5 +1038,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Egg Bomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Charm</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Heal Bell</name>
+					<level>100</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

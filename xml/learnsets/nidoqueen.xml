@@ -572,5 +572,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>65</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

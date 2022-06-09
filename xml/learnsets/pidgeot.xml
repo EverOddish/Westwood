@@ -912,5 +912,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

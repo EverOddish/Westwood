@@ -908,5 +908,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

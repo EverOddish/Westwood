@@ -855,5 +855,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>100</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

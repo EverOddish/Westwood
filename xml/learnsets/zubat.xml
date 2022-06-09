@@ -908,5 +908,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>15</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

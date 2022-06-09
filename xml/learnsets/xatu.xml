@@ -899,5 +899,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

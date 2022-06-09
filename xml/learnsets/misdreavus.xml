@@ -649,5 +649,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Night Shade</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>85</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Perish Song</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

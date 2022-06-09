@@ -634,5 +634,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>13</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

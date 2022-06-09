@@ -832,5 +832,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pay Day</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

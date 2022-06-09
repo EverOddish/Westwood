@@ -950,5 +950,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hi Jump Kick</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>58</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>63</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

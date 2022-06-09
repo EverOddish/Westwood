@@ -851,5 +851,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Flame Wheel</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Return</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

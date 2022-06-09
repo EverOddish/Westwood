@@ -200,5 +200,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Counter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Coat</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Encore</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>66</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

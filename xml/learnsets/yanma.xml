@@ -743,5 +743,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Protect</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

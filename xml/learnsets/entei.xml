@@ -749,5 +749,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Roar</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stomp</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Extremespeed</name>
+					<level>74</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metal Claw</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

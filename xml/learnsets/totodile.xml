@@ -697,5 +697,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>15</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

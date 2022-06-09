@@ -942,5 +942,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lovely Kiss</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>52</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

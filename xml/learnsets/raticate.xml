@@ -814,5 +814,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hyper Fang</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Super Fang</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Skull Bash</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

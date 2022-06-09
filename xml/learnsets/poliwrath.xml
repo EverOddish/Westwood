@@ -512,5 +512,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>70</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lovely Kiss</name>
+					<level>76</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

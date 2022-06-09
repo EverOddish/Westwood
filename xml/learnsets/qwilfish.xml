@@ -829,5 +829,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Waterfall</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Destiny Bond</name>
+					<level>90</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spikes</name>
+					<level>100</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

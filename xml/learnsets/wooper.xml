@@ -609,5 +609,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>41</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

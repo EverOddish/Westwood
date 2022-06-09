@@ -377,5 +377,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Present</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sing</name>
+					<level>25</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -810,5 +810,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sand Attack</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dig</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>22</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

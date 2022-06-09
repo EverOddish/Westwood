@@ -1098,5 +1098,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>35</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>54</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Meditate</name>
+					<level>90</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

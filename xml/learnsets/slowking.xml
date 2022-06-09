@@ -969,5 +969,24 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Surf</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>68</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

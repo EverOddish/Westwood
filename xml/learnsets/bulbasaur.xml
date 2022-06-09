@@ -674,5 +674,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Tackle</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Vine Whip</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poisonpowder</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

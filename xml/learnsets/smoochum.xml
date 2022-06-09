@@ -691,5 +691,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Powder Snow</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sweet Kiss</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Icy Wind</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Beam</name>
+					<level>49</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

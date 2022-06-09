@@ -790,5 +790,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pound</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Water Gun</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragonbreath</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Waterfall</name>
+					<level>32</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>37</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

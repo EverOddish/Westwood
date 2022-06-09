@@ -986,5 +986,60 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sing</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Defense Curl</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>4</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rollout</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>41</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

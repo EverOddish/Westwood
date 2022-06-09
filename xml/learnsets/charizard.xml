@@ -1076,5 +1076,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>38</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>69</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>77</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

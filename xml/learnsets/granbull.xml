@@ -807,5 +807,56 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Attract</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Return</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lovely Kiss</name>
+					<level>80</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

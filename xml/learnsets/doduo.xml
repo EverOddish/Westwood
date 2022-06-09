@@ -814,5 +814,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Kick</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>36</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -836,5 +836,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Tri Attack</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mirror Move</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Agility</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

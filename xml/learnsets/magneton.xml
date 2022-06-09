@@ -1280,5 +1280,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sonicboom</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>52</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Lock On</name>
+					<level>60</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Zap Cannon</name>
+					<level>60</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

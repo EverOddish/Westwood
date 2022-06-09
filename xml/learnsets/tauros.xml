@@ -836,5 +836,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Scary Face</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

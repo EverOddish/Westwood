@@ -856,5 +856,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Acid</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>28</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

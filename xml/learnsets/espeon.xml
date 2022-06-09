@@ -925,5 +925,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Shadow Ball</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>59</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

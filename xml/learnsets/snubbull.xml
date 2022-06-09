@@ -701,5 +701,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Metronome</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Haze</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Headbutt</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Crunch</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>25</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

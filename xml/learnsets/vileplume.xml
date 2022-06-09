@@ -512,5 +512,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Moonlight</name>
+					<level>55</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Petal Dance</name>
+					<level>64</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

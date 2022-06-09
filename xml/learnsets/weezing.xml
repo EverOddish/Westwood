@@ -1076,5 +1076,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>40</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Smokescreen</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>53</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Pain Split</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>85</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

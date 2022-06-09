@@ -466,5 +466,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Egg Bomb</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

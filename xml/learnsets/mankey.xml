@@ -738,5 +738,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Low Kick</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Karate Chop</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>34</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

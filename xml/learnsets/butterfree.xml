@@ -904,5 +904,48 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>10</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Poisonpowder</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psywave</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Whirlwind</name>
+					<level>29</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

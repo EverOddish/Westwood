@@ -804,5 +804,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Throw</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Magnitude</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>56</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

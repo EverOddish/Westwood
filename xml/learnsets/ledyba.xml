@@ -639,5 +639,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>6</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>11</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>15</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Reflect</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Toxic</name>
+					<level>23</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

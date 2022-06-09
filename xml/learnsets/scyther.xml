@@ -916,5 +916,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>8</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Slash</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wing Attack</name>
+					<level>31</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Steel Wing</name>
+					<level>37</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Wind</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>False Swipe</name>
+					<level>53</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

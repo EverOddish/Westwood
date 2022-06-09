@@ -864,5 +864,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Confusion</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mega Drain</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Stun Spore</name>
+					<level>17</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psybeam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Egg Bomb</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Razor Leaf</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sleep Powder</name>
+					<level>43</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Psychic M</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

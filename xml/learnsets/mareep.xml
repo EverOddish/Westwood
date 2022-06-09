@@ -649,5 +649,36 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thundershock</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>5</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>9</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>45</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

@@ -655,5 +655,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Sandstorm</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Disable</name>
+					<level>30</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

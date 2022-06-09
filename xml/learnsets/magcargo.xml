@@ -995,5 +995,52 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>21</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>34</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Recover</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>45</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rapid Spin</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ancientpower</name>
+					<level>64</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>72</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Amnesia</name>
+					<level>80</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

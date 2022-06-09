@@ -48,5 +48,5 @@ for pokemon in all_pokemon.keys():
 
     learnset.add_learnset(learnset_copy)
     print("Added " + pokemon)
-    #with open(path, 'w') as g:
-    #    learnset.dump(g)
+    with open(path, 'w') as g:
+        learnset.dump(g)

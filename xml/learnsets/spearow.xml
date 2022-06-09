@@ -622,5 +622,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Quick Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Peck</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mud Slap</name>
+					<level>12</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Swift</name>
+					<level>15</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

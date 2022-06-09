@@ -890,5 +890,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Vicegrip</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fury Cutter</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>24</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Submission</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Seismic Toss</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>50</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

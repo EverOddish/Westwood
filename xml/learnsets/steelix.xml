@@ -1148,5 +1148,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Swagger</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>56</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bide</name>
+					<level>75</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

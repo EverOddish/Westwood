@@ -1126,5 +1126,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>44</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Megahorn</name>
+					<level>50</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>70</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

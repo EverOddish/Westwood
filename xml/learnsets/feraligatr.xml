@@ -915,5 +915,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Slash</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Ice Punch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Waterfall</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rage</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>57</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hydro Pump</name>
+					<level>67</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

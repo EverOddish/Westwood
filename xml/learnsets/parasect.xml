@@ -836,5 +836,32 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Scratch</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>14</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Giga Drain</name>
+					<level>18</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Spore</name>
+					<level>25</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Leech Life</name>
+					<level>28</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

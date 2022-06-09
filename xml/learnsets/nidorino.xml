@@ -656,5 +656,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Poison Sting</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Horn Attack</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge</name>
+					<level>20</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bite</name>
+					<level>23</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>27</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sludge Bomb</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thrash</name>
+					<level>48</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

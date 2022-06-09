@@ -698,5 +698,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Dragon Rage</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>30</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Bubblebeam</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Wrap</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Body Slam</name>
+					<level>42</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Aurora Beam</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Safeguard</name>
+					<level>51</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

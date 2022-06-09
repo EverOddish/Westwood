@@ -448,5 +448,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hypnosis</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Iron Tail</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>46</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Faint Attack</name>
+					<level>49</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>51</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Solarbeam</name>
+					<level>67</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sacred Fire</name>
+					<level>72</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

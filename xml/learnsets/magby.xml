@@ -651,5 +651,44 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Ember</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Mach Punch</name>
+					<level>7</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Dizzy Punch</name>
+					<level>13</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>16</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Punch</name>
+					<level>19</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Confuse Ray</name>
+					<level>26</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Flamethrower</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Cross Chop</name>
+					<level>42</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

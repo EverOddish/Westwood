@@ -672,5 +672,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Thunderbolt</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Drill Peck</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Thunder Wave</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

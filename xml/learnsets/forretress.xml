@@ -1131,5 +1131,40 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Pin Missile</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Selfdestruct</name>
+					<level>29</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Double Edge</name>
+					<level>33</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Light Screen</name>
+					<level>36</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Rock Slide</name>
+					<level>39</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Earthquake</name>
+					<level>47</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Explosion</name>
+					<level>99</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>

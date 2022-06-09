@@ -676,5 +676,28 @@
 				</learnset_move>
 			</learnset_moves>
 		</learnset>
+		<learnset>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<learnset_moves>
+				<learnset_move>
+					<name>Morning Sun</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Sky Attack</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Fire Blast</name>
+					<level>1</level>
+				</learnset_move>
+				<learnset_move>
+					<name>Hidden Power</name>
+					<level>1</level>
+				</learnset_move>
+			</learnset_moves>
+		</learnset>
 	</learnsets>
 </pokemon_learnsets>
