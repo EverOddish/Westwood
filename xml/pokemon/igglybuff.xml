@@ -245,6 +245,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Jigglypuff</evolves_to>
+					<level>15</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Undiscovered</egg_groups>
 </pokemon>

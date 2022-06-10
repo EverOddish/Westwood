@@ -269,6 +269,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Rapidash</evolves_to>
+					<level>31</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Field</egg_groups>
 </pokemon>

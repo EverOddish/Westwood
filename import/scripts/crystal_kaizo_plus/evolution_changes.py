@@ -35,9 +35,8 @@ for pokemon, level, evolves_to in evolutions:
             found = True
             if len(level) > 0:
                 record.level = level
-                #print(f"Updated {pokemon}")
-            else:
-                #print("Item")
-                pass
-    if not found:
-        print(f"Not handled: {pokemon}")
+                print(f"Updated {pokemon}")
+    pokemon_object.add_evolution_set(evolution_copy)
+
+    with open(path, 'w') as g:
+        pokemon_object.dump(g)

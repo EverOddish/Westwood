@@ -238,6 +238,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Tyranitar</evolves_to>
+					<level>65</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Monster</egg_groups>
 </pokemon>

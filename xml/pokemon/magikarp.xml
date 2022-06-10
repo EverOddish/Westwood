@@ -213,6 +213,17 @@
 				</evolution_record>
 			</evolution_records>
 		</evolution_set>
+		<evolution_set>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<evolution_records>
+				<evolution_record>
+					<evolves_to>Gyarados</evolves_to>
+					<level>30</level>
+				</evolution_record>
+			</evolution_records>
+		</evolution_set>
 	</evolution_sets>
 	<egg_groups>Dragon, Water 2</egg_groups>
 </pokemon>
