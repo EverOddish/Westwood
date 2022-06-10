@@ -51,4 +51,10 @@
         <author>AphexCubed</author>
         <description>Pokémon Blaze Black 2 and Volt White 2 Redux are a reimagining of Drayano's 2012 project's Blaze Black 2 and Volt White 2. In a nutshell, Redux retains the usual changes brought about in Drayano's other projects, including but not limited to: access to all 649 Pokémon in the game, revamped Trainers including tougher boss fights, lots of (optional) changes to weaker Pokémon to make them easier to use, the removal of trade only evolutions and a number of other quality of life changes.</description>
     </rom_hack>
+    <rom_hack>
+        <title>Pokemon Crystal Kaizo+</title>
+        <base_game>Pokemon Crystal</base_game>
+        <author>luapmail, toxicenduser</author>
+        <description></description>
+    </rom_hack>
 </rom_hacks>

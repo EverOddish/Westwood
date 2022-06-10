@@ -57,9 +57,10 @@ def validate():
         files = os.listdir(os.path.join('xml', dataset_mapping[schema_name]))
 
         for filename in files:
-            target = os.path.join(
-                'xml', dataset_mapping[schema_name], filename)
-            run_xmllint(schema, target)
+            if ".txt" not in filename:
+                target = os.path.join(
+                    'xml', dataset_mapping[schema_name], filename)
+                run_xmllint(schema, target)
 
     if invalid_files:
         raise SystemExit("Invalid data!")
