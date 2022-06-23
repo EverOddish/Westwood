@@ -60,7 +60,23 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<description></description>
+				<description/>
+			</move_definition>
+		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Ground</type>
+				<base_power>0</base_power>
+				<power_points>1</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Status</damage_category>
+				<effect_chance>0</effect_chance>
+				<description>Scatters Spikes</description>
 			</move_definition>
 		</move_record>
 	</move_records>

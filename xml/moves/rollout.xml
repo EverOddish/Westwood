@@ -65,6 +65,22 @@
 				<description/>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Rock</type>
+				<base_power>30</base_power>
+				<power_points>1</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect_chance>0</effect_chance>
+				<description>Power doubles every turn this move is used in succession after the first</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>

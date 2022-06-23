@@ -10,6 +10,7 @@
 				<game>Pokemon Gold</game>
 				<game>Pokemon Silver</game>
 				<game>Pokemon Crystal</game>
+				<game>Pokemon Crystal Kaizo+</game>
 			</games>
 			<move_definition>
 				<generation>1</generation>
@@ -74,7 +75,7 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<description></description>
+				<description/>
 			</move_definition>
 		</move_record>
 	</move_records>

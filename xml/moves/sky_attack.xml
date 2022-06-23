@@ -81,6 +81,22 @@
 				<description>User receives 1/3 the damage inflicted in recoil.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Flying</type>
+				<base_power>120</base_power>
+				<power_points>5</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect_chance>10</effect_chance>
+				<description>User charges for one turn before attacking.  Has a 30% chance to make the target flinch.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>

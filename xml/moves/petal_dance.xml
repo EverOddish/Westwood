@@ -103,7 +103,23 @@
 				<accuracy>85</accuracy>
 				<priority>0</priority>
 				<damage_category>Special</damage_category>
-				<description></description>
+				<description/>
+			</move_definition>
+		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<move_definition>
+				<generation>1</generation>
+				<type>Grass</type>
+				<base_power>90</base_power>
+				<power_points>20</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect_chance>10</effect_chance>
+				<description>Hits every turn for 2-3 turns</description>
 			</move_definition>
 		</move_record>
 	</move_records>

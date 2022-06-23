@@ -96,6 +96,22 @@
 				<description>Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.</description>
 			</move_definition>
 		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Water</type>
+				<base_power>35</base_power>
+				<power_points>15</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Special</damage_category>
+				<effect_chance>0</effect_chance>
+				<description>Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.</description>
+			</move_definition>
+		</move_record>
 	</move_records>
 	<tm_records>
 		<tm_record>

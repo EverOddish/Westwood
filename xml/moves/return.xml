@@ -75,7 +75,23 @@
 				<accuracy>100</accuracy>
 				<priority>0</priority>
 				<damage_category>Physical</damage_category>
-				<description></description>
+				<description/>
+			</move_definition>
+		</move_record>
+		<move_record>
+			<games>
+				<game>Pokemon Crystal Kaizo+</game>
+			</games>
+			<move_definition>
+				<generation>2</generation>
+				<type>Normal</type>
+				<base_power>102</base_power>
+				<power_points>20</power_points>
+				<accuracy>100</accuracy>
+				<priority>0</priority>
+				<damage_category>Physical</damage_category>
+				<effect_chance>0</effect_chance>
+				<description>Power increases with happiness</description>
 			</move_definition>
 		</move_record>
 	</move_records>
