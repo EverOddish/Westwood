@@ -1,0 +1,2075 @@
+<Gen1GymLeaders>
+<teams> Gen 1 Gym Leaders </teams>
+<Gym1>
+<gymleader> Brock </gymleader>
+<location> Petwer Gym <locations>
+<games> Red, Green, and Blue <games>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Tackle and Defense Curl </moves>
+<pokemon> Onix </pokemon>
+<level> 14 </level>
+<moves> Tackle, Screech, and Bide </moves>
+
+<location> Petwer Gym </location>
+<games> Yellow </games>
+<pokemon> Geodude </pokemon>
+<level> 10 </level>
+<moves> Tackle </moves>
+<pokemon> Onix </pokemon>
+<level> 12 </level>
+<moves> Tackle, Screech, Bide, Bind </moves>
+
+<location> Petwer Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Graveler </pokemon>
+<level> 41 </level>
+<moves> Defense Curl, Rock Slide, Rollout, and Earthquake </moves>
+<pokemon> Rhyhorn </pokemon>
+<level> 41 </level>
+<moves> Fury Attack, Scary Face, Earthquake, and Horn Drill </moves>
+<pokemon> Omastar </pokemon>
+<level> 42 </level>
+<moves> Bite, Surf, Protect, and Spike Cannon </moves>
+<pokemon> Kabutops </pokemon>
+<level> 42 </level>
+<moves> Slash, Surf, Endure, and Giga Drain </moves>
+<pokemon> Onix </pokemon>
+<level> 44 </level>
+<moves> Bind, Rock Slide, Bide, and Sandstorm
+
+<location> Petwer Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Tackle and Defense Curl </moves>
+<pokemon> Onix </pokemon>
+<level> 14 </level>
+<moves> Tackle, Harden, Bind, and Rock Tomb </moves>
+
+<location> Petwer Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Graveler </pokemon>
+<level> 51 </level>
+<moves> Defense Curl, Rollout, Earthquake, and Rockslide </moves>
+ <pokemon> Rhyhorn </pokemon>
+<level> 51 </level>
+<moves> Earthquake, Sandstorm, Scary Face, and Horn Drill </moves>
+<pokemon> Omastar </pokemon>
+<level> 53 </level>
+<moves> Protect, Spike Cannon, Ancient Power, and Brine </moves>
+<pokemon> Kabutops </pokemon>
+<level> 52 </level>
+<moves> Endure, Giga Drain, Aqua Jet and Rock Slide </moves>
+<pokemon> Onix </pokemon>
+<level> 54 </level>
+<moves> Screech, Sandstorm, Iron Tail, and Rock Slide
+
+<location> Petwer Gym </location>
+<games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Geodude </pokemon>
+<level> 11 </level>
+<moves> Tackle </moves>
+<pokemon> Onix </pokemon>
+<level> 14 </level>
+<moves> Headbutt, Bind, and Rock Throw </moves>
+</Gym1>
+
+<Gym2>
+<gymleader> Misty </gymleader>
+<location> Cerulean Gym </location>
+<games> Red, Green, and Blue </games>
+<pokemon> Staryu </pokemon>
+<level> 18 </level>
+<moves> Tackle and Water Gun </moves>
+<pokemon> Starmie </pokemon>
+<level> 21 </level>
+<moves> Tackle, Water Gun, and Bubble Beam </moves>
+
+<location> Cerulean Gym </location>
+<games> Yellow </games>
+<pokemon> Staryu </pokemon>
+<level> 18 </level>
+<moves> Tackle and Water Gun </moves>
+<pokemon> Starmie </pokemon>
+<level> 21 </level>
+<moves> Tackle, Water Gun, Harden, and Bubble Beam </moves>
+
+<location> Cerulean Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Golduck </pokemon>
+<level> 42 </level>
+<moves> Surf, Disable, Psych Up, and Psychic </moves>
+<pokemon> Quagsire </pokemon>
+<level> 42 </level>
+<moves> Surf, Amnesia, Earthquake, and Rain Dance </moves>
+<pokemon> Lapras </pokemon>
+<level> 44 </level>
+<moves> Surf, Perish Song, Blizzard, and Rain Dance </moves>
+<pokemon> Starmie </pokemon>
+<level> 47 </level>
+<moves> Surf, Confuse Ray, Recover, and Ice Beam </moves>
+
+<location> Cerulean Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Staryu </pokemon>
+<level> 18 </level>
+<moves> Tackle, Harden, Recover, and Water Pulse </moves>
+<pokemon> Starmie </pokemon>
+<level> 21 </level>
+<moves> Rapid Spin, Swift, Recover, and Water Pulse </moves>
+
+<location> Cerulean Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Golduck </pokemon>
+<level> 49 </level>
+<moves> Water Pulse, Disable, Psychic, and Psych Up </moves>
+<pokemon> Quagsire </pokemon>
+<level> 49 </level>
+<moves> Water Pulse, Amnesia, Rain Dance, and Earthquake </moves>
+<pokemon> Lapras </pokemon>
+<level> 52 </level>
+<moves> Ice Beam, Sing, Water Pulse, and Body Slam </moves>
+<pokemon> Starmie </pokemon>
+<level> 54 </level>
+<moves> Water Pulse, Confuse Ray, Ice Beam, and Recover </moves>
+
+<location> Cerulean Gym </location>
+<games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Psyduck </pokemon>
+<level> 18 </level>
+<moves> Confusion and Water Gun</moves>
+<pokemon> Starmie </pokemon>
+<level> 19 </level>
+<moves> Scald, Swift, and Psywave </moves>
+</Gym2>
+
+<Gym3>
+<gymleader> Lt.Surge </gymleader>
+<location> Vermillion Gym </location>
+<games> Red, Green, and Blue </games>
+<pokemon> Voltorb </pokemon>
+<level> 21 </level>
+<moves> Tackle, Screech, and Sonic Boom </moves>
+<pokemon>Pikachu </pokemon>
+<level> 18 </level>
+<moves> Thundershock, Growl, Thunder Wave, and Quick Attack </moves>
+<pokemon> Raichu </pokemon>
+<level> 24 </level>
+<moves> Thundershock, Growl, and Thunderbolt </moves>
+
+<location> Vermillion Gym </location>
+<games> Yellow </games>
+<pokemon> Raichu </pokemon>
+<level> 28 </level>
+<moves> Thunderbolt, Mega Punch, Mega Kick, and Growl </moves>
+
+<location> Vermillion Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Raichu </pokemon>
+<level> 44 </level>
+<moves> Thunderbolt, Thunder, Thunder Wave, and Quick Attack </moves>
+<pokemon> Electrode </pokemon>
+<level> 40 </level>
+<moves> Screech, Double Team, Swift, and Explosion </moves>
+<pokemon> Electrode </pokemon>
+<level> 40 </level>
+<moves> Screech, Double Team, Swift, and Explosion </moves>
+<pokemon> Magneton </pokemon> 
+<level> 40 </level>
+<moves> Zap Cannon, Lock-On, Double Team, and Swift </moves>
+<pokemon> Electabuzz </pokemon>
+<level> 46 </level>
+<moves> Thunder Punch, Thunder, Light Screen, and Quick Attack </moves>
+
+<location> Vermillion Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Voltorb </pokemon>
+<level> 21 </level>
+<moves> Shock Wave, Tackle, Screech, and Sonic Boom </moves>
+<pokemon>Pikachu </pokemon>
+<level> 18 </level>
+<moves> Shock Wave, Thunder Wave, Quick Attack, and Double Team</moves>
+<pokemon> Raichu </pokemon>
+<level> 24 </level>
+<moves> Shock Wave, Thunder Wave, Quick Attack, and Double Team </moves>
+
+<location> Vermillion Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Raichu </pokemon>
+<level> 51 </level>
+<moves> Thunder Wave, Shock Wave, Quick Attack, and Double Team </moves>
+<pokemon> Electrode </pokemon>
+<level> 47 </level>
+<moves> Thunder Wave, Double Team, Shock Wave, and Light Screen </moves>
+<pokemon> Electrode </pokemon>
+<level> 47 </level>
+<moves> Screech, Double Team, Selfdestruct, and Charge Beam </moves>
+<pokemon> Magneton </pokemon> 
+<level> 47 </level>
+<moves> Supersonic, Double Team, Shock Wave, Mirror Shot </moves>
+<pokemon> Electabuzz </pokemon>
+<level> 53 </level>
+<moves> Quick Attack, Shock Wave, Light Screen, and Low Kick </moves>
+
+<location> Vermillion Gym </location>
+<games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Voltorb </pokemon>
+<level> 25 </level>
+<moves> Thunderbolt, Swift, and Light Screen </moves>
+<pokemon> Magnemite </pokemon>
+ <level> 25 </level>
+<moves> Thunderbolt and Sonic Boom </moves>
+<pokemon> Raichu </pokemon>
+<level> 25 </level>
+<moves> Thunderbolt, Quick Attack, and Double Kick </moves>
+</Gym3>
+
+<Gym4>
+<gymleader> Erika </gymleader>
+<location> Celadon Gym </location>
+<games> Red, Green, and Blue </games>
+<pokemon> Victreebel </pokemon>
+<level> 29 </level>
+<moves> Razor Leaf, Wrap, Poison Powder, and Sleep Powder </moves>
+<pokemon> Tangela </pokemon>
+<level> 24 </level>
+<moves> Constrict and Bind </moves>
+<pokemon> Vileplume </pokemon>
+<level> 29 </level>
+<moves> Petal Dance, Poison Powder, Mega Drain, and Sleep Powder </moves>
+
+<location> Celadon Gym </location>
+<games> Yellow </games>
+<pokemon> Tangela </pokemon>
+<level> 30 </level>
+<moves> Bind, Mega Drain, Vine Whip, and Constrict </moves>
+<pokemon> Weepinbell </pokemon>
+<level> 32 </level>
+<moves> Acid, Stun Spore, Sleep Powder, and Razor Leaf </move>
+<pokemon> Gloom </pokemon>
+<level> 32 </level>
+<moves> Acid, Petal Dance, Stun Spore, and Sleep Powder </moves>
+
+<location> Celadon Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Tangela </pokemon>
+<level> 42 </level>
+<moves> Vine Whip, Bind, Giga Drain, and Sleep Powder </moves>
+<pokemon> Victrebel </pokemon>
+<level> 46 </level>
+<moves> Sunny Day, Synthesis, Acid, and Razor Leaf </moves>
+<pokemon> Jumpluff </pokemon>
+<level> 41 </level>
+<moves> Mega Drain, Leech Seed, Cotton Spore, and Giga Drain </moves>
+<pokemon> Bellossom </pokemon>
+<level> 46 </level>
+<moves> Sunny Day, Synthesis, Petal Dance, and Solar Beam </moves>
+
+<location> Celadon Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Victreebel </pokemon>
+<level> 29 </level>
+<moves> Stun Spore, Acid, Poison Powder, Giga Drain </moves>
+<pokemon> Tangela </pokemon>
+<level> 24 </level>
+<moves> Poison Powder, Constrict, Ingrain, and Giga Drain </moves>
+<pokemon> Vileplume </pokemon>
+<level> 29 </level>
+<moves> Sleep Powder, Acid, Stun Spore, and Giga Drain </moves>
+
+<location> Celadon Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Jumpluff </pokemon>
+<level> 51 </level>
+<moves> Leech Seed, U-Turn, Giga Drain, and Sunny Day </moves>
+<pokemon> Tangela </pokemon>
+<level> 52 </level>
+<moves> Ancient Power, Wring Out, Giga Drain, and Sleep Powder </moves>
+<pokemon> Victreebel </pokemon>
+<level> 56 </level>
+<moves> Sunny Day, Grass Knot, Leaf Storm, and Razor Leaf </moves>
+<pokemon> Bellossom </pokemon>
+<level> 56 </level>
+<moves> Sunny Day, Solar Beam, Giga Drain, and Synthesis </moves>
+
+<location> Celadon Gym </location>
+<games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Tangela </pokemon>
+<level> 33 </level>
+<moves> Mega Drain, Sleep Powder, and Bind </moves>
+<pokemon> Weepinbell </pokemon>
+<level> 33 </level>
+<moves> Mega Drain and Poison Jab </moves>
+<pokemon> Vileplume </pokemon>
+<level> 34 </level>
+<moves> Mega Drain and Moonblast </moves>
+</Gym4>
+
+<Gym5>
+<gymleader> Koga </gymleader>
+<location> Fuchsia Gym </location>
+<games> Red, Green, and Blue </games>
+<pokemon> Koffing </pokemon>
+<level> 37 </level>
+<moves> Tackle, Smog, Sludge, and Smokescreen </moves>
+<pokemon> Muk </pokemon>
+<level> 39 </level>
+<moves> Disable, Poison Gas, Minimize, and Sludge </moves>
+<pokemon> Koffing </pokemon>
+<level> 37 </level>
+<moves> Tackle, Smog, Sludge, and Smokescreen </moves>
+ <pokemon> Weezing </pokemon>
+<level> 43 </level>
+<moves> Smog, Sludge, Toxic, and Selfdestruct </moves>
+
+<location> Fuchsia Gym </location>
+<games> Yellow </games>
+<pokemon> Venonat </pokemon>
+<level> 44 </level>
+<moves> Tackle, Toxic, Sleep Powder, and Psychic </moves>
+<pokemon> Venonat </pokemon>
+<level> 46 </level>
+<moves> Toxic, Psybeam, Supersonic, and Psychic </moves>
+<pokemon> Venonat </pokemon> 
+<level> 48 </level>
+<moves> Toxic, Psychic, Sleep Powder, and Double-Edge </moves>
+<pokemon> Venomoth </pokemon>
+<level> 50 </level>
+<moves> Toxic, Psychic, Leech Life, and Double Team </moves>
+
+<location> Fuchsia Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Koffing </pokemon>
+<level> 37 </level>
+<moves> Selfdestruct, Sludge, Smokescreen, and Toxic </moves>
+<pokemon> Muk </pokemon>
+<level> 39 </level>
+<moves> Minimize, Sludge, Acid Armor, and Toxic </moves>
+<pokemon> Koffing </pokemon>
+<level> 37 </level>
+<moves> Selfdestruct, Sludge, Smokescreen, and Toxic </moves>
+<pokemon> Weezing </pokemon>
+<level> 43 </level>
+<moves> Tackle, Sludge, Smokescreen, and Toxic </moves>
+
+<location> Fuchsia Gym </location>
+<games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Weezing </pokemon
+<level> 43 </level>
+<moves> Toxic, Protect, Sludge Bomb, and Explosion </moves>
+<pokemon> Muk </pokemon>
+<level> 43 </level>
+<moves> Toxic, Protect, Sludge Bomb, and Moonblast </moves>
+<pokemon> Golbat </pokemon>
+<level> 43 </level>
+<moves> Toxic, Protect, Fly, and Leech Life </moves>
+<pokemon> Venomoth </pokemon>
+<level> 44 </level>
+<moves> Sludge Bomb, Protect, Psychic, and Bug Buzz </moves>
+
+<gymleader> Janine </gymleader>
+<location> Fuchsia Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Crobat </pokemon>
+<level> 36 </level>
+<moves> Wing Attack, Confuse Ray, Supersonic, and Screech </moves>
+<pokemon> Weezing </pokemon>
+<level> 36 </level>
+<moves> Sludge Bomb, Smog, Toxic and Explosion </moves>
+<pokemon> Weezing </pokemon>
+<level> 36 </level>
+<moves> Sludge Bomb, Smog, Toxic and Explosion </moves>
+<pokemon> Ariados </pokemon>
+<level> 33 </level>
+<moves> String Shot, Night Shade, Giga Drain, and Scary Face </moves>
+<pokemon> Venomoth </pokemon>
+<level> 39 </level>
+<moves> Toxic, Psychic, Double Team, and Supesonic </moves>
+
+<location> Fuchsia Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Crobat </pokemon>
+<level> 47 </level>
+<moves> Confuse Ray, Screech, Wing Attack, and Supersonic </moves>
+<pokemon> Weezing </pokemon>
+<level> 44 </level>
+<moves> Sludge Bomb, Toxic, Explosion, and Double Hit </moves>
+<pokemon> Ariados </pokemon>
+<level> 47 </level>
+<moves> Swagger, Night Shade, Poison Jab, and Pin Missile </moves>
+<pokemon> Ariados </pokemon>
+<level> 47 </level>
+<moves> Psychic, Poison Jab, Scary Face, and Pin Missile </moves>
+<pokemon> Venomoth </pokemon>
+<level> 50 </level>
+<moves> Double Team, Psychic, Sludge Bomb, and Signal Beam </moves>
+</Gym5>
+
+<Gym6>
+<gymleader> Sabrina </gymleader>
+<location> Saffron Gym </location>
+<games> Red, Green, and Blue </games>
+<pokemon> Kadabra </pokemon>
+<level> 38 </level>
+<moves> Disable, Psybeam, Recover, and Psychic </moves>
+<pokemon> Mr. Mime </pokemon>
+<level> 37 </level>
+<moves> Confusion, Barrier, Light Screen, and Double Slap </moves>
+<pokemon> Venomth </pokemon>
+<level> 38 </level>
+<moves> Poison Powder, Leech Life, Stun Spore, and Psybeam </moves>
+<pokemon> Alakazam </pokemon>
+<level> 43 </level>
+<moves> Psybeam, Recover, Psywave, and Reflect </moves>
+
+<location> Saffron Gym </location>
+<games> Yellow </games>
+<pokemon> Abra </pokemon>
+<level> 50 </level>
+<moves> Flash </moves>
+<pokemon> Kadabra </pokemon>
+<level> 50 </level>
+<moves> Psychic, Recover, Kinesis, and Psywave </moves>
+<pokemon> Alakazam </pokemon>
+<level> 50 </level>
+<moves> Psychic, Psywave, Reflect, and Recover </moves>
+
+<location> Saffron Gym </location> 
+<games> Gold, Silver, Crystal </games>
+<pokemon> Espeon </pokemon>
+<level> 46 </level>
+<moves> Sand-Attack, Quick Attack, Swift, and Psychic </moves>
+<pokemon> Mr. Mime </pokemon>
+<level> 46 </level>
+<moves> Barrier, Reflect, Baton Pass, and Psychic </moves>
+<pokemon> Alakazam </pokemon>
+<level> 48 </level>
+<moves> Recover, Future Sight, Psychic, and Reflect </moves>
+
+<location> Saffron Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Kadabra </pokemon>
+<level> 38 </level>
+<moves> Psybeam, Reflect, Future Sight, and Calm Mind </moves>
+<pokemon> Mr. Mime </pokemon>
+<level> 37 </level>
+<moves> Barrier, Psybeam, Baton Pass, and Calm Mind </moves>
+<pokemon> Venomth </pokemon>
+<level> 38 </level>
+<moves> Psybeam, Gust, Leech Life, and Supersonic </moves>
+<pokemon> Alakazam </pokemon>
+<level> 43 </level>
+<moves> Psychic, Recover, Future Sight, and Calm Mind </moves>
+
+<location> Saffron Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Espeon </pokemon>
+<level> 53 </level>
+<moves> Calm Mind, Shadow Ball, Psychic, and Skill Swap </moves>
+<pokemon> Mr. Mime </pokemon>
+<level> 53 </level>
+<moves> Mimic, Light Screen, Psychic, and Skill Swap </moves>
+<pokemon> Alakazam </pokemon>
+<level> 55 </level>
+<moves> Psychic, Skill Swap, Reflect, and Energy Ball </moves>
+
+<location> Saffron Gym </location>
+</games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Mr. Mime </pokemon>
+<level> 43 </level>
+<moves> Psychic, Reflect, Light Screen, and Double Slap </moves>
+<pokemon> Slowbro </pokemon>
+<level> 43 </level>
+<moves> Psychic, Yawn, Surf, and Calm Mind </moves>
+<pokemon> Jynx </pokemon>
+<level> 43 </level>
+<moves> Psychic, Lovely Kiss, and Ice Punch </moves>
+<pokemon> Alakazam </pokemon>
+<level> 44 </level>
+<moves> Psychic and Night Shade </moves>
+</Gym6>
+
+<Gym7>
+<gymleader> Blaine </gymleader>
+<location> Cinnabar Gym </location>
+<games> Red, Green, and Blue </games>
+<pokemon> Growlithe </pokemon>
+<level> 42 </level>
+<moves> Ember, Leer, Take Down, and Agility </moves>
+<pokemon> Ponyta </pokemon> 
+<level> 40 </level>
+<moves> Tail Whip, Stomp, Growl, and Fire Spin </moves>	
+<pokemon> Rapidash </pokemon>
+<level> 42 </level>
+<moves> Tail Whip, Stomp, Growl, and Fire Spin </moves>
+<pokemon> Arcanine </pokemon>
+<level> 47 </level>
+<moves> Roar, Ember, Fire Blast, and Take Down </moves>
+
+<location> Cinnabar Gym </location>
+<pokemon> Yellow </pokemon>
+<pokemon> Ninetales </pokemon>
+<level> 48 </level>
+<moves> Confuse Ray, Quick Attack, Tail Whip, and Flamethrower </moves>
+ <pokemon> Rapidash </pokemon>
+<level> 50 </level>
+<moves> Take Down, Stomp, Growl, and Fire Spin </moves>
+<pokemon> Arcanine </pokemon>
+<level> 54 </level>
+<moves> Reflect, Take Down, Fire Blast, and Flamethrower </moves>
+
+<location> Cinnabar Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Magcargo </pokemon>
+<level> 45 </level>
+<moves> Curse, Smog, Flamethrower, and Rock Slide </moves>
+<pokemon> Magmar </pokemon>
+<level> 45 </level>
+<moves> Thunder Punch, Fire Punch, Sunny Day, and Confuse Ray </moves>
+ <pokemon> Rapidash </pokemon>
+<level> 50 </level>
+<moves> Quick Attack, Fire Spin, Fury Attack, and Fire Blast </moves>
+
+<location> Cinnabar Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Growlithe </pokemon>
+<level> 42 </level>
+<moves> Bite, Roar, Take Down, and Fire Blast </moves>
+<pokemon> Ponyta </pokemon> 
+<level> 40 </level>
+<moves> Stomp, Bounce, Fire Spin, and Fire Blast </moves>
+<pokemon> Rapidash </pokemon>
+<level> 42 </level>
+<moves> Stomp, Bounce, Fire Spin, and Fire Blast</moves>
+<pokemon> Arcanine </pokemon>
+<level> 47 </level>
+<moves> Bite, Roar, Ember, Take Down, and Fire Blast </moves>
+
+<location> Cinnabar Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Magcargo </pokemon>
+<level> 54 </level>
+<moves> Overheat, Sunny Day, Smog, and Rock Slide </moves>
+<pokemon> Magmar </pokemon>
+<level> 54 </level>
+<moves> Thunder Punch, Confuse Ray, Overheat, and Sunny Day </moves>
+ <pokemon> Rapidash </pokemon>
+<level> 59 </level>
+<moves> Quick Attack, Bounce, Overheat, and Flare Blitz</moves>
+
+<location> Cinnabar Gym </location>
+<games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Magmar </pokemon>
+<level> 47 </level>
+<moves> Flamethrower, Low Kick, and Confuse Ray </moves>
+<pokemon> Rapidash </pokemon>
+<level> 47 </level>
+<moves> Flare Blitz, Quick Attack, and Fury Attack </moves>
+<pokemon> Ninetales </pokemon>
+<level> 47 </level>
+</moves> Fire Blast and Quick Attack
+<pokemon> Arcanine </pokemon>
+<level> 48 </level>
+<moves> Flare Blitz, Outrage, and Crunch </moves>
+</Gym7>
+
+<Gym8>
+<gymleader> Giovanni </gymleader>
+<location> Virdian Gym </location>
+<games> Red, Green, and Blue </games>
+<pokemon> Rhyhorn </pokemon>
+<level> 45 </level>
+<moves> Stomp, Tail Whip, Fury Attack, and Horn Drill </moves>
+<pokemon> Dugtrio </pokemon>
+<level> 42 </level>
+<moves> Growl, Dig, Sand-Attack, and Slash </moves>
+<pokemon> Nidoqueen </pokemon>
+<level> 45 </level>
+<moves> Scratch, Tail Whip, Body Slam, and Poison Sting </moves>
+<pokemon> Nidoking </pokemon>
+<level> 45 </level>
+<moves> Tackle, Horn Attack, Poison Sting, and Thrash </moves>
+<pokemon> Rhydon </pokemon>
+<level> 50 </level>
+<moves> Stomp, Tail Whip, Fissure, and Horn Drill </moves>
+
+<location> Virdian Gym </location>
+<games> Yellow </games>
+<pokemon> Dugtrio </pokemon>
+<level> 50 </level>
+<moves> Sand-Attack, Dig, Fissure, and Earthquake </moves>
+<pokemon> Persian </pokemon>
+<level> 53 </level>
+<moves> Screech, Slash, Fury Swipes, and Double Team </moves>
+<pokemon> Nidoqueen </pokemon>
+<level> 53 </level>
+<moves> Tail Whip, Earthquake, Double Kick, and Thunder </moves>
+<pokemon> Nidoking </pokemon>
+<level> 55 </level>
+<moves> Thunder, Leer, Earthquake, and Double Kick </moves>
+<pokemon> Rhydon </pokemon>
+<level> 55 </level>
+<moves> Rock Slide, Fury Attack, Earthquake, and Horn Drill </moves>
+
+<location> Virdian Gym </location>
+<games> FireRed and LeafGreen </games>
+<pokemon> Rhyhorn </pokemon>
+<level> 45 </level>
+<moves> Take Down, Rock Blast, Scary Face, and Earthquake </moves>
+<pokemon> Dugtrio </pokemon>
+<level> 42 </level>
+<moves> Slash, Sand Tomb, Mud-Slap, and Earthquake </moves>
+<pokemon> Nidoqueen </pokemon>
+<level> 44 </level>
+<moves> Double Kick, Earthquake, Poison Sting, and Body Slam </moves>
+<pokemon> Nidoking </pokemon>
+<level> 45 </level>
+<moves> Double Kick, Earthquake, Poison Sting, and Thrash </moves>
+<pokemon> Rhyhorn </pokemon>
+<level> 50 </level>
+<moves> Take Down, Rock Blast, Scary Face, and Earthquake </moves>
+
+<location> Virdian Gym </location>
+<games> Let's Go Pikachu and Let's Go Eevee </games>
+<pokemon> Dugtrio </pokemon>
+<level> 49 </level>
+<moves> Slash, Sucker Punch, and Earthquake </moves>
+<pokemon> Nidoqueen </pokemon>
+<level> 49 </level>
+<moves> Super Fang, Earthquake, and Crunch </moves>
+<pokemon> Nidoking </pokemon>
+<level> 49 </level>
+<moves> Megahorn, Earthquake, Poison Jab, and Horn Drill
+<pokemon> Rhydon </pokemon>
+<level> 49 </level>
+<moves> Earthquake, Rock Slide, and Megahorn </moves>
+
+<gymleader> Blue </gymleader>
+<location> Virdian Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Pidgeot </pokemon>
+<level> 56 </level>
+<moves> Quick Attack, Whirlwind, Wing Attack, and Mirror Move </moves>
+<pokemon> Alakazam </pokemon>
+<level> 54 </level>
+<moves> Disable, Recover, Psychic, and Reflect </moves>
+<pokemon> Rhydon </pokemon>
+<level> 56 </level>
+<moves> Fury Attack, Sandstorm, Rock Slide, and Earthquake </moves>
+<pokemon> Gyarados</pokemon>
+<level> 58 </level>
+<moves> Twister, Hydro Pump, Rain Dance, and Hyper Beam </moves>
+<pokemon> Exeggutor </pokemon>
+<level> 58 </level>
+<moves> Sunny Day, Leech See, Egg Bomb, and Solar Beam </moves>
+<pokemon> Arcanine</pokemon>
+<level> 58 </level>
+<moves> Roar, Swift, Flamethrower, and Extreme Speed </moves>
+
+<location> Virdian Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Exeggutor </pokemon>
+<level> 55 </level>
+<moves> Leaf Storm, Psychic, Hypnosis, and Trick Room </moves>
+<pokemon> Arcanine</pokemon>
+<level> 58 </level>
+<moves> Roar, Dragon Pulse, Flamethrower, and Extreme Speed </moves>
+<pokemon> Rhydon </pokemon>
+<level> 58</level>
+<moves> Megahorn, Stone Edge, Thunder Fang, and Earthquake </moves> 
+<pokemon> Gyarados</pokemon>
+<level> 58 </level>
+<moves> Ice Fang, Waterfall, Dragon Dance, and Return </moves>
+<pokemon> Machamp </pokemon>
+<level> 56 </level>
+<moves> Dynamic Punch, Earthquake, Stone Edge, and Thunder Punch </moves>
+<pokemon> Pidgeot </pokemon>
+<level> 60 </level>
+<moves> Return, Whirlwind, Air Slash, and Mirror Move </moves>
+</Gen1GymLeaders>
+
+<Gen2GymLeaders>
+<teams> Gen 2 Gym Leaders </teams>
+
+<gymleader> Falkner </gymleader>
+<location> Violet Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Pidgey </pokemon> 
+<level> 7 </level>
+<moves> Tackle and Mud-Slap </moves>
+<pokemon> Pidgeotto </pokemon>
+<level> 9 </level>
+<moves> Tackle, Gust, and Mud-Slap </moves>
+
+<location> Violet Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Pidgey </pokemon> 
+<level> 9 </level>
+<moves> Tackle and Sand-Attack </moves>
+<pokemon> Pidgeotto </pokemon>
+<level> 13 </level>
+<moves> Tackle, Roost, Gust </moves>
+
+<gymleader> Bugsy </gymleader>
+<location> Azalea Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Metapod </pokemon>
+<level> 14 </level>
+<moves> Tackle, String Shot, and Harden </moves>
+<pokemon> Kakuna </pokemon>
+<level> 14 </level>
+<moves> Poison Sting, String Shot, and Harden </moves>
+<pokemon> Scyther </pokemon>
+<level> 16 </level>
+<moves> Fury Cutter, Quick Attack, and Leer </moves>
+
+<location> Azalea Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Scyther </pokemon>
+<level> 17 </level>
+<moves> U-Turn, Quick Attack, Leer, and Focus Energy </moves>
+<pokemon> Metapod </pokemon>
+<level> 15 </level>
+<moves> Tackle </moves>
+<pokemon> Kakuna </pokemon>
+<level> 15 </level>
+<moves> Poison Sting </moves>
+
+<gymleader> Whitney </gymleader>
+<location> Goldenrod Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Clefairy </pokemon>
+<level> 18 </level>
+<moves> Encore, Mimic, Double Slap, and Metronome </moves>
+<pokemon> Miltank </pokemon>
+<level> 20 </level>
+<moves> Stomp, Attract, Milk Drink, and Rollout
+
+<location> Goldenrod Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Clefairy </pokemon>
+<level> 17 </level>
+<moves> Mimic, Encore, Double Slap, and Metronome </moves>
+<pokemon> Miltank </pokemon>
+<level> 19 </level>
+<moves> Stomp, Rollout, Attract, and Milk Drink </moves>
+
+<gymleader> Morty </gymleader>
+<location> Ecruteak Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Gastly </pokemon>
+<level> 21 </level>
+<moves> Lick, Spite, Mean Look, and Curse </moves>
+<pokemon> Haunter </pokemon>
+<level> 21 </level>
+<moves> Hypnosis, Curse, Mimic, and Night Shade </moves>
+<pokemon> Gengar </pokemon>
+<level> 25 </level>
+<moves> Shadow Ball, Mean Look, Hypnosis, and Dream Eater </moves>
+<pokemon> Haunter </pokemon>
+<level> 21 </level>
+<moves> Spite, Mean Look, Mimic, and Night Shade </moves>
+
+<location> Ecruteak Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Gastly </pokemon>
+<level> 21 </level>
+<moves> Lick, Spite, Mean Look, and Curse </moves>
+<pokemon> Haunter </pokemon>
+<level> 21 </level>
+<moves> Hypnosis, Dream Eater, Curse, and Nightmare </moves>
+<pokemon> Gengar </pokemon>
+<level> 25 </level>
+<moves> Hypnosis, Shadow Ball, Mean Look, and Sucker Punch </moves>
+<pokemon> Haunter </pokemon>
+<level> 21 </level>
+<moves> Curse, Mean Look, Sucker Punch, and Night Shade </moves>
+
+<gymleader> Chuck </gymleader>
+<location> Cianwood Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Primeape </pokemon>
+<level> 27 </level>
+<moves> Leer, Rage, Karate Chop, and Fury Swipes </moves>
+<pokemon> Poliwrath </pokemon>
+<level> 30 </level>
+<moves> Hypnosis, Mind Reader, Surf, and Dynamic Punch </moves>
+
+<location> Cianwood Gym </location> 
+<games> HeartGold and SoulSilver </games>
+<pokemon> Primeape </pokemon>
+<level> 29 </level>
+<moves> Leer, Double Team, Rock Slide, and Focus Punch </moves>
+<pokemon> Poliwrath </pokemon>
+<level> 31 </level>
+<moves> Hypnosis, Body Slam, Surf, and Focus Punch </moves>
+
+<gymleader> Jasmine </gymleader>
+<location> Olivine Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Magnemite </pokemon>
+<level> 30 </level>
+<moves> Thunderbolt, Supersonic, Sonic Boom, and Thunder Wave </moves>
+<pokemon> Magnemite </pokemon>
+<level> 30 </level>
+<moves> Thunderbolt, Supersonic, Sonic Boom, and Thunder Wave </moves>
+<pokemon> Steelix </pokemon>
+<level> 35 </level>
+<moves> Iron Tail, Rock Throw, Sunny Day, and Screech </moves>
+
+<location> Olivine Gym </location>	 
+<games> HeartGold and SoulSilver </games>
+<pokemon> Magnemite </pokemon>
+<level> 30 </level>
+<moves> Thunderbolt, Sonic Boom, Supersonic, and Thunder Wave </moves>
+<pokemon> Magnemite </pokemon>
+<level> 30 </level>
+<moves> Thunderbolt, Sonic Boom, Supersonic, and Thunder Wave </moves>
+<pokemon> Steelix </pokemon>
+<level> 35 </level>
+<moves> Iron Tail, Rock Throw, Sandstorm, and Screech </moves>
+
+<gymleader> Pryce </gymleader>
+<location> Mahogany Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon> Seel </pokemon>
+<level> 27 </level>
+<moves> Headbutt, Icy Wind, Aurora Beam, and Rest </moves>
+<pokemon> Dewgong </pokemon>
+<level> 29 </level>
+<moves> Headbutt, Icy Wind, Aurora Beam, and Rest </moves>
+ <pokemon> Piloswine </pokemon>
+<level> 31 </level>
+<moves> Icy Wind, Fury Attack, Mist, and Blizzard </moves>
+
+<location> Mahogany Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon> Seel </pokemon>
+<level> 30 </level>
+<moves> Icy Wind, Rest, Snore, and Hail </moves>
+<pokemon> Dewgong </pokemon>
+<level> 32 </level>
+<moves> Aurora Beam, Rest, Sleep Talk, and Ice Shard </moves>
+ <pokemon> Piloswine </pokemon>
+<level> 34 </level>
+<moves> Blizzard, Ice Fang, Mud Bomb, and Hail </moves>
+
+<gymleader> Clair </gymleader>
+<location> Blackthorn Gym </location>
+<games> Gold, Silver, and Crystal </games>
+<pokemon>Dragonair </pokemon>
+<level> 37 </level>
+<moves> Surf, Slam, Thunder Wave, and Dragon Breath </moves>
+<pokemon>Dragonair </pokemon>
+<level> 37 </level>
+<moves> Thunderbolt, Slam, Thunder Wave, and Dragon Breath </moves>
+<pokemon>Dragonair </pokemon>
+<level> 37 </level>
+<moves> Ice Beam, Slam, Thunder Wave, and Dragon Breath </moves>
+<pokemon>Kingdra </pokemon>
+<level> 40 </level>
+<moves> Surf, Dragon Breath, Smokescreen, and Hyper Beam </moves>
+
+<location> Blackthorn Gym </location>
+<games> HeartGold and SoulSilver </games>
+<pokemon>Gyarados </pokemon>
+<level> 38 </level>
+<moves> Bite, Twister, Dragon Rage, and Dragon Pulse </moves>
+<pokemon>Dragonair </pokemon>
+<level> 38 </level>
+<moves> Thunder Wave, Slam, Aqua Tail and Dragon Pulse </moves>
+<pokemon>Dragonair </pokemon>
+<level> 38 </level>
+<moves> Thunder Wave, Slam, Fire Blast, and Dragon Pulse </moves>
+<pokemon>Kingdra </pokemon>
+<level> 41 </level>
+<moves> Hydro Pump, Smokescreen, Hyper Beam, and Dragon Pulse </moves>
+</Gen2GymLeaders>
+
+<Gen3GymLeaders>
+<teams> Gen 3 Gym Leaders </teams>
+
+<gymleader> Roxanne </gymleader>
+<location> Rustboro Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Geodude </pokemon>
+<level> 14 </level>
+<moves> Tackle, Defense Curl, Rock Throw, and Rock Tomb </moves>
+<pokemon> Nosepass </pokemon>
+<level> 15 </level>
+<moves> Tackle, Harden, Rock Throw, and Rock Tomb </moves>
+
+<location> Rustboro Gym </location>
+<games> Emerald </games>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Tackle, Defense Curl, Rock Throw, and Rock Tomb </moves>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Tackle, Defense Curl, Rock Throw, and Rock Tomb </moves>
+<pokemon> Nosepass </pokemon>
+<level> 15 </level>
+<moves> Block, Harden, Tackle, and Rock Tomb </moves>
+
+<location> Rustboro Gym </location>
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Tackle, Defense Curl, and Rock Tomb </moves>
+<pokemon> Nosepass </pokemon>
+<level> 14 </level>
+<moves> Tackle, Harden, and Rock Tomb </moves>
+
+<gymleader> Brawly </gymleader>
+<location> Dewford Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Machop </pokemon>
+<level> 17 </level>
+<moves> Bulk Up, Leer, Karate Chop, and Seismic Toss </moves>
+<pokemon> Makuhita </pokemon>
+<level> 18 </level>
+<moves> Bulk Up, Knock Off, Arm Thrust, and Sand-Attack </moves>
+
+<location> Dewford Gym </location>
+<games> Emerald </games>
+<pokemon> Machop </pokemon>
+<level> 16 </level>
+<moves> Karate Chop, Low Kick, Seismic Toss, and Bulk Up </moves>
+<pokemon> Meditite </pokemon>
+<level> 16 </level>
+<moves> Focus Punch, Light Screen, Reflect, and Bulk Up </moves>
+<pokemon> Makuhita </pokemon>
+<level> 19 </level>
+<moves> Arm Thrust, Vital Throw, Reversal, and Bulk Up </moves>
+
+<location> Dewford Gym </location>
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Machop </pokemon>
+<level> 14 </level>
+<moves> Leer, Karate Chop, Seismic Toss, and Bulk Up </moves>
+<pokemon> Makuhita </pokemon>
+<level> 18 </level>
+<moves> Arm Thrust, Knock Off, Sand-Attack, Bulk Up </moves>
+
+<gymleader> Wattson </gymleader>
+<location> Mauville Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Magnemite </pokemon>
+<level> 22 </level>
+<moves> Thunder Shock, Supersonic, Sonic Boom, and Thunder Wave </moves>
+<pokemon> Voltorb </pokemon>
+<level> 20 </level>
+<moves> Rollout, Spark, Sonic Boom, and Self Destruct </moves>
+<pokemon> Magneton </pokemon>
+<level> 23 </level>
+<moves> Shock Wave, Supersonic, Sonic Boom, and Thunder Wave </moves>
+
+<location> Mauville Gym </location>
+<games> Emerald </games>
+<pokemon> Voltorb </pokemon>
+<level> 20 </level>
+<moves> Rollout, Spark, Self-Destruct, and Shock Wave </moves>
+<pokemon> Electrike </pokemon> 
+<level> 20 </level>
+<moves> Shock Wave, Leer, Quick Attack, and Howl </moves>
+<pokemon> Magneton </pokemon>
+<level> 22 </level>
+<moves> Supersonic, Shock Wave, Thunder Wave, and Sonic Boom </moves>
+<pokemon> Manectric </pokemon>
+<level> 24 </level>
+<moves> Quick Attack, Thunder Wave, Shock Wave, and Howl </moves>
+
+<location> Mauville Gym </location>
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Magnemite </pokemon>
+<level> 19 </level>
+<moves> Thunder Wave, Tackle, and Volt Switch </moves>
+<pokemon> Voltorb </pokemon>
+<level> 19 </level>
+<moves> Rollout, Charge, and Volt Switch </moves>
+<pokemon> Magneton </pokemon>
+<level> 21 </level>
+<moves> Supersonic, M</moves>
+
+<gymleader> Flannery </gymleader>
+<location> Lavaridge Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Slugma </pokemon>
+<level> 26 </level>
+<moves> Overheat, Smog, Light Screen, and Sunny Day </moves>
+<pokemon> Slugma </pokemon>
+<level> 26 </level>
+<moves> Flamethrower, Rock Slide, Light Screen, and Sunny Day </moves>
+<pokemon> Torkoal </pokemon>
+<level> 28 </level>
+<moves> Overheat, Body Slam, Flail, and Attract </moves> 
+
+<location> Lavaridge Gym </location>
+<games> Emerald </games>
+<pokemon> Numel </pokemon>
+<pokemon> Slugma </pokemon>
+<level> 26 </level>
+<moves> Overheat, Smog, Light Screen, and Sunny Day </moves>, 
+<pokemon> Camerupt </pokemon>
+<level> 26 </level>
+<moves> Overheat, Tackle, Sunny Day, and Attract </moves>
+<pokemon> Torkoal </pokemon>
+<level> 28 </level>
+<moves> Overheat, Sunny Day, Body Slam, and Attract </moves>
+
+<location> Lavaridge Gym </location>
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Slugma </pokemon>
+<level> 26 </level>
+<moves> Overheat, Rock Throw, Light Screen, and Sunny Day </moves>
+<pokemon> Numel </pokemon>
+<level> 26 </level>
+<moves> Earth Power, Lava Plume, Amnesia, and Sunny Day </moves>
+<pokemon> Torkoal </pokemon>
+<level> 28 </level>
+<moves> Overheat, Body Slam, Curse, and Sunny Day </moves>
+
+<gymleader> Norman </gymleader>
+<location> Petalburg Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Slaking </pokemon>
+<level> 28 </level>
+<moves> Encore, Facade, Yawn, and Faint Attack </moves>
+<pokemon> Vigoroth </pokemon>
+<level> 30 </level>
+<moves> Slash, Faint Attack, Facade, and Encore </moves>
+<pokemon> Slaking </pokemon>
+<level> 31 </level>
+<moves> Focus Punch, Slack Off, Facade, and Faint Attack </moves>
+
+<location> Petalburg Gym </location>
+<games> Emerald </games>
+<pokemon> Spinda </pokemon>
+<level> 27 </level>
+<moves> Teeter Dance, Psybeam, Facade, and Encore </moves>
+<pokemon> Vigoroth </pokemon>
+<level> 27 </level>
+<moves> Slash, Facade, Encore, and Faint Attack </moves>
+<pokemon> Linoone </pokemon>
+<level> 29 </level>
+<moves> Slash, Belly Drum, Facade, and Headbutt </moves>
+<pokemon> Slaking </pokemon>
+<level> 31 </level>
+<moves> Counter, Yawn, Facade, and Faint Attack </moves>
+
+<location> Petalburg Gym </location>
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Slaking </pokemon>
+<level> 28 </level>
+<moves> Retaliate, Yawn, Faint Attack, and Encore </moves>
+<pokemon> Vigoroth </pokemon>
+<level> 28 </level>
+<moves> Encore, Faint Attack, Retaliate, and Fury Swipes </moves>
+<pokemon> Slaking </pokemon>
+<level> 30 </level>
+<moves> Retaliate, Faint Attack, Swagger, and Chip Away </moves>
+
+<gymleader> Winona </gymleader>
+<location> Fortree Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Swellow </pokemon>
+<level> 31 </level>
+<moves> Quick Attack, Aerial Ace, Double Team, and Endeavor </moves>
+<pokemon> Pelipper </pokemon>
+<level> 30 </level>
+<moves> Water Gun, Supersonic, Protect, and Aerial Ace</moves>
+ <pokemon> Skarmory </pokemon>
+<level> 32 </level>
+<moves> Sand-Attack, Fury Attack, Steel Wing, and Aerial Ace </moves>
+<pokemon> Altaria </pokemon>
+<level> 33 </level>
+<moves> Earthquake, Dragon Breath, Dragon Dance, and Aerial Ace </moves>
+
+<location> Fortree Gym </location>
+<games> Emerald </games>
+<pokemon> Swablu </pokemon>
+<level> 29 </level>
+<moves> Perish Song, Mirror Move, Safeguard, and Aerial Ace</moves>
+<pokemon> Tropius </pokemon>
+<level> 29 </level>
+<moves> Sunny Day, Aerial Ace, Solar Beam, and Synthesis </moves>
+<pokemon> Pelipper </pokemon>
+<level> 30 </level>
+<moves> Water Gun, Supersonic, Protect, and Aerial Ace </moves>
+<pokemon> Skarmory </pokemon>
+<level> 31 </level>
+<moves> Sand-Attack, Fury Attack, Steel Wing, Aerial Ace </moves>
+<pokemon> Altaria </pokemon>
+<level> 33 </level>
+<moves> Earthquake, Dragon Breath, Dragon Dance, and Aerial Ace </moves>
+
+<location> Fortree Gym </location> 
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Swellow </pokemon>
+<level> 33 </level>
+<moves> Quick Attack, Aerial Ace, Double Team, and Endeavor </moves>
+<pokemon> Pelipper </pokemon>
+<level> 33 </level>
+<moves> Water Pulse, Roost, Protect, and Aerial Ace </moves>
+ <pokemon> Skarmory </pokemon>
+<level> 33 </level>
+<moves> Sand-Attack, Air Cutter, Steel Wing, and Aerial Ace </moves>
+<pokemon> Altaria </pokemon>
+<level> 35 </level>
+<moves> Earthquake, Dragon Breath, Cotton Guard, and Roost </moves>
+
+<gymleader> Tate and Liza </gymleader>
+<location> Mossdeep Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Lunatone </pokemon>
+<level> 42 </level>
+<moves> Light Screen, Psychic, Hypnosis, and Calm Mind </moves>
+<pokemon> Solrock </pokemon>
+<level> 42 </level>
+<moves> Sunny Day, Solar Beam, Psychic, and Flamethrower </moves>
+
+<location> Mossdeep Gym </location>
+<games> Emerald </games>
+<pokemon> Claydol </pokemon>
+<level> 41 </level>
+<moves> Earthquake, Ancient Power, Psychic, and Light Screen </moves>
+<pokemon> Lunatone </pokemon>
+<level> 41 </level>
+<moves> Psychic, Sunny Day, Confuse Ray, and Calm Mind </moves>
+<pokemon> Lunatone </pokemon>
+<level> 42 </level>
+<moves> Light Screen, Psychic, Hypnosis, and Calm Mind </moves>
+<pokemon> Solrock </pokemon>
+<level> 42 </level>
+<moves> Sunny Day, Solar Beam, Psychic, and Flamethrower </moves>
+
+<location> Mossdeep Gym </location>
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Lunatone </pokemon>
+<level> 42 </level>
+<moves> Light Screen, Psychic, Hypnosis, and Calm Mind </moves>
+<pokemon> Solrock </pokemon>
+<level> 42 </level>
+<moves> Sunny Day, Rock Slide, Psychic, and Solar Beam </moves>
+
+<gymleader> Wallace </gymleader>
+<location> Sootopolis Gym </location>
+<games> Ruby and Sapphire </games>
+<pokemon> Luvdisc </pokemon>
+<level> 40 </level>
+<moves> Flail, Attract, Sweet Kiss, and Water Pulse </moves>
+<pokemon> Sealeo </pokemon>
+<level> 40 </level>
+<moves> Encore, Body Slam, Aurora Beam and Water Pulse </moves>
+<pokemon> Seaking </pokemon>
+<level> 42 </level>
+<moves> Horn Drill, Fury Attack, Rain Dance, and Water Pulse </moves>
+<pokemon> Whiscash </pokemon>
+<level> 42 </level>
+<moves> Amnesia, Rain Dance, Earthquake, and Water Pulse </moves>
+<pokemon> Milotic </pokemon>
+<level> 43 </level>
+<moves> Recover, Twister, Ice Beam, and Water Pulse</moves>
+
+<location> Sootopolis Gym </location>
+<games> Omega Ruby and Alpha Sapphire </games>
+<pokemon> Luvdisc </pokemon>
+<level> 44 </level>
+<moves> Draining Kiss, Attract, Sweet Kiss, and Water Pulse </moves>
+<pokemon> Whiscash </pokemon>
+<level> 44 </level>
+<moves> Earthquake, Zen Headbutt, Waterfall, and Mud Sport </moves>
+<pokemon> Sealeo </pokemon>
+<level> 44 </level>
+<moves> Encore, Waterfall, Aurora Beam, and Body Slam </moves>
+<pokemon> Seaking </pokemon>
+<level> 44 </level>
+<moves> Waterfall, Rain Dance, Aqua Ring, and Horn Drill </moves>
+<pokemon> Milotic </pokemon>
+<level> 43 </level>
+<moves> Hydro Pump, Recover, Ice Beam, and Disarming Voice </moves>
+
+<gymleader> Juan </gymleader>
+<location> Sootopolis Gym </location>
+<games> Emerald </games>
+<pokemon> Luvdisc </pokemon>
+<level> 41 </level>
+<moves> Water Pulse, Attract, Sweet Kiss, and Flail </moves>
+<pokemon> Whiscash </pokemon>
+<level> 41 </level>
+<moves> Rain Dance, Water Pulse, Amnesia, and Earthquake </moves>
+<pokemon> Sealeo </pokemon>
+<level> 43 </level>
+<moves> Encore, Body Slam, Aurora Beam, and Water Pulse </moves>
+<pokemon> Crawdaunt </pokemon>
+<level> 43 </level>
+<moves> Water Pulse Crabhammer, Taunt, and Leer </moves>
+<pokemon> Kingdra </pokemon>
+ <level> 46 </level>
+<moves> Water Pulse, Double Team, Ice Beam, and Rest </moves>
+</Gen3GymLeaders>
+
+<Gen4GymLeaders>
+<teams> Gen 4 Gym Leaders </teams>
+
+<gymleader> Roark </gymleader>
+<location> Oreburgh Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Rock Throw and Stealth Rock </moves>
+<pokemon> Onix </pokemon>
+<level> 12 </level>
+<moves> Rock Throw, Screech, and Stealth Rock </moves>
+<pokemon> Cranidos </pokemon>
+<level> 14 </level>
+<moves> Headbutt, Pursuit, and Leer </moves>
+
+<location> Oreburgh Gym </location>
+<games> Platinum </games>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Rock Throw and Stealth Rock </moves>
+<pokemon> Onix </pokemon>
+<level> 12 </level>
+<moves> Rock Throw, Screech, and Stealth Rock </moves>
+<pokemon> Cranidos </pokemon>
+<level> 14 </level>
+<moves> Headbutt, Pursuit, and Leer </moves>
+
+<location> Oreburgh Gym </location>
+<games> Brilliant Diamond and Shining Pearl </games>
+<pokemon> Geodude </pokemon>
+<level> 12 </level>
+<moves> Stealth Rock, Defense Curl, and Rollout </moves>
+<pokemon> Onix </pokemon>
+<level> 12 </level>
+<moves> Stealth Rock, Rock Throw, and Bind </moves>
+<pokemon> Cranidos </pokemon>
+<level> 14 </level>
+<moves> Headbutt, Bulldoze, and Leer </moves>
+
+<gymleader> Gardenia </gymleader>
+<location> Eterna Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Cherubi </pokemon>
+<level> 19 </level>
+<moves> Grass Knot, Leech Seed, Safeguard, and Growth </moves>
+<pokemon> Turtwig </pokemon>
+<level> 19 </level>
+<moves> Grass Knot, Razor Leaf, Withdraw, and Reflect </moves>
+<pokemon> Roserade </pokemon>
+<level> 22 </level>
+<moves> Grass Knot, Magical Leaf, Poison Sting, and Stun Spore </moves>
+
+<location> Eterna Gym </location>
+<games> Platinum </games>
+<pokemon> Turtwig </pokemon>
+<level> 20 </level>
+<moves> Grass Knot, Razor Leaf, Sunny Day, and Reflect </moves>
+<pokemon> Cherubi </pokemon>
+<level> 20 </level>
+<moves> Grass Knot, Magical Leaf Leech Seed, and Safeguard </moves>
+<pokemon> Roserade </pokemon>
+<level> 22 </level>
+<moves> Grass Knot, Magical Leaf, Poison Sting, and Stun Spore </moves>
+
+Eterna Gym
+Brilliant Diamond and Shining Pearl:
+<pokemon> Cherubi </pokemon>
+<level> 19 </level>
+<moves> Grass Knot, Growth, Dazzling Gleam, and Safeguard </moves>
+<pokemon> Turtwig </pokemon>
+<level> 19 </level>
+<moves> Grass Knot, Razor Leaf, Reflect, and Work Up </moves>
+<pokemon> Roserade </pokemon>
+<level> 22 </level>
+<moves> Grass Knot, Petal Blizzard, Poison Sting, and Stun Spore </moves>
+
+<gymleader> Maylene </gymleader>
+<location> Veilstone Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Meditite </pokemon>
+<level> 27 </level>
+<moves> Drain Punch, Confusion, Detect, and Mediate </moves>
+<pokemon> Machoke </pokemon>
+<level> 27 </level>
+<moves> Brick Break, Leer, Foresight, and Rock Tomb </moves>
+<pokemon> Lucario </pokemon>
+<level> 30 </level>
+<moves> Drain Punch, Metal Claw, Bone Rush, and Force Palm </moves>
+
+<location> Veilstone Gym </location>
+<games> Platinum </games>
+<pokemon> Meditite </pokemon>
+<level> 28 </level>
+<moves> Drain Punch, Confusion, Fake Out, and Rock Tomb </moves>
+<pokemon> Machoke </pokemon>
+<level> 29 </level>
+<moves> Karate Chop, Strength, Focus Energy, and Rock Tomb </moves>
+<pokemon> Lucario </pokemon>
+<level> 32 </level>
+<moves> Drain Punch, Metal Claw, Bone Rush, and Force Palm </moves>
+
+<location> Veilstone Gym </location> 
+<games> Brilliant Diamond and Shining Pearl </games>
+<pokemon> Meditite </pokemon>
+<level> 27 </level>
+<moves> Drain Punch, Light Screen, Flash, and Bulk Up </moves>
+<pokemon> Machoke </pokemon>
+<level> 27 </level>
+<moves> Low Sweep, Knock Off, Rock Tomb, and Bulldoze </moves>
+<pokemon> Lucario </pokemon>
+<level> 30 </level>
+<moves> Drain Punch, Screech, Metal Claw, and Bulk Up</moves>
+
+<gymleader> Crasher Wake </gymleader>
+<location> Pastoria Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Gyarados </pokemon>
+<level> 27 </level>
+<moves> Brine, Bite, Dragon Rage, and Swagger </moves>
+<pokemon> Quagsire </pokemon>
+<level> 27 </level>
+<moves> Slam, Mud Bomb, Mud Sport, and Tail Whip </moves>
+ <pokemon> Floatzel </pokemon>
+<level> 30 </level>
+<moves> Brine, Ice Fang, Pursuit, and Swift </moves>
+
+<location> Pastoria Gym </location>
+<games> Platinum </games>
+<pokemon> Gyarados </pokemon>
+<level> 33 </level>
+<moves> Brine, Waterfall, Bite, and Twister </moves>
+<pokemon> Quagsire </pokemon>
+<level> 34 </level>
+<moves> Water Pulse, Mud Shot, Rock Tomb, and Yawn </moves>
+ <pokemon> Floatzel </pokemon>
+<level> 37 </level>
+<moves> Brine, Crunch, Ice Fang, and Aqua Jet </moves>
+
+<location> Pastoria Gym </location>
+<games> Brilliant Diamond and Shining Pearl </games>
+<pokemon> Gyarados </pokemon>
+<level> 27 </level>
+<moves> Brine, Ice Fang, Crunch, and Flail </moves>
+<pokemon> Quagsire </pokemon>
+<level> 27 </level>
+<moves> Rain Dance, Haze, Mud Shot, and Scald </moves>
+ <pokemon> Floatzel </pokemon>
+<level> 30 </level>
+<moves> Brine, Ice Fang, Bite, and Aqua Jet </moves>
+
+<gymleader> Fatina </gymleader>
+<location> Hearthome Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Drifblim </pokemon>
+<level> 32 </level>
+<moves> Ominous Wind, Gust, Astonish, and Minimize </moves>
+<pokemon> Gengar </pokemon>
+<level> 34 </level>
+<moves> Shadow Claw, Poison Jab, Confuse Ray, and Spite </moves>
+<pokemon> Mismagius </pokemon>
+<level> 36 </level>
+<moves> Shadow Ball, Psybeam, Magical Leaf, and Confuse Ray </moves>
+
+<location> Hearthome Gym </location>
+<games> Platinum </games>
+<pokemon> Duskull </pokemon>
+<level> 24 </level>
+<moves> Will-O-Wisp, Future Sight, Shadow Sneak, and Pursuit </moves>
+<pokemon> Haunter </pokemon>
+<level> 24 </level>
+<moves> Shadow Claw, Sucker Punch, Confuse Ray, and Hypnosis </moves>
+<pokemon> Mismagius </pokemon>
+<level> 26 </level>
+<moves> Shadow Ball, Psybeam, Magical Leaf, and Confuse Ray </moves>
+
+<location> Hearthome Gym </location>
+<games> Brilliant Diamond and Shining Pearl </games>
+<pokemon> Drifblim </pokemon>
+<level> 32 </level>
+<moves> Strength Sap, Hex, Fly, and Will-O-Wisp </moves>
+<pokemon> Gengar </pokemon>
+<level> 34 </level>
+<moves> Shadow Claw, Confuse Ray, Sludge Bomb and Dazzling Gleam </moves>
+<pokemon> Mismagius </pokemon>
+<level> 36 </level>
+<moves> Confuse Ray, Phantom Force, Magical Leaf, and Dazzling Gleam </moves>
+
+<gymleader> Byron </gymleader>
+<location> Canalave Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Bronzor </pokemon>
+<level> 36 </level>
+<moves> Flash Cannon, Extrasensory, Confuse Ray, and Hypnosis </moves>
+<pokemon> Steelix </pokemon>
+<level> 36 </level>
+<moves> Gyro Ball, Dragon Breath, Ice Fang, and Sandstorm </moves>
+<pokemon> Bastiodon </pokemon>
+<level> 39 </level>
+<moves> Flash Cannon, Ancient Power, Iron Defense, and Rest </moves>
+
+<location> Canalave Gym </location>
+<games> Platinum </games>
+<pokemon> Magneton </pokemon>
+<level> 37 </level>
+<moves> Flash Cannon, Thunderbolt, Tri Attack, and Metal Sound </moves>
+<pokemon> Steelix </pokemon>
+<level> 38 </level>
+<moves> Flash Cannon, Earthquake, Ice Fang, and Sandstorm </moves>
+<pokemon> Bastiodon </pokemon>
+<level> 41 </level>
+<moves> Metal Burst, Stone Edge, Iron Defense, and Taunt </moves>
+
+<location> Canalave Gym </location>
+<games> Brilliant Diamond and Shining Pearl </games>
+<pokemon> Bronzor </pokemon>
+<level> 36 </level>
+<moves> Confuse Ray, Sandstorm, Trick Room, and Flash Cannon </moves>
+<pokemon> Steelix </pokemon>
+<level> 36 </level>
+<moves> Thunder Fang, Earthquake, Sandstorm, and Gyro Ball </moves>
+<pokemon> Bastiodon </pokemon>
+<level> 39 </level>
+<moves> Iron Defense, Thunderbolt, Stone Edge, and Flash Cannon</moves>
+
+<gymleader> Candice </gymleader>
+<location> Snowpoint Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Snover </pokemon>
+<level> 38 </level>
+<moves> Razor Leaf, Avalanche, Ingrain, and Leer </moves>
+<pokemon> Sneasel </pokemon>
+<level> 38 </level>
+<moves> Faint Attack, Slash, Taunt, and Avalanche </moves>
+<pokemon> Medicham </pokemon>
+<level> 40 </level>
+<moves> Force Palm, Bulk Up, Detect, and Ice Punch </moves>
+<pokemon> Abomasnow </pokemon>
+<level> 42 </level>
+<moves> Wood Hammer, Swagger, Grass Whistle, and Avalanche </moves>
+
+<location> Snowpoint Gym </location>
+<games> Platinum </games>
+<pokemon> Sneasel </pokemon>
+<level> 40 </level>
+<moves> Faint Attack, Ice Shard, Slash, and Aerial Ace </moves>
+<pokemon> Piloswine </pokemon>
+<level> 40 </level>
+<moves> Hail, Earthquake, Stone Edge, and Avalanche
+<pokemon> Abomasnow </pokemon>
+<level> 42 </level>
+<moves> Wood Hammer, Focus Blast, Water Pulse, and Avalanche </moves>
+<pokemon> Froslass </pokemon>
+<level> 44 </level>
+<moves> Shadow Ball, Double Team, Psychic, and Blizzard </moves>
+
+<location> Snowpoint Gym </location>
+<games> Brilliant Diamond and Shining Pearl </games>
+<pokemon> Snover </pokemon>
+<level> 38 </level>
+<moves> Razor Leaf, Avalanche, Ingrain, and Leer </moves>
+<pokemon> Sneasel </pokemon>
+<level> 38 </level>
+<moves> Faint Attack, Slash, Taunt, and Avalanche </moves>
+<pokemon> Medicham </pokemon>
+<level> 40 </level>
+<moves> Force Palm, Bulk Up, Detect, and Ice Punch </moves>
+<pokemon> Abomasnow </pokemon>
+<level> 42 </level>
+<moves> Wood Hammer, Swagger, Grass Whistle, and Avalanche </moves>
+
+<gymleader> Volkner </gymleader>
+<location> Sunyshore Gym </location>
+<games> Diamond and Pearl </games>
+<pokemon> Raichu </pokemon>
+<level> 46 </level>
+<moves> Charge Beam, Brick Break, Light Screen, and Thunder Wave </moves>
+<pokemon> Ambipom </pokemon>
+<level> 47 </level>
+<moves> Shock Wave, Nasty Plot, Agility, and Baton Pass </moves>
+<pokemon> Octillery </pokemon>
+<level> 47 </level>
+<moves> Charge Beam, Octazooka, Aurora Beam, and Bullet Seed </moves>
+<pokemon> Luxray </pokemon>
+<level> 49 </level>
+<moves> Charge Beam, Thunder Wave, Thunder Fang, and Crunch </moves>
+
+<location> Sunyshore Gym </location>
+<games> Platinum </games>
+<pokemon> Jolteon </pokemon>
+<level> 46 </level>
+<moves> Charge Beam, Thunder Wave, Iron Tail, and Quick Attack </moves>
+<pokemon> Raichu </pokemon>
+<level> 46 </level>
+<moves> Charge Beam, Signal Beam, Focus Blast, and Quick Attack </moves>
+<pokemon> Luxray </pokemon>
+<level> 48 </level>
+<moves> Thunder Fang, Ice Fang, Fire Fang, and Crunch </moves>
+<pokemon> Electivire </pokemon>
+<level> 50 </level>
+<moves> Thunder Punch, Fire Punch, Giga Impact, and Quick Attack </moves>
+
+<location> Sunyshore Gym </location>
+<games> Brilliant Diamond and Shining Pearl </games>
+<pokemon> Raichu </pokemon>
+<level> 46 </level>
+<moves> Nuzzle, Volt Switch, Surf, and Charge Beam</moves>
+<pokemon> Ambipom </pokemon>
+<level> 47 </level>
+<moves> Fake Out, Thunderbolt, Double Hit, and Last Resort </moves>
+<pokemon> Octillery </pokemon>
+<level> 47 </level>
+<moves> Octazooka, Focus Energy, Aurora Beam, and Charge Beam </moves>
+<pokemon> Luxray </pokemon>
+<level> 49 </level>
+<moves> Thunder Fang, Ice Fang, Crunch, and Iron Tail </moves>
+</Gen4GymLeaders>
+
+<Gen5GymLeaders>
+<teams> Gen 5 Gym Leaders </teams>
+
+<gymleader> Cilan </gymleader>
+<location> Striaton Gym </location>
+<games> Black and White </games>
+<pokemon> Lillipup </pokemon>
+<level> 12 </level>
+<moves> Bite and Work Up </moves>
+ <pokemon> Pansage </pokemon>
+<level> 14 </level>
+<moves> Vine Whip and Work Up </moves>
+
+
+<gymleader> Chili </gymleader>
+<location> Striaton Gym </location>
+<games> Black and White </games>
+<pokemon> Lillipup </pokemon>
+<level> 12 </level>
+<moves> Bite and Work Up </moves>
+ <pokemon> Pansear </pokemon>
+<level> 14 </level>
+<moves> Incinerate and Work Up </moves>
+
+<gymleader> Cress </gymleader>
+<location> Striaton Gym </location>
+<games> Black and White </games>
+<pokemon> Lillipup </pokemon>
+<level> 12 </level>
+<moves> Bite and Work Up </moves>
+ <pokemon> Panpour </pokemon>
+<level> 14 </level>
+<moves> Water Gun and Work Up </moves>
+
+<gymleader> Cheren </gymleader>
+<location> Aspertia Gym </location>
+<games> Black 2 and White 2 </games>
+<pokemon> Patrat </pokemon>
+<level> 12 </level>
+<moves> Tackle, Work Up, Bite, and Detect </moves>
+<pokemon> Pidove </pokemon>
+<level> 12 </level>
+<moves> Quick Attack, Work Up, Leer, and Growl </moves>
+<pokemon> Lillipup </pokemon>
+<level> 14 </level>
+<moves> Tackle, Work Up, Bite, and Helping Hand </moves>
+
+<gymleader> Lenora </gymleader>
+<location> Nacrene Gym </location>
+<games> Black and White </games>
+<pokemon> Herdier </pokemon>
+<level> 18 </level>
+<moves> Take Down, Bite, Retaliate, and Leer </moves>
+<pokemon> Watchog </pokemon>
+<level> 20 </level>
+<moves> Leer, Crunch, Retaliate, and Hypnosis </moves>
+
+<gymleader> Roxie </gymleader>
+<location> Virbank Gym </location>
+<games> Black 2 and White 2: </games>
+<pokemon> Koffing </pokemon>
+<level> 17 </level>
+<moves> Assurance, Tackle, Smog, and Venoshock </moves>
+<pokemon> Grimer </pokemon>
+<level> 17 </level>
+<moves> Venoshock, Mud-Slap, Poison Gas, and Disable </moves>
+<pokemon> Whirlipede </pokemon>
+<level> 19 </level>
+<moves> Venoshock, Protect, Poison Sting, and Rollout </moves>
+
+<gymleader> Burgh </gymleader>
+<location> Castelia Gym </location>
+<games> Black and White </games>
+<pokemon> Whirlipede </pokemon>
+<level> 21 </level>
+<moves> Screech, Pursuit, Poison Tail, and Struggle Bug </moves>
+<pokemon> Dwebble </pokemon>
+<level> 21 </level>
+<moves> Sand-Attack, Faint Attack, Smack Down and Struggle Bug </moves>
+<pokemon> Leavanny </pokemon>
+<level> 23 </level>
+<moves> Protect, String Shot, Razor Leaf, and Struggle Bug </moves>
+
+<location> Castelia Gym </location>
+<games> Black 2 and White 2 </games>
+<pokemon> Dwebble </pokemon>
+<level> 24 </level>
+<moves> Rock Polish, Faint Attack, Rock Blast, and Struggle Bug </moves>
+<pokemon> Shelmet </pokemon>
+<level> 24 </level>
+<moves> Acid, Mega Drain, Struggle Bug, and Curse </moves>
+<pokemon> Karrablast </pokemon>
+<level> 24 </level>
+<moves> Endure, Aerial Ace, Struggle Bug, and Headbutt </moves>
+<pokemon> Leavanny </pokemon>
+<level> 26 </level>
+<moves> GrassWhistle, Aerial Ace, Razor Leaf, and Struggle Bug </moves>
+
+<gymleader> Elesa </gymleader>
+<location> Nimbasa Gym </location>
+<games> Black and White </games>
+<pokemon> Emolga </pokemon>
+<level> 25 </level>
+<moves> Quick Attack, Pursuit, Aerial Ace, and Volt Switch </moves>
+<pokemon> Emolga </pokemon>
+<level> 25 </level>
+<moves> Quick Attack, Pursuit, Aerial Ace, and Volt Switch </moves>
+<pokemon> Zebstrika </pokemon>
+<level> 27 </level>
+<moves> Quick Attack, Flame Charge, Spark, and Volt Switch </moves>
+
+<location> Nimbasa Gym </location>
+<games> Black 2 and White 2 </games>
+<pokemon> Emolga </pokemon>
+<level> 30 </level>
+<moves> Quick Attack, Pursuit, Aerial Ace, and Volt Switch </moves>
+<pokemon> Emolga </pokemon>
+<level> 30 </level>
+<moves> Thunder Wave, Volt Switch, Confuse Ray, and Take Down </moves>
+<pokemon> Joltik </pokemon>
+<level> 30 </level>
+<moves> Thunder Wave, Volt Switch, Energy Ball, and X-Scissor </moves>
+<pokemon> Zebastrika </pokemon>
+<level> 32 </level>
+<moves> Volt Switch, Pursuit, Flame Charge, and Stomp </moves>
+
+<gymleader> Clay </gymleader>
+<location> Driftveil Gym </location>
+<games> Black and White </games>
+<pokemon> Krokorok </pokemon>
+<level> 29 </level>
+<moves> Swagger, Torment, Crunch, and Bulldoze </moves>
+<pokemon> Palpitoad </pokemon>
+<level> 29 </level>
+<moves> Aqua Ring, Bubblebeam, Muddy Water, and Bulldoze </moves>
+<pokemon> Excadrill </pokemon>
+<level> 31 </level>
+<moves> Hone Claws, Slash, Rock Slide, and Bulldoze </moves>
+
+<location> Driftveil Gym </location>
+<games> Black 2 and White 2 </games>
+<pokemon> Krokorok </pokemon>
+<level> 34 </level>
+<moves> Crunch, Sandstorm, Torment, and Bulldoze </moves>
+ <pokemon> Sandslash </pokemon>
+<level> 34 </level>
+<moves> Bulldoze, Crush Claw, Hone Claws, and Rock Slide </moves>
+<pokemon> Onix </pokemon>
+<level> 34 </level>
+<moves> Explosion, Bulldoze, Rock Polish, and Rock Slide </moves>
+<pokemon> Excadrill </pokemon>
+<level> 36 </level>
+<moves> Slash, Bulldoze, Metal Claw, and Rock Slide </moves>
+
+<gymleader> Skyla </gymleader>
+<location> Mistralton Gym </location>
+<games> Black and White </games>
+<pokemon> Swoobat </pokemon>
+<level> 33 </level>
+<moves> Acrobatics, Amnesia, Assurance, and Heart Stamp </moves>
+ <pokemon> Unfezant </pokemon>
+<level> 33 </level>
+<moves> Leer, Quick Attack, Air Slash, and Razor Wind </moves>
+<pokemon> Swanna </pokemon>
+<level> 35 </level>
+<moves> Aqua Ring, Aerial Ace, Bubblebeam, and Air Slash </moves>
+
+<location> Mistralton Gym </location>
+<games> Black 2 and White 2 </games>
+<pokemom> Swoobat </pokemon>
+<level> 40 </level>
+<moves> Psychic, Acrobatics, Energy Ball, and Attract </moves>
+<pokemom> Skarmory </pokemon>
+<level> 40 </level>
+<moves> Aerial Ace, Steel Wing, X-Scissor, and Agility </moves>
+<pokemom> Sigilyph </pokemon>
+<level> 40 </level>
+<moves> Psychic, Hypnosis, Air Cutter, and Flash Cannon </moves>
+<pokemom> Swanna </pokemon>
+<level> 42 </level>
+<moves> Roost, Feather Dance, Surf, Air Slash </moves>
+
+<gymleader> Brycen </gymleader>
+<location> Icirrus Gym </location>
+<games> Black and White </games>
+<pokemom> Vanillish </pokemon>
+<level> 37 </level>
+<moves> Acid Armor, Astonish, Mirror Shot, and Frost Breath </moves>
+<pokemom> Cryogonal </pokemon>
+<level> 37 </level>
+<moves> Reflect, Rapid Spin, Aurora Beam, and Frost Breath </moves>
+<pokemom> Beartic </pokemon>
+<level> 39 </level>
+<moves> Swagger, Brine, Slash, and Icicle Crash </moves>
+
+<gymleader> Drayden </gymleader>
+<location> Opelucid Gym </location>
+<games> Black </games>
+<pokemom> Fraxure </pokemon>
+<level> 41 </level>
+<moves> Dragon Dance, Dragon Rage, Assurance, and Dragon Tail </moves>
+<pokemom> Druddigon </pokemon>
+<level> 41 </level>
+<moves> Revenge, Chip Away, Night Slash, and Dragon Tail </moves>
+<pokemom> Haxorus </pokemon>
+<level> 43 </level>
+<moves> Dragon Dance, Assurance, Slash, and Dragon Tail </moves>
+
+<location> Opelucid Gym </location>
+<games> Black 2 and White 2 </games>
+<pokemom> Druddigon </pokemon>
+<level> 50 </level>
+<moves> Revenge, Crunch, Dragon Tail, and Rock Slide </moves>
+<pokemom> Flygon </pokemon>
+<level> 50 </level>
+<moves> Rock Slide, Dragon Tail, Crunch, and Earth Power </moves>
+<pokemom> Altaria </pokemon>
+<level> 50 </level>
+<moves> Cotton Guard, Fire Blast, Sing, and Dragon Pulse </moves>
+<pokemom> Haxorus </pokemon>
+<level> 52 </level>
+<moves> Dragon Dance, Dragon Tail, X-Scissor, and Shadow Claw </moves>
+
+<gymleader> Iris </gymleader>
+<location> Opelucid Gym </location>
+<games> White </games>
+<pokemon> Fraxure </pokemon>
+<level> 41 </level>
+<moves> Dragon Tail, Dragon Dance, Assurance, and Dragon Rage </moves>
+<pokemon> Druddigon </pokemon>
+<level> 41 </level>
+<moves> Dragon Tail, Revenge, Night Slash, and Chip Away </moves>
+<pokemon> Haxorus </pokemon>
+<level> 41 </level>
+<moves> Dragon Tail, Dragon Dance, Slash, and Assurance </moves>
+
+<gymleader> Marlon </gymleader>
+<location> Humilau Gym </location>
+<games> Black 2 and White 2 </games>
+<pokemon> Wailord </pokemon>
+<level> 53 </level>
+<moves> Scald, Ice Beam, Rain Dance, and Earthquake </moves>
+<pokemon> Mantine </pokemon>
+<level> 53 </level>
+<moves> Air Slash, Ice Beam, Scald, and Confuse Ray </moves>
+<pokemon> Carracosta </pokemon>
+<level> 53 </level>
+<moves> Rock Slide, Shell Smash, Scald, and Crunch </moves>
+<pokemon> Jellicent </pokemon>
+<level> 55 </level>
+<moves> Energy Ball, Recover, Scald, and Shadow Ball </moves>
+</Gen5GymLeaders>
+
+<Gen6GymLeaders>
+<teams> Gen 6 Gym Leaders </teams>
+
+<gymleader> Viola </gymleader>
+<location> Santalune Gym </location>
+<games> X and Y </games>
+<pokemon> Surskit </pokemon>
+<level> 10 </level>
+<moves> Quick Attack, Bubble, and Water Sport </moves>
+<pokemon> Vivilon </pokemon>
+<level> 12 </level>
+<moves> Harden, Infestation, and Tackle </moves>
+
+<gymleader> Grant </gymleader>
+<location> Cyllage Gym </location>
+<games> X and Y </games>
+<pokemon> Amaura </pokemon>
+<level> 25 </level>
+<moves> Aurora Beam, Rock Tomb, Thunder Wave, and Take Down </moves>
+<pokemon> Tyrunt </pokemon>
+<level> 25 </level>
+<moves> Rock Tomb, Bite, and Stomp </moves>
+
+<gymleader> Korrina </gymleader>
+<location> Shalour Gym </location>
+<games> X and Y </games>
+<pokemon> Mienfoo </pokemon>
+<level> 29 </level>
+<moves> Power-Up Punch, Fake Out, and Double Slap </moves>
+<pokemon> Machoke </pokemon>
+<level> 28 </level>
+<moves> Power-Up Punch, Rock Tomb, and Leer </moves>
+<pokemon> Hawlucha </pokemon>
+<level> 32 </level>
+<moves> Flying Press, Hone Claws, and Power-Up Punch </moves>
+
+<gymleader> Ramos </gymleader>
+<location> Coumarine Gym </location>
+<games> X and Y </games>
+<pokemon> Jumpluff </pokemon>
+<level> 30 </level>
+<moves> Grass Knot, Acrobatics, and Leech Seed </moves>
+<pokemon> Weepinbell</pokemon>
+<level> 31 </level>
+<moves> Grass Knot, Acid, Poison Powder, and Gastro Acid </moves>
+<pokemon> Gogoat </pokemon>
+<level> 34 </level>
+<moves> Grass Knot, Bulldoze, and Take Down </moves>
+
+<gymleader> Clemont </gymleader>
+<location> Lumiose Gym </location>
+<games> X and Y </games>
+<pokemon> Emolga </pokemon>
+<level> 35 </level>
+<moves> Volt Switch, Quick Attack, and Aerial Ace </moves>
+<pokemon> Magneton </pokemon>
+<level> 35 </level>
+<moves> Thunderbolt, Electric Terrain, and Mirror Shot </moves>
+<pokemon> Heliolisk </pokemon>
+<level> 37 </level>
+<moves> Thunderbolt, Quick Attack, and Grass Knot </moves>
+
+<gymleader> Valerie </gymleader>
+<location> Laverre Gym </location>
+<games> X and Y </games>
+<pokemon> Mawile </pokemon>
+<level> 38 </level>
+<moves> Faint Attack, Crunch, and Iron Defense </moves>
+<pokemon> Mr. Mime </pokemon>
+<level> 39 </level>
+<moves> Light Screen, Reflect, Psychic, and Dazzling Gleam </moves>
+<pokemon> Sylveon </pokemon>
+<level> 42 </level>
+<moves> Dazzling Gleam, Quick Attack, Swift, and Charm </moves>
+
+<gymleader> Olympia </gymleader>
+<location> Anistar Gym </location>
+<games> X and Y </games>
+<pokemon> Sigilyph </pokemon>
+<level> 44 </level>
+<moves> Psychic, Air Slash, Light Scree, and Reflect </moves>
+<pokemon> Slowking </pokemon>
+<level> 45 </level>
+<moves> Psychic, Calm Mind, Power Gem, Yawn </moves>
+<pokemon> Meowstic </pokemon>
+<level> 48 </level>
+<moves> Psychic, Calm Mind, Fake Out, and Shadow Ball </moves>
+
+<gymleader> Wulfric </gymleader>
+<location> Snowbelle Gym </location>
+<games> X and Y </games>
+<pokemon> Abomasnow </pokemon>
+<level> 56 </level>
+<moves> Ice Beam, Ice Shard, Energy Ball </moves>
+<pokemon> Cryogonal </pokemon>
+<level> 55 </level>
+<moves> Ice Beam, Confuse Ray, Flash Cannon, and Hail </moves>
+<pokemon> Avalugg </pokemon>
+<level> 59 </level>
+<moves> Avalanche, Crunch, Curse, and Gyro Ball </moves>
+</Gen6GymLeaders>
+
+<Gen7GymLeaders>
+<teams> Gen 7 Gym Leaders </teams>
+</Gen7GymLeaders>
+
+<Gen8GymLeaders>
+<teams> Gen 8 Gym Leaders </teams>
+
+<gymleader> Milo </gymleader>
+<location> Turffield Stadiem </location>
+<games> Sword and Shield </games>
+<pokemon> Gossifleur </pokemon>
+<level> 19 </level>
+<moves> Magical Leaf, Round, and Rapid Spin </moves>
+<pokemon> Eldegoss </pokemon>
+<level> 20 </level>
+<moves> Magical Leaf, Leafage, and Round </moves>
+
+<gymleader> Nessa </gymleader>
+<location> Hulbury Stadium </location>
+<games> Sword and Shield </games>
+<pokemon> Goldeen </pokemon>
+<level> 22 </level>
+<moves> Water Pulse, Whirlpool, Horn Attack, and Agility </moves>
+<pokemon> Arrokuda </pokemon>
+<level> 23 </level>
+<moves> Aqua Jet, Bite, Whirlpool, and Fury Attack </moves>
+<pokemon> Drednaw </pokemon>
+<level> 24 </level>
+<moves> Razor Shell, Water Gun, Bite, and Headbutt </moves>
+
+<gymleader> Kabu </gymleader>
+<location> Motostoke Stadium </location>
+<games> Sword and Shield </games>
+<pokemon> Ninetales </pokemon>
+<level> 25 </level>
+<moves> Will-O-Wisp, Fire Spin, Quick Attack, and Ember </moves>
+<pokemon> Arcanine </pokemon>
+<level> 25 </level>
+<moves> Will-O-Wisp, Flame Wheel, Bite, and Agility </moves>
+<pokemon> Centiskorch </pokemon>
+<level> 27 </level>
+<moves> Flame Wheel, Coil, Bug Bite, and Smokescreen </moves>
+
+<gymleader> Bea </gymleader>
+<location> Stow-on-Side Stadium </location>
+<games> Sword </games>
+<pokemon> Hitmontop </pokemon>
+<level> 34 </level>
+<moves> Triple Kick, Quick Attack, Counter, and Revenge </moves>
+<pokemon> Pangoro </pokemon>
+<level> 34 </level>
+<moves> Bullet Punch, Circle Throw, Night Slash, and Work Up </moves>
+<pokemon> Sirfetch’d </pokemon>
+<level> 35 </level>
+<moves> Detect, Swords Dance, Brutal Swing, and Revenge </moves>
+<pokemon> Machamp </pokemon>
+<level> 36 </level>
+<moves> Scary Face, Revenge, Knock Off, and Strength </moves>
+
+<gymleader> Allister </gymleader>
+<location> Stow-on-Side Stadium </location>
+<games> Shield </games>
+<pokemon> Yamask </pokemon>
+<level> 34 </level>
+<moves> Brutal Swing, Hex, and Disable </moves>
+<pokemon> Mimikyu </pokemon>
+<level> 34 </level>
+<moves> Shadow Sneak, Baby-Doll Eyes, Hone Claws, and Slash </moves>
+<pokemon> Cursola </pokemon>
+<level> 35 </level>
+<moves> Ancient Power, Curse, and Hex </moves>
+<pokemon> Gengar </pokemon>
+<level> 36 </level>
+<moves> Venoshock, Hex, Hypnosis, and Payback </moves>
+
+<gymleader> Opal </gymleader>
+<location> Ballonlea Stadium </location>
+<games> Sword and Shield </games>
+<pokemon> Weezing </pokemon>
+<level> 36 </level>
+<moves> Sludge, Fairy Wind, and Tackle </moves>
+<pokemon> Mawile </pokemon>
+<level> 36 </level>
+<moves> Draining Kiss, Crunch, Iron Defense, and Astonish </moves>
+<pokemon> Togekiss </pokemon>
+<level> 37 </level>
+<moves> Air Slash, Draining Kiss, and Ancient Power </moves>
+<pokemon> Alcremie </pokemon>
+<level> 38 </level>
+<moves> Draining Kiss, Acid Armor, and Sweet Kiss </moves>
+
+<gymleader> Bede </gymleader>
+<location> Wyndon Stadium </location>
+<games> Sword and Shield </games>
+<pokemon> Mawile </pokemon>
+<level> 51 </level>
+<moves> Play Rough, Iron Head, and Crunch </moves>
+<pokemon> Gardevoir </pokemon>
+<level> 51 </level>
+<moves> Dazzling Gleam, Psychic, Calm Mind, and Wish </moves>
+<pokemon> Rapidash </pokemon>
+<level> 52 </level>
+<moves> Psycho Cut, Take Down, Dazzling Gleam, and Quick Attack </moves>
+<pokemon> Hatterene </pokemon>
+<level> 53 </level>
+<moves> Psychic, Dazzling Gleam, Calm Mind, and Mystical Fire </moves>
+
+<gymleader> Gordie </gymleader>
+<location> Circhester Stadium </location>
+<games> Sword </games>
+<pokemon> Barbaracle </pokemon>
+<level> 40 </level>
+<moves> Shell Smash, Rock Tomb, and Razor Shell </moves>
+<pokemon> Shuckle </pokemon>
+<level> 40 </level>
+<moves> Power Split, Stone Edge, Struggle Bug, and Rock Tomb </moves>
+<pokemon> Stonjourner </pokemon>
+<level> 41 </level>
+<moves> Stealth Rock, Rock Tomb, Body Slam, and Wonder Room </moves>
+<pokemon> Coalossal </pokemon>
+<level> 42 </level>
+<moves> Tar Shot, Stealth Rock, Heat Crash, and Rock Tomb </moves>
+
+<gymleader> Melony </gymleader>
+<location> Circhester Stadium </location>
+<games> Shield </games>
+<pokemon> Frosmoth </pokemon>
+<level> 40 </level>
+<moves> Icy Wind, Feather Dance, Bug Buzz, and Hail </moves>
+<pokemon> Darmanitan </pokemon>
+<level> 40 </level>
+<moves> Icicle Crash, Headbutt, Taunt, and Fire Fang </moves>
+<pokemon> Eiscue </pokemon>
+<level> 41 </level>
+<moves> Amnesia, Freeze-Dry, Hail, and Icy Wind </moves>
+<pokemon> Lapras </pokemon>
+<level> 42 </level>
+<moves> Icy Wind, Ice Beam, Surf, and Sing </moves>
+
+<gymleader> Piers </gymleader>
+<location> Spikemuth </location>
+<games> Sword and Shield </games>
+<pokemon> Scrafty </pokemon>
+<level> 44 </level>
+<moves> Fake Out, Sand Attack, Brick Break, and Payback </moves>, 
+<pokemon> Malamar </pokemon>
+<level> 45 </level>
+<moves> Night Slash, Foul Play, Psycho Cut, and Payback </moves>
+<pokemon> Skuntank </pokemon>
+<level> 45 </level>
+<moves> Sucker Punch, Screech, Toxic, and Snarl </moves> 
+<pokemon> Obstagoon </pokemon>
+<level> 46 </level>
+<moves> Obstruct, Throat Chop, Counter, and Shadow Claw </moves>
+
+<gymleader> Marnie </gymleader>
+<location> Wyndon Stadium </location>
+<games> Sword and Shield </games>
+<pokemon> Liepard </pokemon>
+<level> 59/73 </level>
+<moves> Fake Out, Torment, Nasty Plot, and Snarl </moves>
+ <pokemon> Toxicroak </pokemon>
+<level> 59/72 </level>
+<moves> Drain Punch, Gunk Shot, Earthquake, and Poison Jab </moves>
+<pokemon> Scrafty </pokemon>
+<level> 59/72 </level>
+<moves> Ice Punch, Thunder Punch, Drain Punch, and Crunch </moves>
+<pokemon> Morpeko </pokemon>
+<level> 60/73 </level>
+<moves> Aura Wheel, Seed Bomb, Torment, and Quick Attack </moves>
+<pokemon> Grimmsnarl </pokemon>
+<level> 60/74 </level>
+<moves> Spirit Break, Darkest Lariat, Bulk Up, and Play Rough </moves>
+
+<gymleader> Raihan </gymleader>
+<location> Hammerlocke Stadium </location>
+<games> Sword and Shield </games>
+<pokemon> Gigalith </pokemon>
+<level> 46 </level>
+<moves> Stealth Rock, Sand Tomb, Rock Blast, and Body Press </moves>
+<pokemon> Flygon </pokemon>
+<level> 47 </level>
+<moves> Thunder Punch, Breaking Swipe, Crunch, and Steel Wing </moves>
+<pokemon> Sandaconda </pokemon>
+<level> 46 </level>
+<moves> Protect, Glare, Fire Fang, and Earth Power </moves>
+<pokemon> Duraludon </pokemon>
+<level> 48 </level>
+<moves> Breaking Swipe, Body Press, Stone Edge, and Iron Head </moves>
+</Gen8GymLeaders>
